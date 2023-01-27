@@ -1,0 +1,58 @@
+from comparator import Comparator
+from utils import getopening, getoperator, getaddr, strip_number, getnames
+import re
+
+static = {
+    'project_name': 'pinb'
+}
+
+fieldnames = {
+    'important': ['name', 'phone', 'email', 'fax', 'website', 'official_name', 'short_name'],
+    'not_important': []
+}
+
+#########
+
+comparision = [
+    Comparator('name', 'NAZWA', 'official_name', single_match=True, strip=lambda x: x.lower().strip()),
+    Comparator('street', 'ULICA', 'street', strip=lambda x: x.lower().replace('al.', '').replace('aleja', '').replace('pl.', '').replace('plac', '').strip()),
+    Comparator('number', 'NRDOMU', 'housenumber', strip=lambda x: x.strip()),
+    Comparator('city', 'MIEJSCOWOŚĆ', 'city', strip=lambda x: x.lower().strip()),
+    Comparator('place', 'MIEJSCOWOŚĆ', 'place', strip=lambda x: x.lower().strip()),
+    Comparator('postcode', 'KOD POCZTOWY', 'postcode', strip=lambda x: x.strip()),
+    Comparator('operator', 'Podmiot prowadzący - nazwa', 'operator', strip=lambda x: x.lower().strip()),
+    Comparator('phone', 'NRTEL', 'phone', single_match=True, strip=lambda x: strip_number(x)),
+    Comparator('fax', 'NRFAX', 'fax', single_match=True, strip=lambda x: strip_number(x)),
+    Comparator('email', 'EMAIL', 'email', single_match=True, strip=lambda x: x.lower().strip()),
+    Comparator('website', 'WWW', 'website', single_match=True, strip=lambda x: x.lower().replace('https://', '').replace('http://', '').replace('/', '').strip())
+]
+
+##########
+
+gov_fieldnames = [
+    ('NAZWA', 'name', lambda x: getnames(x)['name'].strip()),
+    ('KOD POCZTOWY', 'name', lambda x: x.strip()),
+    ('NRTEL', 'phone', lambda x: strip_number(x)),
+    ('NRFAX', 'fax', lambda x: strip_number(x)),
+    ('EMAIL', 'email', lambda x: x.lower().strip()),
+    ('WWW', 'website', lambda x : x.lower().strip())    
+]
+tags_to_add = {
+    'source:office': 'Baza teleadresowa administracji zespolonej według stanu na 16.08.2021',
+    'office': 'government',
+    'government': 'building_control'
+}
+tags_to_generate = {
+    'official_name': lambda row: getnames(row['NAZWA']).get('official_name'),
+    'short_name': lambda row: getnames(row['NAZWA']).get('short_name'),
+    'name': lambda row: getnames(row['NAZWA']).get('name')
+    # 'amenity': {
+    #     'kindergarten': lambda row: row.get('Typ instytucji') == 'Żłobek',
+    #     'childcare': lambda row: row.get('Typ instytucji') != 'Żłobek'
+    # },
+    # 'operator:type': lambda row: getoperator(row.get('Nazwa') or '', row.get('operator') or '')
+}
+tags_to_delete = {'addr:city:simc', 'full_name', 'source'}
+tags_to_cond_delete = {
+    # 'operator:website': lambda row: row.get('website') != row.get('operator:website')
+}
