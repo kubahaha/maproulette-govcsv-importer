@@ -3,7 +3,7 @@ from src.utils import getopening, getoperator, getaddr, strip_number, getnames
 import re
 
 static = {
-    'project_name': 'pinb'
+    'project_name': 'sanepid'
 }
 
 fieldnames_after_mod = ['name', 'phone', 'email', 'fax', 'website', 'official_name']
@@ -11,7 +11,7 @@ fieldnames_after_mod = ['name', 'phone', 'email', 'fax', 'website', 'official_na
 #########
 
 comparision = {
-    'official_name': Comparator('NAZWA', 'official_name', single_match=True, print=lambda x: getnames['pinb'](x).get('official_name') or getnames['pinb'](x)['name'], strip=lambda x: x.lower().strip()),
+    'official_name': Comparator('NAZWA', 'official_name', single_match=True, print=lambda x: getnames['sanepid'](x).get('official_name') or getnames['sanepid'](x).get('name') or '', strip=lambda x: x.lower().strip()),
     'addr:street': Comparator('ULICA', 'addr:street', strip=lambda x: x.lower().replace('aleja', '').replace('al.', '').replace('plac', '').replace('pl.', '').replace('św.', '').strip()),
     'addr:housenumber': Comparator('NRDOMU', 'addr:housenumber', strip=lambda x: x.strip()),
     'addr:city': Comparator('MIEJSCOWOŚĆ', 'addr:city', print=lambda x: x.capitalize().strip(), strip=lambda x: x.lower().strip()),
@@ -25,23 +25,15 @@ comparision = {
 
 ##########
 
-gov_fieldnames = [
-    ('NAZWA', 'name', lambda x: getnames['pinb'](x)['name'].strip()),
-    ('KOD POCZTOWY', 'name', lambda x: x.strip()),
-    ('NRTEL', 'phone', lambda x: strip_number(x)),
-    ('NRFAX', 'fax', lambda x: strip_number(x)),
-    ('EMAIL', 'email', lambda x: x.lower().strip()),
-    ('WWW', 'website', lambda x : x.lower().strip())
-]
 tags_to_add = {
     'source:office': 'Baza teleadresowa administracji zespolonej według stanu na 16.08.2021',
     'office': 'government',
     'government': 'building_control'
 }
 tags_to_generate = {
-    'official_name': lambda row: getnames['pinb'](row['NAZWA']).get('official_name'),
-    'short_name': lambda row: getnames['pinb'](row['NAZWA']).get('short_name'),
-    'name': lambda row: getnames['pinb'](row['NAZWA']).get('name')
+    'official_name': lambda row: getnames(row['NAZWA']).get('official_name'),
+    'short_name': lambda row: getnames(row['NAZWA']).get('short_name'),
+    'name': lambda row: getnames(row['NAZWA']).get('name')
     # 'amenity': {
     #     'kindergarten': lambda row: row.get('Typ instytucji') == 'Żłobek',
     #     'childcare': lambda row: row.get('Typ instytucji') != 'Żłobek'

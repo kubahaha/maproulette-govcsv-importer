@@ -1,0 +1,8 @@
+name|phone|email|fax|website|official_name|addr:postcode|addr:city|addr:place|addr:street|addr:housenumber|addr:door|@lat|@lon|@id
+Wojewódzka Stacja Sanitarno-Epidemiologiczna||wsse.katowice@pis.gov.pl||http://www.wsse.katowice.pl/||40-074|Katowice||Raciborska|39||50.2546524|19.0011822|node/1588863641
+Sanepid Ełk|+48876217750|sanepid.elk@wp.pl||||19-300|Ełk||Toruńska|6A||53.8288601|22.3520011|node/1754825666
+Powiatowa Stacja Sanitarno–Epidemiologiczna w Brodnicy|+48 22 25 00 115|psse.brodnica@pis.gov.pl||||87-300|Brodnica||Franciszka Żwirki i Stanisława Wigury|1||53.2575901|19.4065077|node/2289996533
+Wojewódzka Stacja Sanitarno - Epidemiologiczna w Bydgoszczy||||||85-031|Bydgoszcz||Kujawska|4||53.1187300|18.0054598|node/2779676801
+Sanepid||||||62-700|Turek||Uniejowska|1a||52.0142900|18.5044800|node/2863413351
+Sanepid||||||87-400|Golub-Dobrzyń||Doktora Jerzego Gerarda Koppa|1A||53.1089744|19.0699953|node/2898809727
+Powiatowa Stacja Sanitarno-Epidemiologiczna|+48 32 754 57 20|psse.olkusz@pis.gov.pl|+48 32 754 57 50|https://www.gov.pl/web/psse-olkusz||32-305|Olkusz||Lucjana Rydla|||50.2681696|19.5707082|node/3029757321

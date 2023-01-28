@@ -79,7 +79,7 @@ for office in govreader:
         results, results_values = compare(office, row, config.comparision.values())
         for key in results.keys():
             counter[key] += results[key]
-            counter_values.update(results_values) #TODO JAK NIE DZIAŁA TO TU
+            counter_values.update(results_values)
 
     is_match = False
     for (k, v) in counter.items():
@@ -139,7 +139,7 @@ for office in govreader:
             stats['to_add'] += 1
         elif args.mode == 'komoot':
             response = requests.get(f"https://photon.komoot.io/api/?q={office[reverse_keys['addr:city']] or office[reverse_keys['addr:place']]}, {office[reverse_keys['addr:street']] or office[reverse_keys['addr:place']]} {office[reverse_keys['addr:housenumber']]}").json()
-            print(f"https://photon.komoot.io/api/?q={office[reverse_keys['addr:city']] or office[reverse_keys['addr:place']]}, {office[reverse_keys['addr:street']] or office[reverse_keys['addr:place']]} {office[reverse_keys['addr:housenumber']]}")
+            # print(f"https://photon.komoot.io/api/?q={office[reverse_keys['addr:city']] or office[reverse_keys['addr:place']]}, {office[reverse_keys['addr:street']] or office[reverse_keys['addr:place']]} {office[reverse_keys['addr:housenumber']]}")
             if not response['features']:
                 stats['missing'] += 1
                 errwriter.writerow(office)

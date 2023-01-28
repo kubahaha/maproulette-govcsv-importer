@@ -22,7 +22,7 @@ def getoperator(name, operator_name):
         return 'private'
     return ''
 
-def getnames(oldname):
+def getnames_pinb(oldname):
     reg = re.compile('(.+) ((we*|dla) .+)')
     match = reg.match(oldname.strip())
 
@@ -35,6 +35,25 @@ def getnames(oldname):
     return {
         'name': oldname.strip(),
     }
+
+def getnames_sanepid(oldname):
+    reg = re.compile('(.+) ((we*|dla) .+)')
+    match = reg.match(oldname.strip())
+
+    if match:
+        return {
+            'name': match.group(1).strip(),
+            'official_name': match.group(0),
+            'short_name': f'Sanepid {match.group(2)}' if match.group(1)[0] != 'G' else ''
+        }
+    return {
+        'name': oldname.strip(),
+    }
+
+getnames = {
+    'pinb': getnames_pinb,
+    'sanepid': getnames_sanepid
+}
 
 def getopening(openstr):
     if not openstr:

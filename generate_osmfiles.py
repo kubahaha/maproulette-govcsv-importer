@@ -67,14 +67,15 @@ fixme_ids = set()
 add_ids = set()
 
 gendict = {}
+reverse_keys = {k.right: k.left for k in config.comparision.values()}
 
 for row in govreader:
     current_id = row.get('@id') or 0 - int(random.random() * 1000000000)
     place_not_street, place_not_city = False, False
     genrow = {}
     
-    place_not_street = (row.get('ULICA') or '').lower().find('osiedle') > -1
-    place_not_city = not row.get('ULICA')
+    place_not_street = (row.get(reverse_keys['addr:street']) or '').lower().find('osiedle') > -1
+    place_not_city = not row.get(reverse_keys['addr:street'])
     # addr = {
     #     'postcode': row.get('KOD POCZTOWY'),
     #     'street': row.get('ULICA') if not place_not_street else '',
@@ -92,12 +93,12 @@ for row in govreader:
             genrow[osmkey] = tmp
 
     if place_not_city:
-        genrow['addr:place'] = genrow['addr:city']
+        genrow['addr:place'] = genrow.get('addr:city')
         del genrow['addr:city']
     if place_not_street:
-        genrow['addr:place'] = genrow['addr:street']
+        genrow['addr:place'] = genrow.get('addr:street')
         del genrow['addr:street']
-    if genrow['addr:place'] == genrow['addr:city']:
+    if genrow.get('addr:place') == genrow.get('addr:city'):
         del genrow['addr:place']
 
     for k, v in config.tags_to_add.items():
