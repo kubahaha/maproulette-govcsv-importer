@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-31T15:07:39Z" areas="2023-01-31T05:43:20Z"/>
+
+  <node id="6194555133" lat="51.1762043" lon="22.0712060" version="1" timestamp="2019-01-09T08:53:20Z" changeset="66154012" uid="6805371" user="Łukasz | Yanosik">
+    <tag k="addr:city" v="Poniatowa"/>
+    <tag k="addr:housenumber" v="16C"/>
+    <tag k="addr:postcode" v="24-320"/>
+    <tag k="addr:street" v="Fabryczna"/>
+    <tag k="amenity" v="college"/>
+    <tag k="name" v="Zespół Szkół w Poniatowej"/>
+  </node>
+  <way id="103259770" version="8" timestamp="2023-01-25T07:21:27Z" changeset="131681451" uid="1479852" user="kubahahaha">
+    <nd ref="4844797777"/>
+    <nd ref="4844797776"/>
+    <nd ref="4844797775"/>
+    <nd ref="4844797774"/>
+    <nd ref="4844797773"/>
+    <nd ref="4844797772"/>
+    <nd ref="4844797771"/>
+    <nd ref="4844797770"/>
+    <nd ref="4844797777"/>
+    <tag k="addr:city" v="Poniatowa"/>
+    <tag k="addr:housenumber" v="8A"/>
+    <tag k="addr:postcode" v="24-320"/>
+    <tag k="addr:street" v="Szkolna"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="building" v="kindergarten"/>
+    <tag k="capacity" v="32"/>
+    <tag k="email" v="zlobek.poniatowa@wp.pl"/>
+    <tag k="full_name" v="Żłobek Miejski w Poniatowej"/>
+    <tag k="isced:level" v="0"/>
+    <tag k="name" v="Żłobek Miejski"/>
+    <tag k="nursery" v="yes"/>
+    <tag k="opening_hours" v="Mo-Fr 6:30-16:30"/>
+    <tag k="operator" v="Gmina Poniatowa"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="operator:website" v="www.um.poniatowa.pl"/>
+    <tag k="phone" v="+48 08 147 55 15"/>
+    <tag k="source:addr" v="poniatowa.e-mapa.net"/>
+    <tag k="source:amenity" v="Rejestr Żłobków na dzień 13.01.2023"/>
+  </way>
+  <way id="300265986" version="8" timestamp="2022-03-10T09:19:44Z" changeset="118311996" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis">
+    <nd ref="3043620137"/>
+    <nd ref="7903448911"/>
+    <nd ref="7903448910"/>
+    <nd ref="7903448908"/>
+    <nd ref="7903448906"/>
+    <nd ref="481919320"/>
+    <nd ref="3736605560"/>
+    <nd ref="3736605561"/>
+    <nd ref="3736605558"/>
+    <nd ref="3043620137"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:place" v="Niezabitów"/>
+    <tag k="addr:postcode" v="24-320"/>
+    <tag k="amenity" v="school"/>
+    <tag k="email" v="spniezabitow11@wp.pl"/>
+    <tag k="name" v="Szkoła podstawowa im. Ewy Szelburg-Zarembiny w Niezabitowie"/>
+    <tag k="name:uk" v="Початкова школа ім. Еви Шельбург-Зарембіни в Незабітові"/>
+    <tag k="patron" v="Ewa Szelburg-Zarembina"/>
+    <tag k="phone" v="+48 81 820 60 06"/>
+    <tag k="website" v="http://www.spniezabitow.pl/"/>
+  </way>
+  <way id="597478322" version="3" timestamp="2020-12-07T17:45:24Z" changeset="95437227" uid="1479852" user="kubahahaha">
+    <nd ref="5688685279"/>
+    <nd ref="1192373544"/>
+    <nd ref="1192373535"/>
+    <nd ref="5688685282"/>
+    <nd ref="5688685286"/>
+    <nd ref="5688685279"/>
+    <tag k="amenity" v="school"/>
+    <tag k="fax" v="+48 81 820 46 79"/>
+    <tag k="name" v="Szkoła Podstawowa im. Stefana Żeromskiego w Poniatowej"/>
+    <tag k="phone" v="+48 81 820 46 79"/>
+    <tag k="website" v="http://sp.poniatowa.pl/"/>
+  </way>
+  <way id="762058149" version="1" timestamp="2020-01-09T17:21:57Z" changeset="79387027" uid="1479852" user="kubahahaha">
+    <nd ref="7120021000"/>
+    <nd ref="7120020987"/>
+    <nd ref="7120020992"/>
+    <nd ref="7120020991"/>
+    <nd ref="7120021001"/>
+    <nd ref="7120021002"/>
+    <nd ref="7120021003"/>
+    <nd ref="7120021000"/>
+    <tag k="amenity" v="school"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="881769866" version="1" timestamp="2020-12-07T00:41:20Z" changeset="95385510" uid="1479852" user="kubahahaha">
+    <nd ref="8200279529"/>
+    <nd ref="8200279528"/>
+    <nd ref="8200279527"/>
+    <nd ref="8200279526"/>
+    <nd ref="8200279525"/>
+    <nd ref="8200279524"/>
+    <nd ref="8200279523"/>
+    <nd ref="8200279522"/>
+    <nd ref="8200279521"/>
+    <nd ref="8200279520"/>
+    <nd ref="8200279519"/>
+    <nd ref="8200279518"/>
+    <nd ref="8200279529"/>
+    <tag k="amenity" v="school"/>
+  </way>
+  <way id="903792274" version="2" timestamp="2022-03-10T09:19:27Z" changeset="118311996" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis">
+    <nd ref="8393929922"/>
+    <nd ref="8393929921"/>
+    <nd ref="8393929920"/>
+    <nd ref="8393929919"/>
+    <nd ref="8393929918"/>
+    <nd ref="8393929917"/>
+    <nd ref="8393929922"/>
+    <tag k="amenity" v="school"/>
+    <tag k="email" v="kow.2skola@wp.pl"/>
+    <tag k="name" v="Szkoła Podstawowa im. Henryka Sienkiewicza w Kowali"/>
+    <tag k="name:uk" v="Початкова школа ім. Генрика Сенкевича в Ковалі"/>
+    <tag k="phone" v="+48 81 820 10 09"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 23:59:15 08/30/09 (UMP-Lublin/src/POI-Lublin.szkoly.pnt-converted.txt)"/>
+    <tag k="website" v="http://spkowala.pl"/>
+  </way>
+
+</osm>

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 import csv
+from webbrowser import GenericBrowser
 import requests
 import itertools
 from collections import defaultdict
@@ -94,7 +95,8 @@ for row in govreader:
 
     if place_not_city:
         genrow['addr:place'] = genrow.get('addr:city')
-        del genrow['addr:city']
+        if genrow.get('addr:city'):
+            del genrow['addr:city']
     if place_not_street:
         genrow['addr:place'] = genrow.get('addr:street')
         del genrow['addr:street']
@@ -142,7 +144,7 @@ for line in dmpfile:
         tagfix.write(new_line)
 
         for k, v in gendict[current_id].items():
-            if k in fieldnames['tech'] or k in fieldnames['addr']:
+            if k in fieldnames['tech']:# or k in fieldnames['addr']: # uncomment or to write addresses
                 continue
             is_cond_deleted = False
             tmp = config.tags_to_cond_delete.get(k)

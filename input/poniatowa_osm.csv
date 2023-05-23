@@ -1,0 +1,8 @@
+@type|@id|@lat|@lon|addr:city|addr:housenumber|addr:postcode|addr:street|addr:place|email|fax|name|official_name|phone|short_name|website
+node|6194555133|51.1762043|22.0712060|Poniatowa|16C|24-320|Fabryczna||||Zespół Szkół w Poniatowej||||
+way|103259770|51.1903098|22.0631344|Poniatowa|8A|24-320|Szkolna||zlobek.poniatowa@wp.pl||Żłobek Miejski||+48 08 147 55 15||
+way|300265986|51.2486452|22.1125963||46|24-320||Niezabitów|spniezabitow11@wp.pl||Szkoła podstawowa im. Ewy Szelburg-Zarembiny w Niezabitowie||+48 81 820 60 06||http://www.spniezabitow.pl/
+way|597478322|51.1883404|22.0621675|||||||+48 81 820 46 79|Szkoła Podstawowa im. Stefana Żeromskiego w Poniatowej||+48 81 820 46 79||http://sp.poniatowa.pl/
+way|762058149|51.2011889|22.1013778||||||||||||
+way|881769866|51.1904275|22.0624770||||||||||||
+way|903792274|51.2170256|22.0638442||||||kow.2skola@wp.pl||Szkoła Podstawowa im. Henryka Sienkiewicza w Kowali||+48 81 820 10 09||http://spkowala.pl

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-31T15:07:39Z" areas="2023-01-31T05:43:20Z"/>
+  <node id="-17009165" lat="51.16236" lon="22.09036" action="modify" visible="true">
+    <tag k="name" v="Społeczna Szkoła Podstawowa w Dąbrowie Wronowskiej" />
+    <tag k="addr:housenumber" v="41" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 42 87" />
+    <tag k="email" v="sspdabrowawron@wp.pl" />
+    <tag k="website" v="http://spdabrowawronowska.lap.pl" />
+    <tag k="isced:level" v="1;2" />
+    <tag k="ref:rspo" v="13178" />
+    <tag k="ref:regon" v="061458214" />
+    <tag k="ref:vatin" v="PL7171830143" />
+    <tag k="operator" v="Obywatelskie Stowarzyszenie Edukacyjne "Żaczek"" />
+    <tag k="operator:type" v="ngo" />
+    <tag k="amenity" v="school" />
+  </node>
+  <node id="-33033758" lat="51.16236" lon="22.09036" action="modify" visible="true">
+    <tag k="name" v="Społeczne Przedszkole w Dąbrowie Wronowskiej" />
+    <tag k="addr:housenumber" v="41" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 42 87" />
+    <tag k="email" v="sspdabrowawron@wp.pl" />
+    <tag k="ref:rspo" v="119194" />
+    <tag k="ref:regon" v="061595750" />
+    <tag k="ref:vatin" v="PL7171830166" />
+    <tag k="operator" v="Obywatelskie Stowarzyszenie Edukacyjne "Żaczek"" />
+    <tag k="operator:type" v="ngo" />
+    <tag k="amenity" v="kindergarten" />
+  </node>
+  <node id="-977748630" lat="51.1762043" lon="22.071206" action="modify" visible="true">
+    <tag k="official_name" v="Technikum im. Eugeniusza Kwiatkowskiego w Poniatowej" />
+    <tag k="name" v="Technikum" />
+    <tag k="addr:street" v="Fabryczna" />
+    <tag k="addr:housenumber" v="16c" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 56 24" />
+    <tag k="email" v="zsponiatowa@wp.pl" />
+    <tag k="isced:level" v="3" />
+    <tag k="ref:rspo" v="106706" />
+    <tag k="ref:regon" v="431256680" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <tag k="note" v="Parent RSPO: 16009" />
+  </node>
+  <node id="-31817029" lat="51.1762043" lon="22.071206" action="modify" visible="true">
+    <tag k="official_name" v="Liceum Ogólnokształcące im. Marszałka Józefa Piłsudskiego w Poniatowej" />
+    <tag k="name" v="Liceum Ogólnokształcące" />
+    <tag k="addr:street" v="Fabryczna" />
+    <tag k="addr:housenumber" v="16c" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 56 24" />
+    <tag k="email" v="zsponiatowa@wp.pl" />
+    <tag k="isced:level" v="3" />
+    <tag k="ref:rspo" v="106722" />
+    <tag k="ref:regon" v="000899414" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <tag k="note" v="Parent RSPO: 16009" />
+  </node>
+  <node id="-305581169" lat="51.1762043" lon="22.071206" action="modify" visible="true">
+    <tag k="name" v="Branżowa Szkoła I Stopnia w Poniatowej" />
+    <tag k="addr:street" v="Fabryczna" />
+    <tag k="addr:housenumber" v="16c" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 56 24" />
+    <tag k="email" v="zsponiatowa@wp.pl" />
+    <tag k="isced:level" v="3" />
+    <tag k="ref:rspo" v="133123" />
+    <tag k="ref:regon" v="431256668" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <tag k="note" v="Parent RSPO: 16009" />
+  </node>
+  <node id="-21428654" lat="51.1762043" lon="22.071206" action="modify" visible="true">
+    <tag k="name" v="Szkoła Policealna w Poniatowej" />
+    <tag k="addr:street" v="Fabryczna" />
+    <tag k="addr:housenumber" v="16c" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 56 24" />
+    <tag k="email" v="zsponiatowa@wp.pl" />
+    <tag k="isced:level" v="4" />
+    <tag k="ref:rspo" v="133124" />
+    <tag k="ref:regon" v="060054265" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="college" />
+    <tag k="note" v="Parent RSPO: 16009" />
+  </node>
+  <node id="-539023818" lat="51.1762043" lon="22.071206" action="modify" visible="true">
+    <tag k="name" v="Szkoła Policealna dla Dorosłych w Poniatowej" />
+    <tag k="addr:street" v="Fabryczna" />
+    <tag k="addr:housenumber" v="16c" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 56 24" />
+    <tag k="email" v="zsponiatowa@wp.pl" />
+    <tag k="isced:level" v="4" />
+    <tag k="ref:rspo" v="133125" />
+    <tag k="ref:regon" v="060673650" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="college" />
+    <tag k="note" v="Parent RSPO: 16009" />
+  </node>
+  <node id="-930111641" lat="51.1762043" lon="22.071206" action="modify" visible="true">
+    <tag k="name" v="Liceum Ogólnokształcące dla Dorosłych" />
+    <tag k="addr:street" v="Fabryczna" />
+    <tag k="addr:housenumber" v="16c" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 56 24" />
+    <tag k="email" v="zsponiatowa@wp.pl" />
+    <tag k="website" v="http://www.zs.poniatowa.pl" />
+    <tag k="isced:level" v="3" />
+    <tag k="ref:rspo" v="277157" />
+    <tag k="ref:regon" v="388213270" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <tag k="note" v="Parent RSPO: 16009" />
+  </node>
+  <node id="-747897367" lat="51.18076" lon="22.14371" action="modify" visible="true">
+    <tag k="official_name" v="Szkoła Podstawowa im. Jana Kochanowskiego w Poniatowej Kolonii" />
+    <tag k="name" v="Szkoła Podstawowa" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 36 86" />
+    <tag k="email" v="pkolonia@wp.pl" />
+    <tag k="website" v="http://sppkolonia.szkolnastrona.pl" />
+    <tag k="isced:level" v="1;2" />
+    <tag k="ref:rspo" v="13175" />
+    <tag k="ref:regon" v="001159270" />
+    <tag k="ref:vatin" v="PL7171618093" />
+    <tag k="operator" v="Gmina Poniatowa" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+  </node>
+  <node id="-273441481" lat="51.1883358" lon="22.0722562" action="modify" visible="true">
+    <tag k="name" v="Ognisko Pracy Pozaszkolnej w Poniatowej" />
+    <tag k="addr:street" v="11 Listopada" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 47 86" />
+    <tag k="email" v="szczygielek@gmail.com" />
+    <tag k="ref:rspo" v="28733" />
+    <tag k="ref:regon" v="430772385" />
+    <tag k="ref:vatin" v="PL7171597066" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="community_centre" />
+    <tag k="community_centre:for" v="child;juvenile" />
+  </node>
+  <node id="-220079114" lat="51.18941835" lon="22.063942937770545" action="modify" visible="true">
+    <tag k="name" v="Przedszkole Miejskie w Poniatowej" />
+    <tag k="addr:street" v="Szkolna" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 43 14" />
+    <tag k="email" v="przedszkoleponiatowa@wp.pl" />
+    <tag k="website" v="http://przedszkoleponiatowa.szkolnastrona.pl" />
+    <tag k="ref:rspo" v="13177" />
+    <tag k="ref:regon" v="432254230" />
+    <tag k="ref:vatin" v="PL7171619603" />
+    <tag k="operator" v="Gmina Poniatowa" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="kindergarten" />
+  </node>
+  <node id="-293076008" lat="51.19223495" lon="22.069819538653235" action="modify" visible="true">
+    <tag k="name" v="Niepubliczna Specjalistyczna Poradnia Rewalidacyjna" />
+    <tag k="addr:street" v="Młodzieżowa" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 50 11" />
+    <tag k="email" v="nspr.poniatowa@o2.pl" />
+    <tag k="website" v="http://www.soni.org.pl" />
+    <tag k="ref:rspo" v="126874" />
+    <tag k="ref:regon" v="360829840" />
+    <tag k="ref:vatin" v="PL7171602212" />
+    <tag k="operator" v="Stowarzyszenie Na Rzecz Osób Z Niepełnosprawnością Intelektualną" />
+    <tag k="operator:type" v="ngo" />
+    <tag k="fixme" v="w zależności od przedmiotu działalności (np. healthcare=counselling + counselling_type=education albo healthcare=psychotherapist)" />
+    <tag k="healthcare," v="counselling" />
+    <tag k="counselling_type" v="education" />
+  </node>
+</osm>

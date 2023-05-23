@@ -28,12 +28,12 @@ comparision = {
 tags_to_add = {
     'source:office': 'Baza teleadresowa administracji zespolonej według stanu na 16.08.2021',
     'office': 'government',
-    'government': 'building_control'
+    'government': 'healthcare'
 }
 tags_to_generate = {
-    'official_name': lambda row: getnames(row['NAZWA']).get('official_name'),
-    'short_name': lambda row: getnames(row['NAZWA']).get('short_name'),
-    'name': lambda row: getnames(row['NAZWA']).get('name')
+    'official_name': lambda row: getnames['sanepid'](row['NAZWA']).get('official_name'),
+    'short_name': lambda row: getnames['sanepid'](row['NAZWA']).get('short_name'),
+    'name': lambda row: getnames['sanepid'](row['NAZWA']).get('name')
     # 'amenity': {
     #     'kindergarten': lambda row: row.get('Typ instytucji') == 'Żłobek',
     #     'childcare': lambda row: row.get('Typ instytucji') != 'Żłobek'

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-31T15:07:39Z" areas="2023-01-31T05:43:20Z"/>
+  <node id="6194555133" lat="51.1762043" lon="22.0712060" action="modify" version="1" timestamp="2019-01-09T08:53:20Z" changeset="66154012" uid="6805371" user="Łukasz | Yanosik">
+    <tag k="name" v="Zespół Szkół w Poniatowej" />
+    <tag k="addr:street" v="Fabryczna" />
+    <tag k="addr:housenumber" v="16c" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 56 24" />
+    <tag k="email" v="zsponiatowa@wp.pl" />
+    <tag k="website" v="http://www.zs.poniatowa.pl" />
+    <tag k="ref:rspo" v="16009" />
+    <tag k="ref:regon" v="000034430" />
+    <tag k="ref:vatin" v="PL7171254314" />
+    <tag k="operator" v="Powiat Opolski" />
+    <tag k="operator:type" v="government" />
+    <tag k="landuse" v="education" />
+    <tag k="fixme" v="amenity=school, amenity=college albo landuse=education w zależności od tego, jakie placówki wchodzą w skład zespołu. Sprawdź, kiedy stosować amenity=* a kiedy landuse=education." />
+    <tag k="note" v="Children RSPO: 106706;106722;133123;133124;133125;277157" />
+  </node>
+  <way id="300265986" action="modify" version="8" timestamp="2022-03-10T09:19:44Z" changeset="118311996" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis">
+    <tag k="official_name" v="Szkoła Podstawowa im. Ewy Szelburg-Zarembiny w Niezabitowie" />
+    <tag k="name" v="Szkoła Podstawowa" />
+    <tag k="addr:housenumber" v="46" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 60 06" />
+    <tag k="email" v="spniezabitow11@wp.pl" />
+    <tag k="website" v="http://spniezabitow.pl" />
+    <tag k="isced:level" v="1;2" />
+    <tag k="ref:rspo" v="12132" />
+    <tag k="ref:regon" v="001159234" />
+    <tag k="ref:vatin" v="PL7171618118" />
+    <tag k="operator" v="Gmina Poniatowa" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <nd ref="3043620137"/>
+    <nd ref="7903448911"/>
+    <nd ref="7903448910"/>
+    <nd ref="7903448908"/>
+    <nd ref="7903448906"/>
+    <nd ref="481919320"/>
+    <nd ref="3736605560"/>
+    <nd ref="3736605561"/>
+    <nd ref="3736605558"/>
+    <nd ref="3043620137"/>
+    <tag k="addr:place" v="Niezabitów"/>
+    <tag k="name:uk" v="Початкова школа ім. Еви Шельбург-Зарембіни в Незабітові"/>
+    <tag k="patron" v="Ewa Szelburg-Zarembina"/>
+  </way>
+  <way id="597478322" action="modify" version="3" timestamp="2020-12-07T17:45:24Z" changeset="95437227" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Szkoła Podstawowa im. Stefana Żeromskiego w Poniatowej" />
+    <tag k="name" v="Szkoła Podstawowa" />
+    <tag k="addr:street" v="Szkolna" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:city" v="Poniatowa" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 46 79" />
+    <tag k="email" v="sp@sp.poniatowa.pl" />
+    <tag k="website" v="http://sp.poniatowa.pl" />
+    <tag k="isced:level" v="1;2" />
+    <tag k="ref:rspo" v="12048" />
+    <tag k="ref:regon" v="000262823" />
+    <tag k="ref:vatin" v="PL7171309564" />
+    <tag k="operator" v="Gmina Poniatowa" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <nd ref="5688685279"/>
+    <nd ref="1192373544"/>
+    <nd ref="1192373535"/>
+    <nd ref="5688685282"/>
+    <nd ref="5688685286"/>
+    <nd ref="5688685279"/>
+    <tag k="fax" v="+48 81 820 46 79"/>
+  </way>
+  <way id="762058149" action="modify" version="1" timestamp="2020-01-09T17:21:57Z" changeset="79387027" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Szkoła Podstawowa im. Marii Konopnickiej w Kraczewicach" />
+    <tag k="name" v="Szkoła Podstawowa" />
+    <tag k="addr:housenumber" v="78" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 46 49" />
+    <tag k="email" v="spkraczewice@wp.pl" />
+    <tag k="website" v="http://spkraczewice.pl" />
+    <tag k="isced:level" v="1;2" />
+    <tag k="ref:rspo" v="13174" />
+    <tag k="ref:regon" v="001159240" />
+    <tag k="ref:vatin" v="PL7171618124" />
+    <tag k="operator" v="Gmina Poniatowa" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <nd ref="7120021000"/>
+    <nd ref="7120020987"/>
+    <nd ref="7120020992"/>
+    <nd ref="7120020991"/>
+    <nd ref="7120021001"/>
+    <nd ref="7120021002"/>
+    <nd ref="7120021003"/>
+    <nd ref="7120021000"/>
+    <tag k="barrier" v="fence"/>
+  </way>
+  <way id="903792274" action="modify" version="2" timestamp="2022-03-10T09:19:27Z" changeset="118311996" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis">
+    <tag k="official_name" v="Szkoła Podstawowa im. Henryka Sienkiewicza w Kowali" />
+    <tag k="name" v="Szkoła Podstawowa" />
+    <tag k="addr:housenumber" v="29" />
+    <tag k="addr:postcode" v="24-320" />
+    <tag k="phone" v="+48 81 820 10 09" />
+    <tag k="email" v="kow.2skola@wp.pl" />
+    <tag k="website" v="http://spkowala.pl" />
+    <tag k="isced:level" v="1;2" />
+    <tag k="ref:rspo" v="12999" />
+    <tag k="ref:regon" v="001159263" />
+    <tag k="ref:vatin" v="PL7171618087" />
+    <tag k="operator" v="Gmina Poniatowa" />
+    <tag k="operator:type" v="government" />
+    <tag k="amenity" v="school" />
+    <nd ref="8393929922"/>
+    <nd ref="8393929921"/>
+    <nd ref="8393929920"/>
+    <nd ref="8393929919"/>
+    <nd ref="8393929918"/>
+    <nd ref="8393929917"/>
+    <nd ref="8393929922"/>
+    <tag k="name:uk" v="Початкова школа ім. Генрика Сенкевича в Ковалі"/>
+  </way>
+</osm>

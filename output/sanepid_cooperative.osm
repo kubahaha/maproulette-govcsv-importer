@@ -1,0 +1,3498 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-28T04:16:48Z" areas="2023-01-27T20:04:17Z"/>
+  <node id="-101871141" lat="51.1090227" lon="17.0662841" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna we Wrocławiu" />
+    <tag k="addr:street" v="Marii Curie-Skłodowskiej" />
+    <tag k="addr:housenumber" v="73/77" />
+    <tag k="addr:city" v="Wrocław" />
+    <tag k="addr:postcode" v="50-950" />
+    <tag k="phone" v="+48 71 328 30 41" />
+    <tag k="fax" v="+48 71 328 35 92" />
+    <tag k="email" v="wsse.wroclaw@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/wsse-wroclaw" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid we Wrocławiu" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-143920452" lat="51.2575894" lon="15.5674609" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bolesławcu" />
+    <tag k="addr:street" v="Górników" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Bolesławiec" />
+    <tag k="addr:postcode" v="59-700" />
+    <tag k="phone" v="+48 75 732 32 46" />
+    <tag k="fax" v="+48 75 732 35 68" />
+    <tag k="email" v="psse.boleslawiec@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-boleslawiec" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bolesławcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-262423229" lat="51.6655089" lon="16.540387140692616" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Górze" />
+    <tag k="addr:street" v="Hirszfelda" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Góra" />
+    <tag k="addr:postcode" v="56-200" />
+    <tag k="phone" v="+48 65 543 23 54" />
+    <tag k="fax" v="+48 65 543 26 41" />
+    <tag k="email" v="psse.gora@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-gora" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Górze" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-955386471" lat="51.05106355" lon="16.196446034246776" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Jaworze" />
+    <tag k="addr:street" v="Piwna" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Jawor" />
+    <tag k="addr:postcode" v="59-400" />
+    <tag k="phone" v="+48 76 870 28 74" />
+    <tag k="fax" v="+48 76 870 28 74" />
+    <tag k="email" v="psse.jawor@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-jawor" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Jaworze" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-304038873" lat="50.433337699999996" lon="16.65069702976606" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kłodzku" />
+    <tag k="addr:street" v="Okrzei" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Kłodzko" />
+    <tag k="addr:postcode" v="57-300" />
+    <tag k="phone" v="+48 74 867 35 26" />
+    <tag k="fax" v="+48 74 867 69 66" />
+    <tag k="email" v="psse.klodzko@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-klodzko" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kłodzku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-93169000" lat="51.20289085" lon="16.16448187770405" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Legnicy" />
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="24" />
+    <tag k="addr:city" v="Legnica" />
+    <tag k="addr:postcode" v="59-220" />
+    <tag k="phone" v="+48 76 724 53 10" />
+    <tag k="fax" v="+48 76 724 53 11" />
+    <tag k="email" v="psse.legnica@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-legnica" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Legnicy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-417067720" lat="51.11886" lon="15.28653" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lubaniu" />
+    <tag k="addr:street" v="Bankowa" />
+    <tag k="addr:housenumber" v="9b" />
+    <tag k="addr:city" v="Lubań" />
+    <tag k="addr:postcode" v="59-800" />
+    <tag k="phone" v="+48 75 646 40 43" />
+    <tag k="fax" v="+48 75 646 40 43" />
+    <tag k="email" v="psse.luban@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-luban" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lubaniu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-742024466" lat="51.30330385" lon="16.18211062346742" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lubinie" />
+    <tag k="addr:street" v="1-go Maja" />
+    <tag k="addr:housenumber" v="15" />
+    <tag k="addr:city" v="Lubin" />
+    <tag k="addr:postcode" v="59-300" />
+    <tag k="phone" v="+48 76 846 67 00" />
+    <tag k="fax" v="+48 76 846 67 01" />
+    <tag k="email" v="psse.lubin@pis.gov.pl" />
+    <tag k="website" v="http://www.gov.pl/web/psse-lubin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lubinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-939669801" lat="51.5273538" lon="17.27530261336842" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Miliczu" />
+    <tag k="addr:street" v="Armii Krajowej" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Milicz" />
+    <tag k="addr:postcode" v="56-300" />
+    <tag k="phone" v="+48 71 384 02 00" />
+    <tag k="fax" v="+48 71 384 09 57" />
+    <tag k="email" v="psse.milicz@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-milicz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Miliczu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-691402797" lat="51.2064725" lon="17.378881828940877" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Oleśnicy" />
+    <tag k="addr:street" v="3-go Maja" />
+    <tag k="addr:housenumber" v="20" />
+    <tag k="addr:city" v="Oleśnica" />
+    <tag k="addr:postcode" v="56-400" />
+    <tag k="phone" v="+48 71 314 20 34" />
+    <tag k="fax" v="+48 71 314 20 35" />
+    <tag k="email" v="psse.olesnica@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-olesnica" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Oleśnicy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-743023095" lat="50.9494541" lon="17.286007328177355" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Oławie" />
+    <tag k="addr:street" v="Warszawska" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Oława" />
+    <tag k="addr:postcode" v="55-200" />
+    <tag k="phone" v="+48 71 313 21 64" />
+    <tag k="fax" v="+48 71 313 21 64" />
+    <tag k="email" v="psse.olawa@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-olawa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Oławie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-738393737" lat="50.783897" lon="17.064024249890085" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Strzelinie" />
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="18" />
+    <tag k="addr:city" v="Strzelin" />
+    <tag k="addr:postcode" v="57-100" />
+    <tag k="phone" v="+48 71 329 03 21" />
+    <tag k="fax" v="+48 71 329 03 21" />
+    <tag k="email" v="psse.strzelin@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-strzelin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Strzelinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-203544588" lat="51.16570125" lon="16.589874674983243" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Środzie Śląskiej" />
+    <tag k="addr:street" v="Ogrody Zamkowe" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Środa śląska" />
+    <tag k="addr:postcode" v="55-300" />
+    <tag k="phone" v="+48 71 317 27 60" />
+    <tag k="fax" v="+48 71 317 27 60" />
+    <tag k="email" v="psse.srodaslaska@pis.gov.pl" />
+    <tag k="website" v="https:www.gov.pl/web/psse-srodaslaska.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Środzie Śląskiej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-543308537" lat="50.8381794" lon="16.4802558" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Świdnicy" />
+    <tag k="addr:street" v="Wałbrzyska" />
+    <tag k="addr:housenumber" v="15" />
+    <tag k="addr:city" v="Świdnica" />
+    <tag k="addr:postcode" v="58-100" />
+    <tag k="phone" v="+48 74 852 20 91" />
+    <tag k="fax" v="+48 74 852 05 35" />
+    <tag k="email" v="psse.swidnica@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-swidnica/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Świdnicy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-870995494" lat="51.3105266" lon="17.060049546306814" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Trzebnicy" />
+    <tag k="addr:street" v="Kościuszki" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Trzebnica" />
+    <tag k="addr:postcode" v="55-100" />
+    <tag k="phone" v="+48 71 312 09 16" />
+    <tag k="email" v="psse.trzebnica@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-trzebnica" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Trzebnicy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-943113005" lat="50.785835500000005" lon="16.285837400000002" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wałbrzychu" />
+    <tag k="addr:street" v="Armii Krajowej" />
+    <tag k="addr:housenumber" v="35c" />
+    <tag k="addr:city" v="Wałbrzych" />
+    <tag k="addr:postcode" v="58-302" />
+    <tag k="phone" v="+48 74 847 75 68" />
+    <tag k="fax" v="+48 74 847 66 39" />
+    <tag k="email" v="psse.walbrzych@pis.gov.pl" />
+    <tag k="website" v="https://gov.pl/web/psse-walbrzych" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wałbrzychu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-237061874" lat="51.3361704" lon="16.64351894003498" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wołowie" />
+    <tag k="addr:street" v="Józefa Piłsudskiego" />
+    <tag k="addr:housenumber" v="36" />
+    <tag k="addr:city" v="Wołów" />
+    <tag k="addr:postcode" v="56-100" />
+    <tag k="phone" v="+48 71 389 28 56" />
+    <tag k="fax" v="+48 71 389 28 56" />
+    <tag k="email" v="psse.wolow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-wolow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wołowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-685811685" lat="50.5860657" lon="16.80976878455916" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Ząbkowicach Śląskich" />
+    <tag k="addr:street" v="Kłodzka" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Ząbkowice śląskie" />
+    <tag k="addr:postcode" v="57-200" />
+    <tag k="phone" v="+48 74  81 66 75" />
+    <tag k="fax" v="+48 74  81 66 75" />
+    <tag k="email" v="psse.zabkowice@pis.gov.pl" />
+    <tag k="website" v="http://www.gov.pl/web/psse-zabkowice-slaskie" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Ząbkowicach Śląskich" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-5805692" lat="51.14846495" lon="15.007867169984841" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zgorzelcu" />
+    <tag k="addr:street" v="Warszawska" />
+    <tag k="addr:housenumber" v="11" />
+    <tag k="addr:city" v="Zgorzelec" />
+    <tag k="addr:postcode" v="59-900" />
+    <tag k="phone" v="+48 75 649 45 26" />
+    <tag k="fax" v="+48 75 649 45 29" />
+    <tag k="email" v="psse.zgorzelec@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-zgorzelec" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zgorzelcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-724652522" lat="51.12398005" lon="15.920142390397865" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Złotoryi" />
+    <tag k="addr:street" v="Staszica" />
+    <tag k="addr:housenumber" v="22" />
+    <tag k="addr:city" v="Złotoryja" />
+    <tag k="addr:postcode" v="59-500" />
+    <tag k="phone" v="+48 76 878 37 21" />
+    <tag k="fax" v="+48 76 878 34 33" />
+    <tag k="email" v="psse.zlotoryja@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-zlotoryja/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Złotoryi" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-316025898" lat="51.1267099" lon="17.03128296406911" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna we Wrocławiu" />
+    <tag k="addr:street" v="Kleczkowska" />
+    <tag k="addr:housenumber" v="20" />
+    <tag k="addr:city" v="Wrocław" />
+    <tag k="addr:postcode" v="50-227" />
+    <tag k="phone" v="+48 71 329 58 43" />
+    <tag k="fax" v="+48 71 329 18 51" />
+    <tag k="email" v="psse.wroclaw@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-wroclaw/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid we Wrocławiu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-577351859" lat="52.8746" lon="18.69643" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Aleksandrowie Kujawskim" />
+    <tag k="addr:street" v="Słowackiego" />
+    <tag k="addr:housenumber" v="8a" />
+    <tag k="addr:city" v="Aleksandrów kujawski" />
+    <tag k="addr:postcode" v="87-700" />
+    <tag k="phone" v="+48 54 282 42 06" />
+    <tag k="fax" v="+48 54 282 23 34" />
+    <tag k="email" v="psse.aleksandrowkujawski@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-aleksandrow-kujawski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Aleksandrowie Kujawskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-702460572" lat="53.1090268" lon="19.0705105" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Golubiu-Dobrzyniu" />
+    <tag k="addr:street" v="Dr J.G. Koppa" />
+    <tag k="addr:housenumber" v="1a" />
+    <tag k="addr:city" v="Golub-dobrzyń" />
+    <tag k="addr:postcode" v="87-400" />
+    <tag k="phone" v="+48 56 683 24 85" />
+    <tag k="fax" v="+48 56 683 24 42" />
+    <tag k="email" v="psse.golubdobrzyn@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-golub-dobrzyn" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Golubiu-Dobrzyniu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-711162353" lat="52.797216649999996" lon="18.258584845586157" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Inowrocławiu" />
+    <tag k="addr:street" v="Plac Klasztorny" />
+    <tag k="addr:housenumber" v="1b" />
+    <tag k="addr:city" v="Inowrocław" />
+    <tag k="addr:postcode" v="88-100" />
+    <tag k="phone" v="+48 52 357 44 35" />
+    <tag k="fax" v="+48 52 357 47 10" />
+    <tag k="email" v="psse.inowroclaw@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-inowroclaw" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Inowrocławiu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-398924971" lat="52.8432893" lon="19.1821725" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lipnie" />
+    <tag k="addr:street" v="Kościuszki" />
+    <tag k="addr:housenumber" v="18/20" />
+    <tag k="addr:city" v="Lipno" />
+    <tag k="addr:postcode" v="87-600" />
+    <tag k="phone" v="+48 54 287 32 24" />
+    <tag k="fax" v="+48 54 287 32 24" />
+    <tag k="email" v="psse.lipno@pis.gov.pl" />
+    <tag k="website" v="http://www.psselipno.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lipnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-388923153" lat="52.65878255" lon="17.949469719872923" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Mogilnie" />
+    <tag k="addr:street" v="Kościuszki" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Mogilno" />
+    <tag k="addr:postcode" v="88-300" />
+    <tag k="phone" v="+48 52 318 87 60" />
+    <tag k="fax" v="+48 52 318 87 61" />
+    <tag k="email" v="psse.mogilno@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-mogilno.bip.net.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Mogilnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-234538601" lat="53.140266049999994" lon="17.595667056593783" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nakle" />
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="11" />
+    <tag k="addr:city" v="Nakło n.notecią" />
+    <tag k="addr:postcode" v="89-100" />
+    <tag k="phone" v="+48 52 386 00 03" />
+    <tag k="fax" v="+48 52 386 00 04" />
+    <tag k="email" v="psse.naklo@pis.gov.pl" />
+    <tag k="website" v="http://www.psse.naklo.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nakle" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-164511033" lat="52.62279025" lon="18.526745356316066" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Radziejowie" />
+    <tag k="addr:street" v="Kościuszki" />
+    <tag k="addr:housenumber" v="20/22" />
+    <tag k="addr:city" v="Radziejów" />
+    <tag k="addr:postcode" v="88-200" />
+    <tag k="phone" v="+48 54 285 36 14" />
+    <tag k="fax" v="+48 54 285 36 14" />
+    <tag k="email" v="psse.radziejow@pis.gov.pl" />
+    <tag k="website" v="http://www.psseradziejow.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Radziejowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-274008109" lat="53.06262" lon="19.41096" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Rypinie" />
+    <tag k="addr:street" v="Warszawska" />
+    <tag k="addr:housenumber" v="38a" />
+    <tag k="addr:city" v="Rypin" />
+    <tag k="addr:postcode" v="87-500" />
+    <tag k="phone" v="+48 54 280 29 88" />
+    <tag k="fax" v="+48 54 280 29 89" />
+    <tag k="email" v="sekretariat@psserypin.pl" />
+    <tag k="website" v="http://www.psserypin.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Rypinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-232185232" lat="53.458816850000005" lon="17.546467103831436" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sępólnie Krajeńskim" />
+    <tag k="addr:street" v="Kościuszki" />
+    <tag k="addr:housenumber" v="28" />
+    <tag k="addr:city" v="Sępólno krajeńskie" />
+    <tag k="addr:postcode" v="89-400" />
+    <tag k="phone" v="+48 52 388 12 30" />
+    <tag k="fax" v="+48 52 388 12 31" />
+    <tag k="email" v="psse.sepolnokrajenskie@pis.gov.pl" />
+    <tag k="website" v="http://pssesepolnokrajenskie.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sępólnie Krajeńskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-205351176" lat="53.40642975" lon="18.45265509857143" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Świeciu" />
+    <tag k="addr:street" v="Sądowa" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Świecie" />
+    <tag k="addr:postcode" v="86-100" />
+    <tag k="phone" v="+48 52 331 12 53" />
+    <tag k="fax" v="+48 52 331 12 94" />
+    <tag k="email" v="sekretariat@psse-swiecie.pl" />
+    <tag k="website" v="http://www.psse-swiecie.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Świeciu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-260472815" lat="53.2796729" lon="18.9540536" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wąbrzeźnie" />
+    <tag k="addr:street" v="1 Maja" />
+    <tag k="addr:housenumber" v="46" />
+    <tag k="addr:city" v="Wąbrzeźno" />
+    <tag k="addr:postcode" v="87-200" />
+    <tag k="phone" v="+48 56 688 17 90" />
+    <tag k="fax" v="+48 56 688 17 55" />
+    <tag k="email" v="psse.wabrzezno@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-wabrzezno" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wąbrzeźnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-517817484" lat="52.85259" lon="17.71904" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Żninie" />
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="24" />
+    <tag k="addr:city" v="Żnin" />
+    <tag k="addr:postcode" v="88-400" />
+    <tag k="phone" v="+48 52 303 11 35" />
+    <tag k="fax" v="+48 52 303 11 32" />
+    <tag k="email" v="psse.znin@pis.gov.pl" />
+    <tag k="website" v="http://www.psseznin.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Żninie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-392902855" lat="50.5340887" lon="22.71705311815235" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Biłgoraju" />
+    <tag k="addr:street" v="Gen. H. Dąbrowskiego" />
+    <tag k="addr:housenumber" v="15" />
+    <tag k="addr:city" v="Biłgoraj" />
+    <tag k="addr:postcode" v="23-400" />
+    <tag k="phone" v="+48 84 686 15 22" />
+    <tag k="fax" v="+48 84 686 01 20" />
+    <tag k="email" v="psse.bilgoraj@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-bilgoraj" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Biłgoraju" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-476497494" lat="53.4673017" lon="15.3788421" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lublinie" />
+    <tag k="addr:street" v="Uniwrsytecka" />
+    <tag k="addr:housenumber" v="12" />
+    <tag k="addr:city" v="Lublin" />
+    <tag k="addr:postcode" v="20-029" />
+    <tag k="phone" v="+48 81 532 97 05" />
+    <tag k="fax" v="+48 81 532 47 23" />
+    <tag k="email" v="psse.lublin@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-lublin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lublinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-194942081" lat="52.7397708" lon="15.2303275" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Gorzowie Wlkp." />
+    <tag k="addr:street" v="Jagiellończyka" />
+    <tag k="addr:housenumber" v="8b" />
+    <tag k="addr:city" v="Gorzów wlkp." />
+    <tag k="addr:postcode" v="66-400" />
+    <tag k="phone" v="+48 95 722 60 57" />
+    <tag k="fax" v="+48 95 722 46 52" />
+    <tag k="email" v="wsse@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/wsse-gorzowwlkp" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gorzowie Wlkp." />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-268882581" lat="52.73692205" lon="15.229160740369423" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gorzowie Wlkp." />
+    <tag k="addr:street" v="Kosynierów Gdyńskich" />
+    <tag k="addr:housenumber" v="27" />
+    <tag k="addr:city" v="Gorzów wlkp." />
+    <tag k="addr:postcode" v="66-400" />
+    <tag k="phone" v="+48 95 722 89 86" />
+    <tag k="fax" v="+48 95 720 64 47" />
+    <tag k="email" v="pssegorzow@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-gorzow-wielkopolski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gorzowie Wlkp." />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-953287752" lat="52.0518508" lon="15.088523098841183" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Krośnie Odrzańskim" />
+    <tag k="addr:street" v="Nadodrzańska" />
+    <tag k="addr:housenumber" v="24" />
+    <tag k="addr:city" v="Krosno odrz." />
+    <tag k="addr:postcode" v="66-600" />
+    <tag k="phone" v="+48 68 383 53 70" />
+    <tag k="fax" v="+48 68 383 53 70" />
+    <tag k="email" v="pssekrosno@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-krosno-odrzanskie" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Krośnie Odrzańskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-770741886" lat="52.4428798" lon="15.581378220075129" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Międzyrzeczu" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Międzyrzecz" />
+    <tag k="addr:place" v="Osiedle Centrum" />
+    <tag k="addr:postcode" v="66-300" />
+    <tag k="phone" v="+48 95 741 22 27" />
+    <tag k="fax" v="+48 95 741 27 87" />
+    <tag k="email" v="pssemiedzyrzecz@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-miedzyrzecz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Międzyrzeczu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-692436271" lat="52.349962000000005" lon="14.557514161003372" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Słubicach" />
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Słubice" />
+    <tag k="addr:postcode" v="69-100" />
+    <tag k="phone" v="+48 95 758 20 03" />
+    <tag k="fax" v="+48 95 758 20 04" />
+    <tag k="email" v="psseslubice@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-slubice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Słubicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-623120308" lat="52.4495313" lon="15.116925236230877" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sulęcinie" />
+    <tag k="addr:street" v="Lipowa" />
+    <tag k="addr:housenumber" v="14 b" />
+    <tag k="addr:city" v="Sulęcin" />
+    <tag k="addr:postcode" v="69-200" />
+    <tag k="phone" v="+48 95 755 34 21" />
+    <tag k="fax" v="+48 95 755 34 21" />
+    <tag k="email" v="pssesulecin@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-sulecin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sulęcinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-490580931" lat="51.6123782" lon="15.3306796" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Żaganiu" />
+    <tag k="addr:street" v="Szprotawska" />
+    <tag k="addr:housenumber" v="45a" />
+    <tag k="addr:city" v="Żagań" />
+    <tag k="addr:postcode" v="68-100" />
+    <tag k="phone" v="+48 68 477 66 00" />
+    <tag k="fax" v="+48 68 477 66 00" />
+    <tag k="email" v="pssezagan@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-zagan" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Żaganiu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-173275340" lat="51.640071" lon="15.1359346" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Żarach" />
+    <tag k="addr:street" v="Podchorążych" />
+    <tag k="addr:housenumber" v="23A" />
+    <tag k="addr:city" v="Żary" />
+    <tag k="addr:postcode" v="68-200" />
+    <tag k="phone" v="+48 68 470 62 58" />
+    <tag k="fax" v="+48 68 470 62 59" />
+    <tag k="email" v="pssezary@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-zary" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Żarach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-172651946" lat="51.761693199999996" lon="19.476822217088035" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Łodzi" />
+    <tag k="addr:street" v="Wodna" />
+    <tag k="addr:housenumber" v="40" />
+    <tag k="addr:city" v="Łódź" />
+    <tag k="addr:postcode" v="90-046" />
+    <tag k="phone" v="+48 42 253 62 10" />
+    <tag k="fax" v="+48 42 253 62 19" />
+    <tag k="email" v="wsselodz@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/wsse-lodz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łodzi" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-487773332" lat="51.3603625" lon="19.376674359047577" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bełchatowie" />
+    <tag k="addr:street" v="Okrzei" />
+    <tag k="addr:housenumber" v="49" />
+    <tag k="addr:city" v="Bełchatów" />
+    <tag k="addr:postcode" v="97-400" />
+    <tag k="phone" v="+48 44 631 31 08" />
+    <tag k="fax" v="+48 44 631 32 84" />
+    <tag k="email" v="belchatow@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-belchatow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bełchatowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-393691711" lat="52.04855" lon="19.21513" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łęczycy" />
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="18" />
+    <tag k="addr:city" v="Łęczyca" />
+    <tag k="addr:postcode" v="99-100" />
+    <tag k="phone" v="+48 24 721 21 88" />
+    <tag k="fax" v="+48 24 721 88 09" />
+    <tag k="email" v="leczyca@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-leczyca" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łęczycy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-584841064" lat="52.10800965" lon="19.93759479682349" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łowiczu" />
+    <tag k="addr:street" v="Podrzeczna" />
+    <tag k="addr:housenumber" v="24" />
+    <tag k="addr:city" v="Łowicz" />
+    <tag k="addr:postcode" v="99-400" />
+    <tag k="phone" v="+48 46 837 64 94" />
+    <tag k="fax" v="+48 46 830 32 61" />
+    <tag k="email" v="psse.lowicz@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-lowicz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łowiczu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-753581944" lat="51.7438149" lon="19.4656342" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łodzi" />
+    <tag k="addr:street" v="Przybyszewskiego" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Łódź" />
+    <tag k="addr:postcode" v="93-189" />
+    <tag k="phone" v="+48 42 253 99 02" />
+    <tag k="fax" v="+48 42 253 99 01" />
+    <tag k="email" v="psse@psselodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-lodz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łodzi" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-283533227" lat="51.37644615" lon="20.288450854755023" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Opocznie" />
+    <tag k="addr:street" v="Pl. Kościuszki" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:city" v="Opoczno" />
+    <tag k="addr:postcode" v="26-300" />
+    <tag k="phone" v="+48 44 755 23 29" />
+    <tag k="fax" v="+48 44 755 23 29" />
+    <tag k="email" v="psse.opoczno@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-opoczno" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Opocznie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-248987677" lat="51.6599296" lon="19.3544769" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pabianicach" />
+    <tag k="addr:street" v="Kilińskiego" />
+    <tag k="addr:city" v="Pabianice" />
+    <tag k="addr:postcode" v="95-200" />
+    <tag k="phone" v="+48 42 215 27 76" />
+    <tag k="fax" v="+48 42 215 27 76" />
+    <tag k="email" v="pabianice@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-pabianice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pabianicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-354286111" lat="51.4161576" lon="19.6580677" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Piotrkowie Trybunalskim" />
+    <tag k="addr:street" v="Al. 3-go Maja" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Piotrków trybunalski" />
+    <tag k="addr:postcode" v="97-300" />
+    <tag k="phone" v="+48 44 649 50 63" />
+    <tag k="fax" v="+48 44 647 76 26" />
+    <tag k="email" v="psse.piotrkowtryb@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-piotrkow-trybunalski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Piotrkowie Trybunalskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-748716336" lat="51.888800700000004" lon="18.95433509258674" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Poddębicach" />
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Poddębice" />
+    <tag k="addr:postcode" v="99-200" />
+    <tag k="phone" v="+48 43 678 86 00" />
+    <tag k="fax" v="+48 43 678 86 01" />
+    <tag k="email" v="poddebice@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-poddebice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Poddębicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-892899658" lat="51.06927775" lon="19.441224565749774" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Radomsku" />
+    <tag k="addr:street" v="Al. Jana Pawła II" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:city" v="Radomsko" />
+    <tag k="addr:postcode" v="97-500" />
+    <tag k="phone" v="+48 44 685 23 50" />
+    <tag k="fax" v="+48 44 683 54 36" />
+    <tag k="email" v="psse.radomsko@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-radomsko" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Radomsku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-771035585" lat="51.7676005" lon="20.250293784318423" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Rawie Mazowieckiej" />
+    <tag k="addr:street" v="Łowicka" />
+    <tag k="addr:housenumber" v="15" />
+    <tag k="addr:city" v="Rawa mazowiecka" />
+    <tag k="addr:postcode" v="96-200" />
+    <tag k="phone" v="+48 46 814 34 95" />
+    <tag k="fax" v="+48 46 814 34 95" />
+    <tag k="email" v="psse.rawamaz@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-rawa-mazowiecka" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Rawie Mazowieckiej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-943902779" lat="51.59728095" lon="18.72136072216224" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sieradzu" />
+    <tag k="addr:street" v="Polskiej Organizacji Wojskowej" />
+    <tag k="addr:housenumber" v="52" />
+    <tag k="addr:city" v="Sieradz" />
+    <tag k="addr:postcode" v="98-200" />
+    <tag k="phone" v="+48 43 822 36 85" />
+    <tag k="fax" v="+48 43 822 41 23" />
+    <tag k="email" v="sieradz@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-sieradz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sieradzu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-93219128" lat="51.95665875" lon="20.13359613598698" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Skierniewicach" />
+    <tag k="addr:street" v="Piłsudskiego" />
+    <tag k="addr:housenumber" v="33" />
+    <tag k="addr:city" v="Skierniewice" />
+    <tag k="addr:postcode" v="96-100" />
+    <tag k="phone" v="+48 46 833 30 21" />
+    <tag k="fax" v="+48 46 833 30 21" />
+    <tag k="email" v="psse.skierniewice@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-skierniewice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Skierniewicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-486960336" lat="51.5282935" lon="22.3514199" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wieluniu" />
+    <tag k="addr:street" v="POW" />
+    <tag k="addr:housenumber" v="14" />
+    <tag k="addr:city" v="Wieluń" />
+    <tag k="addr:postcode" v="98-300" />
+    <tag k="phone" v="+48 43 843 40 70" />
+    <tag k="fax" v="+48 43 843 40 35" />
+    <tag k="email" v="wielun@pis.lodz.pl" />
+    <tag k="website" v="www.pssewielun.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wieluniu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-474903790" lat="51.6009632" lon="18.9365953" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zduńskiej Woli" />
+    <tag k="addr:street" v="Łaska" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:city" v="Zduńska wola" />
+    <tag k="addr:postcode" v="98-220" />
+    <tag k="phone" v="+48 43 823 21 99" />
+    <tag k="fax" v="+48 43 823 41 96" />
+    <tag k="email" v="psse.zdunskawola@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-zdunska-wola" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zduńskiej Woli" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-896392402" lat="51.848939099999996" lon="19.398502793161914" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zgierzu" />
+    <tag k="addr:street" v="A. Struga" />
+    <tag k="addr:housenumber" v="23" />
+    <tag k="addr:city" v="Zgierz" />
+    <tag k="addr:postcode" v="95-100" />
+    <tag k="phone" v="+48 42 291 96 17" />
+    <tag k="email" v="zgierz@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-zgierz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zgierzu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-368552994" lat="51.4008984" lon="21.152417" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bochni" />
+    <tag k="addr:street" v="ul. Konstytucji 3 Maja" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Bochnia" />
+    <tag k="addr:postcode" v="32-700" />
+    <tag k="phone" v="+48 14 612 32 34" />
+    <tag k="fax" v="+48 14 612 39 47" />
+    <tag k="email" v="bochnia@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-bochnia" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bochni" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-554152255" lat="49.9571479" lon="20.6038685" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Brzesku" />
+    <tag k="addr:street" v="ul. Okocimska" />
+    <tag k="addr:housenumber" v="44" />
+    <tag k="addr:city" v="Brzesko" />
+    <tag k="addr:postcode" v="32-800" />
+    <tag k="phone" v="+48 14 663 07 43" />
+    <tag k="fax" v="+48 14 686 33 10" />
+    <tag k="email" v="brzesko@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-brzesko" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Brzesku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-858603095" lat="50.17358045" lon="20.983749408632384" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Dąbrowie Tarnowskiej" />
+    <tag k="addr:street" v="ul. Piłsudskiego" />
+    <tag k="addr:housenumber" v="14" />
+    <tag k="addr:city" v="Dąbrowa tarnowska" />
+    <tag k="addr:postcode" v="33-200" />
+    <tag k="phone" v="+48 14 642 25 71" />
+    <tag k="fax" v="+48 14 642 25 71" />
+    <tag k="email" v="dabrowatarnowska@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-dabrowa-tarnowska" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Dąbrowie Tarnowskiej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-208250171" lat="49.6695775" lon="21.1721104" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gorlicach" />
+    <tag k="addr:street" v="ul. Michalusa" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Gorlice" />
+    <tag k="addr:postcode" v="38-320" />
+    <tag k="phone" v="+48 18 353 73 43" />
+    <tag k="fax" v="+48 18 353 65 51" />
+    <tag k="email" v="gorlice@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-gorlice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gorlicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-25383854" lat="50.088409" lon="20.04650810095925" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Krakowie" />
+    <tag k="addr:street" v="ul. Makuszyńskiego" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:city" v="Kraków" />
+    <tag k="addr:postcode" v="31-752" />
+    <tag k="phone" v="+48 12 644 99 64" />
+    <tag k="fax" v="+48 12 684 39 99" />
+    <tag k="email" v="psse@pssekrakow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-krakow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Krakowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-978249203" lat="49.7058875" lon="20.4245247" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Limanowej" />
+    <tag k="addr:street" v="ul. Matki Boskiej Bolesnej" />
+    <tag k="addr:housenumber" v="16B" />
+    <tag k="addr:city" v="Limanowa" />
+    <tag k="addr:postcode" v="34-600" />
+    <tag k="phone" v="+48 18 337 21 01" />
+    <tag k="fax" v="+48 18 337 24 38" />
+    <tag k="email" v="limanowa@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-limanowa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Limanowej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-758304032" lat="49.835542" lon="19.9585346" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Myślenicach" />
+    <tag k="addr:street" v="ul. Słowackiego" />
+    <tag k="addr:housenumber" v="106" />
+    <tag k="addr:city" v="Myślenice" />
+    <tag k="addr:postcode" v="32-400" />
+    <tag k="phone" v="+48 12 272 06 06" />
+    <tag k="fax" v="+48 12 272 08 85" />
+    <tag k="email" v="myslenice@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-myslenice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Myślenicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-456299262" lat="49.4833372" lon="20.03272704436253" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nowym Targu" />
+    <tag k="addr:street" v="ul. Jana Kazimierza" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Nowy targ" />
+    <tag k="addr:postcode" v="34-400" />
+    <tag k="phone" v="+48 18 266 29 14" />
+    <tag k="fax" v="+48 18 266 97 77" />
+    <tag k="email" v="nowytarg@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-nowy-targ" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nowym Targu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-432799449" lat="49.6226094" lon="20.6903368" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nowym Sączu" />
+    <tag k="addr:street" v="ul. Stefana Czarnieckiego" />
+    <tag k="addr:housenumber" v="19" />
+    <tag k="addr:city" v="Nowy sącz" />
+    <tag k="addr:postcode" v="33-300" />
+    <tag k="phone" v="+48 18 443 54 64" />
+    <tag k="fax" v="+48 18 443 57 32" />
+    <tag k="email" v="nowysacz@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-nowy-sacz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nowym Sączu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-207107144" lat="50.0346673" lon="19.2007186" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Oświęcimiu" />
+    <tag k="addr:street" v="ul. Więźniów Oświęcimia" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Oświęcim" />
+    <tag k="addr:postcode" v="32-600" />
+    <tag k="phone" v="+48 33 843 09 28" />
+    <tag k="fax" v="+48 33 843 28 29" />
+    <tag k="email" v="oswiecim@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-oswiecim" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Oświęcimiu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-745398279" lat="50.1938813" lon="20.2906303" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Proszowicach" />
+    <tag k="addr:street" v="ul. Adama Grzymały-Siedleckiego" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Proszowice" />
+    <tag k="addr:postcode" v="32-100" />
+    <tag k="phone" v="+48 12 386 34 11" />
+    <tag k="fax" v="+48 12 386 00 15" />
+    <tag k="email" v="proszowice@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-proszowice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Proszowicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-358124533" lat="49.74131585" lon="19.598825523901418" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Suchej Beskidzkiej" />
+    <tag k="addr:street" v="ul. Marii Konopnickiej" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:city" v="Sucha beskidzka" />
+    <tag k="addr:postcode" v="34-200" />
+    <tag k="phone" v="+48 33 874 22 34" />
+    <tag k="fax" v="+48 33 877 05 71" />
+    <tag k="email" v="suchabeskidzka@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-sucha-beskidzka" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Suchej Beskidzkiej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-220897924" lat="50.0113" lon="20.9824066" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Tarnowie" />
+    <tag k="addr:street" v="ul. Mościckiego" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Tarnów" />
+    <tag k="addr:postcode" v="33-100" />
+    <tag k="phone" v="+48 14 621 70 97" />
+    <tag k="fax" v="+48 14 621 75 43" />
+    <tag k="email" v="tarnow@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-tarnow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Tarnowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-887670138" lat="49.98542835" lon="20.064134828556007" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wieliczce" />
+    <tag k="addr:street" v="ul. Henryka Sienkiewiicza" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:city" v="Wieliczka" />
+    <tag k="addr:postcode" v="32-020" />
+    <tag k="phone" v="+48 12 288 01 38" />
+    <tag k="fax" v="+48 12 289 05 00" />
+    <tag k="email" v="wieliczka@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-wieliczka" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wieliczce" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-825489786" lat="52.23753065" lon="20.98813054257416" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Warszawie" />
+    <tag k="addr:street" v="Żelazna" />
+    <tag k="addr:housenumber" v="79" />
+    <tag k="addr:city" v="Warszawa" />
+    <tag k="addr:postcode" v="00-875" />
+    <tag k="phone" v="+48 22 620 90 01" />
+    <tag k="email" v="sekretariat@wsse.waw.pl" />
+    <tag k="website" v="www.gov.pl/web/wsse-warszawa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Warszawie" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-754906117" lat="51.6493759" lon="20.9541642" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Białobrzegach" />
+    <tag k="addr:street" v="Krakowska" />
+    <tag k="addr:housenumber" v="28" />
+    <tag k="addr:city" v="Białobrzegi" />
+    <tag k="addr:postcode" v="26-800" />
+    <tag k="phone" v="+48 48 613 23 60" />
+    <tag k="fax" v="+48 48 613 23 60" />
+    <tag k="email" v="bialobrzegi@psse.waw.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-bialobrzegi" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Białobrzegach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-590374667" lat="51.9550074" lon="21.528277927364435" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Garwolinie" />
+    <tag k="addr:street" v="ks. kard. Stefana Wyszyńskiego" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:city" v="Garwolin" />
+    <tag k="addr:postcode" v="08-400" />
+    <tag k="phone" v="+48 25 684 35 95" />
+    <tag k="email" v="psse.garwolin@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-garwolin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Garwolinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-785429697" lat="52.44727" lon="19.4672665" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gostyninie" />
+    <tag k="addr:street" v="Bierzewicka" />
+    <tag k="addr:housenumber" v="67" />
+    <tag k="addr:city" v="Gostynin" />
+    <tag k="addr:postcode" v="09-500" />
+    <tag k="phone" v="+48 24 235 22 04" />
+    <tag k="fax" v="+48 24 235 22 56" />
+    <tag k="email" v="gostynin@psse.waw.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-gostynin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gostyninie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-90803830" lat="51.860959" lon="20.85618305" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Grójcu" />
+    <tag k="addr:street" v="Mogielnicka" />
+    <tag k="addr:housenumber" v="67" />
+    <tag k="addr:city" v="Grójec" />
+    <tag k="addr:postcode" v="05-600" />
+    <tag k="phone" v="+48 48 664 22 58" />
+    <tag k="fax" v="+48 48 664 35 27" />
+    <tag k="email" v="grojec@psse.waw.pl" />
+    <tag k="website" v="www.grojec.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Grójcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-714012193" lat="51.58642135" lon="21.546887573735955" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kozienicach" />
+    <tag k="addr:street" v="Sławna" />
+    <tag k="addr:housenumber" v="27" />
+    <tag k="addr:city" v="Kozienice" />
+    <tag k="addr:postcode" v="26-900" />
+    <tag k="phone" v="+48 48 611 04 20" />
+    <tag k="fax" v="+48 48 614 24 43" />
+    <tag k="email" v="kozienice@psse.waw.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-kozienice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kozienicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-445346095" lat="52.42263" lon="20.93942" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Legionowie" />
+    <tag k="addr:street" v="gen. Władysława Sikorskiego" />
+    <tag k="addr:housenumber" v="11" />
+    <tag k="addr:city" v="Legionowo" />
+    <tag k="addr:postcode" v="05-119" />
+    <tag k="phone" v="+48 22 774 15 76" />
+    <tag k="fax" v="+48 22 774 02 52" />
+    <tag k="email" v="legionowo@psse.waw.pl" />
+    <tag k="website" v="www.legionowo.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Legionowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-350056089" lat="51.1596115" lon="21.6478681" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lipsku" />
+    <tag k="addr:street" v="Iłżecka" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Lipsko" />
+    <tag k="addr:postcode" v="27-300" />
+    <tag k="phone" v="+48 48 378 00 87" />
+    <tag k="email" v="lipsko@psse.waw.pl" />
+    <tag k="website" v="www.lipsko.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lipsku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-625203262" lat="52.212551250000004" lon="22.717646961886857" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łosicach" />
+    <tag k="addr:street" v="Jana Kilińskiego" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Łosice" />
+    <tag k="addr:postcode" v="08-200" />
+    <tag k="phone" v="+48 83 357 36 60" />
+    <tag k="fax" v="+48 83 357 36 28" />
+    <tag k="email" v="losice@psse.waw.pl" />
+    <tag k="website" v="www.losice.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łosicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-478985982" lat="52.17979405" lon="21.5664796" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Mińsku Mazowieckim" />
+    <tag k="addr:street" v="plac Jana Kilińskiego" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Mińsk mazowiecki" />
+    <tag k="addr:postcode" v="05-300" />
+    <tag k="phone" v="+48 25 758 22 32" />
+    <tag k="fax" v="+48 25 758 22 32" />
+    <tag k="email" v="minsk@psse.waw.pl" />
+    <tag k="website" v="www.minsk.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Mińsku Mazowieckim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-623850479" lat="52.4298097" lon="20.72603701854584" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nowym Dworze Mazowieckim" />
+    <tag k="addr:street" v="Chemików" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Nowy dwór mazowiecki" />
+    <tag k="addr:postcode" v="05-100" />
+    <tag k="phone" v="+48 22 775 34 61" />
+    <tag k="email" v="nowydwor@psse.waw.pl" />
+    <tag k="website" v="www.nowydwor.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nowym Dworze Mazowieckim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-358958858" lat="53.08417085" lon="21.589940477354286" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Ostrołece" />
+    <tag k="addr:street" v="Targowa" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Ostrołęka" />
+    <tag k="addr:postcode" v="07-410" />
+    <tag k="phone" v="+48 29 769 14 73" />
+    <tag k="fax" v="+48 29 760 50 51" />
+    <tag k="email" v="ostroleka@psse.waw.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-ostroleka" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Ostrołece" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-291046536" lat="52.803322800000004" lon="21.890488137435852" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Ostrowi Maz." />
+    <tag k="addr:street" v="gen. Władysława Sikorskiego" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:city" v="Ostrów mazowiecka" />
+    <tag k="addr:postcode" v="07-300" />
+    <tag k="phone" v="+48 29 644 06 80" />
+    <tag k="fax" v="+48 29 745 34 50" />
+    <tag k="email" v="ostrow@psse.waw.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-ostrow-mazowiecka" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Ostrowi Maz." />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-45314137" lat="52.542252250000004" lon="19.695592529660082" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Płocku" />
+    <tag k="addr:street" v="Kolegialna" />
+    <tag k="addr:housenumber" v="20" />
+    <tag k="addr:city" v="Płock" />
+    <tag k="addr:postcode" v="09-402" />
+    <tag k="phone" v="+48 24 367 26 01" />
+    <tag k="fax" v="+48 24 264 75 09" />
+    <tag k="email" v="psse.plock@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-plock" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Płocku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-476459729" lat="52.161374" lon="20.808127" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pruszkowie" />
+    <tag k="addr:street" v="Armii Krajowej" />
+    <tag k="addr:city" v="Pruszków" />
+    <tag k="addr:postcode" v="05-800" />
+    <tag k="phone" v="+48 22 758 75 26" />
+    <tag k="email" v="pruszkow@psse.waw.pl" />
+    <tag k="website" v="www.pruszkow.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pruszkowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-957752176" lat="53.00990425" lon="20.884736416719612" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Przasnyszu" />
+    <tag k="addr:street" v="Gołymińska" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:city" v="Przasnysz" />
+    <tag k="addr:postcode" v="06-300" />
+    <tag k="phone" v="+48 29 752 25 04" />
+    <tag k="fax" v="+48 29 752 25 04" />
+    <tag k="email" v="przasnysz@psse.waw.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-przasnysz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Przasnyszu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-908057647" lat="51.36143305" lon="20.633475471184894" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Przysusze" />
+    <tag k="addr:street" v="Szkolna" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:city" v="Przysucha" />
+    <tag k="addr:postcode" v="26-400" />
+    <tag k="phone" v="+48 48 675 24 22" />
+    <tag k="fax" v="+48 48 675 23 37" />
+    <tag k="email" v="przysucha@psse.waw.pl" />
+    <tag k="website" v="www.przysucha.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Przysusze" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-170906189" lat="51.4040042" lon="21.1374987" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Radomiu" />
+    <tag k="addr:street" v="gen. Leopolda Okulickiego" />
+    <tag k="addr:housenumber" v="9D" />
+    <tag k="addr:city" v="Radom" />
+    <tag k="addr:postcode" v="26-601" />
+    <tag k="phone" v="+48 48 345 15 89" />
+    <tag k="fax" v="+48 48 333 20 23" />
+    <tag k="email" v="radom@psse.waw.pl" />
+    <tag k="website" v="www.radom.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Radomiu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-275992411" lat="52.17618865" lon="22.288515344567163" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Siedlcach" />
+    <tag k="addr:street" v="Poniatowskiego" />
+    <tag k="addr:housenumber" v="31" />
+    <tag k="addr:city" v="Siedlce" />
+    <tag k="addr:postcode" v="08-110" />
+    <tag k="phone" v="+48 25 644 20 40" />
+    <tag k="fax" v="+48 25 632 61 37" />
+    <tag k="email" v="siedlce@psse.waw.pl" />
+    <tag k="website" v="www.siedlce.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Siedlcach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-871123037" lat="52.852659700000004" lon="19.66616482628563" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sierpcu" />
+    <tag k="addr:street" v="Piastowska" />
+    <tag k="addr:housenumber" v="24a" />
+    <tag k="addr:city" v="Sierpc" />
+    <tag k="addr:postcode" v="09-200" />
+    <tag k="phone" v="+48 24 275 26 01" />
+    <tag k="fax" v="+48 24 275 26 01" />
+    <tag k="email" v="sierpc@psse.waw.pl" />
+    <tag k="website" v="www.sierpc.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sierpcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-295399807" lat="52.4110314" lon="22.217102438465545" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sokołowie Podlaskim" />
+    <tag k="addr:street" v="Oleksiaka Wichury" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:city" v="Sokołów podlaski" />
+    <tag k="addr:postcode" v="08-300" />
+    <tag k="phone" v="+48 25 506 50 10" />
+    <tag k="fax" v="+48 25 506 50 20" />
+    <tag k="email" v="sokolow@psse.waw.pl" />
+    <tag k="website" v="www.sokolow.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sokołowie Podlaskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-388466268" lat="52.26714835" lon="20.94954550747496" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w m.st. Warszawie" />
+    <tag k="addr:street" v="Jana Kochanowskiego" />
+    <tag k="addr:housenumber" v="21" />
+    <tag k="addr:city" v="Warszawa" />
+    <tag k="addr:postcode" v="01-864" />
+    <tag k="phone" v="+48 22 310 79 00" />
+    <tag k="email" v="kancelaria@pssewawa.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-warszawa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w m.st. Warszawie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-493372591" lat="52.2101181" lon="20.8194002" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Powiecie Warszawskim Zachodnim" />
+    <tag k="addr:street" v="Poznańska" />
+    <tag k="addr:housenumber" v="129/133" />
+    <tag k="addr:city" v="Ożarów mazowiecki" />
+    <tag k="addr:postcode" v="05-850" />
+    <tag k="phone" v="+48 22 733 73 33" />
+    <tag k="email" v="ozarow@psse.waw.pl" />
+    <tag k="website" v="www.ozarow.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Powiecie Warszawskim Zachodnim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-522813321" lat="52.3962464" lon="22.0186764" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Węgrowie" />
+    <tag k="addr:street" v="kard. Stefana Wyszyńskiego" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:city" v="Węgrów" />
+    <tag k="addr:postcode" v="07-100" />
+    <tag k="phone" v="+48 25 792 42 27" />
+    <tag k="fax" v="+48 25 792 53 81" />
+    <tag k="email" v="wegrow@psse.waw.pl" />
+    <tag k="website" v="www.wegrow.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Węgrowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-518001627" lat="52.59411995" lon="21.45800550163719" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wyszkowie" />
+    <tag k="addr:street" v="Ignacego Daszyńskiego" />
+    <tag k="addr:housenumber" v="28" />
+    <tag k="addr:city" v="Wyszków" />
+    <tag k="addr:postcode" v="07-200" />
+    <tag k="phone" v="+48 29 742 32 54" />
+    <tag k="email" v="wyszkow@psse.waw.pl" />
+    <tag k="website" v="www.wyszkow.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wyszkowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-534335526" lat="51.358617249999995" lon="21.576949451942276" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zwoleniu" />
+    <tag k="addr:street" v="Bogusza" />
+    <tag k="addr:housenumber" v="37" />
+    <tag k="addr:city" v="Zwoleń" />
+    <tag k="addr:postcode" v="26-700" />
+    <tag k="phone" v="+48 48 676 23 12" />
+    <tag k="fax" v="+48 48 676 23 12" />
+    <tag k="email" v="zwolen@psse.waw.pl" />
+    <tag k="website" v="www.zwolen.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zwoleniu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-334038870" lat="53.0719023" lon="19.897768533454208" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Żurominie" />
+    <tag k="addr:street" v="Przemysłowa" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Żuromin" />
+    <tag k="addr:postcode" v="09-300" />
+    <tag k="phone" v="+48 23 657 22 17" />
+    <tag k="fax" v="+48 23 657 22 17" />
+    <tag k="email" v="zuromin@psse.waw.pl" />
+    <tag k="website" v="www.zuromin.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Żurominie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-478115379" lat="50.66431365" lon="17.92549531879891" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Opolu" />
+    <tag k="addr:street" v="Krakowska" />
+    <tag k="addr:housenumber" v="51" />
+    <tag k="addr:city" v="Opole" />
+    <tag k="addr:postcode" v="45-018" />
+    <tag k="phone" v="+48 77 442 85 00" />
+    <tag k="fax" v="+48 77 442 85 05" />
+    <tag k="email" v="psse.opole@pis.gov.pl" />
+    <tag k="website" v="www.psseopole.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Opolu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-361654993" lat="50.857560500000005" lon="17.463592973862752" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Brzegu" />
+    <tag k="addr:street" v="Armii Krajowej" />
+    <tag k="addr:housenumber" v="22" />
+    <tag k="addr:city" v="Brzeg" />
+    <tag k="addr:postcode" v="49-300" />
+    <tag k="phone" v="+48 77 444 18 50" />
+    <tag k="fax" v="+48 77 444 18 40" />
+    <tag k="email" v="sekretariat@pssebrzeg.pol.pl" />
+    <tag k="website" v="www.pssebrzeg.pol.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Brzegu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-662570876" lat="50.334535149999994" lon="18.147409830001934" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kędzierzynie Koźlu" />
+    <tag k="addr:street" v="Anny" />
+    <tag k="addr:housenumber" v="14" />
+    <tag k="addr:city" v="Kędzierzyn-koźle" />
+    <tag k="addr:postcode" v="47-200" />
+    <tag k="phone" v="+48 77 482 11 74" />
+    <tag k="fax" v="+48 77 482 39 60" />
+    <tag k="email" v="psse.kedzierzynkozle@pis.gov.pl" />
+    <tag k="website" v="www.pssekedzierzyn.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kędzierzynie Koźlu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-813733546" lat="50.48309595" lon="17.97579110296592" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Krapkowicach" />
+    <tag k="addr:street" v="Ks. Koziołka" />
+    <tag k="addr:housenumber" v="30" />
+    <tag k="addr:city" v="Krapkowice" />
+    <tag k="addr:postcode" v="47-303" />
+    <tag k="phone" v="+48 77 446 67 40" />
+    <tag k="fax" v="+48 77 446 67 41" />
+    <tag k="email" v="psse.krapkowice@pis.gov.pl" />
+    <tag k="website" v="www.pssekrapkowice.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Krapkowicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-261551700" lat="51.07350525" lon="17.72480387569286" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Namysłowie" />
+    <tag k="addr:street" v="Piłsudskiego" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:city" v="Namysłów" />
+    <tag k="addr:postcode" v="46-100" />
+    <tag k="phone" v="+48 77 419 04 80" />
+    <tag k="fax" v="+48 77 419 04 80" />
+    <tag k="email" v="psse.namyslow@pis.gov.pl" />
+    <tag k="website" v="www.pssenamyslow.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Namysłowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-676776270" lat="50.8748074" lon="18.417512535202" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Oleśnie" />
+    <tag k="addr:street" v="Wielkie Przedmieście" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:city" v="Olesno" />
+    <tag k="addr:postcode" v="46-300" />
+    <tag k="phone" v="+48 34 358 26 73" />
+    <tag k="fax" v="+48 34 358 26 84" />
+    <tag k="email" v="psse.olesno@pis.gov.pl" />
+    <tag k="website" v="www.psse.olesno.info.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Oleśnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-758682938" lat="50.3210303" lon="17.577587577559058" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Prudniku" />
+    <tag k="addr:street" v="Klasztorna" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Prudnik" />
+    <tag k="addr:postcode" v="48-200" />
+    <tag k="phone" v="+48 77 436 20 74" />
+    <tag k="fax" v="+48 77 436 20 74" />
+    <tag k="email" v="psse.prudnik@pis.gov.pl" />
+    <tag k="website" v="www.psseprudnik.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Prudniku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-863412940" lat="50.513547" lon="18.304156248883643" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Strzelcach Opolskich" />
+    <tag k="addr:street" v="Piłsudskiego" />
+    <tag k="addr:housenumber" v="20" />
+    <tag k="addr:city" v="Strzelce opolskie" />
+    <tag k="addr:postcode" v="47-100" />
+    <tag k="phone" v="+48 77 440 03 13" />
+    <tag k="fax" v="+48 77 440 03 23" />
+    <tag k="email" v="psse.strzelceopolskie@pis.gov.pl" />
+    <tag k="website" v="www.pssestrzelce.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Strzelcach Opolskich" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-150281049" lat="50.5695399" lon="21.6655008" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna Oddział LAB w Tarnobrzegu" />
+    <tag k="addr:street" v="1-Maja" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Tarnobrzeg" />
+    <tag k="addr:postcode" v="39-400" />
+    <tag k="phone" v="+48 15 823 44 10" />
+    <tag k="fax" v="+48 15 823 44 52" />
+    <tag k="email" v="tarnobrzeg@wsse.rzeszow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/wsse-rzeszow/laboratoria-pis" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Tarnobrzegu" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna Oddział LAB" />
+  </node>
+  <node id="-347480220" lat="50.2468356" lon="21.7825542" action="modify" visible="true">
+    <tag k="addr:street" v="11-go Listopada" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Kolbuszowa" />
+    <tag k="addr:postcode" v="36-100" />
+    <tag k="phone" v="+48 17 227 11 50" />
+    <tag k="fax" v="+48 17 227 11 50" />
+    <tag k="email" v="psse.kolbuszowa@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-kolbuszowa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Kolbuszowa" />
+  </node>
+  <node id="-531379655" lat="50.161165350000005" lon="23.121430809720152" action="modify" visible="true">
+    <tag k="addr:street" v="Mickiewicza" />
+    <tag k="addr:housenumber" v="45" />
+    <tag k="addr:city" v="Lubaczów" />
+    <tag k="addr:postcode" v="37-600" />
+    <tag k="phone" v="+48 16 632 15 28" />
+    <tag k="fax" v="+48 17 785 21 89" />
+    <tag k="email" v="psse.lubaczow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-lubaczow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Lubaczów" />
+  </node>
+  <node id="-81330915" lat="50.05676615" lon="22.49451855079078" action="modify" visible="true">
+    <tag k="addr:street" v="Rynek" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Przeworsk" />
+    <tag k="addr:postcode" v="37-200" />
+    <tag k="phone" v="+48 16 648 75 95" />
+    <tag k="fax" v="+48 16 648 79 01" />
+    <tag k="email" v="psse.przeworsk@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-przeworsk" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Przeworsk" />
+  </node>
+  <node id="-779080460" lat="50.0234816" lon="21.98656557928322" action="modify" visible="true">
+    <tag k="addr:street" v="Dąbrowskiego" />
+    <tag k="addr:housenumber" v="79A" />
+    <tag k="addr:city" v="Rzeszów" />
+    <tag k="addr:postcode" v="35-040" />
+    <tag k="phone" v="+48 17 854 19 09" />
+    <tag k="fax" v="+48 17 854 19 09" />
+    <tag k="email" v="psse.rzeszow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-rzeszow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Rzeszów" />
+  </node>
+  <node id="-539060485" lat="50.5695399" lon="21.6655008" action="modify" visible="true">
+    <tag k="addr:street" v="1-Maja" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Tarnobrzeg" />
+    <tag k="addr:postcode" v="39-400" />
+    <tag k="phone" v="+48 15 822 63 18" />
+    <tag k="fax" v="+48 15 823 66 64" />
+    <tag k="email" v="psse.tarnobrzeg@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-tarnobrzeg" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Tarnobrzeg" />
+  </node>
+  <node id="-199141017" lat="53.13124245" lon="23.17451993101403" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Białymstoku" />
+    <tag k="addr:street" v="Warszawska" />
+    <tag k="addr:housenumber" v="57 A" />
+    <tag k="addr:city" v="Białystok" />
+    <tag k="addr:postcode" v="15-062" />
+    <tag k="phone" v="+48 85 732 52 36" />
+    <tag k="fax" v="+48 85 732 50 91" />
+    <tag k="email" v="sekretariat@psse.bialystok.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-bialystok" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Białymstoku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-671932751" lat="53.6776985" lon="23.101986087424276" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Augustowie" />
+    <tag k="addr:street" v="Brzostowskiego" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Augustów" />
+    <tag k="addr:postcode" v="16-300" />
+    <tag k="phone" v="+48 87 643 32 80" />
+    <tag k="fax" v="+48 87 643 32 80" />
+    <tag k="email" v="psse_augustow@epoczta.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-augustow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Augustowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-777637438" lat="52.7618944" lon="23.1980891" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bielsku Podlaskim" />
+    <tag k="addr:street" v="Białowieska" />
+    <tag k="addr:housenumber" v="28" />
+    <tag k="addr:city" v="Bielsk podlaski" />
+    <tag k="addr:postcode" v="17-100" />
+    <tag k="phone" v="+48 85 730 17 17" />
+    <tag k="fax" v="+48 85 730 80 90" />
+    <tag k="email" v="pssebielsk@wsse.bialystok.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-bielsk-podlaski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bielsku Podlaskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-620299017" lat="53.64741345" lon="22.4543432" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Grajewie" />
+    <tag k="addr:street" v="Plac Niepodległości" />
+    <tag k="addr:housenumber" v="12" />
+    <tag k="addr:city" v="Grajewo" />
+    <tag k="addr:postcode" v="19-200" />
+    <tag k="phone" v="+48 86 272 26 00" />
+    <tag k="fax" v="+48 86 272 61 00" />
+    <tag k="email" v="pssegrajewo@bialystok.wsse.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-grajewo" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Grajewie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-671136202" lat="52.73552545" lon="23.591499700718174" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Hajnówce" />
+    <tag k="addr:street" v="Piłsudskiego" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Hajnówka" />
+    <tag k="addr:postcode" v="17-200" />
+    <tag k="phone" v="+48 85 682 28 09" />
+    <tag k="fax" v="+48 85 682 29 89" />
+    <tag k="email" v="pssehajnowka@wsse.bialystok.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-hajnowka" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Hajnówce" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-653038428" lat="53.4077642" lon="21.9328523" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kolnie" />
+    <tag k="addr:street" v="Wojska Polskiego" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Kolno" />
+    <tag k="addr:postcode" v="18-500" />
+    <tag k="phone" v="+48 86 278 31 91" />
+    <tag k="fax" v="+48 86 278 19 89" />
+    <tag k="email" v="pssekolno@wsse.bialystok.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-kolno" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kolnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-128711233" lat="54.1151624" lon="23.35306127938243" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sejnach" />
+    <tag k="addr:street" v="Rittlera" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Sejny" />
+    <tag k="addr:postcode" v="16-500" />
+    <tag k="phone" v="+48 87 517 33 50" />
+    <tag k="fax" v="+48 87 517 34 50" />
+    <tag k="email" v="psse.sejny@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-sejny" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sejnach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-854169565" lat="52.4286144" lon="22.857103692675217" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Siemiatyczach" />
+    <tag k="addr:street" v="Kilińskiego" />
+    <tag k="addr:housenumber" v="32" />
+    <tag k="addr:city" v="Siemiatycze" />
+    <tag k="addr:postcode" v="17-300" />
+    <tag k="phone" v="+48 85 655 23 71" />
+    <tag k="fax" v="+48 85 655 22 11" />
+    <tag k="email" v="sekretariat@pssesiemiatycze.org" />
+    <tag k="website" v="https://www.gov.pl/web/psse-siemiatycze" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Siemiatyczach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-118209202" lat="53.40510905" lon="23.483809234129325" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sokółce" />
+    <tag k="addr:street" v="1-go Maja" />
+    <tag k="addr:housenumber" v="13 A" />
+    <tag k="addr:city" v="Sokółka" />
+    <tag k="addr:postcode" v="16-100" />
+    <tag k="phone" v="+48 85 711 36 25" />
+    <tag k="fax" v="+48 85 711 36 25" />
+    <tag k="email" v="psse.sokolka@gmail.com" />
+    <tag k="website" v="https://www.gov.pl/web/psse-sokolka" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sokółce" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-429458414" lat="54.1027995" lon="22.94006119477566" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Suwałkach" />
+    <tag k="addr:street" v="Utrata" />
+    <tag k="addr:housenumber" v="9A" />
+    <tag k="addr:city" v="Suwałki" />
+    <tag k="addr:postcode" v="16-400" />
+    <tag k="phone" v="+48 87 565 28 60" />
+    <tag k="fax" v="+48 87 565 28 61" />
+    <tag k="email" v="psse.suwalki@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-suwalki" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Suwałkach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-798520456" lat="52.980779850000005" lon="22.236918601386634" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zambrowie" />
+    <tag k="addr:street" v="Obrońców Zambrowa" />
+    <tag k="addr:housenumber" v="50" />
+    <tag k="addr:city" v="Zambrów" />
+    <tag k="addr:postcode" v="18-300" />
+    <tag k="phone" v="+48 86 276 30 71" />
+    <tag k="fax" v="+48 86 276 30 72" />
+    <tag k="email" v="pssezambrow@wp.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-zambrow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zambrowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-269097524" lat="53.162373099999996" lon="22.07739237046674" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łomży" />
+    <tag k="addr:street" v="Ks.Janusza I" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Łomża" />
+    <tag k="addr:postcode" v="18-400" />
+    <tag k="phone" v="+48 86 216 52 61" />
+    <tag k="fax" v="+48 86 216 52 62" />
+    <tag k="email" v="psselomza@psselomza.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-lomza" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łomży" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-124991865" lat="54.3651793" lon="18.628011253457153" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Gdańsku" />
+    <tag k="addr:street" v="Dębinki" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Gdańsk" />
+    <tag k="addr:postcode" v="80-211" />
+    <tag k="phone" v="+48 58 344 73 00" />
+    <tag k="fax" v="+48 58 520 19 70" />
+    <tag k="email" v="poczta@wsse.gda.pl" />
+    <tag k="website" v="http://www.wsse.gda.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gdańsku" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-502062994" lat="54.4023856" lon="18.670209326656693" action="modify" visible="true">
+    <tag k="official_name" v="Graniczny Punkt Kontroli Sanitarno-Epidemiologicznej w Gdańsku" />
+    <tag k="addr:street" v="Oliwska" />
+    <tag k="addr:housenumber" v="14/15" />
+    <tag k="addr:city" v="Gdańsk" />
+    <tag k="addr:postcode" v="80-542" />
+    <tag k="phone" v="+48 58 343 09 48" />
+    <tag k="fax" v="+48 58 343 28 09" />
+    <tag k="email" v="gdansk@gsse.eu" />
+    <tag k="website" v="http://gsse.eu/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Graniczny Punkt Kontroli Sanitarno-Epidemiologicznej" />
+  </node>
+  <node id="-990457652" lat="54.5872358" lon="16.854436675783504" action="modify" visible="true">
+    <tag k="official_name" v="Graniczny Punkt Kontroli Sanitarno-Epidemiologicznej w Ustce" />
+    <tag k="addr:street" v="Marynarki Polskiej" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Ustka" />
+    <tag k="addr:postcode" v="76-270" />
+    <tag k="phone" v="+48 59 814 45 48" />
+    <tag k="fax" v="+48 59 814 45 48" />
+    <tag k="email" v="ustka@gsse.eu" />
+    <tag k="website" v="http://gsse.eu/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Graniczny Punkt Kontroli Sanitarno-Epidemiologicznej" />
+  </node>
+  <node id="-852220697" lat="54.17185465" lon="17.490340780581043" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bytowie" />
+    <tag k="addr:street" v="Generała Sikorskiego" />
+    <tag k="addr:housenumber" v="27" />
+    <tag k="addr:city" v="Bytów" />
+    <tag k="addr:postcode" v="77-100" />
+    <tag k="phone" v="+48 59 822 36 85" />
+    <tag k="fax" v="+48 59 822 36 85" />
+    <tag k="email" v="psse.bytow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-bytow/kontakt2" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bytowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-218560146" lat="53.66193135" lon="17.3538465546089" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Człuchowie" />
+    <tag k="addr:street" v="Jana III Sobieskiego" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Człuchów" />
+    <tag k="addr:postcode" v="77-300" />
+    <tag k="phone" v="+48 59 834 52 66" />
+    <tag k="fax" v="+48 59 834 15 51" />
+    <tag k="email" v="psse.czluchow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-czluchow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Człuchowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-202595306" lat="54.341005100000004" lon="18.200885469705607" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kartuzach" />
+    <tag k="addr:street" v="Sambora" />
+    <tag k="addr:housenumber" v="30a" />
+    <tag k="addr:city" v="Kartuzy" />
+    <tag k="addr:postcode" v="83-300" />
+    <tag k="phone" v="+48 58 681 24 88" />
+    <tag k="fax" v="+48 58 681 07 21" />
+    <tag k="email" v="psse.kartuzy@pis.gov.pl" />
+    <tag k="website" v="http://pssekartuzy.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kartuzach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-391134010" lat="54.122441300000006" lon="17.980485499999993" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kościerzynie" />
+    <tag k="addr:street" v="Wodna" />
+    <tag k="addr:housenumber" v="15" />
+    <tag k="addr:city" v="Kościerzyna" />
+    <tag k="addr:postcode" v="83-400" />
+    <tag k="phone" v="+48 58 686 69 48" />
+    <tag k="fax" v="+48 58 686 33 64" />
+    <tag k="email" v="psse.koscierzyna@pis.gov.pl" />
+    <tag k="website" v="http://pssekoscierzyna.pis.gov.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kościerzynie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-376791158" lat="53.731558899999996" lon="18.931994430497724" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kwidzynie" />
+    <tag k="addr:street" v="Fryderyka Chopina" />
+    <tag k="addr:housenumber" v="40" />
+    <tag k="addr:city" v="Kwidzyn" />
+    <tag k="addr:postcode" v="82-500" />
+    <tag k="phone" v="+48 55 279 38 15" />
+    <tag k="fax" v="+48 55 279 22 49" />
+    <tag k="email" v="psse.kwidzyn@pis.gov.pl" />
+    <tag k="website" v="http://www.pssekwidzyn.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kwidzynie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-913180366" lat="54.54700985" lon="17.766342877272194" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lęborku" />
+    <tag k="addr:street" v="Gdańska" />
+    <tag k="addr:housenumber" v="63" />
+    <tag k="addr:city" v="Lębork" />
+    <tag k="addr:postcode" v="84-300" />
+    <tag k="phone" v="+48 59 862 10 10" />
+    <tag k="fax" v="+48 59 862 19 28" />
+    <tag k="email" v="psse.lebork@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-lebork" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lęborku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-231473003" lat="54.030170299999995" lon="19.023216513519955" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Malborku" />
+    <tag k="addr:street" v="Słowackiego" />
+    <tag k="addr:housenumber" v="64" />
+    <tag k="addr:city" v="Malbork" />
+    <tag k="addr:postcode" v="82-200" />
+    <tag k="phone" v="+48 55 647 25 55" />
+    <tag k="fax" v="+48 55 647 25 55" />
+    <tag k="email" v="psse.malbork@pis.gov.pl" />
+    <tag k="website" v="http://pssemalbork.pis.gov.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Malborku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-103078365" lat="54.21158275" lon="19.12045736362757" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nowym Dworze Gdańskim" />
+    <tag k="addr:street" v="Dworcowa" />
+    <tag k="addr:housenumber" v="14" />
+    <tag k="addr:city" v="Nowy dwór gdański" />
+    <tag k="addr:postcode" v="82-100" />
+    <tag k="phone" v="+48 55 247 57 01" />
+    <tag k="fax" v="+48 55 247 57 01" />
+    <tag k="email" v="psse.nowydworgdanski@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-nowy-dwor-gdanski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nowym Dworze Gdańskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-944317427" lat="54.2611228" lon="18.6365948" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pruszczu Gdańskim" />
+    <tag k="addr:street" v="Grunwaldzka" />
+    <tag k="addr:housenumber" v="25" />
+    <tag k="addr:city" v="Pruszcz gdański" />
+    <tag k="addr:postcode" v="83-000" />
+    <tag k="phone" v="+48 58 683 54 12" />
+    <tag k="fax" v="+48 58 683 54 12" />
+    <tag k="email" v="psse.pruszczgdanski@pis.gov.pl" />
+    <tag k="website" v="http://pssepruszczgd.pis.gov.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pruszczu Gdańskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-767164893" lat="54.7182606" lon="18.4111509" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pucku" />
+    <tag k="addr:street" v="1 Armii Wojska Polskiego" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Puck" />
+    <tag k="addr:postcode" v="84-100" />
+    <tag k="phone" v="+48 58 673 03 41" />
+    <tag k="fax" v="+48 58 673 03 41" />
+    <tag k="email" v="psse.puck@pis.gov.pl" />
+    <tag k="website" v="http://pssepuck.pis.gov.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pucku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-841268886" lat="54.44027680000001" lon="18.565697157394844" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sopocie" />
+    <tag k="addr:street" v="Kościuszki" />
+    <tag k="addr:housenumber" v="23" />
+    <tag k="addr:city" v="Sopot" />
+    <tag k="addr:postcode" v="81-704" />
+    <tag k="phone" v="+48 58 551 06 35" />
+    <tag k="fax" v="+48 58 551 06 65" />
+    <tag k="email" v="psse.sopot@pis.gov.pl" />
+    <tag k="website" v="http://www.psse.sopot.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sopocie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-970782340" lat="54.4648735" lon="17.0130608" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Słupsku" />
+    <tag k="addr:street" v="Piotra Skargi" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Słupsk" />
+    <tag k="addr:postcode" v="76-200" />
+    <tag k="phone" v="+48 59 843 12 91" />
+    <tag k="fax" v="+48 59 843 81 55" />
+    <tag k="email" v="psse.slupsk@pis.gov.pl" />
+    <tag k="website" v="http://psseslupsk@pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Słupsku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-16076020" lat="54.08953" lon="18.79528" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Tczewie" />
+    <tag k="addr:street" v="Obrońców Westerplatte" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Tczew" />
+    <tag k="addr:postcode" v="83-110" />
+    <tag k="phone" v="+48 58 531 39 31" />
+    <tag k="fax" v="+48 58 531 27 30" />
+    <tag k="email" v="psse.tczew@pis.gov.pl" />
+    <tag k="website" v="http://pssetczew.pis.gov.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Tczewie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-471294925" lat="54.608649" lon="18.24831278665127" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wejherowie" />
+    <tag k="addr:street" v="Obrońców Helu" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:city" v="Wejherowo" />
+    <tag k="addr:postcode" v="84-200" />
+    <tag k="phone" v="+48 58 677 79 03" />
+    <tag k="fax" v="+48 58 677 79 03" />
+    <tag k="email" v="psse.wejherowo@pis.gov.pl" />
+    <tag k="website" v="http://psse-wejherowo.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wejherowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-251516953" lat="49.81844755" lon="19.052600244082193" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bielsku-Białej" />
+    <tag k="addr:street" v="ul. Broniewskiego" />
+    <tag k="addr:housenumber" v="21" />
+    <tag k="addr:city" v="Bielsko-biała" />
+    <tag k="addr:postcode" v="43-300" />
+    <tag k="phone" v="+48 33 499 29 22" />
+    <tag k="fax" v="+48 33 812 57 63" />
+    <tag k="email" v="psse.bielskobiala@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-bielsko-biala" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bielsku-Białej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-571886593" lat="50.34374855" lon="18.921799983528647" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bytomiu" />
+    <tag k="addr:street" v="ul. Moniuszki" />
+    <tag k="addr:housenumber" v="25" />
+    <tag k="addr:city" v="Bytom" />
+    <tag k="addr:postcode" v="41-902" />
+    <tag k="phone" v="+48 32 397 66 60" />
+    <tag k="fax" v="+48 32 397 66 00" />
+    <tag k="email" v="ppis@psse.bytom.pl" />
+    <tag k="website" v="www.gov.pl/psse-bytom" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bytomiu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-617080659" lat="50.2977899" lon="18.95050737973186" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Chorzowie" />
+    <tag k="addr:street" v="ul. Kazimierza Wielkiego" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Chorzów" />
+    <tag k="addr:postcode" v="41-500" />
+    <tag k="phone" v="+48 32 241 27 42" />
+    <tag k="fax" v="+48 32 249 08 30" />
+    <tag k="email" v="psse.chorzow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-chorzow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Chorzowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-838007977" lat="49.7523979" lon="18.6314799" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Cieszynie" />
+    <tag k="addr:street" v="ul. Liburnia" />
+    <tag k="addr:housenumber" v="2a" />
+    <tag k="addr:city" v="Cieszyn" />
+    <tag k="addr:postcode" v="43-400" />
+    <tag k="phone" v="+48 33 479 70 10" />
+    <tag k="fax" v="+48 33 479 71 73" />
+    <tag k="email" v="psse.cieszyn@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-cieszyn" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Cieszynie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-720138010" lat="50.8155543" lon="19.11739018796594" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Częstochowie" />
+    <tag k="addr:street" v="ul. Jasnogórska" />
+    <tag k="addr:housenumber" v="15A" />
+    <tag k="addr:city" v="Częstochowa" />
+    <tag k="addr:postcode" v="42-200" />
+    <tag k="phone" v="+48 34 344 99 00" />
+    <tag k="email" v="psse.czestochowa@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-czestochowa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Częstochowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-882251140" lat="50.32118035" lon="19.182587248001145" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Dąbrowie Górniczej" />
+    <tag k="addr:street" v="ul. Dąbrowskiego" />
+    <tag k="addr:housenumber" v="9a" />
+    <tag k="addr:city" v="Dąbrowa górnicza" />
+    <tag k="addr:postcode" v="41-300" />
+    <tag k="phone" v="+48 32 267 34 25" />
+    <tag k="fax" v="+48 32 267 36 57" />
+    <tag k="email" v="psse.dabrowagornicza@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-dabrowa-gornicza" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Dąbrowie Górniczej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-876430125" lat="50.29195885" lon="18.67642825" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gliwicach" />
+    <tag k="addr:street" v="ul. Banacha" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Gliwice" />
+    <tag k="addr:postcode" v="44-100" />
+    <tag k="phone" v="+48 32 338 05 01" />
+    <tag k="fax" v="+48 32 231 95 23" />
+    <tag k="email" v="psse.gliwice@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-gliwice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gliwicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-876262150" lat="50.2018583" lon="19.27590223245029" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Jaworznie" />
+    <tag k="addr:street" v="ul. Pocztowa" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:city" v="Jaworzno" />
+    <tag k="addr:postcode" v="43-600" />
+    <tag k="phone" v="+48 32 616 40 58" />
+    <tag k="fax" v="+48 32 616 35 50" />
+    <tag k="email" v="psse.jaworzno@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-jaworzno" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Jaworznie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-250648960" lat="50.26912385" lon="19.021688711072294" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Katowicach" />
+    <tag k="addr:street" v="Plac Grunwaldzki 8-10" />
+    <tag k="addr:housenumber" v="8-10" />
+    <tag k="addr:city" v="Katowice" />
+    <tag k="addr:postcode" v="40-127" />
+    <tag k="phone" v="+48 32 257 04 04" />
+    <tag k="fax" v="+48 32 253 24 89" />
+    <tag k="email" v="psse.katowice@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-katowice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Katowicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-998027452" lat="50.8992498" lon="18.935386685332013" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kłobucku" />
+    <tag k="addr:street" v="ul. Staszica" />
+    <tag k="addr:housenumber" v="28" />
+    <tag k="addr:city" v="Kłobuck" />
+    <tag k="addr:postcode" v="42-100" />
+    <tag k="phone" v="+48 34 317 26 00" />
+    <tag k="fax" v="+48 34 317 22 60" />
+    <tag k="email" v="psse.klobuck@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-klobuck" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kłobucku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-31455868" lat="50.67158085" lon="18.690123784608232" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lublińcu" />
+    <tag k="addr:street" v="ul. Dworcowa" />
+    <tag k="addr:housenumber" v="17" />
+    <tag k="addr:city" v="Lubliniec" />
+    <tag k="addr:postcode" v="42-700" />
+    <tag k="phone" v="+48 34 356 32 85" />
+    <tag k="fax" v="+48 34 356 32 85" />
+    <tag k="email" v="psse.lubliniec@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-lubliniec" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lublińcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-385913723" lat="50.5585047" lon="19.3019315" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Myszkowie" />
+    <tag k="addr:street" v="ul. Pułaskiego" />
+    <tag k="addr:housenumber" v="42" />
+    <tag k="addr:city" v="Myszków" />
+    <tag k="addr:postcode" v="42-300" />
+    <tag k="phone" v="+48 34 313 13 05" />
+    <tag k="fax" v="+48 34 313 13 05" />
+    <tag k="email" v="psse.myszkow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-myszkow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Myszkowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-708510524" lat="50.271573" lon="18.8673643" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Rudzie Śląskiej" />
+    <tag k="addr:street" v="ul. Dąbrowskiego" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:city" v="Ruda śląska" />
+    <tag k="addr:postcode" v="41-710" />
+    <tag k="phone" v="+48 32 340 03 84" />
+    <tag k="fax" v="+48 32 340 04 03" />
+    <tag k="email" v="psse.rudaslaska@neostrada.pl" />
+    <tag k="website" v="www.gov.pl/psse-ruda-slaska" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Rudzie Śląskiej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-856466898" lat="50.1104305" lon="18.54543849752298" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Rybniku" />
+    <tag k="addr:street" v="ul. Kpt.L. Janiego" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Rybnik" />
+    <tag k="addr:postcode" v="44-200" />
+    <tag k="phone" v="+48 32 422 40 09" />
+    <tag k="fax" v="+48 32 422 45 47" />
+    <tag k="email" v="psse.rybnik@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-rybnik" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Rybniku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-871062476" lat="50.1284981" lon="18.9699016" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Tychach" />
+    <tag k="addr:street" v="ul. Budowlanych" />
+    <tag k="addr:housenumber" v="131" />
+    <tag k="addr:city" v="Tychy" />
+    <tag k="addr:postcode" v="43-100" />
+    <tag k="phone" v="+48 32 219 31 77" />
+    <tag k="fax" v="+48 32 219 31 77" />
+    <tag k="email" v="psse.tychy@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-tychy" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Tychach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-212885432" lat="50.4688451" lon="20.7200032" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Busku-Zdroju" />
+    <tag k="addr:street" v="Stefana Batorego" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Busko-zdrój" />
+    <tag k="addr:postcode" v="28-100" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 378 27 88" />
+    <tag k="email" v="psse.buskozdroj@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-busko-zdroj" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Busku-Zdroju" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-877239785" lat="50.64162465" lon="20.300261091829526" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Jędrzejowie" />
+    <tag k="addr:street" v="11-go Listopada" />
+    <tag k="addr:housenumber" v="33" />
+    <tag k="addr:city" v="Jędrzejów" />
+    <tag k="addr:postcode" v="28-300" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 386 15 16" />
+    <tag k="email" v="psse.jedrzejow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-jedrzejow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Jędrzejowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-528474834" lat="51.18911955" lon="20.421957779854807" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Końskich" />
+    <tag k="addr:street" v="Sportowa" />
+    <tag k="addr:housenumber" v="7" />
+    <tag k="addr:city" v="Końskie" />
+    <tag k="addr:postcode" v="26-200" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 372 33 62" />
+    <tag k="email" v="psse.konskie@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-konskie" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Końskich" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-763820495" lat="50.804453699999996" lon="21.42952291113229" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Opatowie" />
+    <tag k="addr:street" v="Stefanii Sempołowskiej" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:city" v="Opatów" />
+    <tag k="addr:postcode" v="27-500" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 15 868 21 49" />
+    <tag k="email" v="psse.opatow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-opatow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Opatowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-355875155" lat="50.690349" lon="21.73203653475842" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sandomierzu" />
+    <tag k="addr:street" v="L. Frankowskiego" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Sandomierz" />
+    <tag k="addr:postcode" v="27-600" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 15 832 32 58" />
+    <tag k="email" v="psse.sandomierz@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-sandomierz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sandomierzu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-956130123" lat="51.117797499999995" lon="20.892232094431208" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Skarżysku-Kamiennej" />
+    <tag k="addr:street" v="Czerwonego Krzyża" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Skarżysko-kamienna" />
+    <tag k="addr:postcode" v="26-110" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 251 18 67" />
+    <tag k="email" v="psse.skarzyskokam@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-skarzysko-kamienna" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Skarżysku-Kamiennej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-854125218" lat="51.0505649" lon="21.08466684077502" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Starachowicach" />
+    <tag k="addr:street" v="Złota" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Starachowice" />
+    <tag k="addr:postcode" v="27-200" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 274 62 67" />
+    <tag k="email" v="psse.starachowice@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-starachowice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Starachowicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-279191998" lat="50.559589349999996" lon="21.17078923020994" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Staszowie" />
+    <tag k="addr:street" v="Szpitalna" />
+    <tag k="addr:housenumber" v="37/14" />
+    <tag k="addr:city" v="Staszów" />
+    <tag k="addr:postcode" v="28-200" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 15 864 39 96" />
+    <tag k="email" v="psse.staszow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-staszow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Staszowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-65023040" lat="53.76873285" lon="20.49036068719512" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Olsztynie" />
+    <tag k="addr:street" v="Żołnierska" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Olsztyn" />
+    <tag k="addr:postcode" v="10-561" />
+    <tag k="phone" v="+48 89 524 83 00" />
+    <tag k="fax" v="+48 89 679 16 99" />
+    <tag k="email" v="wsse.olsztyn@pis.gov.pl" />
+    <tag k="website" v="www.wsse.olsztyn.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Olsztynie" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-199093753" lat="54.38560715" lon="19.83001565238291" action="modify" visible="true">
+    <tag k="addr:street" v="Królewiecka" />
+    <tag k="addr:housenumber" v="26" />
+    <tag k="addr:city" v="Braniewo" />
+    <tag k="addr:postcode" v="14-500" />
+    <tag k="phone" v="+48 55 243 23 81" />
+    <tag k="fax" v="+48 55 243 23 81" />
+    <tag k="email" v="psse.braniewo@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.sanepidbraniewo.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Braniewo" />
+  </node>
+  <node id="-466949850" lat="53.2330883" lon="20.17786916043836" action="modify" visible="true">
+    <tag k="addr:street" v="Pl. Biedrawy" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Działdowo" />
+    <tag k="addr:postcode" v="13-200" />
+    <tag k="phone" v="+48 23 697 26 34" />
+    <tag k="fax" v="+48 23 697 26 34" />
+    <tag k="email" v="psse.dzialdowo@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_dzialdowo" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Działdowo" />
+  </node>
+  <node id="-750563234" lat="54.179730750000004" lon="19.42592461121618" action="modify" visible="true">
+    <tag k="addr:street" v="Królewiecka" />
+    <tag k="addr:housenumber" v="195" />
+    <tag k="addr:city" v="Elbląg" />
+    <tag k="addr:postcode" v="82-300" />
+    <tag k="phone" v="+48 55 232 32 60" />
+    <tag k="fax" v="+48 55 232 74 31" />
+    <tag k="email" v="psse.elblag@pis.gov.pl" />
+    <tag k="website" v="www.psseelblag.nowybip.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Elbląg" />
+  </node>
+  <node id="-44565846" lat="54.0365647" lon="21.78401985088084" action="modify" visible="true">
+    <tag k="addr:street" v="Suwalska" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:city" v="Giżycko" />
+    <tag k="addr:postcode" v="11-500" />
+    <tag k="phone" v="+48 87 428 54 98" />
+    <tag k="fax" v="+48 87 428 58 74" />
+    <tag k="email" v="psse.gizycko@sanepid.olsztyn.pl" />
+    <tag k="website" v="pssegizycko.bip.visacom.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Giżycko" />
+  </node>
+  <node id="-479836893" lat="54.304886350000004" lon="22.30147910357201" action="modify" visible="true">
+    <tag k="addr:street" v="Wolności" />
+    <tag k="addr:housenumber" v="11" />
+    <tag k="addr:city" v="Gołdap" />
+    <tag k="addr:postcode" v="19-500" />
+    <tag k="phone" v="+48 87 615 15 47" />
+    <tag k="fax" v="+48 87 615 06 77" />
+    <tag k="email" v="psse_goldap@sanepid.mail.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_goldap" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Gołdap" />
+  </node>
+  <node id="-136670855" lat="53.599159650000004" lon="19.551989472402717" action="modify" visible="true">
+    <tag k="addr:street" v="Sienkiewicza" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Iława" />
+    <tag k="addr:postcode" v="14-200" />
+    <tag k="phone" v="+48 89 649 04 20" />
+    <tag k="fax" v="+48 89 649 04 21" />
+    <tag k="email" v="psse.ilawa@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_ilawa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Iława" />
+  </node>
+  <node id="-431997789" lat="54.078394900000006" lon="21.37198313425413" action="modify" visible="true">
+    <tag k="addr:street" v="Plac Marsz. J. Piłsudskiego" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Kętrzyn" />
+    <tag k="addr:postcode" v="11-400" />
+    <tag k="phone" v="+48 89 754 21 40" />
+    <tag k="fax" v="+48 89 754 21 41" />
+    <tag k="email" v="psse.ketrzyn@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_ketrzyn" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Kętrzyn" />
+  </node>
+  <node id="-689034232" lat="54.1250347" lon="20.586218" action="modify" visible="true">
+    <tag k="addr:street" v="Orła Białego" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Lidzbark warmiński" />
+    <tag k="addr:postcode" v="11-100" />
+    <tag k="phone" v="+48 89 767 23 22" />
+    <tag k="fax" v="+48 89 767 25 82" />
+    <tag k="email" v="psse.lidzbarkwarm@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.lidzbarkwarm.com" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Lidzbark Warmiński" />
+  </node>
+  <node id="-443492347" lat="53.87595905" lon="21.305149631473505" action="modify" visible="true">
+    <tag k="addr:street" v="Królewiecka" />
+    <tag k="addr:housenumber" v="60B" />
+    <tag k="addr:city" v="Mrągowo" />
+    <tag k="addr:postcode" v="11-700" />
+    <tag k="phone" v="+48 89 741 26 34" />
+    <tag k="fax" v="+48 89 741 09 60" />
+    <tag k="email" v="psse.mragowo@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_mragowo" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Mrągowo" />
+  </node>
+  <node id="-330736711" lat="53.357856" lon="20.428262336553477" action="modify" visible="true">
+    <tag k="addr:street" v="Żeromskiego" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Nidzica" />
+    <tag k="addr:postcode" v="13-100" />
+    <tag k="phone" v="+48 89 625 20 81" />
+    <tag k="fax" v="+48 89 625 83 20" />
+    <tag k="email" v="psse.nidzica@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.sanepid.nidzica.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Nidzica" />
+  </node>
+  <node id="-625695037" lat="53.42752" lon="19.58821" action="modify" visible="true">
+    <tag k="addr:street" v="Grunwaldzka" />
+    <tag k="addr:housenumber" v="3" />
+    <tag k="addr:city" v="Nowe miasto lubawskie" />
+    <tag k="addr:postcode" v="13-300" />
+    <tag k="phone" v="+48 56 474 26 92" />
+    <tag k="fax" v="+48 56 491 14 08" />
+    <tag k="email" v="psse.nowemiastolubawskie@sanepid.olsztyn.pl" />
+    <tag k="website" v="psse.nowemiastolubawskie.ibip.pl/public" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Nowe Miasto Lubawskie" />
+  </node>
+  <node id="-78916757" lat="54.03565" lon="22.49633" action="modify" visible="true">
+    <tag k="addr:street" v="Wojska Polskiego" />
+    <tag k="addr:housenumber" v="13" />
+    <tag k="addr:city" v="Olecko" />
+    <tag k="addr:postcode" v="19-400" />
+    <tag k="phone" v="+48 87 520 30 55" />
+    <tag k="fax" v="+48 87 520 20 65" />
+    <tag k="email" v="psse.olecko@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.visacom.pl/bip2/?ident=12&amp;layout=" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Olecko" />
+  </node>
+  <node id="-74169778" lat="53.76873285" lon="20.49036068719512" action="modify" visible="true">
+    <tag k="addr:street" v="Żołnierska" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Olsztyn" />
+    <tag k="addr:postcode" v="10-561" />
+    <tag k="phone" v="+48 89 527 43 10" />
+    <tag k="fax" v="+48 89 527 43 10" />
+    <tag k="email" v="psse_olsztyn@visacom.pl" />
+    <tag k="website" v="bip.visacom.pl/psse_olsztyn" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Olsztyn" />
+  </node>
+  <node id="-115626495" lat="53.6967549" lon="19.9632089" action="modify" visible="true">
+    <tag k="addr:street" v="Kościuszki" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Ostróda" />
+    <tag k="addr:postcode" v="14-100" />
+    <tag k="phone" v="+48 89 646 08 70" />
+    <tag k="fax" v="+48 89 646 08 80" />
+    <tag k="email" v="psse_ostroda@visacom.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_ostroda" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Ostróda" />
+  </node>
+  <node id="-720114320" lat="54.207411300000004" lon="21.738005616612906" action="modify" visible="true">
+    <tag k="addr:street" v="3 Maja" />
+    <tag k="addr:housenumber" v="17B" />
+    <tag k="addr:city" v="Węgorzewo" />
+    <tag k="addr:postcode" v="11-600" />
+    <tag k="phone" v="+48 87 427 28 13" />
+    <tag k="fax" v="+48 87 427 28 83" />
+    <tag k="email" v="psse.wegorzewo@sanepid.olsztyn.pl" />
+    <tag k="website" v="http://www.pssewegorzewo.bip.visacom.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Węgorzewo" />
+  </node>
+  <node id="-131168565" lat="52.4134631" lon="16.91689925312837" action="modify" visible="true">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Poznaniu" />
+    <tag k="addr:street" v="ul. Noskowskiego" />
+    <tag k="addr:housenumber" v="23" />
+    <tag k="addr:city" v="Poznań" />
+    <tag k="addr:postcode" v="61-705" />
+    <tag k="phone" v="+48 61 854 48 02" />
+    <tag k="fax" v="+48 61 852 50 03" />
+    <tag k="email" v="wsse.poznan@pis.gov.pl" />
+    <tag k="website" v="www.wsse-poznan.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Poznaniu" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-471351976" lat="52.99148125" lon="16.910997752354554" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Chodzieży" />
+    <tag k="addr:street" v="ul. Składowa" />
+    <tag k="addr:housenumber" v="5" />
+    <tag k="addr:city" v="Chodzież" />
+    <tag k="addr:postcode" v="64-800" />
+    <tag k="phone" v="+48 67 282 02 72" />
+    <tag k="fax" v="+48 67 282 02 73" />
+    <tag k="email" v="psse.chodziez@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-chodziez.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Chodzieży" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-284697553" lat="52.90452715" lon="16.559070650407158" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Czarnkowie" />
+    <tag k="addr:street" v="ul. Zamkowa" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Czarnków" />
+    <tag k="addr:postcode" v="64-700" />
+    <tag k="phone" v="+48 67 255 22 40" />
+    <tag k="fax" v="+48 67 255 82 26" />
+    <tag k="email" v="psse.czarnkow@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-czarnkow.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Czarnkowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-818110735" lat="52.21593" lon="16.36306" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Grodzisku" />
+    <tag k="addr:street" v="ul. Rakoniewicka" />
+    <tag k="addr:housenumber" v="42" />
+    <tag k="addr:city" v="Grodzisk wielkopolski" />
+    <tag k="addr:postcode" v="62-065" />
+    <tag k="phone" v="+48 61 444 60 67" />
+    <tag k="fax" v="+48 61 444 60 67" />
+    <tag k="email" v="psse.grodziskwlkp@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-grodzisk.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Grodzisku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-108418847" lat="51.971631450000004" lon="17.50191558933207" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Jarocinie" />
+    <tag k="addr:street" v="ul. Wąska" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Jarocin" />
+    <tag k="addr:postcode" v="63-200" />
+    <tag k="phone" v="+48 62 747 23 17" />
+    <tag k="fax" v="+48 62 747 62 43" />
+    <tag k="email" v="psse.jarocin@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-jarocin.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Jarocinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-465939303" lat="51.761576" lon="18.0809669" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kaliszu" />
+    <tag k="addr:street" v="ul. Kościuszki" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Kalisz" />
+    <tag k="addr:postcode" v="62-800" />
+    <tag k="phone" v="+48 62 767 76 10" />
+    <tag k="fax" v="+48 62 767 76 42" />
+    <tag k="email" v="psse.kalisz@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-kalisz.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kaliszu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-493582454" lat="51.2800353" lon="17.983631" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kępnie" />
+    <tag k="addr:street" v="ul. Pocztowa" />
+    <tag k="addr:city" v="Kępno" />
+    <tag k="addr:postcode" v="63-600" />
+    <tag k="phone" v="+48 62 782 32 38" />
+    <tag k="fax" v="+48 62 782 32 38" />
+    <tag k="email" v="psse.kepno@pis.gov.pl" />
+    <tag k="website" v="http://psse-kepno.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kępnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-82644967" lat="52.209726849999996" lon="18.25100062404183" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Koninie" />
+    <tag k="addr:street" v="ul. Staszica" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Konin" />
+    <tag k="addr:postcode" v="62-500" />
+    <tag k="phone" v="+48 63 243 90 52" />
+    <tag k="fax" v="+48 63 246 49 50" />
+    <tag k="email" v="psse.konin@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-konin.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Koninie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-348713881" lat="52.0888627" lon="16.6419305" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kościanie" />
+    <tag k="addr:street" v="ul. Ks. Bączkowskiego" />
+    <tag k="addr:housenumber" v="5a" />
+    <tag k="addr:city" v="Kościan" />
+    <tag k="addr:postcode" v="64-000" />
+    <tag k="phone" v="+48 65 512 22 33" />
+    <tag k="fax" v="+48 65 512 22 33" />
+    <tag k="email" v="psse.koscian@pis.gov.pl" />
+    <tag k="website" v="http://www.psse.koscian.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kościanie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-246236564" lat="51.6973974" lon="17.4348596" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Krotoszynie" />
+    <tag k="addr:street" v="ul. Floriańska" />
+    <tag k="addr:housenumber" v="10" />
+    <tag k="addr:city" v="Krotoszyn" />
+    <tag k="addr:postcode" v="63-700" />
+    <tag k="phone" v="+48 62 725 26 35" />
+    <tag k="fax" v="+48 62 722 05 91" />
+    <tag k="email" v="sekretariat@psse-krotoszyn.pl" />
+    <tag k="website" v="http://www.psse-krotoszyn.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Krotoszynie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-737325069" lat="51.8457609" lon="16.58836471356649" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lesznie" />
+    <tag k="addr:street" v="ul. Niepodległości" />
+    <tag k="addr:housenumber" v="66" />
+    <tag k="addr:city" v="Leszno" />
+    <tag k="addr:postcode" v="64-100" />
+    <tag k="phone" v="+48 65 526 15 15" />
+    <tag k="fax" v="+48 65 526 21 41" />
+    <tag k="email" v="psse.leszno@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-leszno.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lesznie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-145422760" lat="52.5958264" lon="15.896009656493508" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Snitarno-Epidemiologiczna w Międzychodzie" />
+    <tag k="addr:street" v="ul. Strzelecka" />
+    <tag k="addr:housenumber" v="12" />
+    <tag k="addr:city" v="Międzychód" />
+    <tag k="addr:postcode" v="64-400" />
+    <tag k="phone" v="+48 95 748 24 08" />
+    <tag k="fax" v="+48 95 748 35 01" />
+    <tag k="email" v="sekretariat@psse-miedzychod.pl" />
+    <tag k="website" v="http://www.psse-miedzychod.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Międzychodzie" />
+    <tag k="name" v="Powiatowa Stacja Snitarno-Epidemiologiczna" />
+  </node>
+  <node id="-744878408" lat="52.31724" lon="16.12919" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nowym Tomyślu" />
+    <tag k="addr:street" v="pl. Niepodległości" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Nowy tomyśl" />
+    <tag k="addr:postcode" v="64-300" />
+    <tag k="phone" v="+48 61 442 08 00" />
+    <tag k="fax" v="+48 61 442 28 69" />
+    <tag k="email" v="psse.nowytomysl@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-nowytomysl.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nowym Tomyślu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-90066501" lat="52.652798" lon="16.8192636" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Obornikach" />
+    <tag k="addr:street" v="ul. Marsz. J. Piłsudskiego" />
+    <tag k="addr:housenumber" v="76" />
+    <tag k="addr:city" v="Oborniki" />
+    <tag k="addr:postcode" v="64-600" />
+    <tag k="phone" v="+48 61 296 04 07" />
+    <tag k="fax" v="+48 61 296 05 58" />
+    <tag k="email" v="psse.oborniki@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-oborniki.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Obornikach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-462694184" lat="51.4137058" lon="17.9351046" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Ostrzeszowie" />
+    <tag k="addr:street" v="ul. Gen. Sikorskiego" />
+    <tag k="addr:housenumber" v="58" />
+    <tag k="addr:city" v="Ostrzeszów" />
+    <tag k="addr:postcode" v="63-500" />
+    <tag k="phone" v="+48 62 732 07 70" />
+    <tag k="fax" v="+48 62 732 07 70" />
+    <tag k="email" v="psse.ostrzeszow@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-ostrzeszow.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Ostrzeszowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-651446346" lat="52.4299094" lon="16.93452854209555" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Poznaniu" />
+    <tag k="addr:street" v="ul. Gronowa" />
+    <tag k="addr:housenumber" v="22" />
+    <tag k="addr:city" v="Poznań" />
+    <tag k="addr:postcode" v="61-655" />
+    <tag k="phone" v="+48 61 646 78 51" />
+    <tag k="fax" v="+48 61 646 78 41" />
+    <tag k="email" v="psse.poznan@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-poznan.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Poznaniu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-773420629" lat="51.6114362" lon="16.85416013865789" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Rawiczu" />
+    <tag k="addr:street" v="ul. Wały Jarosława Dąbrowskiego" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Rawicz" />
+    <tag k="addr:postcode" v="63-900" />
+    <tag k="phone" v="+48 65 545 39 37" />
+    <tag k="fax" v="+48 65 545 39 37" />
+    <tag k="email" v="psse.rawicz@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-rawicz.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Rawiczu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-427417467" lat="52.2880514" lon="17.874256548698156" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Słupcy" />
+    <tag k="addr:street" v="ul. Kościuszki" />
+    <tag k="addr:housenumber" v="9" />
+    <tag k="addr:city" v="Słupca" />
+    <tag k="addr:postcode" v="62-400" />
+    <tag k="phone" v="+48 63 274 36 42" />
+    <tag k="fax" v="+48 63 274 36 43" />
+    <tag k="email" v="psse.slupca@pis.gov.pl" />
+    <tag k="website" v="http://bip.psse-slupca.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Słupcy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-249810585" lat="52.5995808" lon="16.58792678449847" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Szamotułach" />
+    <tag k="addr:street" v="ul. B.Chrobrego" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Szamotuły" />
+    <tag k="addr:postcode" v="64-500" />
+    <tag k="phone" v="+48 61 292 15 24" />
+    <tag k="fax" v="+48 61 292 15 24" />
+    <tag k="email" v="psse.szamotuly@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-szamotuly.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Szamotułach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-256713734" lat="52.08012575" lon="17.029927594415696" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Śremie" />
+    <tag k="addr:street" v="ul. Wiejska" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Śrem" />
+    <tag k="addr:postcode" v="63-100" />
+    <tag k="phone" v="+48 61 283 54 75" />
+    <tag k="fax" v="+48 61 283 54 91" />
+    <tag k="email" v="psse.srem@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-srem.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Śremie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-902180129" lat="52.2256304" lon="17.28443637832853" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Środzie" />
+    <tag k="addr:street" v="ul. Żwirki i Wigury" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Środa wielkopolska" />
+    <tag k="addr:postcode" v="63-000" />
+    <tag k="phone" v="+48 61 286 70 80" />
+    <tag k="fax" v="+48 61 285 41 76" />
+    <tag k="email" v="psse.srodawlkp@pis.gov.pl" />
+    <tag k="website" v="www.psse-sroda.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Środzie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-388919711" lat="52.01429" lon="18.50448" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Turku" />
+    <tag k="addr:street" v="ul. Uniejowska" />
+    <tag k="addr:housenumber" v="1a" />
+    <tag k="addr:city" v="Turek" />
+    <tag k="addr:postcode" v="62-700" />
+    <tag k="phone" v="+48 63 280 36 82" />
+    <tag k="fax" v="+48 63 280 36 99" />
+    <tag k="email" v="psse.turek@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-turek.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Turku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-868534758" lat="52.798564150000004" lon="17.216834127064566" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wągrowcu" />
+    <tag k="addr:street" v="ul. Gnieźnieńska" />
+    <tag k="addr:housenumber" v="49" />
+    <tag k="addr:city" v="Wągrowiec" />
+    <tag k="addr:postcode" v="62-100" />
+    <tag k="phone" v="+48 67 268 56 80" />
+    <tag k="fax" v="+48 67 268 56 80" />
+    <tag k="email" v="psse.wagrowiec@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-wagrowiec.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wągrowcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-26813798" lat="52.123073" lon="16.122799" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wolsztynie" />
+    <tag k="addr:street" v="ul. M. Drzymały" />
+    <tag k="addr:housenumber" v="16" />
+    <tag k="addr:city" v="Wolsztyn" />
+    <tag k="addr:postcode" v="64-200" />
+    <tag k="phone" v="+48 68 347 32 49" />
+    <tag k="fax" v="+48 68 384 20 23" />
+    <tag k="email" v="psse.wolsztyn@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-wolsztyn.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wolsztynie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-272063800" lat="52.32008525" lon="17.55921426069538" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna we Wrześni" />
+    <tag k="addr:street" v="ul. Wrocławska" />
+    <tag k="addr:housenumber" v="42" />
+    <tag k="addr:city" v="Września" />
+    <tag k="addr:postcode" v="62-300" />
+    <tag k="phone" v="+48 61 436 07 32" />
+    <tag k="fax" v="+48 61 640 32 06" />
+    <tag k="email" v="psse.wrzesnia@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-wrzesnia.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid we Wrześni" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-935933833" lat="53.3695284" lon="17.025624716767556" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Złotowie" />
+    <tag k="addr:street" v="ul. Hubego" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Złotów" />
+    <tag k="addr:postcode" v="77-400" />
+    <tag k="phone" v="+48 67 349 16 91" />
+    <tag k="fax" v="+48 67 349 16 92" />
+    <tag k="email" v="psse.zlotow@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-zlotow.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Złotowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-667290958" lat="54.0085466" lon="15.988821" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Białogardzie" />
+    <tag k="addr:street" v="ul. Przechodnia" />
+    <tag k="addr:housenumber" v="2" />
+    <tag k="addr:city" v="Białogard" />
+    <tag k="addr:postcode" v="78-200" />
+    <tag k="phone" v="+48 94 312 20 55" />
+    <tag k="fax" v="+48 94 312 41 22" />
+    <tag k="email" v="psse.bialogard@pis.gov.pl" />
+    <tag k="website" v="pssebialogard.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Białogardzie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-549132469" lat="53.16381545" lon="15.423568804254682" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Choszcznie" />
+    <tag k="addr:street" v="ul. Bolesława Chrobrego" />
+    <tag k="addr:housenumber" v="27 A" />
+    <tag k="addr:city" v="Choszczno" />
+    <tag k="addr:postcode" v="73-200" />
+    <tag k="phone" v="+48 95 765 72 82" />
+    <tag k="email" v="psse.choszczno@pis.gov.pl" />
+    <tag k="website" v="pssechoszczno.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Choszcznie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-386943909" lat="53.52529275" lon="15.815746793607003" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Drawsku Pomorskim" />
+    <tag k="addr:street" v="ul. Sobieskiego" />
+    <tag k="addr:housenumber" v="1" />
+    <tag k="addr:city" v="Drawsko pomorskie" />
+    <tag k="addr:postcode" v="78-500" />
+    <tag k="phone" v="+48 94 363 61 95" />
+    <tag k="fax" v="+48 94 363 61 02" />
+    <tag k="email" v="psse.drawskopomorskie@pis.gov.pl" />
+    <tag k="website" v="pssedrawskopomorskie.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Drawsku Pomorskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-604839688" lat="53.2577681" lon="14.488773" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gryfinie" />
+    <tag k="addr:street" v="ul. Flisacza" />
+    <tag k="addr:housenumber" v="6" />
+    <tag k="addr:city" v="Gryfino" />
+    <tag k="addr:postcode" v="74-100" />
+    <tag k="phone" v="+48 91 416 38 58" />
+    <tag k="fax" v="+48 91 416 23 43" />
+    <tag k="email" v="psse.gryfino@pis.gov.pl" />
+    <tag k="website" v="pssegryfino.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gryfinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-349246816" lat="53.9628109" lon="14.777476991933954" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kamieniu Pomorskim" />
+    <tag k="addr:street" v="ul. Wolińska" />
+    <tag k="addr:housenumber" v="7B" />
+    <tag k="addr:city" v="Kamień pomorski" />
+    <tag k="addr:postcode" v="72-400" />
+    <tag k="phone" v="+48 91 382 01 44" />
+    <tag k="fax" v="+48 91 382 41 70" />
+    <tag k="email" v="psse.kamienpomorski@pis.gov.pl" />
+    <tag k="website" v="pssekamienpomorski.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kamieniu Pomorskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-464473441" lat="54.1801628" lon="15.57231535957052" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kołobrzegu" />
+    <tag k="addr:street" v="ul. Waryńskiego" />
+    <tag k="addr:housenumber" v="8" />
+    <tag k="addr:city" v="Kołobrzeg" />
+    <tag k="addr:postcode" v="78-100" />
+    <tag k="phone" v="+48 94 352 35 54" />
+    <tag k="fax" v="+48 94 352 30 13" />
+    <tag k="email" v="psse.kolobrzeg@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-kolobrzeg" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kołobrzegu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-331692935" lat="54.19013635" lon="16.19621729517072" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Koszalinie" />
+    <tag k="addr:street" v="ul. Zwycięstwa" />
+    <tag k="addr:housenumber" v="136" />
+    <tag k="addr:city" v="Koszalin" />
+    <tag k="addr:postcode" v="75-613" />
+    <tag k="phone" v="+48 91 342 40 85" />
+    <tag k="fax" v="+48 94 342 53 57" />
+    <tag k="email" v="psse.koszalin@pis.gov.pl" />
+    <tag k="website" v="pssekoszalin.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Koszalinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-972983069" lat="52.92708625" lon="14.861383771003618" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Myśliborzu" />
+    <tag k="addr:street" v="ul. Pólnocna" />
+    <tag k="addr:housenumber" v="15" />
+    <tag k="addr:city" v="Myślibórz" />
+    <tag k="addr:postcode" v="74-300" />
+    <tag k="phone" v="+48 95 747 56 16" />
+    <tag k="fax" v="+48 95 747 65 13" />
+    <tag k="email" v="sekretariat@pssemysliborz.pl" />
+    <tag k="website" v="pssemysliborz.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Myśliborzu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-631765991" lat="53.1320221" lon="14.8841326" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pyrzycach" />
+    <tag k="addr:street" v="ul. Młodych Techników" />
+    <tag k="addr:city" v="Pyrzyce" />
+    <tag k="addr:postcode" v="74-200" />
+    <tag k="phone" v="+48 91 570 34 28" />
+    <tag k="fax" v="+48 91 570 34 29" />
+    <tag k="email" v="psse.pyrzyce@pis.gov.pl" />
+    <tag k="website" v="pssepyrzyce.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pyrzycach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-14138551" lat="54.36856" lon="16.68177" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sławnie" />
+    <tag k="addr:street" v="ul. Sempołowskiej" />
+    <tag k="addr:city" v="Sławno" />
+    <tag k="addr:postcode" v="76-100" />
+    <tag k="phone" v="+48 59 810 73 11" />
+    <tag k="fax" v="+48 59 810 73 11" />
+    <tag k="email" v="psse.slawno@pis.gov.pl" />
+    <tag k="website" v="psseslawno.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sławnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-487329099" lat="53.3374181" lon="15.03921623951613" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Stargardzie" />
+    <tag k="addr:street" v="ul. Czarnieckiego" />
+    <tag k="addr:housenumber" v="34" />
+    <tag k="addr:city" v="Stargard" />
+    <tag k="addr:postcode" v="73-110" />
+    <tag k="phone" v="+48 91 561 26 10" />
+    <tag k="fax" v="+48 91 561 26 13" />
+    <tag k="email" v="psse.stargard@pis.gov.pl" />
+    <tag k="website" v="pssestargardszczecinski.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Stargardzie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-847185630" lat="53.7103113" lon="16.683650024835934" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Szczecinku" />
+    <tag k="addr:street" v="ul. Ordona" />
+    <tag k="addr:housenumber" v="22" />
+    <tag k="addr:city" v="Szczecinek" />
+    <tag k="addr:postcode" v="78-400" />
+    <tag k="phone" v="+48 94 374 05 59" />
+    <tag k="fax" v="+48 94 374 05 59" />
+    <tag k="email" v="psse.szczecinek@pis.gov.pl" />
+    <tag k="website" v="psseszczecinek.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Szczecinku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-471932962" lat="53.768203400000004" lon="15.7726840890721" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Świdwinie" />
+    <tag k="addr:street" v="ul. Drawska" />
+    <tag k="addr:housenumber" v="38" />
+    <tag k="addr:city" v="Świdwin" />
+    <tag k="addr:postcode" v="78-300" />
+    <tag k="phone" v="+48 94 365 30 24" />
+    <tag k="fax" v="+48 94 365 30 24" />
+    <tag k="email" v="psse.swidwin@pis.gov.pl" />
+    <tag k="website" v="psseswidwin.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Świdwinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="-904032487" lat="53.9098232" lon="14.2473837" action="modify" visible="true">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Świnoujściu" />
+    <tag k="addr:street" v="ul. Dąbrowskiego" />
+    <tag k="addr:housenumber" v="4" />
+    <tag k="addr:city" v="Świnoujście" />
+    <tag k="addr:postcode" v="72-600" />
+    <tag k="phone" v="+48 91 321 24 94" />
+    <tag k="fax" v="+48 91 321 24 94" />
+    <tag k="email" v="psse.swinoujscie@pis.gov.pl" />
+    <tag k="website" v="psseswinoujscie.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Świnoujściu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+</osm>

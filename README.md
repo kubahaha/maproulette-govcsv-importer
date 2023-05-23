@@ -43,11 +43,11 @@ total: 392/392 - 100% - paired: 59/392 - 15% - missing: 8/392 - 2% - to_add: 325
 
 ### Program
 
-./osm_modify.py sanepid -m komoot
-./gov_match.py sanepid -m komoot
-./generate_osmfiles.py sanepid
-mr cooperative change --out ./output/sanepid_cooperative.geojson ./output/sanepid_cooperative.osm
-mr cooperative tag --out ./output/sanepid_tagfix.geojson ./output/sanepid_tagfix.osm
+- `./osm_modify.py sanepid -m komoot`
+- `./gov_match.py sanepid -m komoot`
+- `./generate_osmfiles.py sanepid`
+- `mr cooperative change --out ./output/sanepid_cooperative.geojson ./output/sanepid_cooperative.osm`
+- `mr cooperative tag --out ./output/sanepid_tagfix.geojson ./output/sanepid_tagfix.osm`
 
 ### Stats
 
@@ -61,6 +61,37 @@ Total: 152/152 100% | found: 95 62% | filled: 37 24% | missing: 20 13%
 #### Parowanie
 
 Nominatim
-total: 344/344 100% - paired: 5/344 1% - missing: 105/344 31% - to_add: 234/344 68%
+total: 344/344 100% - paired: 118/344 34% - missing: 86/344 25% - to_add: 140/344 41%
 Komoot:
-total: 344/344 100% - paired: 5/344 1% - missing: 6/344 2% - to_add: 333/344 97%
+total: 344/344 100% - paired: 118/344 34% - missing: 4/344 1% - to_add: 222/344 65%
+
+## Poniatowa
+
+### Pliki wejściowe
+
+[poniatowa.osm](https://overpass-turbo.eu/s/1qP4).
+[poniatowa_osm.csv](https://overpass-turbo.eu/s/1qP7).
+[poniatowa_gov.csv](https://raw.githubusercontent.com/openstreetmap-polska/dane-rspo/main/pliki/06_lubelskie/0612_opolski%20(lubelski)/061206_Poniatowa_mw.geojson).
+
+### Program
+
+- `./osm_modify.py poniatowa -m komoot`
+- `./gov_match.py poniatowa -m komoot`
+- `./generate_osmfiles.py poniatowa`
+- `mr cooperative change --out ./output/poniatowa_cooperative.geojson ./output/poniatowa_cooperative.osm`
+- `mr cooperative tag --out ./output/poniatowa_tagfix.geojson ./output/poniatowa_tagfix.osm`
+
+### Stats
+
+#### Adresy OSM
+
+Nominatim:
+
+Komoot:
+Total: 7/7 100% | found: 3 43% | filled: 1 14% | missing: 3 43%
+#### Parowanie
+
+Nominatim
+
+Komoot:
+total: 17/17 100% - paired: 5/17 29% - missing: 0/17 0% - to_add: 12/17 71%

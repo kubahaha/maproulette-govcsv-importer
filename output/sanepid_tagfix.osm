@@ -1,0 +1,2424 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-28T04:16:48Z" areas="2023-01-27T20:04:17Z"/>
+  <node id="1588863641" lat="50.2546524" lon="19.0011822" action="modify" version="5" timestamp="2020-10-18T19:01:46Z" changeset="92666537" uid="4493657" user="Aim311">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Katowicach" />
+    <tag k="phone" v="+48 32 351 23 00" />
+    <tag k="fax" v="+48 32 351 23 18" />
+    <tag k="email" v="wsse.katowice@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/wsse-katowice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Katowicach" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="healthcare" v="laboratory"/>
+  </node>
+  <node id="1754825666" lat="53.8288601" lon="22.3520011" action="modify" version="3" timestamp="2017-11-24T23:12:46Z" changeset="54061742" uid="4493657" user="Aim311">
+    <tag k="phone" v="+48 87 621 77 50" />
+    <tag k="fax" v="+48 87 621 77 64" />
+    <tag k="email" v="psse.elk@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_elk" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Ełk" />
+    <tag k="addr:country" v="PL"/>
+    <tag k="healthcare" v="laboratory"/>
+  </node>
+  <node id="2289996533" lat="53.2575901" lon="19.4065077" action="modify" version="2" timestamp="2021-12-29T16:27:32Z" changeset="115528005" uid="4470325" user="Fiszi37">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Brodnicy" />
+    <tag k="phone" v="+48 56 697 49 74" />
+    <tag k="fax" v="+48 56 697 48 74" />
+    <tag k="email" v="psse.brodnica@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-brodnica" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Brodnicy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="opening_hours" v="Mo-Fr 07:00-15:00"/>
+  </node>
+  <node id="2779676801" lat="53.1187300" lon="18.0054598" action="modify" version="3" timestamp="2020-07-26T12:01:01Z" changeset="88518964" uid="4591796" user="IiF">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Bydgoszczy" />
+    <tag k="phone" v="+48 52 376 18 00" />
+    <tag k="fax" v="+48 52 345 98 40" />
+    <tag k="email" v="wsse.bydgoszcz@pis.gov.pl" />
+    <tag k="website" v="www.pwisbydgoszcz.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bydgoszczy" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="source:addr" v="EMUiA (emuia.gugik.gov.pl)"/>
+  </node>
+  <node id="3029757321" lat="50.2681696" lon="19.5707082" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Olkuszu" />
+    <tag k="phone" v="+48 32 754 57 20" />
+    <tag k="fax" v="+48 32 754 57 50" />
+    <tag k="email" v="psse.olkusz@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-olkusz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Olkuszu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Olkuszu"/>
+  </node>
+  <node id="3063712740" lat="53.4927230" lon="18.7540748" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Grudziądzu" />
+    <tag k="phone" v="+48 56 451 78 10" />
+    <tag k="fax" v="+48 56 451 78 11" />
+    <tag k="email" v="psse.grudziadz@pis.gov.pl" />
+    <tag k="website" v="http://www.ppis.grudziadz.com/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Grudziądzu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Grudziądzu"/>
+  </node>
+  <node id="3208352974" lat="52.8786053" lon="20.6017600" action="modify" version="4" timestamp="2021-02-17T05:35:41Z" changeset="99422169" uid="9387509" user="Grzegorz Jablonowski">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Ciechanowie" />
+    <tag k="phone" v="+48 23 672 33 13" />
+    <tag k="fax" v="+48 23 672 41 44" />
+    <tag k="email" v="ciechanow@psse.waw.pl" />
+    <tag k="website" v="www.ciechanow.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Ciechanowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:05"/>
+  </node>
+  <node id="3225006028" lat="51.6457000" lon="22.9085500" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Parczewie" />
+    <tag k="phone" v="+48 83 354 23 29" />
+    <tag k="fax" v="+48 83 354 13 10" />
+    <tag k="email" v="psse.parczew@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-parczew" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Parczewie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Parczewie"/>
+    <tag k="source:addr" v="parczew.e-mapa.net"/>
+  </node>
+  <node id="3445365648" lat="50.6663057" lon="17.9385892" action="modify" version="1" timestamp="2015-04-08T19:22:42Z" changeset="30072369" uid="2319082" user="jacek_zwik">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Opolu" />
+    <tag k="phone" v="+48 77 442 69 01" />
+    <tag k="fax" v="+48 77 442 69 04" />
+    <tag k="email" v="wsse.opole@pis.gov.pl" />
+    <tag k="website" v="www.wsseopole.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Opolu" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="contact:phone" v="+48 77 442 69 01"/>
+    <tag k="contact:website" v="http://wsseopole.pis.gov.pl/"/>
+  </node>
+  <node id="4375210241" lat="51.5030266" lon="16.0686650" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Polkowicach" />
+    <tag k="phone" v="+48 76 746 22 46" />
+    <tag k="fax" v="+48 76 746 22 47" />
+    <tag k="email" v="psse.polkowice@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-polkowice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Polkowicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Polkowicach"/>
+  </node>
+  <node id="5090007626" lat="51.8830836" lon="17.0063387" action="modify" version="3" timestamp="2020-01-27T08:54:37Z" changeset="80130363" uid="418930" user="OpenStreetMap-WP">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gostyniu" />
+    <tag k="phone" v="+48 65 572 30 89" />
+    <tag k="fax" v="+48 65 572 14 66" />
+    <tag k="email" v="psse.gostyn@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-gostyn.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gostyniu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="5429088140" lat="50.2960336" lon="21.4438355" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 17 586 30 21" />
+    <tag k="fax" v="+48 17 586 30 21" />
+    <tag k="email" v="psse.mielec@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-mielec" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Mielec" />
+    <tag k="admin_level" v="6"/>
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="5518083676" lat="53.5449487" lon="14.5438719" action="modify" version="1" timestamp="2018-03-31T09:24:49Z" changeset="57683247" uid="4569366" user="JulesGabrielVerne">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Policach" />
+    <tag k="phone" v="+48 91 424 12 32" />
+    <tag k="fax" v="+48 91 312 20 32" />
+    <tag k="email" v="psse.police@pis.gov.pl" />
+    <tag k="website" v="pssepolice.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Policach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="6368652201" lat="53.4507133" lon="14.5148684" action="modify" version="2" timestamp="2020-03-12T13:23:10Z" changeset="82114505" uid="3214275" user="pio2_122">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Szczecinie" />
+    <tag k="phone" v="+48 91 487 03 13" />
+    <tag k="fax" v="+48 91 486 11 41" />
+    <tag k="email" v="psse.szczecin@pis.gov.pl" />
+    <tag k="website" v="psseszczecin.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Szczecinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00"/>
+  </node>
+  <node id="6501407544" lat="53.5580607" lon="20.9874015" action="modify" version="5" timestamp="2021-10-09T07:48:20Z" changeset="112290965" uid="9387509" user="Grzegorz Jablonowski">
+    <tag k="phone" v="+48 89 624 87 31" />
+    <tag k="fax" v="+48 89 623 24 20" />
+    <tag k="email" v="psse.szczytno@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.sanepid.szczytno.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Szczytno" />
+    <tag k="opening_hours" v="Mo-Fr 07:00-15:00"/>
+  </node>
+  <node id="6522150709" lat="51.8028238" lon="15.7149668" action="modify" version="1" timestamp="2019-06-04T21:46:11Z" changeset="70938947" uid="3266826" user="Eastside_999">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nowej Soli" />
+    <tag k="phone" v="+48 68 387 24 61" />
+    <tag k="fax" v="+48 68 387 47 38" />
+    <tag k="email" v="pssenowasol@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-nowa-sol" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nowej Soli" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="6522150743" lat="51.9298182" lon="15.5028537" action="modify" version="1" timestamp="2019-06-04T21:46:11Z" changeset="70938947" uid="3266826" user="Eastside_999">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zielonej Górze" />
+    <tag k="phone" v="+48 68 325 46 71" />
+    <tag k="fax" v="+48 68 351 47 96" />
+    <tag k="email" v="pssezielonagora@wsse.gorzow .pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-zielona-gora" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zielonej Górze" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="6522150744" lat="52.2491996" lon="15.5319430" action="modify" version="1" timestamp="2019-06-04T21:46:11Z" changeset="70938947" uid="3266826" user="Eastside_999">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Świebodzinie" />
+    <tag k="phone" v="+48 68 382 07 47" />
+    <tag k="fax" v="+48 68 382 23 21" />
+    <tag k="email" v="psseswiebodzin@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-swiebodzin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Świebodzinie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="6727411090" lat="49.9997801" lon="18.4597454" action="modify" version="1" timestamp="2019-08-20T17:15:56Z" changeset="73549706" uid="776950" user="RadoslawJ">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wodzisławiu Śląskim" />
+    <tag k="phone" v="+48 32 456 38 10" />
+    <tag k="fax" v="+48 32 455 15 96" />
+    <tag k="email" v="psse.wodzislawslaski@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-wodzislaw-slaski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wodzisławiu Śląskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:05"/>
+  </node>
+  <node id="6885557385" lat="50.2738796" lon="19.1437225" action="modify" version="1" timestamp="2019-10-16T11:34:53Z" changeset="75773869" uid="10385330" user="gslabosz">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sosnowcu" />
+    <tag k="phone" v="+48 32 266 55 38" />
+    <tag k="fax" v="+48 32 266 38 83" />
+    <tag k="email" v="psse.sosnowiec@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-sosnowiec" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sosnowcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:05"/>
+  </node>
+  <node id="7180862940" lat="52.9121525" lon="22.5110592" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wysokiem Mazowieckiem" />
+    <tag k="phone" v="+48 86 275 25 91" />
+    <tag k="fax" v="+48 86 275 25 85" />
+    <tag k="email" v="pssewysmaz@wp.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-wysokie-mazowieckie" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wysokiem Mazowieckiem" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Wysokiem Mazowieckiem"/>
+  </node>
+  <node id="7288597652" lat="53.4149305" lon="14.5554802" action="modify" version="3" timestamp="2020-09-08T17:42:19Z" changeset="90600123" uid="3214275" user="pio2_122">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Szczecinie" />
+    <tag k="phone" v="+48 91 462 40 60" />
+    <tag k="fax" v="+48 91 462 46 40" />
+    <tag k="email" v="wsse.szczecin@pis.gov.pl" />
+    <tag k="website" v="www.wsse.szczecin.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Szczecinie" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00"/>
+  </node>
+  <node id="7318684248" lat="54.3586362" lon="18.6543148" action="modify" version="1" timestamp="2020-03-22T10:19:40Z" changeset="82478948" uid="2757838" user="kukułka">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gdańsku" />
+    <tag k="phone" v="+48 58 320 08 00" />
+    <tag k="fax" v="+48 58 301 85 45" />
+    <tag k="email" v="psse.gdansk@pis.gov.pl" />
+    <tag k="website" v="http://www.psse.gda.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gdańsku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="contact:email" v="psse.gdansk@pis.gov.pl"/>
+  </node>
+  <node id="7389421288" lat="53.0092445" lon="18.5712356" action="modify" version="4" timestamp="2021-03-31T16:29:29Z" changeset="102068102" uid="10319455" user="Antoni_W">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Toruniu" />
+    <tag k="phone" v="+48 56 622 50 29" />
+    <tag k="fax" v="+48 56 622 22 47" />
+    <tag k="email" v="psse.torun@pis.gov.pl" />
+    <tag k="website" v="www.torun.psse.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Toruniu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid Toruń"/>
+  </node>
+  <node id="7394687848" lat="52.6568317" lon="19.0622341" action="modify" version="3" timestamp="2020-06-22T22:10:50Z" changeset="87000478" uid="11188133" user="mandro">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna we Włocławku" />
+    <tag k="phone" v="+48 54 411 68 33" />
+    <tag k="fax" v="+48 54 411 68 40" />
+    <tag k="email" v="psse.wloclawek@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-wloclawek" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid we Włocławku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="sanepid Włocławek"/>
+  </node>
+  <node id="7538570829" lat="49.6876128" lon="19.2052867" action="modify" version="2" timestamp="2020-10-11T08:47:21Z" changeset="92295235" uid="2248159" user="damianp25">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Żywcu" />
+    <tag k="phone" v="+48 33 866 67 72" />
+    <tag k="fax" v="+48 33 866 67 73" />
+    <tag k="email" v="psse.zywiec@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-zywiec" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Żywcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="healthcare:speciality" v="community"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-14:35"/>
+  </node>
+  <node id="7595781965" lat="51.2355272" lon="20.8665628" action="modify" version="1" timestamp="2020-06-05T13:54:07Z" changeset="86248224" uid="1993471" user="Karol_S">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Szydłowcu" />
+    <tag k="phone" v="+48 48 617 12 19" />
+    <tag k="fax" v="+48 48 617 12 19" />
+    <tag k="email" v="szydlowiec@psse.waw.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-szydlowiec" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Szydłowcu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="7816057767" lat="51.6248548" lon="21.9351766" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Rykach" />
+    <tag k="phone" v="+48 81 865 16 37" />
+    <tag k="fax" v="+48 81 865 16 37" />
+    <tag k="email" v="psse.ryki@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-ryki" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Rykach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Rykach"/>
+    <tag k="source:addr" v="ryki.e-mapa.net"/>
+  </node>
+  <node id="8524107531" lat="53.9200156" lon="15.1965525" action="modify" version="1" timestamp="2021-03-16T10:26:33Z" changeset="101112782" uid="2605901" user="azalizh">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gryficach" />
+    <tag k="phone" v="+48 91 387 83 19" />
+    <tag k="fax" v="+48 91 387 83 20" />
+    <tag k="email" v="psse.gryfice@pis.gov.pl" />
+    <tag k="website" v="pssegryfice.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gryficach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="8893578711" lat="50.8722807" lon="20.6051764" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Kielcach" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 345 18 73" />
+    <tag k="email" v="wsse.kielce@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/wsse-kielce" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kielcach" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Kielcach"/>
+    <tag k="facebook" v="https://www.facebook.com/wssekielce"/>
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00"/>
+  </node>
+  <node id="9344092070" lat="52.6297414" lon="20.3755811" action="modify" version="2" timestamp="2021-12-31T08:57:33Z" changeset="115598905" uid="5060085" user="Piotr Strębski">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Płońsku" />
+    <tag k="phone" v="+48 23 662 28 39" />
+    <tag k="fax" v="+48 23 662 28 39" />
+    <tag k="email" v="plonsk@psse.waw.pl" />
+    <tag k="website" v="www.plonsk.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Płońsku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+  </node>
+  <node id="10210062520" lat="50.5166278" lon="22.1575245" action="modify" version="2" timestamp="2023-01-09T16:33:51Z" changeset="131063915" uid="10642775" user="Dawid2849">
+    <tag k="phone" v="+48 15 841 20 10" />
+    <tag k="fax" v="+48 15 841 20 10" />
+    <tag k="email" v="psse.nisko@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-nisko" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Nisko" />
+    <tag k="emergency:phone" v="+48 887 437 486"/>
+    <tag k="loc_name" v="Sanepid"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:05"/>
+  </node>
+  <node id="10313727053" lat="51.2904454" lon="22.8786949" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łęcznej" />
+    <tag k="phone" v="+48 81 752 31 67" />
+    <tag k="fax" v="+48 81 752 31 67" />
+    <tag k="email" v="psse.leczna@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-leczna" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łęcznej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Łęcznej"/>
+  </node>
+  <node id="10313739624" lat="50.0164027" lon="22.6800911" action="modify" version="1" timestamp="2023-01-07T22:53:36Z" changeset="130998551" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 16 624 24 40" />
+    <tag k="fax" v="+48 16 621 25 18" />
+    <tag k="email" v="psse.jaroslaw@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-jaroslaw" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Jarosław" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10313766915" lat="51.4135037" lon="21.9632108" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Puławach" />
+    <tag k="phone" v="+48 81 886 48 91" />
+    <tag k="fax" v="+48 81 886 48 91" />
+    <tag k="email" v="psse.pulawy@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-pulawy" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Puławach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Puławach"/>
+  </node>
+  <node id="10313774606" lat="51.2271156" lon="22.6995673" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Świdniku" />
+    <tag k="phone" v="+48 81 745 56 10" />
+    <tag k="fax" v="+48 81 468 70 20" />
+    <tag k="email" v="psse.swidnik@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-swidnik" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Świdniku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Świdniku"/>
+  </node>
+  <node id="10313775975" lat="52.0758000" lon="23.5139000" action="modify" version="2" timestamp="2023-01-09T02:05:43Z" changeset="131035891" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Graniczna Stacja Sanitarno-Epidemiologiczna w Koroszczynie" />
+    <tag k="phone" v="+48 83 375 30 56" />
+    <tag k="fax" v="+48 83 375 30 26" />
+    <tag k="email" v="gsse.koroszczyn@pis.gov.pl" />
+    <tag k="website" v="www.gssekoroszczyn.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Graniczna Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Koroszczynie"/>
+  </node>
+  <node id="10313780611" lat="50.6965445" lon="22.4277329" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Janowie Lubelskim" />
+    <tag k="phone" v="+48 15 872 54 00" />
+    <tag k="fax" v="+48 15 872 47 62" />
+    <tag k="email" v="psse.janowlubelski@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-janow-lubelski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Janowie Lubelskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Janowie Lubelskim"/>
+  </node>
+  <node id="10313780612" lat="50.2775410" lon="23.5890475" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Graniczna Stacja Sanitarno-Epidemiologiczna w Hrebennem" />
+    <tag k="phone" v="+48 84 539 61 20" />
+    <tag k="fax" v="+48 84 667 41 33" />
+    <tag k="email" v="gsse.hrebenne@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/gsse-hrebenne" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Graniczna Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Hrebennem"/>
+  </node>
+  <node id="10313789464" lat="51.1805321" lon="23.8023127" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Graniczna Stacja Sanitarno-Epidemiologiczna w Dorohusku" />
+    <tag k="phone" v="+48 82 566 17 14" />
+    <tag k="fax" v="+48 82 566 17 14" />
+    <tag k="email" v="gsse.dorohusk@pis.gov.pl" />
+    <tag k="website" v="www.gssedorohusk.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Graniczna Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="addr:city" v="Dorohusk"/>
+    <tag k="alt_name" v="Sanepid w Dorohusku"/>
+  </node>
+  <node id="10313812294" lat="49.6922990" lon="22.0086313" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 13 434 14 59" />
+    <tag k="fax" v="+48 13 434 14 59" />
+    <tag k="email" v="psse.brzozow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-brzozow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Brzozów" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10313829042" lat="49.4328471" lon="22.6029547" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 13 461 28 06" />
+    <tag k="fax" v="+48 13 461 28 06" />
+    <tag k="email" v="psse.ustrzykidolne@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-ustrzyki-dolne" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Ustrzyki Dolne" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10313829043" lat="49.7842520" lon="22.7903972" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna Oddział LAB w Przemyślu" />
+    <tag k="phone" v="+48 16 678 88 58" />
+    <tag k="fax" v="+48 16 678 85 58" />
+    <tag k="email" v="przemysl@wsse.rzeszow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/wsse-rzeszow/laboratoria-pis" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Przemyślu" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna Oddział LAB" />
+    <tag k="alt_name" v="Sanepid w Przemyślu"/>
+  </node>
+  <node id="10313829044" lat="49.7841584" lon="22.7906767" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 16 670 76 91" />
+    <tag k="fax" v="+48 16 670 07 38" />
+    <tag k="email" v="psse.przemysl@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-przemysl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Przemyśl" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10313837066" lat="49.7841715" lon="22.7903927" action="modify" version="1" timestamp="2023-01-07T23:56:39Z" changeset="130999610" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 16 678 27 86" />
+    <tag k="fax" v="+48 16 678 45 87" />
+    <tag k="email" v="gsse.przemysl@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/gsse-przemysl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Graniczna Stacja Sanitarno-Epidemiologiczna Przemyśl" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10313840514" lat="49.8688520" lon="21.7889757" action="modify" version="1" timestamp="2023-01-08T00:00:17Z" changeset="130999675" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 17 276 11 52" />
+    <tag k="fax" v="+48 17 276 11 52" />
+    <tag k="email" v="psse.strzyzow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-strzyzow/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Strzyżów" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10315292285" lat="51.5582844" lon="23.5533358" action="modify" version="1" timestamp="2023-01-08T18:44:41Z" changeset="131026654" uid="10492626" user="kpv8">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna we Włodawie" />
+    <tag k="phone" v="+48 82 572 14 05" />
+    <tag k="fax" v="+48 82 572 14 05" />
+    <tag k="email" v="psse.wlodawa@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-wlodawa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid we Włodawie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid we Włodawie"/>
+  </node>
+  <node id="10541989743" lat="50.0468730" lon="21.4021717" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 14 680 93 70" />
+    <tag k="fax" v="+48 14 680 93 71" />
+    <tag k="email" v="psse.debica@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-debica" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Dębica" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10542083986" lat="51.5313355" lon="20.0219596" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Tomaszowie Mazowieckim" />
+    <tag k="phone" v="+48 44 724 49 35" />
+    <tag k="fax" v="+48 44 724 51 17" />
+    <tag k="email" v="tomaszow@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-tomaszow-mazowiecki" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Tomaszowie Mazowieckim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Tomaszowie Mazowieckim"/>
+  </node>
+  <node id="10542085231" lat="53.1525250" lon="16.7171016" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pile" />
+    <tag k="phone" v="+48 67 212 52 98" />
+    <tag k="fax" v="+48 67 351 98 80" />
+    <tag k="email" v="psse.pila@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-pila.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pile" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Pile"/>
+  </node>
+  <node id="10544439382" lat="53.2669543" lon="16.4608515" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wałczu" />
+    <tag k="phone" v="+48 67 258 23 31" />
+    <tag k="fax" v="+48 67 258 23 31" />
+    <tag k="email" v="psse.walcz@pis.gov.pl" />
+    <tag k="website" v="pssewalcz.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wałczu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Wałczu"/>
+  </node>
+  <node id="10544441934" lat="54.2474936" lon="20.8139424" action="modify" version="1" timestamp="2023-01-12T23:50:22Z" changeset="131208569" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 89 762 21 50" />
+    <tag k="fax" v="+48 89 762 21 50" />
+    <tag k="email" v="psse.bartoszyce@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.bip.psse-bartoszyce.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Bartoszyce" />
+    <tag k="alt_name" v="Sanepid"/>
+  </node>
+  <node id="10544444922" lat="52.8645741" lon="21.0940786" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Makowie Maz." />
+    <tag k="phone" v="+48 29 717 13 00" />
+    <tag k="fax" v="+48 29 717 13 00" />
+    <tag k="email" v="makow@psse.waw.pl" />
+    <tag k="website" v="/www.gov.pl/web/psse-makow-mazowiecki" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Makowie Maz." />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Makowie Maz."/>
+  </node>
+  <node id="10544449061" lat="51.2951978" lon="18.1608001" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wieruszowie" />
+    <tag k="phone" v="+48 62 783 19 90" />
+    <tag k="fax" v="+48 62 783 19 90" />
+    <tag k="email" v="wieruszow@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-wieruszow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wieruszowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Wieruszowie"/>
+  </node>
+  <node id="10544469270" lat="52.7079214" lon="21.0845115" action="modify" version="2" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pułtusku" />
+    <tag k="phone" v="+48 23 692 50 71" />
+    <tag k="fax" v="+48 23 692 61 66" />
+    <tag k="email" v="pultusk@psse.waw.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-pultusk" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pułtusku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <tag k="alt_name" v="Sanepid w Pułtusku"/>
+  </node>
+  <way id="68076984" action="modify" version="7" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Chojnicach" />
+    <tag k="phone" v="+48 52 397 63 95" />
+    <tag k="fax" v="+48 52 396 80 81" />
+    <tag k="email" v="psse.chojnice@pis.gov.pl" />
+    <tag k="website" v="http://www.psse.chojnice.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Chojnicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="820845826"/>
+    <nd ref="820845850"/>
+    <nd ref="820845839"/>
+    <nd ref="820845806"/>
+    <nd ref="820845799"/>
+    <nd ref="820845842"/>
+    <nd ref="820845826"/>
+    <tag k="alt_name" v="Sanepid w Chojnicach"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="mchojnice.e-mapa.net"/>
+  </way>
+  <way id="103724525" action="modify" version="5" timestamp="2022-10-31T11:10:03Z" changeset="128292739" uid="7518458" user="puchaczowsky">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Głogowie" />
+    <tag k="phone" v="+48 76 727 25 94" />
+    <tag k="fax" v="+48 76 727 25 95" />
+    <tag k="email" v="psse.glogow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-glogow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Głogowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4005194085"/>
+    <nd ref="4005194078"/>
+    <nd ref="10104465964"/>
+    <nd ref="10104465963"/>
+    <nd ref="10104465962"/>
+    <nd ref="10104465965"/>
+    <nd ref="4005194126"/>
+    <nd ref="10104465952"/>
+    <nd ref="4005194132"/>
+    <nd ref="10104465967"/>
+    <nd ref="10104465961"/>
+    <nd ref="10104465959"/>
+    <nd ref="10104465960"/>
+    <nd ref="10104465958"/>
+    <nd ref="10104465966"/>
+    <nd ref="4005194085"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="source:geometry" v="geoportal.gov.pl, GPS"/>
+  </way>
+  <way id="112465449" action="modify" version="7" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Tucholi" />
+    <tag k="phone" v="+48 52 334 20 21" />
+    <tag k="fax" v="+48 52 334 20 21" />
+    <tag k="email" v="psse.tuchola@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-tuchola" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Tucholi" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="1278185526"/>
+    <nd ref="1278185492"/>
+    <nd ref="1278185613"/>
+    <nd ref="1278185443"/>
+    <nd ref="1278185627"/>
+    <nd ref="1278185526"/>
+    <tag k="alt_name" v="Sanepid w Tucholi"/>
+    <tag k="building" v="government"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="137707567" action="modify" version="3" timestamp="2023-01-13T00:21:29Z" changeset="131208988" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Graniczna Stacja Sanitarno-Epidemiologiczna w Gdyni" />
+    <tag k="phone" v="+48 58 620 81 15" />
+    <tag k="fax" v="+48 58 621 33 99" />
+    <tag k="email" v="gsse.gdynia@pis.gov.pl" />
+    <tag k="website" v="http://gsse.eu/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Graniczna Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="1510153316"/>
+    <nd ref="1510153321"/>
+    <nd ref="1510153327"/>
+    <nd ref="1510153336"/>
+    <nd ref="1510153340"/>
+    <nd ref="1510153342"/>
+    <nd ref="1510153344"/>
+    <nd ref="1510153349"/>
+    <nd ref="1510153316"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="154867618" action="modify" version="6" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Bydgoszczy" />
+    <tag k="phone" v="+48 52 515 40 20" />
+    <tag k="fax" v="+48 52 584 11 44" />
+    <tag k="email" v="psse.bydgoszcz@pis.gov.pl" />
+    <tag k="website" v="www.ppis.bydgoszcz.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Bydgoszczy" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="1673349096"/>
+    <nd ref="1673349208"/>
+    <nd ref="1673349001"/>
+    <nd ref="1673349089"/>
+    <nd ref="1673349308"/>
+    <nd ref="1673349771"/>
+    <nd ref="1673348979"/>
+    <nd ref="1673349642"/>
+    <nd ref="1673349049"/>
+    <nd ref="1673349096"/>
+    <tag k="alt_name" v="Sanepid w Bydgoszczy"/>
+    <tag k="building" v="yes"/>
+    <tag k="opening_hours:covid19" v="open"/>
+  </way>
+  <way id="166443925" action="modify" version="6" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 17 242 07 54" />
+    <tag k="fax" v="+48 17 240 18 44" />
+    <tag k="email" v="psse.lezajsk@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-lezajsk" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Leżajsk" />
+    <nd ref="1778955909"/>
+    <nd ref="8831698470"/>
+    <nd ref="1778955907"/>
+    <nd ref="1778955908"/>
+    <nd ref="1778955910"/>
+    <nd ref="1778955909"/>
+    <tag k="alt_name" v="Sanepid"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="UM Leżajsk (emuia.gugik.gov.pl)"/>
+  </way>
+  <way id="166878229" action="modify" version="10" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zamościu" />
+    <tag k="phone" v="+48 84 639 36 91" />
+    <tag k="fax" v="+48 84 627 10 59" />
+    <tag k="email" v="psse.zamosc@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-zamosc" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zamościu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="1782970402"/>
+    <nd ref="1782970396"/>
+    <nd ref="1782970395"/>
+    <nd ref="1782970390"/>
+    <nd ref="1782970397"/>
+    <nd ref="1782970402"/>
+    <tag k="alt_name" v="Sanepid w Zamościu"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="opening_hours" v="Mo-Fr 7:30-15:05"/>
+    <tag k="source:addr" v="mzamosc.e-mapa.net"/>
+  </way>
+  <way id="175191654" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna we Włoszczowie" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 394 34 96" />
+    <tag k="email" v="psse.wloszczowa@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-wloszczowa" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid we Włoszczowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4128762512"/>
+    <nd ref="4128758157"/>
+    <nd ref="4128758346"/>
+    <nd ref="4128762507"/>
+    <nd ref="4128762512"/>
+    <tag k="alt_name" v="Sanepid we Włoszczowie"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="wloszczowa.e-mapa.net"/>
+  </way>
+  <way id="176543396" action="modify" version="10" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Brzezinach" />
+    <tag k="phone" v="+48 46 874 33 30" />
+    <tag k="fax" v="+48 46 874 33 30" />
+    <tag k="email" v="psse.brzeziny@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-brzeziny" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Brzezinach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="5139122558"/>
+    <nd ref="5139122548"/>
+    <nd ref="5139122556"/>
+    <nd ref="5139122555"/>
+    <nd ref="5139122558"/>
+    <tag k="alt_name" v="Sanepid w Brzezinach"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="176792408" action="modify" version="7" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Lublinie" />
+    <tag k="phone" v="+48 81 743 42 72" />
+    <tag k="fax" v="+48 81 743 46 86" />
+    <tag k="email" v="wsse.lublin@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/wsse-lublin" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lublinie" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="1872784164"/>
+    <nd ref="1872783999"/>
+    <nd ref="1872784238"/>
+    <nd ref="1872783956"/>
+    <nd ref="2895184347"/>
+    <nd ref="2895184346"/>
+    <nd ref="1872783995"/>
+    <nd ref="1872784160"/>
+    <nd ref="1872784291"/>
+    <nd ref="1872783808"/>
+    <nd ref="1872784424"/>
+    <nd ref="1872783887"/>
+    <nd ref="1872784164"/>
+    <tag k="alt_name" v="Sanepid w Lublinie"/>
+    <tag k="building" v="office"/>
+  </way>
+  <way id="178016971" action="modify" version="7" timestamp="2023-01-07T23:50:03Z" changeset="130999480" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 13 432 19 42" />
+    <tag k="fax" v="+48 13 432 19 45" />
+    <tag k="email" v="psse.krosno@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-krosno" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Krosno" />
+    <nd ref="5110177692"/>
+    <nd ref="5110177691"/>
+    <nd ref="5110177690"/>
+    <nd ref="5110177689"/>
+    <nd ref="5110177688"/>
+    <nd ref="5110177687"/>
+    <nd ref="5110177686"/>
+    <nd ref="5110177685"/>
+    <nd ref="5110177684"/>
+    <nd ref="5110177683"/>
+    <nd ref="5110177682"/>
+    <nd ref="5110177681"/>
+    <nd ref="5110177680"/>
+    <nd ref="5110177679"/>
+    <nd ref="5110177692"/>
+    <tag k="alt_name" v="Sanepid w Krośnie"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="source:addr" v="EMUiA (emuia.geoportal.gov.pl)"/>
+  </way>
+  <way id="180955726" action="modify" version="9" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Krakowie" />
+    <tag k="phone" v="+48 12 254 95 55" />
+    <tag k="fax" v="+48 12 416 20 93" />
+    <tag k="email" v="wsse@wsse.krakow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/wsse-krakow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Krakowie" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="8319276372"/>
+    <nd ref="8319276371"/>
+    <nd ref="8319276370"/>
+    <nd ref="8319276369"/>
+    <nd ref="8319276368"/>
+    <nd ref="8319276367"/>
+    <nd ref="8319276366"/>
+    <nd ref="8319276365"/>
+    <nd ref="8319276364"/>
+    <nd ref="3751439547"/>
+    <nd ref="8319276363"/>
+    <nd ref="8319276362"/>
+    <nd ref="8319276361"/>
+    <nd ref="8319276372"/>
+    <tag k="alt_name" v="Sanepid w Krakowie"/>
+    <tag k="building" v="yes"/>
+    <tag k="emergency" v="no"/>
+  </way>
+  <way id="188456450" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Mońkach" />
+    <tag k="phone" v="+48 85 716 26 17" />
+    <tag k="fax" v="+48 85 727 90 65" />
+    <tag k="email" v="sekretariat@monki.psse.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-monki" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Mońkach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="1990857877"/>
+    <nd ref="1990857881"/>
+    <nd ref="1990857876"/>
+    <nd ref="1990857920"/>
+    <nd ref="1990857828"/>
+    <nd ref="1990857890"/>
+    <nd ref="1990857910"/>
+    <nd ref="1990857911"/>
+    <nd ref="1990857877"/>
+    <tag k="alt_name" v="Sanepid w Mońkach"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="monki.e-mapa.net"/>
+  </way>
+  <way id="194112659" action="modify" version="8" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 17 225 00 70" />
+    <tag k="fax" v="+48 17 225 00 72" />
+    <tag k="email" v="psse.lancut@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-lancut" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Łańcut" />
+    <nd ref="2582218212"/>
+    <nd ref="2582218214"/>
+    <nd ref="2046239085"/>
+    <nd ref="2012898288"/>
+    <nd ref="2012898286"/>
+    <nd ref="2582218212"/>
+    <tag k="alt_name" v="Sanepid"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="198079890" action="modify" version="8" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Rzeszowie" />
+    <tag k="phone" v="+48 17 852 21 11" />
+    <tag k="fax" v="+48 17 852 22 92" />
+    <tag k="email" v="dyzur@wsse.rzeszow.pl" />
+    <tag k="website" v="http://www.wsse.rzeszow.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Rzeszowie" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2082639813"/>
+    <nd ref="2082639761"/>
+    <nd ref="2082639776"/>
+    <nd ref="2082639794"/>
+    <nd ref="2082639829"/>
+    <nd ref="2082639769"/>
+    <nd ref="2082639749"/>
+    <nd ref="2082639760"/>
+    <nd ref="3020446660"/>
+    <nd ref="2082639752"/>
+    <nd ref="2082639745"/>
+    <nd ref="2082639723"/>
+    <nd ref="2082639734"/>
+    <nd ref="2082639737"/>
+    <nd ref="2082639767"/>
+    <nd ref="2082639813"/>
+    <tag k="alt_name" v="Sanepid w Rzeszowie"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="11"/>
+  </way>
+  <way id="203212569" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Chełmnie" />
+    <tag k="phone" v="+48 56 676 17 00" />
+    <tag k="fax" v="+48 56 676 15 13" />
+    <tag k="email" v="psse.chelmno@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-chelmno/kontakt2" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Chełmnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2131923921"/>
+    <nd ref="2131923924"/>
+    <nd ref="2131923932"/>
+    <nd ref="2131923929"/>
+    <nd ref="2131923921"/>
+    <tag k="alt_name" v="Sanepid w Chełmnie"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="204687673" action="modify" version="8" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Jeleniej Górze" />
+    <tag k="phone" v="+48 75 643 55 60" />
+    <tag k="fax" v="+48 75 643 55 61" />
+    <tag k="email" v="psse.jeleniagora@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-jelenia-gora" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Jeleniej Górze" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4009467308"/>
+    <nd ref="4009467179"/>
+    <nd ref="4009467161"/>
+    <nd ref="4009467300"/>
+    <nd ref="4009467308"/>
+    <tag k="alt_name" v="Sanepid w Jeleniej Górze"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:geometry" v="geoportal.gov.pl, GPS"/>
+  </way>
+  <way id="205446119" action="modify" version="8" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kole" />
+    <tag k="phone" v="+48 63 272 22 79" />
+    <tag k="fax" v="+48 63 272 22 79" />
+    <tag k="email" v="psse.kolo@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-kolo.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kole" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2154202392"/>
+    <nd ref="10099495246"/>
+    <nd ref="10099495245"/>
+    <nd ref="10099495244"/>
+    <nd ref="10099495243"/>
+    <nd ref="2154202396"/>
+    <nd ref="10099495242"/>
+    <nd ref="10099495241"/>
+    <nd ref="10099495240"/>
+    <nd ref="10099495239"/>
+    <nd ref="2154202394"/>
+    <nd ref="10099495238"/>
+    <nd ref="10099495237"/>
+    <nd ref="10099495236"/>
+    <nd ref="10099495235"/>
+    <nd ref="2154202391"/>
+    <nd ref="2154202392"/>
+    <tag k="admin_level" v="6"/>
+    <tag k="alt_name" v="Sanepid w Kole"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="emergency:phone" v="+48 695 426 274"/>
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00"/>
+    <tag k="source:addr" v="mkolo.e-mapa.net"/>
+  </way>
+  <way id="225922981" action="modify" version="3" timestamp="2019-08-17T14:16:53Z" changeset="73443900" uid="3214275" user="pio2_122">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Nysie" />
+    <tag k="phone" v="+48 77 433 00 78" />
+    <tag k="fax" v="+48 77 433 00 79" />
+    <tag k="email" v="psse.nysa@pis.gov.pl" />
+    <tag k="website" v="www.pssenysa.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Nysie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2347552806"/>
+    <nd ref="2347552829"/>
+    <nd ref="2347552852"/>
+    <nd ref="2347552885"/>
+    <nd ref="2347552843"/>
+    <nd ref="2347552806"/>
+    <tag k="building" v="office"/>
+    <tag k="loc_name" v="Sanepid"/>
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00"/>
+  </way>
+  <way id="228861657" action="modify" version="10" timestamp="2021-11-25T12:39:03Z" changeset="114221993" uid="67033" user="lzur">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Dzierżoniowie" />
+    <tag k="phone" v="+48 74 832 33 33" />
+    <tag k="fax" v="+48 74 832 33 34" />
+    <tag k="email" v="psse.dzierzoniow@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-dzierzoniow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Dzierżoniowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="5271967739"/>
+    <nd ref="5271967738"/>
+    <nd ref="5271967737"/>
+    <nd ref="5271967736"/>
+    <nd ref="5271967735"/>
+    <nd ref="5271967734"/>
+    <nd ref="5271967733"/>
+    <nd ref="5271967732"/>
+    <nd ref="5271967739"/>
+    <tag k="building" v="yes"/>
+    <tag k="description" v="Powiatowa Stacja Sanitarno-Epidemiologiczna (Sanepid)"/>
+    <tag k="name:pl" v="Powiatowa Stacja Sanitarno-Epidemiologiczna"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="236603295" action="modify" version="6" timestamp="2021-10-18T21:19:57Z" changeset="112670929" uid="594456" user="Michoo">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna w Białymstoku" />
+    <tag k="phone" v="+48 85 740 85 40" />
+    <tag k="fax" v="+48 85 740 48 99" />
+    <tag k="email" v="sekretariat@bialystok.wsse.gov.pl" />
+    <tag k="website" v="http://www.gov.pl/web/wsse-bialystok" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Białymstoku" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2446218886"/>
+    <nd ref="2446218887"/>
+    <nd ref="4391776534"/>
+    <nd ref="9181243207"/>
+    <nd ref="2446218888"/>
+    <nd ref="9181243208"/>
+    <nd ref="9181243209"/>
+    <nd ref="4391776527"/>
+    <nd ref="4391776526"/>
+    <nd ref="2446218892"/>
+    <nd ref="2446218894"/>
+    <nd ref="2446218896"/>
+    <nd ref="9181243216"/>
+    <nd ref="9181243215"/>
+    <nd ref="9181243213"/>
+    <nd ref="9181243210"/>
+    <nd ref="9181243212"/>
+    <nd ref="9181243211"/>
+    <nd ref="9181243214"/>
+    <nd ref="4391776536"/>
+    <nd ref="2446218886"/>
+    <tag k="alt_name" v="Sanepid"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:00;PH off"/>
+    <tag k="roof:height" v="4"/>
+    <tag k="roof:material" v="roof_tiles"/>
+    <tag k="roof:shape" v="flat"/>
+  </way>
+  <way id="250058247" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Drezdenku" />
+    <tag k="phone" v="+48 95 762 05 20" />
+    <tag k="fax" v="+48 95 762 08 99" />
+    <tag k="email" v="pssedrezdenko@wsse.gorzow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-drezdenko" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Drezdenku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2565761393"/>
+    <nd ref="2565761401"/>
+    <nd ref="2565761403"/>
+    <nd ref="2565761467"/>
+    <nd ref="2565761477"/>
+    <nd ref="2565761408"/>
+    <nd ref="2565761392"/>
+    <nd ref="2565761383"/>
+    <nd ref="2565761274"/>
+    <nd ref="2565761259"/>
+    <nd ref="2565761263"/>
+    <nd ref="2565761270"/>
+    <nd ref="2565761268"/>
+    <nd ref="2565761261"/>
+    <nd ref="2565761258"/>
+    <nd ref="2565761249"/>
+    <nd ref="2565761323"/>
+    <nd ref="2565761322"/>
+    <nd ref="2565761365"/>
+    <nd ref="2565761374"/>
+    <nd ref="2565761395"/>
+    <nd ref="2565761398"/>
+    <nd ref="2565761393"/>
+    <tag k="alt_name" v="Sanepid w Drezdenku"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="drezdenko.e-mapa.net"/>
+  </way>
+  <way id="257675563" action="modify" version="8" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Białej Podlaskiej" />
+    <tag k="phone" v="+48 83 344 41 60" />
+    <tag k="fax" v="+48 83 343 76 39" />
+    <tag k="email" v="psse.bialapodlaska@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-biala-podlaska" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Białej Podlaskiej" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3385342183"/>
+    <nd ref="3385342199"/>
+    <nd ref="3385342195"/>
+    <nd ref="3385342197"/>
+    <nd ref="3385342189"/>
+    <nd ref="3385342137"/>
+    <nd ref="3385342121"/>
+    <nd ref="3385342128"/>
+    <nd ref="3385342130"/>
+    <nd ref="3385342135"/>
+    <nd ref="3385342134"/>
+    <nd ref="3385342152"/>
+    <nd ref="3385342154"/>
+    <nd ref="3385342157"/>
+    <nd ref="3385342155"/>
+    <nd ref="3385342166"/>
+    <nd ref="3385342169"/>
+    <nd ref="3385342175"/>
+    <nd ref="3385342174"/>
+    <nd ref="3385342193"/>
+    <nd ref="3385342196"/>
+    <nd ref="3385342201"/>
+    <nd ref="3385342191"/>
+    <nd ref="3385342207"/>
+    <nd ref="3385342209"/>
+    <nd ref="3385342203"/>
+    <nd ref="3385342185"/>
+    <nd ref="3385342179"/>
+    <nd ref="3385342173"/>
+    <nd ref="3385342176"/>
+    <nd ref="3385342161"/>
+    <nd ref="3385342159"/>
+    <nd ref="3385342142"/>
+    <nd ref="3385342139"/>
+    <nd ref="3385342119"/>
+    <nd ref="3385342118"/>
+    <nd ref="3385342099"/>
+    <nd ref="3385342107"/>
+    <nd ref="3385342112"/>
+    <nd ref="3385342114"/>
+    <nd ref="3385342126"/>
+    <nd ref="3385342131"/>
+    <nd ref="3385342145"/>
+    <nd ref="3385342187"/>
+    <nd ref="3385342183"/>
+    <tag k="alt_name" v="Sanepid w Białej Podlaskiej"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="262734224" action="modify" version="3" timestamp="2016-06-07T16:50:17Z" changeset="39865843" uid="2445224" user="rowers2">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kluczborku" />
+    <tag k="phone" v="+48 77 418 22 57" />
+    <tag k="fax" v="+48 77 447 20 02" />
+    <tag k="email" v="psse.kluczbork@pis.gov.pl" />
+    <tag k="website" v="www.pssekluczbork.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kluczborku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2683835708"/>
+    <nd ref="2683835425"/>
+    <nd ref="2683835424"/>
+    <nd ref="2683835397"/>
+    <nd ref="2683835401"/>
+    <nd ref="3152504113"/>
+    <nd ref="2683835121"/>
+    <nd ref="2683835116"/>
+    <nd ref="2683835090"/>
+    <nd ref="2683835094"/>
+    <nd ref="2683834199"/>
+    <nd ref="2683834194"/>
+    <nd ref="2683834150"/>
+    <nd ref="2683834157"/>
+    <nd ref="2683834121"/>
+    <nd ref="2683834129"/>
+    <nd ref="2683834153"/>
+    <nd ref="2683834193"/>
+    <nd ref="2683834181"/>
+    <nd ref="2683834185"/>
+    <nd ref="2683834198"/>
+    <nd ref="2683834208"/>
+    <nd ref="2683834196"/>
+    <nd ref="2683834206"/>
+    <nd ref="2683834248"/>
+    <nd ref="2683834246"/>
+    <nd ref="2683835131"/>
+    <nd ref="2683835146"/>
+    <nd ref="2683835381"/>
+    <nd ref="2683835366"/>
+    <nd ref="2683835491"/>
+    <nd ref="2683835476"/>
+    <nd ref="2683836153"/>
+    <nd ref="2683836154"/>
+    <nd ref="2683836165"/>
+    <nd ref="2683836168"/>
+    <nd ref="2683836840"/>
+    <nd ref="2683836763"/>
+    <nd ref="2683836756"/>
+    <nd ref="2683836752"/>
+    <nd ref="2683836735"/>
+    <nd ref="3152504122"/>
+    <nd ref="2683836054"/>
+    <nd ref="2683836102"/>
+    <nd ref="2683836078"/>
+    <nd ref="2683836066"/>
+    <nd ref="2683835680"/>
+    <nd ref="2683835708"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:phone" v="77 418 2257"/>
+    <tag k="contact:website" v="http://www.pssekluczbork.pl/"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-15:05"/>
+  </way>
+  <way id="267528780" action="modify" version="8" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna Oddział LAB w Sanoku" />
+    <tag k="phone" v="+48 13 463 39 23" />
+    <tag k="fax" v="+48 13 464 57 65" />
+    <tag k="email" v="sanok@wsse.rzeszow.pl" />
+    <tag k="website" v="https://www.gov.pl/web/wsse-rzeszow/laboratoria-pis" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sanoku" />
+    <tag k="name" v="Wojewódzka Stacja Sanitarno-Epidemiologiczna Oddział LAB" />
+    <nd ref="4010876452"/>
+    <nd ref="4010876451"/>
+    <nd ref="4010876437"/>
+    <nd ref="4010876438"/>
+    <nd ref="4010876341"/>
+    <nd ref="4010876308"/>
+    <nd ref="4010876347"/>
+    <nd ref="4010876340"/>
+    <nd ref="4010876413"/>
+    <nd ref="4010876423"/>
+    <nd ref="4010876721"/>
+    <nd ref="4010876745"/>
+    <nd ref="4010876452"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="267528782" action="modify" version="6" timestamp="2023-01-12T00:37:54Z" changeset="131166206" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 13 464 12 19" />
+    <tag k="fax" v="+48 13 464 12 19" />
+    <tag k="email" v="psse.sanok@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-sanok" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Sanok" />
+    <nd ref="4010808441"/>
+    <nd ref="4010808446"/>
+    <nd ref="4010808443"/>
+    <nd ref="4010808455"/>
+    <nd ref="4010808462"/>
+    <nd ref="4010808436"/>
+    <nd ref="4010808435"/>
+    <nd ref="4010808431"/>
+    <nd ref="4010808432"/>
+    <nd ref="4010808429"/>
+    <nd ref="4010808428"/>
+    <nd ref="4010808427"/>
+    <nd ref="4010808426"/>
+    <nd ref="4010808424"/>
+    <nd ref="4010808423"/>
+    <nd ref="4010808422"/>
+    <nd ref="4010808420"/>
+    <nd ref="4010808439"/>
+    <nd ref="4010808441"/>
+    <tag k="alt_name" v="Sanepid"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="289514896" action="modify" version="6" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wadowicach" />
+    <tag k="phone" v="+48 33 823 37 66" />
+    <tag k="fax" v="+48 33 823 35 11" />
+    <tag k="email" v="psse.wadowice@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-wadowice" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wadowicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3497195669"/>
+    <nd ref="3497200041"/>
+    <nd ref="3497200045"/>
+    <nd ref="3497200066"/>
+    <nd ref="3497195669"/>
+    <tag k="alt_name" v="Sanepid w Wadowicach"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="EMUiA (wadowice.e-mapa.net)"/>
+  </way>
+  <way id="292555061" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zawierciu" />
+    <tag k="phone" v="+48 32 672 12 10" />
+    <tag k="fax" v="+48 32 672 12 10" />
+    <tag k="email" v="psse.zawiercie@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/psse-zawiercie" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zawierciu" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2960947294"/>
+    <nd ref="2960947295"/>
+    <nd ref="2960947296"/>
+    <nd ref="2960947297"/>
+    <nd ref="3350439920"/>
+    <nd ref="2960947294"/>
+    <tag k="alt_name" v="Sanepid w Zawierciu"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="295507738" action="modify" version="8" timestamp="2022-02-28T12:26:35Z" changeset="117942963" uid="14490253" user="LutyPL011">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pleszewie" />
+    <tag k="phone" v="+48 62 508 13 30" />
+    <tag k="fax" v="+48 62 508 13 30" />
+    <tag k="email" v="psse.pleszew@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-pleszew.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pleszewie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4503218578"/>
+    <nd ref="9544950246"/>
+    <nd ref="4503218579"/>
+    <nd ref="4503218575"/>
+    <nd ref="4503218565"/>
+    <nd ref="4503218573"/>
+    <nd ref="4503218572"/>
+    <nd ref="4503218571"/>
+    <nd ref="4503218570"/>
+    <nd ref="4503218578"/>
+    <tag k="addr:street:sym_ul" v="17394"/>
+    <tag k="building" v="yes"/>
+    <tag k="loc_name" v="Sanepid"/>
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="300052245" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Chełmie" />
+    <tag k="phone" v="+48 82 565 34 21" />
+    <tag k="fax" v="+48 82 565 30 13" />
+    <tag k="email" v="psse.chelm@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-chelm" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Chełmie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3041558006"/>
+    <nd ref="3041558007"/>
+    <nd ref="3107361272"/>
+    <nd ref="3107361274"/>
+    <nd ref="3107361269"/>
+    <nd ref="3107361267"/>
+    <nd ref="3041558008"/>
+    <nd ref="3041558009"/>
+    <nd ref="3041558006"/>
+    <tag k="alt_name" v="Sanepid w Chełmie"/>
+    <tag k="building" v="hospital"/>
+  </way>
+  <way id="300354971" action="modify" version="3" timestamp="2019-06-09T14:52:45Z" changeset="71073414" uid="707169" user="damndog">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kutnie" />
+    <tag k="phone" v="+48 24 355 71 00" />
+    <tag k="fax" v="+48 24 355 71 01" />
+    <tag k="email" v="psse.kutno@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-kutno" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kutnie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3044429977"/>
+    <nd ref="3044429971"/>
+    <nd ref="3044429967"/>
+    <nd ref="3044429975"/>
+    <nd ref="3044429977"/>
+    <tag k="building" v="yes"/>
+    <tag k="opening_hours" v="Mo-Fr 07:15-15:00"/>
+    <tag k="source:addr" v="EMUiA (emuia.geoportal.gov.pl)"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="301268298" action="modify" version="5" timestamp="2020-02-25T11:41:00Z" changeset="81452783" uid="5060085" user="Piotr Strębski">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Mławie" />
+    <tag k="phone" v="+48 23 654 35 73" />
+    <tag k="fax" v="+48 23 654 35 73" />
+    <tag k="email" v="mlawa@psse.waw.pl" />
+    <tag k="website" v="www.mlawa.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Mławie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3053491082"/>
+    <nd ref="3053506876"/>
+    <nd ref="3053491083"/>
+    <nd ref="6581622214"/>
+    <nd ref="6581622213"/>
+    <nd ref="3053491084"/>
+    <nd ref="3053491085"/>
+    <nd ref="6581622215"/>
+    <nd ref="6581622216"/>
+    <nd ref="6581622217"/>
+    <nd ref="6581622218"/>
+    <nd ref="3053491082"/>
+    <tag k="addr:street:sym_ul" v="11924"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="6"/>
+  </way>
+  <way id="303617131" action="modify" version="10" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Ostrowie" />
+    <tag k="phone" v="+48 62 737 89 00" />
+    <tag k="fax" v="+48 62 737 89 20" />
+    <tag k="email" v="psse.ostrowwlkp@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-ostrow.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Ostrowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3080198215"/>
+    <nd ref="3080198351"/>
+    <nd ref="3080198389"/>
+    <nd ref="3080198388"/>
+    <nd ref="3080198386"/>
+    <nd ref="3080198373"/>
+    <nd ref="3080198360"/>
+    <nd ref="3080198347"/>
+    <nd ref="3080198346"/>
+    <nd ref="3080198348"/>
+    <nd ref="3080198353"/>
+    <nd ref="3080198349"/>
+    <nd ref="3080198344"/>
+    <nd ref="3080198342"/>
+    <nd ref="3080198340"/>
+    <nd ref="3080198333"/>
+    <nd ref="3080198208"/>
+    <nd ref="3080198210"/>
+    <nd ref="3080198211"/>
+    <nd ref="3080198215"/>
+    <tag k="addr:place" v="Plac Stefana Rowińskiego"/>
+    <tag k="alt_name" v="Sanepid w Ostrowie Wielkopolskim"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="mostrowwielkopolski.e-mapa.net"/>
+  </way>
+  <way id="305963898" action="modify" version="7" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 17 221 83 21" />
+    <tag k="fax" v="+48 17 221 83 21" />
+    <tag k="email" v="psse.ropczyce@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-ropczyce" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Ropczyce" />
+    <nd ref="4105070148"/>
+    <nd ref="4105069949"/>
+    <nd ref="4105069975"/>
+    <nd ref="4105069957"/>
+    <nd ref="4105069965"/>
+    <nd ref="4386920263"/>
+    <nd ref="4386920264"/>
+    <nd ref="4105070183"/>
+    <nd ref="4105070148"/>
+    <tag k="alt_name" v="Sanepid"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="EMUiA (emuia.gugik.gov.pl)"/>
+  </way>
+  <way id="311527664" action="modify" version="10" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Grodzisku Mazowieckim" />
+    <tag k="phone" v="+48 22 755 57 76" />
+    <tag k="email" v="grodzisk@psse.waw.pl" />
+    <tag k="website" v="www.grodzisk.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Grodzisku Mazowieckim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3172007881"/>
+    <nd ref="3172007880"/>
+    <nd ref="5475302453"/>
+    <nd ref="5475302454"/>
+    <nd ref="3172007869"/>
+    <nd ref="3172007870"/>
+    <nd ref="4427911982"/>
+    <nd ref="4427911983"/>
+    <nd ref="5585888776"/>
+    <nd ref="3172007881"/>
+    <tag k="alt_name" v="Sanepid w Grodzisku Mazowieckim"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="grodziskmazowiecki.e-mapa.net"/>
+  </way>
+  <way id="312216360" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Starogardzie Gdańskim" />
+    <tag k="phone" v="+48 58 562 40 12" />
+    <tag k="fax" v="+48 58 562 40 11" />
+    <tag k="email" v="psse.starogardgdanski@pis.gov.pl" />
+    <tag k="website" v="http://www.psse-starogard.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Starogardzie Gdańskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3180654299"/>
+    <nd ref="3180654271"/>
+    <nd ref="3180654264"/>
+    <nd ref="3180654287"/>
+    <nd ref="3180654296"/>
+    <nd ref="3180654299"/>
+    <tag k="alt_name" v="Sanepid w Starogardzie Gdańskim"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="SIP Staarogardu Gdańskiego, stg.procad.pl"/>
+    <tag k="source:geometry" v="webewid.powiatstarogard.pl"/>
+  </way>
+  <way id="337542608" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kraśniku" />
+    <tag k="phone" v="+48 81 884 36 73" />
+    <tag k="fax" v="+48 81 884 36 73" />
+    <tag k="email" v="psse.krasnik@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-krasnik" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kraśniku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3446149771"/>
+    <nd ref="3446149772"/>
+    <nd ref="3446149773"/>
+    <nd ref="3770971116"/>
+    <nd ref="3446149774"/>
+    <nd ref="3770971119"/>
+    <nd ref="3446149771"/>
+    <tag k="alt_name" v="Sanepid w Kraśniku"/>
+    <tag k="building" v="public"/>
+    <tag k="source:addr" v="EMUiA (emuia.gugik.gov.pl)"/>
+  </way>
+  <way id="348785815" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Zakopanem" />
+    <tag k="phone" v="+48 18 206 86 97" />
+    <tag k="fax" v="+48 18 206 84 10" />
+    <tag k="email" v="zakopane@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-zakopane" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Zakopanem" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3548474065"/>
+    <nd ref="3548474067"/>
+    <nd ref="3548473928"/>
+    <nd ref="3548473919"/>
+    <nd ref="3548474119"/>
+    <nd ref="3548471753"/>
+    <nd ref="3548474042"/>
+    <nd ref="3548474039"/>
+    <nd ref="3548474116"/>
+    <nd ref="3548474118"/>
+    <nd ref="3548434705"/>
+    <nd ref="3548434702"/>
+    <nd ref="3548434701"/>
+    <nd ref="3548473615"/>
+    <nd ref="3548474043"/>
+    <nd ref="3548427116"/>
+    <nd ref="3548473917"/>
+    <nd ref="3548434708"/>
+    <nd ref="3548473926"/>
+    <nd ref="3548434711"/>
+    <nd ref="3548434712"/>
+    <nd ref="3548473933"/>
+    <nd ref="3548473938"/>
+    <nd ref="3548474090"/>
+    <nd ref="3548474065"/>
+    <tag k="alt_name" v="Sanepid w Zakopanem"/>
+    <tag k="building" v="yes"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:05"/>
+    <tag k="source:addr" v="mzakopane.e-mapa.net"/>
+  </way>
+  <way id="351807362" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Pajęcznie" />
+    <tag k="phone" v="+48 34 311 34 95" />
+    <tag k="fax" v="+48 34 311 39 27" />
+    <tag k="email" v="pajeczno@pis.lodz.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-pajeczno" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Pajęcznie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3576169623"/>
+    <nd ref="3576169581"/>
+    <nd ref="3576169570"/>
+    <nd ref="3576169559"/>
+    <nd ref="3576169547"/>
+    <nd ref="3576169550"/>
+    <nd ref="3576169544"/>
+    <nd ref="3576169565"/>
+    <nd ref="3576169569"/>
+    <nd ref="3576169588"/>
+    <nd ref="3576169623"/>
+    <tag k="alt_name" v="Sanepid w Pajęcznie"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia1.gugik.gov.pl"/>
+  </way>
+  <way id="352409436" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kielcach" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 345 46 23" />
+    <tag k="email" v="psse.kielce@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-kielce" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kielcach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="7567569025"/>
+    <nd ref="3582036732"/>
+    <nd ref="3582037993"/>
+    <nd ref="3582036736"/>
+    <nd ref="7567569025"/>
+    <tag k="alt_name" v="Sanepid w Kielcach"/>
+    <tag k="building" v="yes"/>
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00"/>
+    <tag k="phone:mobile" v="+48 575 806 305"/>
+  </way>
+  <way id="357273773" action="modify" version="7" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Miechowie" />
+    <tag k="phone" v="+48 41 389 04 50" />
+    <tag k="fax" v="+48 41 383 11 59" />
+    <tag k="email" v="miechow@psse.malopolska.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-miechow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Miechowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3625912419"/>
+    <nd ref="3625912414"/>
+    <nd ref="3625912413"/>
+    <nd ref="3625910777"/>
+    <nd ref="3625912180"/>
+    <nd ref="3625912153"/>
+    <nd ref="3625889157"/>
+    <nd ref="3625911999"/>
+    <nd ref="3625910749"/>
+    <nd ref="3625912420"/>
+    <nd ref="3625912419"/>
+    <tag k="alt_name" v="Sanepid w Miechowie"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="358717766" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Opolu Lubelskim" />
+    <tag k="phone" v="+48 81 470 84 39" />
+    <tag k="fax" v="+48 81 827 20 41" />
+    <tag k="email" v="psse.opolelubelskie@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-opole-lubelskie" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Opolu Lubelskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3636034793"/>
+    <nd ref="3636034204"/>
+    <nd ref="3636033739"/>
+    <nd ref="3636034594"/>
+    <nd ref="3636034793"/>
+    <tag k="alt_name" v="Sanepid w Opolu Lubelskim"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="EMUi@iMPA (opolelubelskie.e-mapa.net)"/>
+  </way>
+  <way id="359652313" action="modify" version="7" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Żyrardowie" />
+    <tag k="phone" v="+48 46 855 38 13" />
+    <tag k="fax" v="+48 46 855 38 13" />
+    <tag k="email" v="zyrardow@psse.waw.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-zyrardow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Żyrardowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3643295620"/>
+    <nd ref="3643295621"/>
+    <nd ref="3643295619"/>
+    <nd ref="3643295618"/>
+    <nd ref="3643295620"/>
+    <tag k="alt_name" v="Sanepid w Żyrardowie"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="zyrardow.e-mapa.net"/>
+  </way>
+  <way id="361798986" action="modify" version="6" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Krasnymstawie" />
+    <tag k="phone" v="+48 82 576 28 32" />
+    <tag k="fax" v="+48 82 576 28 32" />
+    <tag k="email" v="psse.krasnystaw@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-krasnystaw" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Krasnymstawie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3662266371"/>
+    <nd ref="3662232676"/>
+    <nd ref="3662232674"/>
+    <nd ref="3662232677"/>
+    <nd ref="3662232678"/>
+    <nd ref="3662232679"/>
+    <nd ref="3662232680"/>
+    <nd ref="3662266371"/>
+    <tag k="alt_name" v="Sanepid w Krasnymstawie"/>
+    <tag k="building" v="office"/>
+    <tag k="source:addr" v="mkrasnystaw.e-mapa.net"/>
+  </way>
+  <way id="362896046" action="modify" version="3" timestamp="2022-04-18T15:12:05Z" changeset="119864309" uid="11496679" user="ptarac">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Goleniowie" />
+    <tag k="phone" v="+48 91 418 31 95" />
+    <tag k="fax" v="+48 91 418 23 22" />
+    <tag k="email" v="psse.goleniow@pis.gov.pl" />
+    <tag k="website" v="pssegoleniow.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Goleniowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4303740547"/>
+    <nd ref="9674677018"/>
+    <nd ref="4303740517"/>
+    <nd ref="4303740516"/>
+    <nd ref="4303740527"/>
+    <nd ref="4303740528"/>
+    <nd ref="4303740529"/>
+    <nd ref="4303740531"/>
+    <nd ref="4303740532"/>
+    <nd ref="4303740539"/>
+    <nd ref="4303740538"/>
+    <nd ref="4303740544"/>
+    <nd ref="4303740545"/>
+    <nd ref="4303740546"/>
+    <nd ref="4303740547"/>
+    <tag k="building" v="public"/>
+    <tag k="mobile" v="+48 694 493 764"/>
+    <tag k="note:mobile" v="Po godzinie 15:00 w dni powszednie, w soboty, niedziele i święta w sytuacji zagrożenia życia lub zdrowia ludzi dostępny jest numer alarmowy +48 694 493 764"/>
+    <tag k="opening_hours" v="Mo-Fr 07:25-15:00; Sa-Su off; PH off"/>
+  </way>
+  <way id="363606345" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Wołominie" />
+    <tag k="phone" v="+48 22 776 38 33" />
+    <tag k="fax" v="+48 22 776 38 33" />
+    <tag k="email" v="wolomin@psse.waw.pl" />
+    <tag k="website" v="www.wolomin.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Wołominie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4892268340"/>
+    <nd ref="4892268339"/>
+    <nd ref="4892268338"/>
+    <nd ref="4892268337"/>
+    <nd ref="4892268336"/>
+    <nd ref="4892268335"/>
+    <nd ref="4892268334"/>
+    <nd ref="4892268333"/>
+    <nd ref="4892268332"/>
+    <nd ref="4892268331"/>
+    <nd ref="4892268330"/>
+    <nd ref="4892268329"/>
+    <nd ref="4892268328"/>
+    <nd ref="4892268327"/>
+    <nd ref="4892268326"/>
+    <nd ref="4892268325"/>
+    <nd ref="4892268340"/>
+    <tag k="alt_name" v="Sanepid w Wołominie"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="365479890" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Radzyniu Podlaskim" />
+    <tag k="phone" v="+48 83 352 74 16" />
+    <tag k="fax" v="+48 83 352 74 16" />
+    <tag k="email" v="psse.radzynpodlaski@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-radzyn-podlaski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Radzyniu Podlaskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3694894967"/>
+    <nd ref="3694894962"/>
+    <nd ref="3694894963"/>
+    <nd ref="3694894959"/>
+    <nd ref="3694894958"/>
+    <nd ref="3694894955"/>
+    <nd ref="3694894954"/>
+    <nd ref="3694894966"/>
+    <nd ref="3694894967"/>
+    <tag k="alt_name" v="Sanepid w Radzyniu Podlaskim"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="366093411" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Ostrowcu-Świętokrzyskim" />
+    <tag k="phone" v="+48 22 250 01 15" />
+    <tag k="fax" v="+48 41 247 96 97" />
+    <tag k="email" v="psse.ostrowiec@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-ostrowiec-swietokrzyski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Ostrowcu-Świętokrzyskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3700818038"/>
+    <nd ref="3700818024"/>
+    <nd ref="3700817994"/>
+    <nd ref="3700818012"/>
+    <nd ref="3700818038"/>
+    <tag k="alt_name" v="Sanepid w Ostrowcu-Świętokrzyskim"/>
+    <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:00; PH off"/>
+    <tag k="source:addr" v="EMUiA (emuia.gugik.gov.pl)"/>
+  </way>
+  <way id="367020314" action="modify" version="8" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno Epidemiologiczna w Hrubieszowie" />
+    <tag k="phone" v="+48 84 696 50 10" />
+    <tag k="fax" v="+48 84 696 50 10" />
+    <tag k="email" v="psse.hrubieszow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-hrubieszow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Hrubieszowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno Epidemiologiczna" />
+    <nd ref="3709955035"/>
+    <nd ref="3709954150"/>
+    <nd ref="3709953052"/>
+    <nd ref="3709952303"/>
+    <nd ref="3709954447"/>
+    <nd ref="3709951911"/>
+    <nd ref="3709955027"/>
+    <nd ref="3709954450"/>
+    <nd ref="3709955040"/>
+    <nd ref="3709955035"/>
+    <tag k="alt_name" v="Sanepid w Hrubieszowie"/>
+    <tag k="building" v="office"/>
+    <tag k="source:addr" v="mhrubieszow.e-mapa.net"/>
+  </way>
+  <way id="373351424" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Tomaszowie Lubelskim" />
+    <tag k="phone" v="+48 84 664 44 78" />
+    <tag k="fax" v="+48 84 664 23 61" />
+    <tag k="email" v="psse.tomaszowlubelski@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-tomaszow-lubelski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Tomaszowie Lubelskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3768292383"/>
+    <nd ref="3768292457"/>
+    <nd ref="3768292381"/>
+    <nd ref="3768292369"/>
+    <nd ref="3768291927"/>
+    <nd ref="3768292260"/>
+    <nd ref="3768291787"/>
+    <nd ref="3768291891"/>
+    <nd ref="3768291339"/>
+    <nd ref="3768291873"/>
+    <nd ref="3768291775"/>
+    <nd ref="3768291335"/>
+    <nd ref="3768291571"/>
+    <nd ref="3768291050"/>
+    <nd ref="3768290510"/>
+    <nd ref="3768291898"/>
+    <nd ref="3768285478"/>
+    <nd ref="3768291905"/>
+    <nd ref="3768291786"/>
+    <nd ref="3768291790"/>
+    <nd ref="3768291577"/>
+    <nd ref="3768291352"/>
+    <nd ref="3768291793"/>
+    <nd ref="3768291946"/>
+    <nd ref="3768291951"/>
+    <nd ref="3768292463"/>
+    <nd ref="3768292383"/>
+    <tag k="alt_name" v="Sanepid w Tomaszowie Lubelskim"/>
+    <tag k="building" v="yes"/>
+    <tag k="wikidata" v="Q30103843"/>
+  </way>
+  <way id="394446127" action="modify" version="8" timestamp="2019-05-30T17:46:13Z" changeset="70780746" uid="6844910" user="adabada">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lwówku Śląskim" />
+    <tag k="phone" v="+48 75 782 43 59" />
+    <tag k="fax" v="+48 75 782 43 59" />
+    <tag k="email" v="psse.lwowekslaski@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-lwowek-slaski" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lwówku Śląskim" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3974569579"/>
+    <nd ref="3974569580"/>
+    <nd ref="3974569581"/>
+    <nd ref="5784709752"/>
+    <nd ref="5784709964"/>
+    <nd ref="3974569583"/>
+    <nd ref="5784709968"/>
+    <nd ref="5784709962"/>
+    <nd ref="3974569584"/>
+    <nd ref="3974569585"/>
+    <nd ref="3974569586"/>
+    <nd ref="3974569587"/>
+    <nd ref="5784709960"/>
+    <nd ref="3974569590"/>
+    <nd ref="5784709957"/>
+    <nd ref="3974569592"/>
+    <nd ref="5784709956"/>
+    <nd ref="5784709955"/>
+    <nd ref="5784709954"/>
+    <nd ref="5784709953"/>
+    <nd ref="5784709751"/>
+    <nd ref="3974569593"/>
+    <nd ref="3974569594"/>
+    <nd ref="3974569579"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:colour" v="olive"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="roof:colour" v="brown"/>
+    <tag k="roof:shape" v="hipped"/>
+  </way>
+  <way id="396984996" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Kamiennej Górze" />
+    <tag k="phone" v="+48 75 645 01 40" />
+    <tag k="fax" v="+48 75 645 01 41" />
+    <tag k="email" v="psse.kamiennagora@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-kamienna-gora" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Kamiennej Górze" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="3998135809"/>
+    <nd ref="3998135805"/>
+    <nd ref="3998135787"/>
+    <nd ref="3998135790"/>
+    <nd ref="3998135802"/>
+    <nd ref="6694168841"/>
+    <nd ref="6694168840"/>
+    <nd ref="3998135796"/>
+    <nd ref="3998135809"/>
+    <tag k="alt_name" v="Sanepid w Kamiennej Górze"/>
+    <tag k="building" v="office"/>
+    <tag k="source:addr" v="mkamiennagora.e-mapa.net"/>
+    <tag k="source:geometry" v="geoportal.gov.pl, GPS"/>
+  </way>
+  <way id="405609246" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 13 446 30 08" />
+    <tag k="fax" v="+48 13 446 34 66" />
+    <tag k="email" v="psse.jaslo@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-jaslo" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Jasło" />
+    <nd ref="4077795847"/>
+    <nd ref="4077795837"/>
+    <nd ref="4077795827"/>
+    <nd ref="4077795820"/>
+    <nd ref="4077795835"/>
+    <nd ref="4077795847"/>
+    <tag k="alt_name" v="Sanepid"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="EMUiA (emuia.geoportal.gov.pl)"/>
+  </way>
+  <way id="423654052" action="modify" version="3" timestamp="2023-01-07T23:31:05Z" changeset="130999169" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Sochaczewie" />
+    <tag k="phone" v="+48 46 862 22 66" />
+    <tag k="fax" v="+48 46 862 22 66" />
+    <tag k="email" v="sochaczew@psse.waw.pl" />
+    <tag k="website" v="www.sochaczew.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Sochaczewie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="6329877515"/>
+    <nd ref="4232097855"/>
+    <nd ref="4232097856"/>
+    <nd ref="4232097853"/>
+    <nd ref="6329877517"/>
+    <nd ref="6329877489"/>
+    <nd ref="4232097854"/>
+    <nd ref="6329877513"/>
+    <nd ref="6329877508"/>
+    <nd ref="6329877507"/>
+    <nd ref="6329877510"/>
+    <nd ref="6329877506"/>
+    <nd ref="6329877505"/>
+    <nd ref="6329877509"/>
+    <nd ref="6329877504"/>
+    <nd ref="6329877503"/>
+    <nd ref="6329877514"/>
+    <nd ref="6329877502"/>
+    <nd ref="6329877501"/>
+    <nd ref="6329877512"/>
+    <nd ref="6329877500"/>
+    <nd ref="6329877499"/>
+    <nd ref="6329877511"/>
+    <nd ref="6329877498"/>
+    <nd ref="6329877497"/>
+    <nd ref="6329877515"/>
+    <tag k="alt_name" v="Sanepid w Sochaczewie"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="source:addr" v="EMUiA (msochaczew.e-mapa.net)"/>
+  </way>
+  <way id="427376449" action="modify" version="4" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Głubczycach" />
+    <tag k="phone" v="+48 77 471 07 17" />
+    <tag k="fax" v="+48 77 471 07 18" />
+    <tag k="email" v="psse.glubczyce@pis.gov.pl" />
+    <tag k="website" v="www.psseglubczyce.pis.gov.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Głubczycach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4266109723"/>
+    <nd ref="4266109577"/>
+    <nd ref="4266109717"/>
+    <nd ref="4266109735"/>
+    <nd ref="4266109737"/>
+    <nd ref="4266109746"/>
+    <nd ref="4266109750"/>
+    <nd ref="4266109764"/>
+    <nd ref="4266109723"/>
+    <tag k="alt_name" v="Sanepid w Głubczycach"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="438894300" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Piasecznie z/s w Chylicach" />
+    <tag k="phone" v="+48 22 756 43 33" />
+    <tag k="fax" v="+48 22 756 46 20" />
+    <tag k="email" v="piaseczno@psse.waw.pl" />
+    <tag k="website" v="www.piaseczno.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Chylicach" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Piasecznie z/s" />
+    <nd ref="4365424333"/>
+    <nd ref="4365424334"/>
+    <nd ref="4365424335"/>
+    <nd ref="4365424336"/>
+    <nd ref="7616194332"/>
+    <nd ref="7616194333"/>
+    <nd ref="4365424333"/>
+    <tag k="alt_name" v="Sanepid w Chylicach"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="piaseczno.e-mapa.net"/>
+  </way>
+  <way id="439243691" action="modify" version="3" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łukowie" />
+    <tag k="phone" v="+48 25 798 21 96" />
+    <tag k="fax" v="+48 25 798 71 78" />
+    <tag k="email" v="psse.lukow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-lukow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łukowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4368733300"/>
+    <nd ref="4368733200"/>
+    <nd ref="4368733208"/>
+    <nd ref="4368733202"/>
+    <nd ref="4368733080"/>
+    <nd ref="4368733083"/>
+    <nd ref="4368733315"/>
+    <nd ref="4368733304"/>
+    <nd ref="4368733319"/>
+    <nd ref="4368733325"/>
+    <nd ref="4368733246"/>
+    <nd ref="4368733354"/>
+    <nd ref="4368733300"/>
+    <tag k="alt_name" v="Sanepid w Łukowie"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="449027980" action="modify" version="3" timestamp="2019-05-24T08:13:52Z" changeset="70577051" uid="565748" user="Nequit">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Łasku" />
+    <tag k="phone" v="+48 43 675 23 15" />
+    <tag k="fax" v="+48 43 676 34 16" />
+    <tag k="email" v="psse.lask@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-lask" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Łasku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="4459978767"/>
+    <nd ref="4459978765"/>
+    <nd ref="4459978756"/>
+    <nd ref="4459978753"/>
+    <nd ref="4459978764"/>
+    <nd ref="4459978763"/>
+    <nd ref="4459978766"/>
+    <nd ref="4459978767"/>
+    <tag k="addr:country" v="PL"/>
+    <tag k="building" v="yes"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:05"/>
+    <tag k="source:geometry" v="geoportal.gov.pl:BDOT"/>
+  </way>
+  <way id="550429920" action="modify" version="4" timestamp="2023-01-08T00:04:47Z" changeset="130999763" uid="1479852" user="kubahahaha">
+    <tag k="phone" v="+48 15 842 51 30" />
+    <tag k="fax" v="+48 15 842 11 81" />
+    <tag k="email" v="psse.stalowawola@pis.gov.pl" />
+    <tag k="website" v="https://www.gov.pl/web/psse-stalowa-wola" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Stalowa Wola" />
+    <nd ref="5316424223"/>
+    <nd ref="5316424220"/>
+    <nd ref="10277823761"/>
+    <nd ref="10277823760"/>
+    <nd ref="10277823759"/>
+    <nd ref="10277823758"/>
+    <nd ref="10277823757"/>
+    <nd ref="10277823756"/>
+    <nd ref="10277823755"/>
+    <nd ref="10277823754"/>
+    <nd ref="10277823753"/>
+    <nd ref="10277823752"/>
+    <nd ref="10277823751"/>
+    <nd ref="10277823750"/>
+    <nd ref="5316424221"/>
+    <nd ref="5316424222"/>
+    <nd ref="5316424223"/>
+    <tag k="alt_name" v="Sanepid"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="stalowawola.e-mapa.net"/>
+  </way>
+  <way id="556552821" action="modify" version="7" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Otwocku" />
+    <tag k="phone" v="+48 22 779 48 33" />
+    <tag k="fax" v="+48 22 779 48 33" />
+    <tag k="email" v="otwock@psse.waw.pl" />
+    <tag k="website" v="www.otwock.psse.waw.pl" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Otwocku" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="5784042461"/>
+    <nd ref="5368800685"/>
+    <nd ref="7340080771"/>
+    <nd ref="7340080770"/>
+    <nd ref="5784042464"/>
+    <nd ref="7340080765"/>
+    <nd ref="7340080764"/>
+    <nd ref="5784042462"/>
+    <nd ref="7340080766"/>
+    <nd ref="7340080767"/>
+    <nd ref="7340080768"/>
+    <nd ref="7340080769"/>
+    <nd ref="5784042461"/>
+    <tag k="alt_name" v="Sanepid w Otwocku"/>
+    <tag k="building" v="government"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:05"/>
+    <tag k="source:addr" v="UM Otwock"/>
+  </way>
+  <way id="783281162" action="modify" version="1" timestamp="2020-03-21T11:47:41Z" changeset="82457824" uid="2757838" user="kukułka">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Gdyni" />
+    <tag k="phone" v="+48 58 620 17 98" />
+    <tag k="fax" v="+48 58 620 57 44" />
+    <tag k="email" v="psse.gdynia@pis.gov.pl" />
+    <tag k="website" v="https://psse.gdynia.pl/" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Gdyni" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="2670672961"/>
+    <nd ref="2670673005"/>
+    <nd ref="2670673013"/>
+    <nd ref="2670673053"/>
+    <nd ref="2670673054"/>
+    <nd ref="2670673055"/>
+    <nd ref="7314789333"/>
+    <nd ref="7314789332"/>
+    <nd ref="7314789331"/>
+    <nd ref="1405373639"/>
+    <nd ref="1405373648"/>
+    <nd ref="2670672968"/>
+    <nd ref="2670672966"/>
+    <nd ref="2670672967"/>
+    <nd ref="2670672965"/>
+    <nd ref="2670672964"/>
+    <nd ref="2670672961"/>
+    <tag k="landuse" v="commercial"/>
+  </way>
+  <way id="865957350" action="modify" version="3" timestamp="2021-02-02T11:10:20Z" changeset="98573176" uid="854765" user="dodoelk">
+    <tag k="phone" v="+48 87 423 23 78" />
+    <tag k="fax" v="+48 87 423 27 80" />
+    <tag k="email" v="psse.pisz@sanepid.olsztyn.pl" />
+    <tag k="website" v="www.bip.visacom.pl/psse_pisz" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna Pisz" />
+    <nd ref="3286703918"/>
+    <nd ref="3286703911"/>
+    <nd ref="3286703898"/>
+    <nd ref="3286703894"/>
+    <nd ref="3286703906"/>
+    <nd ref="3286703907"/>
+    <nd ref="3286703914"/>
+    <nd ref="3286703913"/>
+    <nd ref="3286703922"/>
+    <nd ref="3286703923"/>
+    <nd ref="3286703931"/>
+    <nd ref="3286703932"/>
+    <nd ref="3286703927"/>
+    <nd ref="3286703928"/>
+    <nd ref="3286703918"/>
+    <tag k="addr:street:sym_ul" v="23682"/>
+    <tag k="building" v="yes"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </way>
+  <way id="1081138968" action="modify" version="5" timestamp="2023-01-27T23:14:34Z" changeset="131791854" uid="1479852" user="kubahahaha">
+    <tag k="official_name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna w Lubartowie" />
+    <tag k="phone" v="+48 81 855 22 07" />
+    <tag k="fax" v="+48 81 855 24 43" />
+    <tag k="email" v="psse.lubartow@pis.gov.pl" />
+    <tag k="website" v="www.gov.pl/web/psse-lubartow" />
+    <tag k="source:office" v="Baza teleadresowa administracji zespolonej według stanu na 16.08.2021" />
+    <tag k="office" v="government" />
+    <tag k="government" v="healthcare" />
+    <tag k="short_name" v="Sanepid w Lubartowie" />
+    <tag k="name" v="Powiatowa Stacja Sanitarno-Epidemiologiczna" />
+    <nd ref="6691246489"/>
+    <nd ref="6691246488"/>
+    <nd ref="9909425854"/>
+    <nd ref="9909425820"/>
+    <nd ref="9909425838"/>
+    <nd ref="9909425840"/>
+    <nd ref="9909425841"/>
+    <nd ref="9909425839"/>
+    <nd ref="10582650033"/>
+    <nd ref="10582650038"/>
+    <nd ref="9909425835"/>
+    <nd ref="9909425836"/>
+    <nd ref="9909425849"/>
+    <nd ref="6691246486"/>
+    <nd ref="6691246489"/>
+    <tag k="alt_name" v="Sanepid w Lubartowie"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="opening_hours" v="Mo-Fr 7:30-15:05"/>
+  </way>
+</osm>
