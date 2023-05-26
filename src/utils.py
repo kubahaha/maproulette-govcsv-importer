@@ -1,3 +1,4 @@
+from audioop import add
 import re
 
 fieldnames = {
@@ -69,47 +70,47 @@ def getopening(openstr):
         return f'Mo-Fr {match.group(4)}:{match.group(5)}-{match.group(6)}:{match.group(7)}'
     return False
 
-def getaddr(addrstring, place=False):
-    clean = addrstring.split('>')[-1].replace('miasto', '').strip()
+def getaddr(addrstring, city=False, place=False, street=False, housenumber=False, door=False):
+    org_addrstring = addrstring
+    result = {}
+
+    if door:
+        reg = re.compile(r'(.+)( lok.*? ([\-\d\w]+))', re.IGNORECASE)
+        match = reg.match(addrstring)
+        if match:
+            result.update({'addr:door': match.group(3).strip()})
+            addrstring = re.sub(reg, r'\1', addrstring)
+
+    if housenumber:
+        reg = re.compile(r'(.*?) (\d+[a-zA-Z]*)', re.IGNORECASE)
+        match = reg.match(addrstring)
+        if match:
+            result.update({'addr:housenumber': match.group(2).strip()})
+            addrstring = re.sub(reg, r'\1', addrstring)
 
     
-    reg = re.compile(r'(.+)(pl(\.|ac)*|al(\.|eja)*|ul(\.|ica)*) (.*?) (\d+[a-zA-Z]*)( lok.*?([\-\d\w]+))*', re.IGNORECASE)
-    match = reg.match(clean)
+    if street:
+        reg = re.compile(r'(.*)(pl(\.|ac)*|al(\.|eja)*|ul(\.|ica)*) (.*)', re.IGNORECASE)
+        match = reg.match(addrstring)
+        if match:
+            result.update({'addr:street': match.group(6).strip()})
+            addrstring = re.sub(reg, r'\1', addrstring)
 
-    if match:
-        return {
-            'city': match.group(1).strip(),
-            'door': (match.group(9) or '').strip(),
-            'housenumber': match.group(7).strip(),
-            'street': match.group(6).strip()
-        }
-    reg = re.compile(r'(.+?) ((os(\.|iedle)*) (.+)) (\d[\w\d]+)( (lok(\.|al) (.+)))*', re.IGNORECASE)
-    match = reg.match(clean)
-    if match:
-        return {
-            'city': match.group(1).strip(),
-            'door': (match.group(10) or '').strip(),
-            'housenumber': match.group(6).strip(),
-            'place': match.group(2).strip()
-        }
+    if place and not city:
+        # reg = re.compile(r'((os(\.|iedle)*)(.+))', re.IGNORECASE)
+        match = reg.match(addrstring)
+        if len(addrstring.strip()) > 0:
+            result.update({'place': addrstring.strip()})
 
-    reg = re.compile(r'(.+) (.+) (\d[\d\w]+)( (lok(\.|al) (.+)))*', re.IGNORECASE)
-    match = reg.match(clean)
-    if match:
-        if place:
-            return {
-                'door': (match.group(7) or '').strip(),
-                'housenumber': match.group(3).strip(),
-                'place': match.group(1).strip()
-            }
-        return {
-            'door': (match.group(7) or '').strip(),
-            'housenumber': match.group(3).strip(),
-            'city': match.group(1).strip()
-        }        
-    if place:
-        return {'place': clean.strip()}
-    return {'city': clean.strip()}
+    if result.get('addr:street') and result.get('addr:place'):
+        del result['addr:place']
+    elif result.get('addr:place') and result.get('addr:street'):
+        del result['addr:street']
+
+    if not result.keys():
+        raise Exception('wtf?', org_addrstring)
+    print('go', org_addrstring, result)
+    return result
 
 
 def nominatim_addr(nominatim):

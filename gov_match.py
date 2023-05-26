@@ -28,7 +28,7 @@ def compare(gov, osm, fields):
             comparision.append(comp.name)
     
     comparision += ['addr:city-addr:housenumber-addr:street', 'addr:housenumber-addr:place']
-    # comparision += ['operator-addr:housenumber-addr:street-addr:city', 'operator-addr:place-addr:housenumber']
+    comparision += ['addr:housenumber-addr:place-addr:postcode', 'addr:street-addr:housenumber-addr:postcode']
 
     results = defaultdict(int)
     results_values = {}
@@ -82,6 +82,7 @@ for office in govreader:
             counter_values.update(results_values)
 
     is_match = False
+
     for (k, v) in counter.items():
         if is_match:
             break
@@ -92,16 +93,13 @@ for office in govreader:
             
             stats['paired'] +=1
 
+            row = {}
             for k in fieldnames['addr']:
                 if k in config.comparision.keys():
-                    row.update({k: config.comparision[k].left_strip(office[reverse_keys[k]]).capitalize()})
+                    printed = config.comparision[k].left_print(office[reverse_keys[k]])
+                    if printed:
+                        row.update({k: printed.capitalize()})
 
-            if row.get('addr:street'):
-                del row['addr:place']
-            elif row.get('addr:place'):
-                del row['addr:street']
-
-            row = {}
             for k in fieldnames_clear:
                 if k in govreader.fieldnames:
                     row[k] = office.get(k, '')
@@ -116,19 +114,26 @@ for office in govreader:
         newrow = {}
         for comp in config.comparision.values():
             if office.get(comp.left):
-                newrow[comp.right] = comp.print(office[comp.left])
-        
+                newrow[comp.right] = comp.left_print(office[comp.left])
+
         newaddr = {}
         cords = {}
-        if args.mode == 'nominatim':
-            response = requests.get(f"{NOMINATIM_URL}/search.php?street={office[reverse_keys['addr:street']]} {office[reverse_keys['addr:housenumber']]}&city={office[reverse_keys['addr:city']] or office[reverse_keys['addr:city']]}&country=Polska&format=jsonv2").json()
+        if args.mode == 'nominatim':             
+            print(newrow)
+            street = newrow.get('addr:street'),
+            number = newrow.get('addr:housenumber'),
+            city = newrow.get('addr:city'),
+            place = newrow.get('addr:place'),
+            postcode = newrow.get('addr:postcode')
+
+            response = requests.get(f"{NOMINATIM_URL}/search.php?street={street or place} {number}&city={city or place}&country=Polska&format=jsonv2").json()
             
             responce_dict = next(iter(response), None)
             if not responce_dict:
                 stats['missing'] += 1
                 errwriter.writerow(office)
                 print()
-                print(f"Nominatim failed! {NOMINATIM_URL}/search.php?street={office[reverse_keys['addr:street']]} {office[reverse_keys['addr:housenumber']]}&city={office[reverse_keys['addr:city']] or office[reverse_keys['addr:city']]}&country=Polska&format=jsonv2")
+                print(f"Nominatim failed! {NOMINATIM_URL}/search.php?street={street or place} {number}&city={city or place}&country=Polska&format=jsonv2")
                 print(f"total: {stats['paired'] + stats['missing'] + stats['to_add']}/{stats['total']} {100*(stats['paired'] + stats['missing'] + stats['to_add'])/stats['total']:.0f}% - paired: {stats['paired']}/{(stats['paired'] + stats['missing'] + stats['to_add'])} {100*stats['paired']/(stats['paired'] + stats['missing'] + stats['to_add']):.0f}% - missing: {stats['missing']}/{stats['paired'] + stats['missing'] + stats['to_add']} {100*stats['missing']/(stats['paired'] + stats['missing'] + stats['to_add']):.0f}% - to_add: {stats['to_add']}/{stats['paired'] + stats['missing'] + stats['to_add']} {100*stats['to_add']/(stats['paired'] + stats['missing'] + stats['to_add']):.0f}%")
                 continue
             

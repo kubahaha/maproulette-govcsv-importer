@@ -6,18 +6,28 @@ static = {
     'project_name': 'centrum'
 }
 
-fieldnames_after_mod = ['name', 'brand', 'brand:wikidata', 'addr:street', 'addr:place', 'addr:city', 'addr:postcode', 'addr:housenumber']
+fieldnames_after_mod = ['name', 'brand', 'brand:wikidata']
 
 #########
 
 comparision = {
-    'addr:housenumber': Comparator('Adres sklepu', 'addr:housenumber', strip=lambda x: getaddr(x).get('housenumber')),
-    'addr:street': Comparator('Adres sklepu', 'addr:street', strip=lambda x: getaddr(x).get('street')),
-    'addr:place': Comparator('Adres sklepu', 'addr:place', strip=lambda x: getaddr(x).get('place', True)),
-    'addr:city': Comparator('Miejscowość', 'addr:city', print=lambda x: x.capitalize().strip(), strip=lambda x: x.lower().strip()),
-    'addr:place': Comparator('Miejscowość', 'addr:place', print=lambda x: x.capitalize().strip(), strip=lambda x: x.lower().strip()),
-    'addr:postcode': Comparator('Kod pocztowy sklepu', 'addr:postcode', strip=lambda x: x.strip())
-}
+    'addr:housenumber': Comparator('Adres Sklepu', 'addr:housenumber',
+        left_strip=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('housenumber'),
+        left_print=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('housenumber')
+    ),
+    'addr:street': Comparator('Adres Sklepu', 'addr:street',
+        left_strip=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('street'),
+        left_print=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('street')
+    ),
+    'addr:place': Comparator('Adres Sklepu', 'addr:place',
+        left_strip=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('place'),
+        left_print=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('place')
+    ),
+    'addr:city': Comparator('Miejscowość', 'addr:city',
+        strip=lambda x: x.lower().strip(),
+        print=lambda x: x.capitalize().strip()
+    ),
+    'addr:postcode': Comparator('Kod pocztowy sklepu', 'addr:postcode')}
 
 ##########
 
