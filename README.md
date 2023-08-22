@@ -1,5 +1,8 @@
 # gov csv to maproulette
 
+## Presiquenties
+
+`$ pip3 install osmium``
 ## PINB (Nadzór budowlany)
 
 ### Pliki wejściowe
