@@ -6,31 +6,13 @@ static = {
     'project_name': 'centrum'
 }
 
-fieldnames_after_mod = ['name', 'brand', 'brand:wikidata']
-
-#########
-
-comparision = {
-    'addr:housenumber': Comparator('Adres Sklepu', 'addr:housenumber',
-        left_strip=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('housenumber'),
-        left_print=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('housenumber')
-    ),
-    'addr:street': Comparator('Adres Sklepu', 'addr:street',
-        left_strip=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('street'),
-        left_print=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('street')
-    ),
-    'addr:place': Comparator('Adres Sklepu', 'addr:place',
-        left_strip=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('place'),
-        left_print=lambda x: getaddr(x, place=True, street=True, housenumber=True).get('place')
-    ),
-    'addr:city': Comparator('Miejscowość', 'addr:city',
-        strip=lambda x: x.lower().strip(),
-        print=lambda x: x.capitalize().strip()
-    ),
-    'addr:postcode': Comparator('Kod pocztowy sklepu', 'addr:postcode')}
-
-##########
-
+search = {
+    'street': lambda row: row.get('Adres Sklepu').replace('Ul. ', '').replace('Al. ', ''),
+    'city': lambda row: row.get('Miejscowość'),
+    'country': lambda _: 'Polska',
+    'postalcode': lambda row: row.get('Kod pocztowy sklepu')
+}
+ 
 gov_fieldnames = [
     # ('Adres sklepu', 'name', lambda x: getnames['pinb'](x)['name'].strip()),
     # ('Miejscowość', 'name', lambda x: x.strip()),
