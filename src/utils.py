@@ -5,6 +5,7 @@ fieldnames = {
     'addr': ['addr:postcode', 'addr:city', 'addr:place', 'addr:street', 'addr:housenumber', 'addr:door'],
     'tech': ['@lat', '@lon', '@id']
 }
+
 def strip_number(phone):
     clear = phone.replace('-', '').replace('+48', '').replace('(', '').replace(')', '').replace(' ', '')
     if len(clear) == 11 and clear[0] == '4' and clear[1] == '8':

@@ -2,14 +2,12 @@
 import argparse
 import csv
 from collections import defaultdict
-import importlib.util
 import osmium
 import requests
 
 from src.utils import strip_number, fieldnames, nominatim_addr, komoot_addr
-
-NOMINATIM_SERVER = 'https://nominatim.openstreetmap.org'
-
+from src.place_handlers import OsmHandler, GovHandler
+from src.geodistance import geodistance
 
 def nominatim_to_addr(nominatim):
     return {
@@ -27,68 +25,23 @@ def osm_to_addr(osm):
         'housenumber': osm.get('addr:housenumber')
     }
 
-def _haveaddr(tags):
-    if not all(x in tags for x in ['addr:postcode', 'addr:housenumber']):
+def match_addr(addr1, addr2, mapping, skpinumber=False):
+    match_all = ['postcode', 'city', 'street', 'housenumber']
+
+    if skpinumber:
+        match_all.remove('housenumber')
+
+    return all([addr1[m] == addr2[m] for m in match_all])
+
+def match_latlon(latlon1, latlon2, limit=100):
+    if geodistance(latlon1[0], latlon1[1], latlon2[0], latlon2[1]) > limit:
         return False
-    else:
-        if all(x in tags for x in ['addr:city', 'addr:street']):
-            return True
-        if 'addr:place' in tags:
-            return True
-        return False
+    return True
 
-class OsmHandler(osmium.SimpleHandler):
-    def __init__(self, name):
-        super(OsmHandler, self).__init__()
-        print(f'Importing conf/{name}_conf.py')
-        self.name = name
-        self.config = importlib.import_module(f'conf.{name}_conf')
-        self.match = {}
-        self.nomatch = []
-        self.filled = []
-        self.all = {}
-
-
-    def node(self, n):
-        self.all.update({f'N{n.id}': {
-            'id': n.id,
-            'version': n.version,
-            'tags': {k:v for k,v in n.tags},
-            'location': n.location
-        }})
-        if _haveaddr(n.tags):
-            self.filled.append(f'N{n.id}')
-        else:
-            self.nomatch.append(f'N{n.id}')
-
-    def way(self, w):
-        self.all.update({f'W{w.id}': {
-            'id': w.id,
-            'version': w.version,
-            'tags': {k:v for k,v in w.tags},
-            'nodes': [{'x': node.x, 'y': node.y} for node in w.nodes]
-        }})
-
-        if _haveaddr(w.tags):
-            self.filled.append(f'W{w.id}')
-        else:
-            self.nomatch.append(f'W{w.id}')
-
-class GovHandler():
-    def __init__(self, name):
-        print(f'Importing conf/{name}_conf.py')
-        self.name = name
-        self.config = importlib.import_module(f'conf.{name}_conf')
-        self.all = {}
-        self.match = {}
-        self.nomatch = []
-
-    def import_csv(self, filename):
-        f = open(filename, 'r')
-        r = csv.DictReader(f)
-        for row in r:
-            self.all.append(row)
-
+def geocenter(latlons):
+    x = sum([it.lat for it in latlons])
+    y = sum([it.on for it in latlons])
+    return (x, y)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('name', type=str)
@@ -100,39 +53,12 @@ args = parser.parse_args()
 # add addresses to osm
 osm = OsmHandler(args.name)
 osm.apply_file(f'input/{args.name}.osm')
-batches = [osm.nomatch[i:i+50] for i in range(0, len(osm.nomatch), 50)]
-
-for b in batches:
-    url = f'{NOMINATIM_SERVER}/lookup?osm_ids={",".join(b)}&format=json'
-    print(f'Downloading: {url}')
-    res = requests.get(url).json()
-    for it in res:
-        key = f'{it.get("osm_type")[0].upper()}{it.get("osm_id")}'
-        osm.match[key] = it.get('address')
-        osm.nomatch.remove(key)
-
-total = len(osm.match) + len(osm.nomatch) + len(osm.filled)
-print(f'{total} items in total, {len(osm.filled)} filled. {len(osm.match)} updated, {len(osm.nomatch)} not matched')
+osm.add_addresses()
 
 # add cords to gov
 gov = GovHandler(args.name)
 gov.import_csv(f'input/{args.name}_gov.csv')
-
-
-for k,v in gov.items():
-    addr = '&'.join([f'{k}={v(it)}' for k,v in gov.config.search.items()])
-    url = f'{NOMINATIM_SERVER}/search?{addr}&addressdetails=1&format=json'
-    # print(url)
-    res = requests.get(url).json()
-    if res:
-        gov.match.update({k: res[0]})
-    else:
-        print(f'Downloading {url} failed - not found!')
-        gov.nomatch.append(k)
-        
-
-total = len(gov.match) + len(gov.nomatch)
-print(f'{total} items in total. {len(gov.match)} updated, {len(gov.nomatch)} not matched')
+gov.add_cords()
 
 # match
 mapping = {
@@ -142,15 +68,44 @@ mapping = {
 
 # by addr
 for g in gov.match:
-    print(g)
-    addr_g = nominatim_to_addr(g.get('nominatim').get('address'))
+    addr_g = nominatim_to_addr(gov.match.get(g).get('address'))
     for o in osm.filled:
         addr_o = osm_to_addr(osm.all.get(o).get('tags'))
-        match_all = ['postcode', 'city', 'street', 'housenumber']
-        if all([addr_o[m] == addr_g[m] for m in match_all]):
-            mapping['osm'].append('gov')
+        if match_addr(addr_g, addr_o, mapping):
+            mapping['osm'][o].append(g)
+            mapping['gov'][g].append(o)
+    for o in osm.match:
+        addr_o = nominatim_to_addr(osm.match.get(o).get('address'))
+        if match_addr(addr_g, addr_o, mapping):
+            mapping['osm'][o].append(g)
+            mapping['gov'][g].append(o)
 
+#by cords
+for g in gov.match:
+    if g in mapping['gov']:
+        continue
+    latlon_g = (gov.match.get(g).get('lat'), gov.match.get(g).get('lon'))
+    for id,o in osm.all.items():
+        latlon_o = ''
+        if id in mapping['osm']:
+            continue
 
+        if o.get('location'):
+            latlon_o = (o['location'].lat, o['location'].lon)
+        elif id in osm.match:
+            latlon_o = (osm.match.get(id).get('lat'), osm.match.get(id).get('lon'))
+        else:
+            continue
+
+        if match_latlon(latlon_g, latlon_o):
+            mapping['osm'][id].append(g)
+            mapping['gov'][g].append(id)
+
+for k, v in mapping['gov'].items():
+    if(len(v) > 0):
+        print(f'GOV: {gov.all.get(k)}')
+        for it in v:
+            print(osm.all.get(it))
 
 project_name = config.static["project_name"]
 clear_fieldnames = config.fieldnames_after_mod + fieldnames['addr'] + fieldnames['tech']
