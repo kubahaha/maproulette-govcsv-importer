@@ -3,7 +3,7 @@ import importlib.util
 import osmium
 import random
 import requests
-
+from src.utils import nominatim_addr
 
 NOMINATIM_SERVER = 'https://nominatim.openstreetmap.org'
 
@@ -28,9 +28,11 @@ class OsmHandler(osmium.SimpleHandler):
         self.nomatch = []
         self.filled = []
         self.all = {}
+        self.all2 = {}
 
 
     def node(self, n):
+        self.all2.update({f'N{n.id}': n.replace(tags=dict(n.tags))})
         self.all.update({f'N{n.id}': {
             'id': n.id,
             'version': n.version,
@@ -44,6 +46,7 @@ class OsmHandler(osmium.SimpleHandler):
 
     def way(self, w):
         # print([node.location for node in w.nodes])
+        self.all2.update({f'W{w.id}': w.replace(tags=dict(w.tags))})
         self.all.update({f'W{w.id}': {
             'id': w.id,
             'version': w.version,
@@ -61,11 +64,11 @@ class OsmHandler(osmium.SimpleHandler):
 
         for b in batches:
             url = f'{NOMINATIM_SERVER}/lookup?osm_ids={",".join(b)}&format=json'
-            # print(f'Downloading: {url}')
+            print(f'Downloading: {url}')
             res = requests.get(url).json()
             for it in res:
                 key = f'{it.get("osm_type")[0].upper()}{it.get("osm_id")}'
-                self.match[key] = it
+                self.match[key] = osmium.osm.mutable.Node(tags=nominatim_addr(it))
                 self.nomatch.remove(key)
 
         total = len(self.match) + len(self.nomatch) + len(self.filled)

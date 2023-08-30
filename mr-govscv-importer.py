@@ -107,6 +107,33 @@ for k, v in mapping['gov'].items():
         for it in v:
             print(osm.all.get(it))
 
+writer = osmium.SimpleWriter('result.osm')
+
+# for k, v in osm.all2:
+#     print(osm.all)
+# print(osm.match)
+
+for g, o in mapping['gov'].items():
+    if len(o) != 1:
+        continue
+    o = o[0]
+    # loc = {'x': float(osm.all.get(o).get('lat')), 'y': float(osm.all.get(o).get('lon'))}
+    if o in osm.filled:
+        loc = (float(osm.all.get(o).get('lon')), float(osm.all.get(o).get('lat')))
+    elif o in osm.match:
+        loc = (float(osm.match.get(o).get('lon')), float(osm.match.get(o).get('lat')))
+    else:
+        raise NotImplementedError
+    
+    item = {}
+    
+    
+    item['heritage'] = '7'
+    node = osmium.osm.mutable.Node(tags=item, location=loc, id=g[1:])
+    writer.add_node(node)
+
+
+
 project_name = config.static["project_name"]
 clear_fieldnames = config.fieldnames_after_mod + fieldnames['addr'] + fieldnames['tech']
 
