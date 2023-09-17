@@ -3,15 +3,27 @@ from src.utils import getopening, getoperator, getaddr, strip_number, getnames
 import re
 
 prepare = {
-    'addr:housenumber'
-    'addr:street'
-    'addr:place'
-    'addr:city'
-    'addr:postcode'
+    "accept": lambda x: re.match(r".*policj.*", x.get('NAZWA URZĘDU'), flags=re.IGNORECASE),
+    "separator": ';',
+    "tags": {
+        '__lat': 'DŁUGOŚĆ GEOGRAFICZNA',
+        '__lon': 'SZEROKOŚĆ GEOGRAFICZNA',           
+        'addr:postcode': 'KOD POCZTOWY',
+        'addr:city': lambda it: it.get('MIEJSCOWOŚĆ') if it.get('ULICA') else '',
+        'addr:place': lambda it: it.get('MIEJSCOWOŚĆ') if not it.get('ULICA') else '',
+        'addr:street': 'ULICA',
+        'addr:housenumber': 'NR DOMU',
+        'email': 'ADRES E-MAIL URZĘDU',
+        'fax': lambda x: strip_number(x.get('NR FAXU        wraz z nr kierunkowym')),
+        'name': lambda x: x.get('NAZWA URZĘDU').split(' w ')[0].strip(),
+        'official_name': lambda x: x.get('NAZWA URZĘDU').strip(),
+        'phone': lambda x: strip_number(x.get('NR TELEFONU wraz z nr kierunkowym')),
+        'website': 'ADRES WWW URZĘDU'
+    }
 }
 
 static = {
-    'project_name': 'centrum'
+    'project_name': 'policja'
 }
 
 search = {

@@ -2,12 +2,14 @@
 import argparse
 import csv
 from collections import defaultdict
+import importlib.util
 import osmium
 import requests
 
 from src.utils import strip_number, fieldnames, nominatim_addr, komoot_addr
 from src.place_handlers import OsmHandler, GovHandler
 from src.geodistance import geodistance
+from comparators import distance, tags
 
 def nominatim_to_addr(nominatim):
     return {
@@ -26,15 +28,29 @@ def osm_to_addr(osm):
     }
 
 def match_addr(addr1, addr2, mapping, skpinumber=False):
-    match_all = ['postcode', 'city', 'street', 'housenumber']
+    match_all = ['postcode', 'city', 'place', 'street', 'housenumber']
 
     if skpinumber:
         match_all.remove('housenumber')
 
-    return all([addr1[m] == addr2[m] for m in match_all])
+    tmp = False
+    for key in match_all:
+        a_k, b_k = addr1.get(f'addr:{key}'), addr2.get(f'addr:{key}')
+        
+        if (not a_k and b_k) or (a_k and not b_k):
+            return False
+        
+        if a_k == b_k:
+            tmp = True
+
+        if not tmp:
+            return False
+
+    return tmp
+    # return all([addr1[f'addr:{m}'] == addr2[f'addr:{m}'] for m in match_all])
 
 def match_latlon(latlon1, latlon2, limit=100):
-    if geodistance(latlon1[0], latlon1[1], latlon2[0], latlon2[1]) > limit:
+    if geodistance(latlon1.lat, latlon1.lon, latlon2.lat, latlon2.lon) > limit:
         return False
     return True
 
@@ -45,10 +61,34 @@ def geocenter(latlons):
 
 parser = argparse.ArgumentParser()
 parser.add_argument('name', type=str)
+parser.add_argument('-p', '--prepare', action='store_true')
 # parser.add_argument('-g', '--geocode', choices=['nominatim'], default='nominatim', type=str.lower)
 # parser.add_argument('-r', '--reverse-geocode', choices=['komoot', 'nominatim'], default='nominatim', type=str.lower)
 # parser.add_argument('-i', '--input-file', type=str.lower)
 args = parser.parse_args()
+
+print(f'Importing conf/{args.name}_conf.py')
+config = importlib.import_module(f'conf.{args.name}_conf')
+
+if args.prepare:
+    f_in = open(f'input/{args.name}_gov.csv', 'r')
+    f_out = open(f'input/{args.name}_gov_clean.csv', 'w') 
+    tags = config.prepare['tags']
+    r_in = csv.DictReader(f_in, delimiter=config.prepare['separator'] or ',')
+    r_out = csv.DictWriter(f_out, fieldnames=tags.keys())
+    r_out.writeheader()
+    for row in r_in:
+        if not config.prepare['accept'](row):
+            continue
+        new_row = {}
+        for key, value in tags.items():
+            if type(value) is str:
+                new_row[key] = row.get(value)
+            elif callable(value):
+                new_row[key] = value(row)
+            else:
+                raise NotImplementedError
+        r_out.writerow(new_row)
 
 # add addresses to osm
 osm = OsmHandler(args.name)
@@ -58,7 +98,8 @@ osm.add_addresses()
 # add cords to gov
 gov = GovHandler(args.name)
 gov.import_csv(f'input/{args.name}_gov.csv')
-gov.add_cords()
+
+
 
 # match
 mapping = {
@@ -66,52 +107,31 @@ mapping = {
     'gov': defaultdict(list)
 }
 
-# by addr
-for g in gov.match:
-    addr_g = nominatim_to_addr(gov.match.get(g).get('address'))
-    for o in osm.filled:
-        addr_o = osm_to_addr(osm.all.get(o).get('tags'))
-        if match_addr(addr_g, addr_o, mapping):
-            mapping['osm'][o].append(g)
-            mapping['gov'][g].append(o)
-    for o in osm.match:
-        addr_o = nominatim_to_addr(osm.match.get(o).get('address'))
-        if match_addr(addr_g, addr_o, mapping):
-            mapping['osm'][o].append(g)
-            mapping['gov'][g].append(o)
+for rule in config.matching:
+    print(f'Matching with rule: {rule}')
 
-#by cords
-for g in gov.match:
-    if g in mapping['gov']:
-        continue
-    latlon_g = (gov.match.get(g).get('lat'), gov.match.get(g).get('lon'))
-    for id,o in osm.all.items():
-        latlon_o = ''
-        if id in mapping['osm']:
-            continue
-
-        if o.get('location'):
-            latlon_o = (o['location'].lat, o['location'].lon)
-        elif id in osm.match:
-            latlon_o = (osm.match.get(id).get('lat'), osm.match.get(id).get('lon'))
+    if isinstance(rule, str):
+        if rule.split(':')[0] == 'location':
+            max_dist = int(rule.split(':')[1])
+            output = distance(gov.match, osm.all, osm.match, max_dist)
+            mapping.update(output)
         else:
-            continue
+            raise NotImplementedError(f'rule {rule} not supported!')
+    elif isinstance(rule, list):
+        output = tags(rule, gov.match, osm.all, osm.match)
+        mapping.update(output)
+    else:
+        raise NotImplementedError(f'rule {rule} not supported!')
 
-        if match_latlon(latlon_g, latlon_o):
-            mapping['osm'][id].append(g)
-            mapping['gov'][g].append(id)
+for arr in mapping.values():
+    print([x.length for x in arr])
 
-for k, v in mapping['gov'].items():
-    if(len(v) > 0):
-        print(f'GOV: {gov.all.get(k)}')
-        for it in v:
-            print(osm.all.get(it))
+new_writer = osmium.SimpleWriter(f'output/{args.name}_new.osm')
+edit_writer = osmium.SimpleWriter(f'output/{args.name}_edit.osm')
 
-writer = osmium.SimpleWriter('result.osm')
-
-# for k, v in osm.all2:
-#     print(osm.all)
-# print(osm.match)
+for k, v in osm.all2:
+    print(osm.all)
+print(osm.match)
 
 for g, o in mapping['gov'].items():
     if len(o) != 1:

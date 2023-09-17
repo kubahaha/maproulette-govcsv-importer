@@ -1,132 +1,2870 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-30T01:25:17Z" areas="2023-08-29T21:46:05Z"/>
+<meta osm_base="2023-05-23T19:00:08Z"/>
 
-  <node id="1802866066" lat="51.1228902" lon="22.5159283" version="4" timestamp="2023-08-17T20:43:44Z" changeset="140030724" uid="10642775" user="Dawid2849">
-    <tag k="brand" v="Delikatesy Centrum"/>
-    <tag k="brand:wikidata" v="Q11693824"/>
-    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+  <node id="310804007" lat="53.4203043" lon="18.0913222" version="3" timestamp="2022-02-19T20:48:04Z" changeset="117618963" uid="598860" user="Marek-M">
     <tag k="name" v="Delikatesy Centrum"/>
-    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.delikatesy.pl/sklepy/397"/>
   </node>
-  <node id="2083472103" lat="51.3546291" lon="22.3346020" version="9" timestamp="2023-08-18T14:38:12Z" changeset="140061192" uid="15803602" user="michalgwo">
-    <tag k="air_conditioning" v="yes"/>
+  <node id="319208527" lat="54.5421718" lon="18.4613119" version="8" timestamp="2022-05-18T18:39:58Z" changeset="121160144" uid="11336276" user="sivolk">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="371631397" lat="50.4815997" lon="23.0511907" version="6" timestamp="2020-12-08T15:03:50Z" changeset="95495417" uid="10642775" user="Dawid2849">
+    <tag k="addr:city" v="Józefów"/>
+    <tag k="addr:street" v="Tadeusza Kościuszki"/>
     <tag k="brand" v="Delikatesy Centrum"/>
     <tag k="brand:wikidata" v="Q11693824"/>
     <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
     <tag k="name" v="Delikatesy Centrum"/>
-    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
-    <tag k="operator" v="Spółdzielnia Rolniczo-Handlowa w Garbowie"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 11:01:43 04/03/09 (UMP-Zamosc/src/POI-Zamosc.budynki.pnt-converted.txt)"/>
+  </node>
+  <node id="417917075" lat="50.3446683" lon="21.4511844" version="5" timestamp="2021-08-06T22:46:25Z" changeset="109287117" uid="6751278" user="G_P_J">
+    <tag k="addr:housenumber" v="563"/>
+    <tag k="addr:place" v="Chorzelów"/>
+    <tag k="addr:postcode" v="39-331"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.delikatesy.pl/sklepy/1684"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 13:50:02 06/07/09 (UMP-Kielce/src/POI-Kielce.inne.pnt-converted.txt)"/>
+  </node>
+  <node id="431462798" lat="52.6501678" lon="16.8129763" version="10" timestamp="2022-04-01T08:44:46Z" changeset="119191861" uid="8346287" user="pawelu">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30"/>
+    <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2188627840" lat="51.2777937" lon="22.6587209" version="4" timestamp="2018-11-12T09:24:55Z" changeset="64398166" uid="9064258" user="redkons">
-    <tag k="addr:city" v="Turka"/>
-    <tag k="addr:country" v="PL"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20-258"/>
-    <tag k="addr:state" v="lubelskie"/>
-    <tag k="addr:street" v="Bukowa"/>
-    <tag k="name" v="Centrum Handlowe &quot;Borek&quot;"/>
+  <node id="499855525" lat="52.5332332" lon="19.7484570" version="7" timestamp="2020-09-27T15:24:34Z" changeset="91587636" uid="8315326" user="MarioPlock">
+    <tag k="addr:city" v="Płock"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="09-410"/>
+    <tag k="addr:street" v="Czwartaków"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="contact:email" v="recepcja.plock@mila.pl"/>
+    <tag k="contact:phone" v="+48 52 304-24-23"/>
+    <tag k="contact:website" v="http://www.mila.pl"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="4270187889" lat="51.0065686" lon="22.7093609" version="3" timestamp="2023-08-17T20:49:13Z" changeset="140030884" uid="10642775" user="Dawid2849">
+  <node id="499910120" lat="52.6321500" lon="20.3735200" version="4" timestamp="2022-08-11T18:15:25Z" changeset="124787511" uid="12914377" user="Patryk2710">
+    <tag k="addr:city" v="Płońsk"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 23:56:29 09/12/09 (UMP-Plock/src/PLOCK.szpitale.pnt-converted.txt);https://www.delikatesy.pl/sklepy"/>
+  </node>
+  <node id="506370465" lat="49.9251950" lon="18.3179768" version="4" timestamp="2022-03-20T20:02:40Z" changeset="118709093" uid="3068878" user="elot360">
+    <tag k="addr:city" v="Chałupki"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="47-460"/>
+    <tag k="addr:street" v="Bogumińska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://delikatesy-centrum.okazjum.pl/chalupki__109953/chalupki-boguminska-1,129346/"/>
+  </node>
+  <node id="562767168" lat="49.6579538" lon="21.8338622" version="7" timestamp="2022-07-18T12:52:13Z" changeset="123763356" uid="11515391" user="witkoo">
+    <tag k="check_date:opening_hours" v="2022-07-18"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="mall"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 01:32:52 09/02/09 (UMP-Przemysl/src/POI-Przemysl.pnt-converted.txt)"/>
+    <tag k="toilets" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="562816456" lat="49.6837789" lon="22.1775582" version="3" timestamp="2020-04-09T17:49:12Z" changeset="83322247" uid="1580817" user="Sparty0">
+    <tag k="addr:city" v="Dydnia"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 01:32:52 09/02/09 (UMP-Przemysl/src/POI-Przemysl.pnt-converted.txt)"/>
+  </node>
+  <node id="615935876" lat="50.5961745" lon="17.6521939" version="3" timestamp="2019-09-01T21:00:48Z" changeset="73982321" uid="10220794" user="Maciej Kasperski">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="639320612" lat="49.7064399" lon="20.9397038" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Bobowa"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 09:00-18:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 15:56:07 01/18/10 (UMP-NowySacz/src/POI-NowySacz1.pnt-converted.txt)"/>
+  </node>
+  <node id="685098398" lat="51.1964034" lon="23.1611075" version="4" timestamp="2016-03-19T10:30:01Z" changeset="37935599" uid="175746" user="RafalR">
+    <tag k="addr:city" v="Siedliszcze"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="22-130"/>
+    <tag k="addr:street" v="Szpitalna"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="phone" v="+48 82 5692575"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="url" v="www.delikatesy.pl"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="688028006" lat="49.7381300" lon="20.3870500" version="1" timestamp="2010-04-07T23:39:49Z" changeset="4360286" uid="163896" user="Zbigniew_Cz">
+    <tag k="addr:city" v="Limanowa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 03:39:37 04/04/10 (UMP-NowySacz/src/NOWY_SACZ.sklepy.pnt-converted.txt)"/>
+  </node>
+  <node id="790017319" lat="51.7815909" lon="14.9792258" version="6" timestamp="2020-01-11T00:29:26Z" changeset="79439479" uid="2044927" user="Mariusz Staniszewski">
+    <tag k="addr:city" v="Lubsko"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="68-300"/>
+    <tag k="addr:street" v="Wrocławska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="817184985" lat="50.6355893" lon="18.8408477" version="5" timestamp="2022-07-03T16:56:40Z" changeset="123158310" uid="4366959" user="damwas">
+    <tag k="addr:city" v="Koszęcin"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="42-286"/>
+    <tag k="addr:street" v="Powstańców Śląskich"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 06:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="828504510" lat="49.6048535" lon="20.2963468" version="13" timestamp="2019-12-29T21:52:28Z" changeset="78990638" uid="10284193" user="szydzio-imports">
+    <tag k="addr:housenumber" v="282"/>
+    <tag k="addr:place" v="Szczawa"/>
+    <tag k="addr:postcode" v="34-607"/>
+    <tag k="contact:email" v="dc.szczawa@wp.pl"/>
+    <tag k="contact:phone" v="+48 18 2628245"/>
+    <tag k="contact:website" v="https://www.delikatesy.pl/lista-sklepow/401/szczawa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 09:00-17:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="836253315" lat="53.8881016" lon="15.7165866" version="3" timestamp="2019-03-22T08:11:26Z" changeset="68400826" uid="9554436" user="Marek Osial">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="notes"/>
+  </node>
+  <node id="880392025" lat="52.3796341" lon="16.9540940" version="2" timestamp="2017-03-02T06:57:05Z" changeset="46514044" uid="5412772" user="Radeks Radujew">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="944217627" lat="53.7049948" lon="20.9589194" version="4" timestamp="2015-03-14T16:13:12Z" changeset="29475092" uid="2363850" user="czarnystok">
+    <tag k="addr:city" v="Dźwierzuty"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="12-120"/>
+    <tag k="addr:street" v="Pasymska"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00;Su 10:00-17:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="955956495" lat="52.4753011" lon="17.2819044" version="7" timestamp="2021-08-28T20:25:21Z" changeset="110393392" uid="576108" user="m@rio">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.delikatesy.pl/sklepy"/>
+  </node>
+  <node id="974380146" lat="50.0035810" lon="22.0288887" version="5" timestamp="2016-12-19T20:48:55Z" changeset="44525560" uid="2098272" user="maraf24">
+    <tag k="addr:city" v="Rzeszów"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="35-604"/>
+    <tag k="addr:street" v="Ignacego Łukasiewicza"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="993787413" lat="49.7599166" lon="19.1030641" version="3" timestamp="2022-10-23T08:25:17Z" changeset="127946677" uid="3423733" user="A_Ku">
     <tag k="brand" v="Delikatesy Centrum"/>
     <tag k="brand:wikidata" v="Q11693824"/>
     <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
     <tag k="name" v="Delikatesy Centrum"/>
     <tag k="opening_hours" v="Mo-Sa 06:00-21:00"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.delikatesy.pl/sklepy/43707"/>
+    <tag k="shop" v="convenience"/>
   </node>
-  <node id="11123838951" lat="51.0127733" lon="22.5406544" version="1" timestamp="2023-08-17T20:43:44Z" changeset="140030724" uid="10642775" user="Dawid2849">
-    <tag k="addr:city" v="Bychawa"/>
-    <tag k="addr:city:simc" v="0955621"/>
-    <tag k="addr:housenumber" v="79"/>
-    <tag k="addr:postcode" v="23-100"/>
+  <node id="1036620184" lat="49.5776987" lon="20.7861688" version="3" timestamp="2021-09-09T22:26:16Z" changeset="110997057" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:housenumber" v="714"/>
+    <tag k="addr:place" v="Kamionka Wielka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours:covid19" v="Mo-Sa 06:00-21:00; Su 09:00-19:00"/>
+    <tag k="phone" v="+48 18 445 60 84"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="1037606709" lat="49.4010635" lon="20.9503019" version="2" timestamp="2015-01-25T13:55:12Z" changeset="28396160" uid="693154" user="Władysław Komorek">
+    <tag k="addr:city" v="Krynica-Zdrój"/>
+    <tag k="addr:street" v="Czarny Potok"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="mall"/>
+  </node>
+  <node id="1058461894" lat="49.8453030" lon="20.3725368" version="3" timestamp="2014-09-01T10:34:44Z" changeset="25156576" uid="775276" user="dziabaducha">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1094885403" lat="49.9676833" lon="18.9449090" version="3" timestamp="2019-05-28T10:16:46Z" changeset="70690647" uid="2970173" user="bigbastek">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1121883570" lat="49.9828465" lon="20.0629926" version="2" timestamp="2014-07-26T16:51:04Z" changeset="24370671" uid="231392" user="slodki">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1236392838" lat="49.4397788" lon="21.1727962" version="2" timestamp="2022-04-23T14:21:55Z" changeset="120092536" uid="2298184" user="Tomek100">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1264134500" lat="53.8281752" lon="20.3100022" version="5" timestamp="2022-08-27T21:30:26Z" changeset="125457745" uid="485927" user="serdelll">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1272011064" lat="50.9429995" lon="20.9441214" version="4" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1275817300" lat="51.1462189" lon="16.8668415" version="5" timestamp="2023-01-12T23:49:36Z" changeset="131208555" uid="3476229" user="maro21">
+    <tag k="disused:opening_hours" v="08:00-24:00"/>
+    <tag k="disused:shop" v="supermarket"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+  </node>
+  <node id="1334471123" lat="50.1599631" lon="18.3107992" version="3" timestamp="2013-04-28T09:02:43Z" changeset="15892404" uid="838827" user="gregorisan">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1347126357" lat="50.2137619" lon="19.8672302" version="4" timestamp="2016-10-22T21:36:48Z" changeset="43089291" uid="163896" user="Zbigniew_Cz">
+    <tag k="addr:city" v="Cianowice"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1368902954" lat="54.7007051" lon="18.6760275" version="6" timestamp="2021-01-17T14:22:43Z" changeset="97639651" uid="1183839" user="🖕🖕🖕">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1388953130" lat="53.8051680" lon="20.0843064" version="3" timestamp="2022-03-23T20:52:12Z" changeset="118838090" uid="598860" user="Marek-M">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-12:30,13:00-19:30"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1408485725" lat="49.3242804" lon="22.6697931" version="5" timestamp="2022-02-27T18:25:48Z" changeset="117918165" uid="1213571" user="mcliquid">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1419975868" lat="51.0933028" lon="16.9864349" version="7" timestamp="2022-08-28T21:23:59Z" changeset="125496024" uid="336718" user="nowak">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:housenumber" v="27f"/>
+    <tag k="addr:postcode" v="53-231"/>
+    <tag k="addr:street" v="Aleja Pracy"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1430592016" lat="50.5319818" lon="18.7205647" version="3" timestamp="2020-04-14T18:17:28Z" changeset="83549162" uid="8115201" user="Aerboreus">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1504366095" lat="53.3396130" lon="15.0184088" version="14" timestamp="2023-01-25T09:56:38Z" changeset="131687137" uid="4128818" user="☆Finvenkulo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Jan 29,Apr 02,Apr 30,Jun 25,Aug 27,Dec 17 Su 10:00-19:30"/>
+    <tag k="payment:blik" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1540970044" lat="51.2735321" lon="15.9372198" version="3" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Chojnów"/>
+    <tag k="addr:housenumber" v="25A"/>
+    <tag k="addr:postcode" v="59-225"/>
+    <tag k="addr:street" v="Legnicka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1540970046" lat="51.2708333" lon="15.9388290" version="3" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Chojnów"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="59-225"/>
+    <tag k="addr:street" v="Grodzka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1543381060" lat="52.0002294" lon="20.9172225" version="6" timestamp="2022-08-17T16:31:29Z" changeset="125025933" uid="3885790" user="NieWnen">
+    <tag k="addr:city" v="Złotokłos"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="05-504"/>
+    <tag k="addr:street" v="3 Maja"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="description" v="Godziny otwarcia: Pn - Czw: 06:00 - 22:00 Pt - Sb: 06:00 - 24:00 Nd: 06:00 - 22:00"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Th 06:00-22:00, Fr,Sa 06:00-02:00, Su 09:00-18:00"/>
+    <tag k="phone" v="+48 503 040 185"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/lista-sklepow/1265/zlotoklos-zlotoklos-ul-3-maja-5"/>
+  </node>
+  <node id="1570033386" lat="49.9255235" lon="20.4536506" version="4" timestamp="2023-02-09T06:11:23Z" changeset="132288716" uid="15215305" user="NorthCrab">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1600145740" lat="51.9602371" lon="19.7117633" version="2" timestamp="2012-07-15T21:21:10Z" changeset="12235645" uid="682301" user="Yaper">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1617658306" lat="51.9589792" lon="16.1628959" version="3" timestamp="2018-09-28T10:29:04Z" changeset="63004466" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Kaszczor"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="64-234"/>
+    <tag k="addr:street" v="Powstańców Wielkopolskich"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1618303637" lat="50.0518353" lon="19.2723227" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Bobrek"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:street" v="Nadwiślańska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 09:00-17:00"/>
+    <tag k="phone" v="+48 536 218 763"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="1623430751" lat="50.2150715" lon="19.3516459" version="4" timestamp="2023-01-29T17:44:22Z" changeset="131849200" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Jaworzno"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="43-600"/>
+    <tag k="addr:street" v="Księdza Andrzeja Mroczka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="email" v="dc-ciezkowice@wp.pl"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 08:00-20:00"/>
+    <tag k="operator" v="Delikatesy Centrum"/>
+    <tag k="phone" v="+48 32 616 16 81"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="1645799284" lat="51.1114809" lon="17.0374607" version="5" timestamp="2022-10-07T04:59:53Z" changeset="127130593" uid="16643939" user="feathered_ouul">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:postcode" v="50-142"/>
+    <tag k="addr:street" v="PL. Nowy Targ"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 08:00-15:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1650910646" lat="49.9658674" lon="19.6316748" version="6" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Brzeźnica"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="34-114"/>
+    <tag k="addr:street" v="Kalwaryjska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 06:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1660686628" lat="50.5773034" lon="22.1214083" version="3" timestamp="2014-07-04T23:14:44Z" changeset="23959507" uid="693154" user="Władysław Komorek">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Podborek"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1670551757" lat="49.9904481" lon="20.5155943" version="2" timestamp="2021-01-03T20:32:01Z" changeset="96863491" uid="6668641" user="syntex">
+    <tag k="addr:housename" v="29"/>
+    <tag k="addr:postcode" v="32-765"/>
+    <tag k="addr:street" v="Kościelna"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1693765567" lat="49.6100169" lon="20.6850416" version="3" timestamp="2023-04-22T20:20:39Z" changeset="135242416" uid="17385312" user="micholek">
+    <tag k="addr:city" v="Nowy Sącz"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="33-300"/>
+    <tag k="addr:street" v="Bogusławy Agaty Konstanty"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 10:00-18:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="1718033700" lat="52.0766994" lon="20.1639892" version="4" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1719555201" lat="51.1445464" lon="17.8474148" version="4" timestamp="2018-08-08T18:52:44Z" changeset="61477982" uid="8105287" user="Japven">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1721643265" lat="50.0708058" lon="21.7016779" version="3" timestamp="2022-07-25T02:18:05Z" changeset="124029083" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1738257876" lat="49.6816871" lon="21.0229035" version="3" timestamp="2023-01-06T11:09:59Z" changeset="130942536" uid="8251533" user="Domino123">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1794226555" lat="52.5894411" lon="14.6542114" version="5" timestamp="2022-09-30T13:17:54Z" changeset="126823327" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Kostrzyn nad Odrą"/>
+    <tag k="addr:housenumber" v="3-5"/>
+    <tag k="addr:postcode" v="66-470"/>
+    <tag k="addr:street" v="Mikołaja Kopernika"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1796774919" lat="51.6148612" lon="15.3196827" version="5" timestamp="2020-03-29T23:00:25Z" changeset="82795080" uid="2044927" user="Mariusz Staniszewski">
+    <tag k="addr:city" v="Żagań"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="68-100"/>
+    <tag k="addr:street" v="Rynek"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1802628002" lat="49.8778831" lon="19.1403134" version="2" timestamp="2015-10-27T16:07:46Z" changeset="34906609" uid="693154" user="Władysław Komorek">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1802866066" lat="51.1229882" lon="22.5159944" version="3" timestamp="2014-10-07T09:59:20Z" changeset="25914022" uid="2189746" user="piotyrek">
+    <tag k="addr:city" v="Strzyżewice"/>
+    <tag k="addr:postcode" v="23-107"/>
+    <tag k="addr:street" v="Żabia Wola"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1805428745" lat="50.0063110" lon="18.4694481" version="3" timestamp="2023-04-16T13:23:31Z" changeset="134975053" uid="18761109" user="strollwander">
+    <tag k="addr:city" v="Wodzisław Śląski"/>
+    <tag k="addr:housenumber" v="9A"/>
+    <tag k="addr:postcode" v="44-300"/>
+    <tag k="addr:street" v="Plac Zwycięstwa"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Sa 06:00-17:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1807101313" lat="50.0499421" lon="18.4740518" version="3" timestamp="2023-03-24T18:38:13Z" changeset="134080376" uid="18761109" user="strollwander">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1809764642" lat="49.4610338" lon="20.2657315" version="4" timestamp="2021-09-09T19:44:50Z" changeset="110992624" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Maniowy"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="34-436"/>
+    <tag k="addr:street" v="Gorczańska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="http://delikatesy.pl/"/>
+  </node>
+  <node id="1811557633" lat="50.0021340" lon="20.6181192" version="1" timestamp="2012-07-03T18:19:34Z" changeset="12102925" uid="139489" user="eskade1">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1814756949" lat="50.1063391" lon="20.2907346" version="3" timestamp="2019-05-07T22:51:10Z" changeset="70001263" uid="6529331" user="edc22">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1821381448" lat="49.9544003" lon="20.8315262" version="2" timestamp="2012-07-16T09:40:01Z" changeset="12241796" uid="498624" user="wwentyllo">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1838538871" lat="49.6971505" lon="21.7618248" version="3" timestamp="2019-07-16T21:39:21Z" changeset="72323287" uid="6203794" user="k2101">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="operator" v="Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1853489648" lat="54.0880383" lon="21.9202508" version="7" timestamp="2022-06-15T19:53:55Z" changeset="122433080" uid="9656168" user="Mati35">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1854455980" lat="50.9454722" lon="17.3042193" version="5" timestamp="2022-05-25T08:09:09Z" changeset="121461912" uid="2098272" user="maraf24">
+    <tag k="addr:city" v="Oława"/>
+    <tag k="addr:housenumber" v="56c"/>
+    <tag k="addr:postcode" v="55-200"/>
+    <tag k="addr:street" v="Bolesława Chrobrego"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1879454933" lat="50.2006887" lon="18.3111686" version="2" timestamp="2015-05-26T19:11:20Z" changeset="31483846" uid="838827" user="gregorisan">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 09:00-17:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1879842313" lat="54.3077189" lon="22.3126526" version="2" timestamp="2013-09-13T22:42:12Z" changeset="17825297" uid="467703" user="Zibior2">
+    <tag k="addr:city" v="Gołdap"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Ignacego Paderewskiego"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1885069358" lat="50.6138453" lon="22.9671044" version="3" timestamp="2020-10-14T12:40:34Z" changeset="92473866" uid="4884270" user="cyberatlas">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1889017889" lat="50.9622891" lon="16.3439553" version="3" timestamp="2022-02-18T14:11:30Z" changeset="117567000" uid="2313574" user="szydzio">
+    <tag k="addr:city" v="Strzegom"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="58-150"/>
+    <tag k="addr:street" v="Tadeusza Kościuszki"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1898347008" lat="50.3608307" lon="21.9077717" version="2" timestamp="2022-09-18T14:13:04Z" changeset="126332583" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1903219313" lat="49.7076897" lon="20.6474304" version="2" timestamp="2021-11-07T11:20:04Z" changeset="113475649" uid="3435758" user="Fabcio">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1903219322" lat="49.6002712" lon="20.6400573" version="3" timestamp="2021-12-24T08:33:02Z" changeset="115324987" uid="290680" user="wheelmap_visitor">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; PH closed; Su closed"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1910176526" lat="50.0113624" lon="20.0093499" version="5" timestamp="2023-03-20T15:54:10Z" changeset="133905320" uid="18621759" user="1000Q">
+    <tag k="addr:city" v="Kraków"/>
+    <tag k="addr:country" v="PL"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="30-836"/>
+    <tag k="addr:street" v="Erazma Jerzmanowskiego"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+48571404167"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1916266787" lat="53.7584621" lon="17.1079634" version="3" timestamp="2020-06-15T18:18:55Z" changeset="86682937" uid="6787937" user="boozeq">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1917879131" lat="51.9689022" lon="19.7185318" version="3" timestamp="2014-09-14T07:51:24Z" changeset="25426228" uid="145856" user="jrk">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-21:30;Sa 06:00-21:30;Su 09:00-17:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1941568096" lat="50.9115199" lon="16.4306600" version="6" timestamp="2018-12-29T03:55:04Z" changeset="65857633" uid="665336" user="Minimalis">
+    <tag k="addr:city" v="Jaworzyna Śląska"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="58-140"/>
+    <tag k="addr:street" v="Tadeusza Kościuszki"/>
+    <tag k="email" v="aldona-hendzel@wp.pl"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 10:00-20:00"/>
+    <tag k="phone" v="+48 74 858 84 86"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1941568108" lat="50.9114094" lon="16.4283070" version="8" timestamp="2022-01-21T16:52:05Z" changeset="116439853" uid="12510523" user="małyfanfnaf">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00; Sa 07:00-19:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1953347101" lat="49.4265533" lon="20.4797908" version="2" timestamp="2017-07-17T14:55:56Z" changeset="50354063" uid="2313574" user="szydzio">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 08:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1993764843" lat="49.3372154" lon="22.2861496" version="7" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Baligród"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="38-606"/>
+    <tag k="addr:street" v="Plac Wolności"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-21:00; Su 08:00-20:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2008122903" lat="50.0083385" lon="20.9790724" version="5" timestamp="2021-11-16T10:17:59Z" changeset="113844389" uid="5060085" user="Piotr Strębski">
+    <tag k="addr:city" v="Tarnów"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2011458661" lat="50.0155527" lon="18.4501552" version="7" timestamp="2022-06-06T19:39:15Z" changeset="122040987" uid="3414856" user="Interswd">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00, Su 09:00-20:00"/>
+    <tag k="operator" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2019591152" lat="53.8017426" lon="21.5759548" version="4" timestamp="2015-10-27T12:07:51Z" changeset="34902003" uid="1148492" user="Czadzik">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2029604997" lat="50.4341628" lon="21.2823633" version="2" timestamp="2020-04-04T16:40:47Z" changeset="83076483" uid="9323747" user="MapChanger65">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2047646442" lat="51.7307492" lon="15.8260317" version="6" timestamp="2021-06-09T13:53:15Z" changeset="106100017" uid="13451861" user="ziroonderel">
+    <tag k="addr:city" v="Bytom Odrzański"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="67-115"/>
+    <tag k="addr:street" v="Kożuchowska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="old_name" v="Eko"/>
+    <tag k="opening_hours" v="Mo-Sa 06:15-22:00,09:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2080252120" lat="50.2394010" lon="23.1325647" version="2" timestamp="2021-10-31T17:08:47Z" changeset="113201782" uid="14382630" user="mundzix205">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2083472103" lat="51.3546355" lon="22.3346076" version="5" timestamp="2022-05-25T22:32:39Z" changeset="121495027" uid="5308017" user="SamosaBelz">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="operator" v="Spółdzielnia Rolniczo-Handlowa w Garbowie"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2085559424" lat="51.0497124" lon="17.0008188" version="4" timestamp="2022-02-13T18:10:07Z" changeset="117364390" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Wysoka"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="52-200"/>
+    <tag k="addr:street" v="Brzozowa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2099932728" lat="51.0754350" lon="17.7198628" version="4" timestamp="2021-07-29T21:00:31Z" changeset="108846688" uid="591529" user="IreuN">
+    <tag k="addr:city" v="Namysłów"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="46-100"/>
+    <tag k="addr:street" v="Wały Jana III"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:30; Su 09:00-18:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2143615138" lat="52.2525800" lon="21.3035300" version="4" timestamp="2020-08-13T18:04:19Z" changeset="89369944" uid="1183839" user="🖕🖕🖕">
+    <tag k="addr:city" v="Sulejówek"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="05-071"/>
+    <tag k="addr:street" v="Armii Krajowej"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="7:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source:addr" v="UM Sulejówek"/>
+  </node>
+  <node id="2167309365" lat="50.0422640" lon="19.1893442" version="6" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Brzezinka"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="32-600"/>
+    <tag k="addr:street" v="Czernichowska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 08:30-16:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2179876648" lat="51.4007962" lon="23.4041701" version="4" timestamp="2022-05-05T20:33:46Z" changeset="120604998" uid="10492626" user="kpv8">
+    <tag k="addr:city" v="Hańsk Pierwszy"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="22-235"/>
+    <tag k="addr:street" v="Parczewska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="UG Hańsk"/>
+  </node>
+  <node id="2188334220" lat="50.0259489" lon="22.0076431" version="2" timestamp="2022-11-15T20:05:01Z" changeset="128957522" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2197475228" lat="49.6126536" lon="20.6618763" version="2" timestamp="2020-03-05T16:21:52Z" changeset="81830807" uid="313969" user="emtiwi">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 13:00-20:00; PH closed"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2200318478" lat="49.9698186" lon="19.0533615" version="1" timestamp="2013-03-13T20:59:16Z" changeset="15356381" uid="413484" user="sznik">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2203950144" lat="49.9853982" lon="19.1457178" version="4" timestamp="2019-02-13T09:27:05Z" changeset="67156576" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Brzeszcze"/>
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:street" v="Tadeusza Kościuszki"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-20:00; Sa 06:30-19:00"/>
+    <tag k="operator" v="Eurocash"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2207124849" lat="50.3357602" lon="23.5153755" version="4" timestamp="2022-06-23T18:08:24Z" changeset="122769886" uid="2098272" user="maraf24">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2247193661" lat="50.4864031" lon="17.3427131" version="10" timestamp="2019-03-02T16:36:29Z" changeset="67717884" uid="9329285" user="TelepathicalCG">
+    <tag k="addr:city" v="Nysa"/>
+    <tag k="addr:housenumber" v="C21c"/>
+    <tag k="addr:place" v="Podzamcze"/>
+    <tag k="addr:postcode" v="48-300"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="operator" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="http://sdi.opolskie.pl/mapa_bazowa/request.aspx"/>
+  </node>
+  <node id="2250032779" lat="54.2889187" lon="18.2176786" version="5" timestamp="2021-03-17T19:26:44Z" changeset="101210134" uid="598860" user="Marek-M">
+    <tag k="addr:city" v="Kiełpino"/>
+    <tag k="addr:housenumber" v="36A"/>
+    <tag k="addr:postcode" v="83-307"/>
+    <tag k="addr:street" v="Długa"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2275137539" lat="50.0107555" lon="19.1935720" version="3" timestamp="2020-12-18T15:29:22Z" changeset="96079264" uid="10642775" user="Dawid2849">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2286421320" lat="49.7157595" lon="19.0257300" version="3" timestamp="2020-07-11T06:32:04Z" changeset="87844346" uid="1183839" user="🖕🖕🖕">
+    <tag k="addr:city" v="Szczyrk"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="43-370"/>
+    <tag k="addr:street" v="Beskidzka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2290595250" lat="54.1992672" lon="17.3679259" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Borzytuchom"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="77-141"/>
+    <tag k="addr:street" v="Zwycięstwa"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 05:30-21:00; Sa 07:00-21:00"/>
+    <tag k="payment:card" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="537800638"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2292520878" lat="50.3951435" lon="19.9473633" version="2" timestamp="2022-07-25T02:18:05Z" changeset="124029083" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2341778062" lat="51.1454983" lon="19.4085741" version="3" timestamp="2022-10-13T18:56:46Z" changeset="127486238" uid="8165703" user="matema">
+    <tag k="addr:city" v="Dobryszyce"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="97-505"/>
+    <tag k="addr:street" v="Wolności"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2348072234" lat="50.3222255" lon="22.3438219" version="3" timestamp="2022-10-26T14:26:46Z" changeset="128087601" uid="17310535" user="Krzysztof018">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2348075479" lat="50.3179448" lon="22.3417648" version="4" timestamp="2021-03-18T11:17:41Z" changeset="101254652" uid="337375" user="Rom1">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2348075480" lat="50.3262545" lon="22.3429059" version="1" timestamp="2013-06-16T17:24:38Z" changeset="16578875" uid="1553542" user="jakub0628">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2361313837" lat="52.1993861" lon="23.2047680" version="2" timestamp="2016-11-05T20:43:06Z" changeset="43429974" uid="4802004" user="egon24">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2381135355" lat="51.1131867" lon="17.0145145" version="5" timestamp="2022-02-13T18:10:07Z" changeset="117364390" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:housenumber" v="23-25"/>
+    <tag k="addr:postcode" v="53-671"/>
+    <tag k="addr:street" v="Legnicka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2393811608" lat="52.5789611" lon="14.6397496" version="4" timestamp="2018-07-22T18:43:40Z" changeset="60959516" uid="3266826" user="Eastside_999">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2400253779" lat="50.6859970" lon="16.3714950" version="3" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2410265420" lat="53.6491615" lon="21.5644270" version="3" timestamp="2022-06-12T13:31:38Z" changeset="122281346" uid="11306447" user="starsep">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 07:00-19:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2424495019" lat="49.2994171" lon="19.9498936" version="4" timestamp="2022-01-28T17:55:44Z" changeset="116717578" uid="7354698" user="mickul">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 08:00-20:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2425448233" lat="50.1529695" lon="22.2432915" version="1" timestamp="2013-08-20T13:02:06Z" changeset="17426262" uid="1712897" user="StingMan">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="I'm living near this point"/>
+  </node>
+  <node id="2427904430" lat="49.7848161" lon="22.7534249" version="3" timestamp="2022-02-27T18:20:43Z" changeset="117918020" uid="1213571" user="mcliquid">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2437455200" lat="52.0153320" lon="18.5099662" version="2" timestamp="2022-10-22T14:02:54Z" changeset="127923749" uid="16345719" user="blxght">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2442414785" lat="50.8985311" lon="16.7451047" version="3" timestamp="2022-02-13T18:10:07Z" changeset="117364390" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Sobótka"/>
+    <tag k="addr:postcode" v="55-050"/>
+    <tag k="addr:street" v="Sobótka Rynek"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2452726144" lat="50.4845143" lon="18.4075140" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2463334458" lat="52.2410417" lon="19.3535206" version="2" timestamp="2014-01-02T16:06:11Z" changeset="19769409" uid="1238786" user="LeoKutno">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2469454016" lat="51.2295607" lon="20.8609882" version="6" timestamp="2022-07-21T06:19:09Z" changeset="123876149" uid="4884270" user="cyberatlas">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2478742643" lat="49.2861413" lon="19.9805767" version="2" timestamp="2016-07-13T21:44:48Z" changeset="40725137" uid="2977606" user="marcoos69">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2483598941" lat="50.1005242" lon="19.2646811" version="2" timestamp="2019-07-17T10:18:52Z" changeset="72340268" uid="2044927" user="Mariusz Staniszewski">
+    <tag k="addr:street" v="Krakowska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2495909509" lat="49.7703191" lon="18.8540313" version="2" timestamp="2021-07-29T21:21:55Z" changeset="108847450" uid="591529" user="IreuN">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2531677315" lat="49.9756501" lon="19.8249016" version="2" timestamp="2015-09-16T16:17:20Z" changeset="34065975" uid="3242612" user="Adrianoooooo">
+    <tag k="addr:city" v="Skawina"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="32-050"/>
+    <tag k="addr:street" v="Adama Mickiewicza"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="EMUiA (emuia.geoportal.gov.pl)"/>
+  </node>
+  <node id="2584203162" lat="51.2863776" lon="18.5608874" version="2" timestamp="2018-03-06T13:15:35Z" changeset="56935368" uid="6724751" user="Ex Radioactivetoy">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2598674158" lat="51.2653987" lon="15.5327968" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Bolesławiec"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="59-700"/>
+    <tag k="addr:street" v="Sadowa"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2609361876" lat="49.7366970" lon="19.8907913" version="3" timestamp="2017-06-09T11:14:30Z" changeset="49388275" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2619803476" lat="49.8766363" lon="19.4996451" version="6" timestamp="2022-09-06T16:35:07Z" changeset="125866562" uid="3077046" user="Olga Chrzan">
+    <tag k="addr:city" v="Wadowice"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="34-100"/>
+    <tag k="addr:street" v="Osiedle Mikołaja Kopernika"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2629965198" lat="49.8823209" lon="19.2296747" version="3" timestamp="2020-08-28T08:50:48Z" changeset="90069400" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Kęty"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="32-650"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00"/>
+    <tag k="operator" v="Eurocash"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2630227974" lat="50.9822601" lon="18.2041806" version="3" timestamp="2020-04-27T17:55:22Z" changeset="84213994" uid="429093" user="kitlazy">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2640120561" lat="51.1640883" lon="16.5856292" version="4" timestamp="2022-03-17T16:51:40Z" changeset="118603065" uid="6765127" user="Cristoffs">
+    <tag k="addr:city" v="Środa Śląska"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="55-300"/>
+    <tag k="addr:street" v="Legnicka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2644697983" lat="50.0107673" lon="19.3716507" version="4" timestamp="2021-08-23T19:15:24Z" changeset="110133987" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Przeciszów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="32-641"/>
+    <tag k="addr:street" v="Podlesie"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo- Sa 06:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2654864099" lat="51.3363983" lon="16.6461955" version="3" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Wołów"/>
+    <tag k="addr:postcode" v="56-100"/>
+    <tag k="addr:street" v="Zwycięstwa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2684104306" lat="49.6577151" lon="21.9966018" version="7" timestamp="2019-08-14T21:07:14Z" changeset="73365149" uid="2272450" user="ad08r">
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:place" v="Jasionów"/>
+    <tag k="addr:postcode" v="36-211"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-22:00; Su 08:00-21:00"/>
+    <tag k="operator" v="&quot;Alfa&quot; S.C. Agata Krupa Zbigniew Mazur"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+48 13 43 933 54"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2686773477" lat="49.8774202" lon="19.1964291" version="3" timestamp="2020-09-05T21:36:25Z" changeset="90464837" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Kęty"/>
+    <tag k="addr:housenumber" v="28A"/>
+    <tag k="addr:postcode" v="32-650"/>
+    <tag k="addr:street" v="Partyzantów"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="contact:phone" v="+48 33 845 37 63"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2698805795" lat="49.7351984" lon="19.1284188" version="4" timestamp="2020-10-28T08:43:18Z" changeset="93166096" uid="408964" user="Lesnydzban">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2706753909" lat="49.8624084" lon="21.0194938" version="3" timestamp="2017-10-26T12:11:18Z" changeset="53261854" uid="6860899" user="beznicku2">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2752282632" lat="49.6972401" lon="22.0227737" version="1" timestamp="2014-03-29T18:16:45Z" changeset="21387495" uid="1291443" user="szelmaraf">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2758574684" lat="50.6455995" lon="20.2808821" version="2" timestamp="2020-01-10T11:35:13Z" changeset="79415548" uid="9958347" user="John_Pavulon">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2767264848" lat="49.8809506" lon="20.0892369" version="3" timestamp="2020-08-21T09:05:23Z" changeset="89734814" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Dobczyce"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="32-410"/>
+    <tag k="addr:street" v="Rynek"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-22:00"/>
+    <tag k="operator" v="Eurocash"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2775277311" lat="50.0592104" lon="22.0472290" version="4" timestamp="2017-11-02T11:44:08Z" changeset="53449041" uid="4493657" user="Aim311">
+    <tag k="addr:city" v="Rzeszów"/>
+    <tag k="addr:housenumber" v="47a"/>
+    <tag k="addr:postcode" v="35-322"/>
+    <tag k="addr:street" v="Księdza Jana Stączka"/>
+    <tag k="email" v="dcrzeszow@firmarogala.pl"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 6:00-21:00; Su 9:00-21:00"/>
+    <tag k="phone" v="+48 606 218 947"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source:addr" v="EMUiA (emuia.gugik.gov.pl)"/>
+    <tag k="website" v="https://www.delikatesy.pl"/>
+  </node>
+  <node id="2791662330" lat="51.6364927" lon="15.1426706" version="9" timestamp="2022-10-02T20:34:19Z" changeset="126908925" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Żary"/>
+    <tag k="addr:housenumber" v="14B"/>
+    <tag k="addr:postcode" v="68-200"/>
+    <tag k="addr:street" v="Podwale"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2814244567" lat="50.2229488" lon="19.7406374" version="4" timestamp="2021-02-24T15:55:00Z" changeset="99916846" uid="6751278" user="G_P_J">
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:place" v="Gotkowice"/>
+    <tag k="addr:postcode" v="32-048"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2837671752" lat="50.8881694" lon="20.1135675" version="1" timestamp="2014-05-05T12:55:17Z" changeset="22146234" uid="1537338" user="svistaq">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2838499022" lat="50.4107862" lon="21.1487314" version="3" timestamp="2016-08-21T20:22:47Z" changeset="41600305" uid="693154" user="Władysław Komorek">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="operator" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2852564929" lat="49.4926072" lon="20.6822960" version="3" timestamp="2020-01-11T01:28:18Z" changeset="79440230" uid="313969" user="emtiwi">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2852979545" lat="52.9928947" lon="15.2168426" version="6" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="description" v="Dawniej Mila"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="old_name" v="POLOmarket"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.mila.pl/"/>
+  </node>
+  <node id="2859790804" lat="49.7208881" lon="20.3423278" version="2" timestamp="2016-02-21T23:51:24Z" changeset="37356927" uid="775276" user="dziabaducha">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2860147840" lat="52.9194867" lon="22.5145188" version="4" timestamp="2022-10-29T15:27:15Z" changeset="128215909" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2882029010" lat="51.1223640" lon="17.0474723" version="4" timestamp="2022-10-17T10:19:37Z" changeset="127662469" uid="2098272" user="maraf24">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:45-22:00; Sa 08:45-21:00; Su 09:00-17:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2884295261" lat="50.8573676" lon="16.3329737" version="4" timestamp="2022-03-17T17:18:24Z" changeset="118604082" uid="6765127" user="Cristoffs">
+    <tag k="addr:city" v="Świebodzice"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="58-160"/>
+    <tag k="addr:street" v="Osiedle Sudeckie"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="photograph"/>
+    <tag k="source_ref" v="https://www.flickr.com/photos/124589265@N07/14282320634"/>
+  </node>
+  <node id="2885210574" lat="51.0929563" lon="17.0253712" version="7" timestamp="2023-01-10T17:03:25Z" changeset="131115099" uid="2098272" user="maraf24">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:postcode" v="53-343"/>
+    <tag k="addr:street" v="Komandorska"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 09:00-18:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2895315204" lat="51.1544554" lon="15.0152616" version="5" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Zgorzelec"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="59-900"/>
+    <tag k="addr:street" v="Józefa Poniatowskiego"/>
+    <tag k="alcohol" v="yes"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2897523942" lat="53.7768898" lon="20.5055076" version="5" timestamp="2022-04-12T08:57:17Z" changeset="119611165" uid="485927" user="serdelll">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-21:00; Sa 07:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2903163733" lat="51.4184101" lon="21.1684358" version="6" timestamp="2022-08-20T13:58:01Z" changeset="125148971" uid="3885790" user="NieWnen">
+    <tag k="addr:city" v="Radom"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="26-605"/>
+    <tag k="addr:street" v="Stefanii Sempołowskiej"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="old_name" v="MILA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2908970980" lat="50.5326117" lon="23.7269446" version="4" timestamp="2017-09-04T13:13:39Z" changeset="51719950" uid="2098272" user="maraf24">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2909863578" lat="50.6832466" lon="19.6254913" version="4" timestamp="2021-08-28T17:30:58Z" changeset="110389008" uid="2098272" user="maraf24">
+    <tag k="addr:city" v="Lelów"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="42-235"/>
+    <tag k="addr:street" v="Plac Partyzantów"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2928048654" lat="51.3010950" lon="16.9154691" version="5" timestamp="2022-02-16T08:39:24Z" changeset="117465653" uid="2313574" user="szydzio">
+    <tag k="addr:city" v="Oborniki Śląskie"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="55-120"/>
+    <tag k="addr:street" v="Marii Skłodowskiej-Curie"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2935179007" lat="49.9785814" lon="20.9038009" version="3" timestamp="2022-02-03T23:05:19Z" changeset="116983349" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Zgłobice"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="33-113"/>
+    <tag k="addr:street" v="Krakowska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2958447050" lat="49.9255547" lon="21.9329579" version="2" timestamp="2022-12-27T00:18:45Z" changeset="130535359" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 09:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2962193005" lat="50.0048211" lon="22.0091228" version="6" timestamp="2019-03-30T00:22:08Z" changeset="68683139" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Rzeszów"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:postcode" v="35-604"/>
+    <tag k="addr:street" v="Jazowa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 09:00-17:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="2963126945" lat="49.9556521" lon="21.9150824" version="3" timestamp="2018-01-19T00:32:48Z" changeset="55565457" uid="175746" user="RafalR">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2964977018" lat="49.9789751" lon="21.9926180" version="2" timestamp="2022-12-27T00:21:34Z" changeset="130535412" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 08:00-22:00; PH off"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2972588432" lat="53.7985408" lon="17.2518426" version="3" timestamp="2021-07-08T08:42:24Z" changeset="107617279" uid="4382212" user="Damian96">
+    <tag k="addr:city" v="Przechlewo"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="77-320"/>
+    <tag k="addr:street" v="Człuchowska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2972595100" lat="53.5397068" lon="17.2410098" version="3" timestamp="2022-01-27T15:53:22Z" changeset="116672560" uid="4382212" user="Damian96">
+    <tag k="addr:city" v="Debrzno"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="77-310"/>
+    <tag k="addr:street" v="Czerniakowska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2975367199" lat="50.0559572" lon="22.2721434" version="3" timestamp="2021-11-27T08:56:11Z" changeset="114287034" uid="6906084" user="jaco10">
+    <tag k="addr:housenumber" v="301A"/>
+    <tag k="addr:place" v="Sonina"/>
+    <tag k="addr:postcode" v="37-100"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 08:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="EMUiA (emuia.geoportal.gov.pl)"/>
+  </node>
+  <node id="2976493412" lat="50.1532360" lon="18.5993358" version="3" timestamp="2020-06-17T09:57:23Z" changeset="86766181" uid="3010702" user="KSnakeW">
+    <tag k="addr:city" v="Książenice"/>
+    <tag k="addr:housenumber" v="4A"/>
+    <tag k="addr:postcode" v="44-213"/>
+    <tag k="addr:street" v="Teofila Brzozy"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2984966297" lat="53.1094506" lon="19.0517339" version="2" timestamp="2018-01-01T11:31:05Z" changeset="55073738" uid="6889214" user="HalfTough">
+    <tag k="addr:city" v="Golub-Dobrzyń"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="87-400"/>
+    <tag k="addr:street" v="Plac Tysiąclecia"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00, Su 09:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2993581645" lat="50.4635315" lon="22.9125076" version="6" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2999186270" lat="52.2617545" lon="20.9940919" version="3" timestamp="2019-06-18T21:14:18Z" changeset="71380709" uid="3696253" user="Artur Wierniewski">
+    <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:housenumber" v="1/3"/>
+    <tag k="addr:postcode" v="01-523"/>
+    <tag k="addr:street" v="Śmiała"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3017229121" lat="50.0249997" lon="22.7153421" version="2" timestamp="2016-09-30T18:36:49Z" changeset="42549541" uid="2144790" user="WMietek">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3023958512" lat="49.9879848" lon="19.6751579" version="5" timestamp="2021-05-22T09:39:51Z" changeset="105125477" uid="8538868" user="sp9wun">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3027711812" lat="49.8676979" lon="21.6507486" version="2" timestamp="2022-12-10T18:12:55Z" changeset="129941504" uid="11220113" user="ivanbranco">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3028702105" lat="49.6631210" lon="21.1661636" version="2" timestamp="2019-04-23T09:33:08Z" changeset="69480712" uid="2298184" user="Tomek100">
+    <tag k="addr:city" v="Gorlice"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="38-300"/>
+    <tag k="addr:street" v="Juliana Tuwima"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="operator" v="Marcin Szufnara"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3035992281" lat="51.7025541" lon="16.7467205" version="2" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="old_name" v="Eko"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:30; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3045409093" lat="49.6754940" lon="22.0510990" version="1" timestamp="2014-08-27T10:19:19Z" changeset="25047970" uid="2288433" user="Autoelektryk">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3045451788" lat="49.6569437" lon="22.0770679" version="1" timestamp="2014-08-27T10:41:29Z" changeset="25048432" uid="2288433" user="Autoelektryk">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3046474666" lat="50.2635302" lon="22.4099985" version="2" timestamp="2016-09-21T10:58:03Z" changeset="42320786" uid="2144790" user="WMietek">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3059838572" lat="49.8802896" lon="21.1408100" version="1" timestamp="2014-09-04T19:19:14Z" changeset="25233957" uid="2271014" user="mózg">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3061281090" lat="50.5814913" lon="16.4975656" version="3" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Nowa Ruda"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="57-400"/>
+    <tag k="addr:street" v="Teatralna"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3093760464" lat="54.0370867" lon="21.7543702" version="2" timestamp="2023-01-02T12:42:15Z" changeset="130786059" uid="14088023" user="flooey">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3094911334" lat="49.7835762" lon="20.9000567" version="2" timestamp="2021-06-01T16:33:52Z" changeset="105688842" uid="340741" user="CRCulver">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3095242602" lat="54.1766049" lon="15.5663287" version="8" timestamp="2020-05-05T07:11:16Z" changeset="84671874" uid="657596" user="taxi301">
+    <tag k="access" v="yes"/>
+    <tag k="addr:postcode" v="78-100"/>
+    <tag k="entrance" v="main"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 08:30-20:30"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3097359483" lat="52.4396897" lon="15.5660097" version="3" timestamp="2018-10-06T03:08:01Z" changeset="63247276" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Międzyrzecz"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="66-300"/>
+    <tag k="addr:street" v="Krasińskiego"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3115346653" lat="54.4366852" lon="17.7354996" version="4" timestamp="2021-09-24T11:59:20Z" changeset="111644345" uid="3418763" user="Bąbel">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 11:00-18:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3147794390" lat="50.6982968" lon="23.3030875" version="2" timestamp="2020-12-08T16:35:30Z" changeset="95499846" uid="10642775" user="Dawid2849">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3151159083" lat="49.9256546" lon="22.1617111" version="2" timestamp="2015-06-23T13:35:27Z" changeset="32161674" uid="1980824" user="wmyrda">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3160120432" lat="53.6933914" lon="17.5433099" version="3" timestamp="2021-07-18T09:26:44Z" changeset="108184980" uid="4382212" user="Damian96">
+    <tag k="addr:city" v="Chojnice"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="89-600"/>
+    <tag k="addr:street" v="Kardynała Stefana Wyszyńskiego"/>
+    <tag k="addr:street:sym_ul" v="11937"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="mchojnice.e-mapa.net"/>
+  </node>
+  <node id="3201943700" lat="51.9814392" lon="23.3794302" version="2" timestamp="2022-04-18T13:54:08Z" changeset="119860647" uid="10492626" user="kpv8">
+    <tag k="addr:city" v="Piszczac"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="21-530"/>
+    <tag k="addr:street" v="Polna"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3211732719" lat="50.3352192" lon="22.8427699" version="1" timestamp="2014-11-30T00:53:51Z" changeset="27123239" uid="413484" user="sznik">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3212222127" lat="51.1160626" lon="17.0078572" version="8" timestamp="2022-08-28T21:23:59Z" changeset="125496024" uid="336718" user="nowak">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="53-650"/>
+    <tag k="addr:street" v="Stefana Czarnieckiego"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3224144477" lat="51.8932684" lon="17.7805602" version="4" timestamp="2019-03-13T23:54:05Z" changeset="68118674" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Pleszew"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="63-300"/>
+    <tag k="addr:street" v="Juliusza Słowackiego"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/delikatesypleszew"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 08:00-20:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="3237819740" lat="53.8094984" lon="21.9486061" version="2" timestamp="2022-08-27T00:00:43Z" changeset="125426773" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3274326273" lat="50.5880493" lon="21.6904660" version="3" timestamp="2022-08-06T02:42:11Z" changeset="124544535" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3279533216" lat="53.2057062" lon="23.3436066" version="2" timestamp="2018-04-26T10:00:27Z" changeset="58437636" uid="8177727" user="lapczywy_supraslak">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3298559402" lat="51.2612129" lon="15.5751487" version="7" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Bolesławiec"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="59-700"/>
+    <tag k="addr:street" v="Adama Asnyka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3315551201" lat="49.6703883" lon="21.1636045" version="1" timestamp="2015-01-27T22:28:13Z" changeset="28454326" uid="2298184" user="Tomek100">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3325560263" lat="51.3650650" lon="17.4698250" version="5" timestamp="2022-09-04T09:51:59Z" changeset="125765783" uid="8165703" user="matema">
+    <tag k="addr:city" v="Twardogóra"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="56-416"/>
+    <tag k="addr:street" v="Plac Piastów"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="3346494056" lat="50.7845794" lon="17.0688571" version="2" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Strzelin"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="57-100"/>
+    <tag k="addr:street" v="Wolności"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3354809916" lat="50.3462668" lon="23.3273818" version="3" timestamp="2020-10-06T10:17:17Z" changeset="92040035" uid="3696253" user="Artur Wierniewski">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3355366731" lat="49.8590620" lon="20.5246361" version="4" timestamp="2019-05-26T11:08:15Z" changeset="70629907" uid="6785548" user="Blaise Pexyk">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3358901503" lat="49.9450165" lon="21.6158885" version="5" timestamp="2020-09-21T08:35:58Z" changeset="91213228" uid="10191222" user="Przemek | Yanosik">
+    <tag k="access" v="customers"/>
+    <tag k="entrance" v="main"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 08:00-20:00"/>
+    <tag k="operator" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="3358913728" lat="50.4670903" lon="20.7283264" version="2" timestamp="2018-12-19T20:48:28Z" changeset="65623105" uid="8396056" user="TWMICHAL">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3372181986" lat="50.0584017" lon="19.9410486" version="7" timestamp="2023-05-22T18:17:46Z" changeset="136425684" uid="450910" user="DAI">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Świętej Gertrudy"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3412653321" lat="49.6096443" lon="20.7008717" version="2" timestamp="2018-06-30T19:08:03Z" changeset="60308649" uid="3423733" user="A_Ku">
+    <tag k="addr:city" v="Nowy Sącz"/>
+    <tag k="addr:postcode" v="33-300"/>
+    <tag k="addr:street" v="Aleja Stefana Batorego"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Żabka"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3448830785" lat="51.3967115" lon="17.6661887" version="4" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Międzybórz"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="56-513"/>
+    <tag k="addr:street" v="Wrocławska"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:30"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3457666822" lat="50.4693957" lon="20.7080468" version="4" timestamp="2023-05-22T18:15:32Z" changeset="136425613" uid="16856988" user="vdh5">
+    <tag k="addr:city" v="Busko-Zdrój"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="28-100"/>
+    <tag k="addr:street" v="Bohaterów Warszawy"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3462022321" lat="54.6061481" lon="18.1540965" version="2" timestamp="2019-11-18T11:20:21Z" changeset="77222748" uid="7915845" user="mksrdnk">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3479569973" lat="50.8002243" lon="21.4311523" version="4" timestamp="2023-01-06T13:10:23Z" changeset="130947039" uid="12914377" user="Patryk2710">
+    <tag k="addr:city" v="Opatów"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="27-500"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30"/>
+    <tag k="operator" v="market-Detal sp. z o.o. sp. j."/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3491596636" lat="51.7481838" lon="19.4126832" version="7" timestamp="2021-07-05T12:23:24Z" changeset="107439786" uid="3068937" user="Squnxik">
+    <tag k="addr:city" v="Łódź"/>
+    <tag k="addr:housename" v="Dom Handlowy Piaski"/>
+    <tag k="addr:housenumber" v="7a"/>
+    <tag k="addr:street" v="Aleja Stefana Wyszyńskiego"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3497246954" lat="52.2417122" lon="20.9455882" version="8" timestamp="2021-11-15T21:52:35Z" changeset="113826314" uid="6549455" user="conradoos">
+    <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Erazma Ciołka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3566515997" lat="50.0698000" lon="21.6887792" version="2" timestamp="2022-07-25T02:18:05Z" changeset="124029083" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3575374993" lat="50.1386150" lon="19.6464105" version="4" timestamp="2023-01-29T22:47:11Z" changeset="131857490" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Krzeszowice"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="32-065"/>
+    <tag k="addr:street" v="Majowa"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 08:00-16:00; PH off"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3586731685" lat="52.5355145" lon="19.7614477" version="3" timestamp="2021-02-28T14:11:05Z" changeset="100138500" uid="1941027" user="matebart">
+    <tag k="addr:city" v="Płock"/>
+    <tag k="addr:country" v="PL"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:postcode" v="09-400"/>
+    <tag k="addr:street" v="Wyszogrodzka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="contact:email" v="recepcja.plock@mila.pl"/>
+    <tag k="contact:phone" v="+48 52 304-24-23"/>
+    <tag k="contact:website" v="http://www.mila.pl/"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3586773376" lat="54.7881791" lon="17.9997588" version="3" timestamp="2022-07-13T08:15:12Z" changeset="123551004" uid="418930" user="OpenStreetMap-WP">
+    <tag k="addr:city" v="Wierzchucino"/>
+    <tag k="addr:city:simc" v="0165379"/>
+    <tag k="addr:housenumber" v="22/7"/>
+    <tag k="addr:postcode" v="84-113"/>
+    <tag k="addr:street" v="Antoniego Abrahama"/>
+    <tag k="addr:street:sym_ul" v="00090"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="emuia1.gugik.gov.pl"/>
+  </node>
+  <node id="3588357409" lat="49.9441342" lon="21.8313176" version="2" timestamp="2015-06-12T12:01:33Z" changeset="31919101" uid="1980824" user="wmyrda">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00;Su 08:00-21:00;PH off"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3594232364" lat="52.2091605" lon="17.9280559" version="2" timestamp="2023-01-30T20:34:37Z" changeset="131895958" uid="17295082" user="Aim311_">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3612891063" lat="49.9823352" lon="22.1136715" version="1" timestamp="2015-06-23T13:35:05Z" changeset="32161674" uid="1980824" user="wmyrda">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3617238770" lat="50.0974705" lon="20.0199439" version="5" timestamp="2022-02-04T18:07:45Z" changeset="117017206" uid="3003686" user="1c618">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3634805189" lat="52.1622545" lon="21.0284403" version="4" timestamp="2022-05-12T21:04:40Z" changeset="120906320" uid="16007" user="ehs">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="check_date:opening_hours" v="2022-05-12"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:30; Sa 08:00-20:00; Su 10:00-18:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3639100612" lat="50.0438490" lon="19.7922023" version="5" timestamp="2022-11-28T20:44:33Z" changeset="129491702" uid="6765127" user="Cristoffs">
+    <tag k="addr:housenumber" v="97A"/>
+    <tag k="addr:place" v="Kryspinów"/>
+    <tag k="addr:postcode" v="32-060"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3646294086" lat="53.4040423" lon="17.8147669" version="2" timestamp="2019-07-15T18:05:35Z" changeset="72276431" uid="4732840" user="Jerry_W2k">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3646575197" lat="50.0089836" lon="19.9619787" version="4" timestamp="2023-03-09T14:34:11Z" changeset="133481601" uid="4054415" user="74hc08">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 10:00-18:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3662338419" lat="49.2514210" lon="22.6956245" version="8" timestamp="2022-02-27T18:25:48Z" changeset="117918165" uid="1213571" user="mcliquid">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3665654026" lat="52.9604360" lon="14.4401030" version="1" timestamp="2015-07-25T09:11:51Z" changeset="32867069" uid="2563737" user="WandaN">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3707691532" lat="50.0126288" lon="21.8556493" version="2" timestamp="2022-09-09T21:20:20Z" changeset="125996614" uid="3214275" user="pio2_122">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="3707691533" lat="50.0250715" lon="21.9400189" version="2" timestamp="2022-11-17T19:19:22Z" changeset="129056631" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3709707272" lat="49.6914888" lon="22.0122787" version="1" timestamp="2015-08-22T18:31:37Z" changeset="33510825" uid="1291443" user="szelmaraf">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3713151899" lat="51.3796540" lon="21.1822591" version="2" timestamp="2022-08-20T13:58:01Z" changeset="125148971" uid="3885790" user="NieWnen">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3716542411" lat="49.4408029" lon="19.8549056" version="3" timestamp="2015-08-30T17:51:50Z" changeset="33687550" uid="2923480" user="MRACH">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3716574056" lat="51.0022663" lon="21.7137978" version="2" timestamp="2022-08-06T14:10:35Z" changeset="124564168" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3739277831" lat="50.5543505" lon="22.9305052" version="3" timestamp="2021-04-25T08:12:14Z" changeset="103563386" uid="10642775" user="Dawid2849">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3765116426" lat="50.2888348" lon="21.4203787" version="1" timestamp="2015-09-30T10:15:12Z" changeset="34343544" uid="2694067" user="Teiron">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3771271558" lat="50.5912000" lon="21.0022153" version="1" timestamp="2015-10-04T00:02:23Z" changeset="34418029" uid="1410361" user="WiktorN">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3771614192" lat="50.6755472" lon="21.0418362" version="2" timestamp="2019-09-03T22:37:04Z" changeset="74056541" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3790867840" lat="50.4651561" lon="17.0142264" version="2" timestamp="2022-11-23T13:14:12Z" changeset="129282202" uid="284094" user="woy_cb">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3792796158" lat="51.1024258" lon="17.0145528" version="3" timestamp="2022-08-28T21:23:59Z" changeset="125496024" uid="336718" user="nowak">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="53-504"/>
+    <tag k="addr:street" v="Grabiszyńska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 07:00-20:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3796090895" lat="50.5213530" lon="16.8731933" version="3" timestamp="2022-12-19T13:49:23Z" changeset="130250335" uid="3423733" user="A_Ku">
+    <tag k="addr:city" v="Kamieniec Ząbkowicki"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="57-230"/>
+    <tag k="addr:street" v="Złotostocka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3809693463" lat="51.5635081" lon="15.5290694" version="7" timestamp="2018-07-29T21:54:05Z" changeset="61175075" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Szprotawa"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="67-300"/>
+    <tag k="addr:street" v="Marii Konopnickiej"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="operator" v="Eko Holding S.A"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3816342784" lat="50.0856918" lon="19.9111510" version="3" timestamp="2019-04-25T19:43:00Z" changeset="69578763" uid="1722488" user="Mateusz Konieczny">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3859732473" lat="52.3508401" lon="14.5582295" version="6" timestamp="2022-09-29T12:47:57Z" changeset="126779374" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Słubice"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="69-100"/>
+    <tag k="addr:street" v="Mikołaja Kopernika"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Mila (sieć sklepów)"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="operator" v="Market-Detal"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3875285457" lat="51.0817644" lon="17.0118236" version="5" timestamp="2023-03-14T11:42:49Z" changeset="133663149" uid="171632" user="Holek">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:housenumber" v="17-19"/>
+    <tag k="addr:postcode" v="53-128"/>
+    <tag k="addr:street" v="Januszowicka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3875285458" lat="51.0904851" lon="17.0401558" version="4" timestamp="2023-01-10T17:03:25Z" changeset="131115099" uid="2098272" user="maraf24">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3877345555" lat="51.1019202" lon="17.0275068" version="6" timestamp="2022-10-07T03:46:59Z" changeset="127128915" uid="16643939" user="feathered_ouul">
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="50-034"/>
+    <tag k="addr:street" v="Michała Bałuckiego"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 08:00-17:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3886307195" lat="49.7086135" lon="20.4249312" version="2" timestamp="2019-06-01T17:59:30Z" changeset="70840840" uid="6739817" user="rayleigh1">
+    <tag k="addr:city" v="Limanowa"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="34-600"/>
+    <tag k="addr:street" v="Mikołaja Kopernika"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 08:00-20:00"/>
+    <tag k="operator" v="Eurocash"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3888503248" lat="49.6870915" lon="21.7748381" version="4" timestamp="2023-04-29T09:15:18Z" changeset="135496294" uid="6203794" user="k2101">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3889684544" lat="52.2155203" lon="17.6292856" version="3" timestamp="2022-07-25T00:47:40Z" changeset="124027984" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 09:00-17:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+  </node>
+  <node id="3893648968" lat="49.4383064" lon="20.7137100" version="2" timestamp="2022-09-26T08:24:12Z" changeset="126643262" uid="775276" user="dziabaducha">
+    <tag k="check_date" v="2022-08-26"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Th 06:00-21:00; Fr-Sa 06:00-22:00; Su 08:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3920519826" lat="50.2979663" lon="18.9513794" version="2" timestamp="2019-05-26T04:18:12Z" changeset="70623393" uid="2970173" user="bigbastek">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3921170510" lat="50.6558677" lon="21.4559069" version="3" timestamp="2020-12-09T09:40:57Z" changeset="95542306" uid="4759236" user="SilverCorvus">
+    <tag k="addr:city" v="Klimontów"/>
+    <tag k="addr:city:simc" v="0795933"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="27-640"/>
+    <tag k="addr:street" v="Sandomierska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3944808561" lat="51.6096934" lon="16.8641083" version="2" timestamp="2017-09-21T21:29:13Z" changeset="52258000" uid="3266826" user="Eastside_999">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3975064267" lat="49.8823000" lon="19.4951033" version="2" timestamp="2020-03-22T17:48:08Z" changeset="82490127" uid="6748379" user="Some User">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3987545332" lat="49.8206074" lon="22.8225811" version="1" timestamp="2016-02-04T09:10:51Z" changeset="36993125" uid="1980824" user="wmyrda">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="http://ump.waw.pl/ retrieved 01:32:52 09/02/09 (UMP-Przemysl/src/POI-Przemysl.pnt-converted.txt)"/>
+  </node>
+  <node id="3997407836" lat="49.9917020" lon="21.0651008" version="2" timestamp="2020-07-18T16:03:09Z" changeset="88180108" uid="9013068" user="osmdk">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="contact:email" v="dcskrzyszow@wp.pl"/>
+    <tag k="contact:phone" v="14 627 22 43"/>
+    <tag k="contact:website" v="https://www.delikatesy.pl/"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 08:00-21:00; PH off"/>
+    <tag k="operator" v="Eurocash Franczyza"/>
+    <tag k="operator:wikidata" v="Q9256211"/>
+    <tag k="operator:wikipedia" v="pl:Eurocash Franczyza"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3999212858" lat="50.3453812" lon="22.3472497" version="3" timestamp="2021-02-24T12:33:05Z" changeset="99905089" uid="6751278" user="G_P_J">
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:place" v="Sarzyna"/>
+    <tag k="addr:postcode" v="37-310"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4017178713" lat="49.6649084" lon="21.1443258" version="1" timestamp="2016-02-20T22:29:16Z" changeset="37336946" uid="2298184" user="Tomek100">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4034298428" lat="49.8738692" lon="22.8114417" version="2" timestamp="2022-07-25T02:18:05Z" changeset="124029083" uid="12914377" user="Patryk2710">
+    <tag k="addr:city" v="Orły"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="37-716"/>
+    <tag k="addr:street" v="Przemyska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4041015606" lat="49.9075199" lon="20.6036812" version="2" timestamp="2022-07-25T02:18:05Z" changeset="124029083" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4043915253" lat="49.8440352" lon="20.6814191" version="2" timestamp="2021-11-07T13:27:30Z" changeset="113480060" uid="3435758" user="Fabcio">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4045660779" lat="50.5653133" lon="21.6669193" version="2" timestamp="2022-08-06T02:42:11Z" changeset="124544535" uid="12914377" user="Patryk2710">
+    <tag k="addr:city" v="Tarnobrzeg"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="39-400"/>
+    <tag k="addr:street" v="Adama Mickiewicza"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4052779927" lat="52.2369905" lon="20.9110322" version="3" timestamp="2021-08-30T22:10:29Z" changeset="110481782" uid="11306447" user="starsep">
+    <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:housenumber" v="3c"/>
+    <tag k="addr:postcode" v="01-355"/>
+    <tag k="addr:street" v="Generała Waleriana Czumy"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30; PH off"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4057257456" lat="50.1482308" lon="19.1825715" version="2" timestamp="2019-07-17T12:06:15Z" changeset="72345050" uid="2044927" user="Mariusz Staniszewski">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4057387782" lat="49.8256592" lon="22.3903001" version="3" timestamp="2021-02-13T08:58:09Z" changeset="99205716" uid="12305576" user="krolik1998">
+    <tag k="addr:city" v="Dubiecko"/>
+    <tag k="addr:housenumber" v="43a"/>
+    <tag k="addr:postcode" v="37-750"/>
+    <tag k="addr:street" v="Przemyska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4057953034" lat="51.1384371" lon="20.5648867" version="5" timestamp="2021-12-23T09:41:20Z" changeset="115289362" uid="1189934" user="SzymonH">
+    <tag k="addr:city" v="Stąporków"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:postcode" v="26-220"/>
     <tag k="addr:street" v="Marszałka Józefa Piłsudskiego"/>
     <tag k="brand" v="Delikatesy Centrum"/>
     <tag k="brand:wikidata" v="Q11693824"/>
     <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
     <tag k="name" v="Delikatesy Centrum"/>
-    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="source:addr" v="Delikatesy Centrum"/>
-    <tag k="website" v="https://www.delikatesy.pl/sklepy/9278"/>
   </node>
-  <way id="209872817" version="6" timestamp="2023-06-23T15:39:59Z" changeset="137694195" uid="5308017" user="SamosaBelz">
-    <nd ref="4882265567"/>
-    <nd ref="4882265568"/>
-    <nd ref="4882265565"/>
-    <nd ref="4882265566"/>
-    <nd ref="4882265567"/>
-    <tag k="addr:housenumber" v="19A"/>
-    <tag k="addr:place" v="Krasienin-Kolonia"/>
-    <tag k="addr:postcode" v="21-025"/>
-    <tag k="building" v="retail"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="name" v="Delikatesy Centrum (otwarcie 29 czerwca)"/>
-    <tag k="operator" v="SRH &quot;SC&quot; w Niemcach"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="source" v="www.geoportal.gov.pl"/>
-    <tag k="source:addr" v="niemce.e-mapa.net"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="245941591" version="7" timestamp="2023-06-04T19:10:05Z" changeset="136945120" uid="11306447" user="starsep">
-    <nd ref="4814127945"/>
-    <nd ref="4814127943"/>
-    <nd ref="4814127942"/>
-    <nd ref="4814127941"/>
-    <nd ref="4814127940"/>
-    <nd ref="4814127939"/>
-    <nd ref="4814127938"/>
-    <nd ref="4814127937"/>
-    <nd ref="4814127936"/>
-    <nd ref="4814127935"/>
-    <nd ref="4814127934"/>
-    <nd ref="4814127933"/>
-    <nd ref="4814127920"/>
-    <nd ref="4814127932"/>
-    <nd ref="4814127945"/>
-    <tag k="addr:city" v="Niemce"/>
-    <tag k="addr:housenumber" v="188"/>
-    <tag k="addr:postcode" v="21-025"/>
-    <tag k="addr:street" v="Lubelska"/>
+  <node id="4058855042" lat="53.9214825" lon="22.1740070" version="2" timestamp="2020-07-10T20:41:07Z" changeset="87835295" uid="1183839" user="🖕🖕🖕">
     <tag k="brand" v="Delikatesy Centrum"/>
     <tag k="brand:wikidata" v="Q11693824"/>
     <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
-    <tag k="building" v="retail"/>
-    <tag k="building:levels" v="1"/>
     <tag k="name" v="Delikatesy Centrum"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 06:00-00:00"/>
-    <tag k="operator" v="GS Niemce"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="source:addr" v="niemce.e-mapa.net"/>
-    <tag k="website" v="https://www.delikatesy.pl/sklepy/1414"/>
-  </way>
-  <way id="360795428" version="4" timestamp="2023-08-18T14:38:12Z" changeset="140061192" uid="15803602" user="michalgwo">
-    <nd ref="892295008"/>
-    <nd ref="3653388263"/>
-    <nd ref="3653388265"/>
-    <nd ref="3653390636"/>
-    <nd ref="892295008"/>
-    <tag k="addr:city" v="Niedrzwica Duża"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="24-220"/>
-    <tag k="addr:street" v="Lubelska"/>
+  </node>
+  <node id="4059462757" lat="54.1758450" lon="15.5471606" version="6" timestamp="2022-12-07T11:13:01Z" changeset="129817349" uid="1202752" user="Sławek_R">
+    <tag k="access" v="yes"/>
+    <tag k="addr:postcode" v="78-100"/>
+    <tag k="addr:street" v="Wylotowa"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="not:brand:wikidata" v="Q11693824"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 07:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4060631949" lat="54.1140354" lon="22.9426492" version="1" timestamp="2016-03-14T22:52:50Z" changeset="37832170" uid="3266826" user="Eastside_999">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4061352410" lat="50.5739393" lon="21.6927224" version="1" timestamp="2016-03-15T10:02:17Z" changeset="37839287" uid="2114007" user="MTSBTBG">
+    <tag k="addr:city" v="Tarnobrzeg"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="39-400"/>
+    <tag k="addr:street" v="Eugeniusza Kwiatkowskiego"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4070506852" lat="49.7126116" lon="21.8096457" version="1" timestamp="2016-03-20T21:22:40Z" changeset="37964321" uid="1980824" user="wmyrda">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4076087910" lat="49.5907752" lon="20.7155491" version="1" timestamp="2016-03-24T00:50:46Z" changeset="38031827" uid="413484" user="sznik">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4077462766" lat="50.0297713" lon="22.0178164" version="3" timestamp="2021-09-10T17:47:51Z" changeset="111035621" uid="10642775" user="Dawid2849">
     <tag k="brand" v="Delikatesy Centrum"/>
     <tag k="brand:wikidata" v="Q11693824"/>
     <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
-    <tag k="building" v="yes"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4083091048" lat="51.1310705" lon="23.4702310" version="3" timestamp="2020-12-28T06:51:21Z" changeset="96514650" uid="10182045" user="AhmadHB">
+    <tag k="addr:city" v="Chełm"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4097949862" lat="49.9007543" lon="19.1700602" version="2" timestamp="2017-02-04T21:41:24Z" changeset="45816016" uid="2274433" user="sorbovit">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4121727392" lat="52.3953494" lon="22.0264716" version="3" timestamp="2022-08-12T15:09:00Z" changeset="124822964" uid="11434373" user="snikers89">
+    <tag k="addr:city" v="Węgrów"/>
+    <tag k="addr:city:simc" v="0975871"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07-100"/>
+    <tag k="addr:street" v="Aleja Siedlecka"/>
+    <tag k="addr:street:sym_ul" v="19768"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </node>
+  <node id="4124665430" lat="51.1712448" lon="22.5039743" version="2" timestamp="2020-08-12T09:47:09Z" changeset="89295220" uid="418930" user="OpenStreetMap-WP">
+    <tag k="addr:city" v="Lublin"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:postcode" v="20-518"/>
+    <tag k="addr:street" v="Krężnicka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source:addr" v="EMUiA (emuia.geoportal.gov.pl)"/>
+  </node>
+  <node id="4129915625" lat="50.1176714" lon="21.8610033" version="1" timestamp="2016-04-18T09:00:26Z" changeset="38661859" uid="1980824" user="wmyrda">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4149905196" lat="50.6359592" lon="21.7543001" version="2" timestamp="2022-08-06T02:42:11Z" changeset="124544535" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4149905197" lat="50.6664904" lon="21.7625281" version="3" timestamp="2022-08-06T02:42:11Z" changeset="124544535" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="email" v="bdmmsandomierz@onet.eu"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-22:00, Su 08:00-15:00; Sa 08:00-21:00"/>
+    <tag k="phone" v="+48 519 308 303"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.delikatesy.pl/lista-sklepow/1116/sandomierz-lwowska"/>
+  </node>
+  <node id="4149905198" lat="50.7284637" lon="21.7049878" version="4" timestamp="2022-08-06T14:10:35Z" changeset="124564168" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-22:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4193142865" lat="51.7851877" lon="14.7739682" version="5" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Brody"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="68-343"/>
+    <tag k="addr:street" v="Wolności"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4197809492" lat="51.7888168" lon="18.4969645" version="3" timestamp="2017-03-03T21:31:54Z" changeset="46559578" uid="418930" user="OpenStreetMap-WP">
+    <tag k="addr:city" v="Goszczanów"/>
+    <tag k="addr:city:simc" v="0703575"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="98-215"/>
+    <tag k="addr:street" v="Kaliska"/>
+    <tag k="addr:street:sym_ul" v="07823"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source:addr" v="emuia.gugik.gov.pl"/>
+  </node>
+  <node id="4200110429" lat="50.6277331" lon="23.4749093" version="3" timestamp="2022-02-28T08:03:42Z" changeset="117933166" uid="1213571" user="mcliquid">
+    <tag k="addr:city" v="Komarów-Osada"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="22-435"/>
+    <tag k="addr:street" v="Rynek"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4212947500" lat="49.7291217" lon="20.3243404" version="3" timestamp="2019-06-01T17:45:40Z" changeset="70840546" uid="6739817" user="rayleigh1">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4212947521" lat="49.7323561" lon="20.3194995" version="3" timestamp="2020-06-15T15:41:34Z" changeset="86678048" uid="6739817" user="rayleigh1">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4217064911" lat="50.0629713" lon="19.5427421" version="3" timestamp="2020-04-11T20:45:09Z" changeset="83411082" uid="2027953" user="Adam_Piszczek">
+    <tag k="addr:city" v="Alwernia"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="32-566"/>
+    <tag k="addr:street" v="Osiedle Chemików"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="operator" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4218754324" lat="50.4279759" lon="19.3935875" version="5" timestamp="2020-05-17T21:50:22Z" changeset="85349690" uid="1882809" user="Blazejki">
+    <tag k="addr:city" v="Łazy"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="42-450"/>
+    <tag k="addr:street" v="Tadeusza Kościuszki"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 09:00-20:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4219290928" lat="49.5739665" lon="20.3449355" version="2" timestamp="2019-11-28T14:42:33Z" changeset="77687618" uid="3435758" user="Fabcio">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4225571192" lat="50.7150847" lon="23.2261565" version="3" timestamp="2020-11-28T23:06:24Z" changeset="94962079" uid="10642775" user="Dawid2849">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:30; Su 10:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4226542592" lat="50.0316684" lon="22.2289474" version="2" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city:simc" v="0654635"/>
+    <tag k="addr:housenumber" v="341"/>
+    <tag k="addr:place" v="Albigowa"/>
+    <tag k="addr:postcode" v="37-122"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
     <tag k="name" v="Delikatesy Centrum"/>
     <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source:addr" v="lancut.e-mapa.net"/>
+  </node>
+  <node id="4228122642" lat="53.4518439" lon="18.7249650" version="1" timestamp="2016-06-06T11:32:09Z" changeset="39836168" uid="4073193" user="pablo1b">
+    <tag k="addr:city" v="Grudziądz"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="86-300"/>
+    <tag k="addr:street" v="Wiktora Kulerskiego"/>
+    <tag k="name" v="Delikatesy Centrum"/>
     <tag k="shop" v="convenience"/>
-    <tag k="source:addr" v="niedrzwicaduza.e-mapa.net"/>
-    <tag k="website" v="https://www.delikatesy.pl/sklepy/23057"/>
-  </way>
-
+  </node>
+  <node id="4266261182" lat="50.1165209" lon="22.2328452" version="1" timestamp="2016-06-26T14:10:25Z" changeset="40301538" uid="1119050" user="user_1119050">
+    <tag k="addr:postcode" v="37-100"/>
+    <tag k="is_in" v="Dąbrówki, gmina Czarna, powiat łańcucki, województwo podkarpackie, Poland"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-20:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4292888348" lat="52.5438734" lon="19.7052325" version="3" timestamp="2022-08-19T12:04:54Z" changeset="125104210" uid="3885790" user="NieWnen">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="contact:email" v="recepcja.plock@mila.pl"/>
+    <tag k="contact:phone" v="+48 52 304-24-23"/>
+    <tag k="contact:website" v="http://www.mila.pl/"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 10:00-19:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4293790185" lat="49.5642678" lon="21.7924489" version="1" timestamp="2016-07-09T23:12:14Z" changeset="40621005" uid="520081" user="Ijon_Tichy">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-21:30; Su 09:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4303837890" lat="49.3518823" lon="20.8943651" version="3" timestamp="2022-09-17T21:27:39Z" changeset="126313346" uid="8656206" user="tengwar">
+    <tag k="addr:city" v="Muszyna"/>
+    <tag k="addr:housenumber" v="61a"/>
+    <tag k="addr:postcode" v="33-370"/>
+    <tag k="addr:street" v="Józefa Piłsudskiego"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-22:00"/>
+    <tag k="operator" v="Firma Rogala Sp. z o. o."/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4310010891" lat="49.8546286" lon="20.6427186" version="2" timestamp="2020-05-11T19:00:18Z" changeset="85041534" uid="6785548" user="Blaise Pexyk">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4315165534" lat="49.7079624" lon="21.0596021" version="1" timestamp="2016-07-22T00:21:17Z" changeset="40939313" uid="413484" user="sznik">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4315165535" lat="49.8000679" lon="20.9743243" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4317123723" lat="52.5479132" lon="19.7150872" version="3" timestamp="2022-11-12T10:52:20Z" changeset="128807635" uid="4382212" user="Damian96">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Mila (sieć sklepów)"/>
+    <tag k="contact:email" v="recepcja.plock@mila.pl"/>
+    <tag k="contact:phone" v="+48 52 304-24-23"/>
+    <tag k="contact:website" v="http://www.mila.pl/"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30;Su 10:00-19:30"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4319653271" lat="50.3350295" lon="18.8873797" version="3" timestamp="2019-05-31T04:29:33Z" changeset="70792463" uid="2970173" user="bigbastek">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00; Su 08:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4332171382" lat="49.5508687" lon="21.8524697" version="2" timestamp="2017-11-22T18:28:18Z" changeset="54008863" uid="4493657" user="Aim311">
+    <tag k="addr:city" v="Rymanów-Zdrój"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="38-481"/>
+    <tag k="addr:street" v="Zdrojowa"/>
+    <tag k="email" v="delikatesy.rymanowzdroj@op.pl"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 6:00-22:00; Su 8:00-20:00"/>
+    <tag k="phone" v="+48 13 435 71 99"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.delikatesy.pl"/>
+  </node>
+  <node id="4337328729" lat="50.0244799" lon="22.0452603" version="3" timestamp="2022-08-13T22:49:01Z" changeset="124869628" uid="12914377" user="Patryk2710">
+    <tag k="addr:city" v="Rzeszów"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="35-330"/>
+    <tag k="addr:street" v="Powstańców Śląskich"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-22:30; Sa 06:00-22:00; Su 08:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4339439189" lat="49.2815891" lon="19.9161193" version="2" timestamp="2022-02-01T20:08:18Z" changeset="116883225" uid="3418763" user="Bąbel">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4350334547" lat="49.7244546" lon="21.2505704" version="2" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="old_name" v="Eko"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4359364800" lat="49.6196580" lon="21.1981525" version="3" timestamp="2021-06-01T10:22:17Z" changeset="105671198" uid="340741" user="CRCulver">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4359924281" lat="50.6704474" lon="18.9018066" version="5" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:street" v="Wojska Polskiego"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; Su 08:00-20:00"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4370653826" lat="52.2176032" lon="20.2340561" version="2" timestamp="2022-08-17T18:06:12Z" changeset="125029705" uid="3885790" user="NieWnen">
+    <tag k="addr:city" v="Sochaczew"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="96-500"/>
+    <tag k="addr:street" v="Dywizjonu 303"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4383335689" lat="50.5474242" lon="16.5512708" version="2" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Słupiec"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="57-400"/>
+    <tag k="addr:street" v="Słupiecka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4387849335" lat="51.1222067" lon="15.9132331" version="2" timestamp="2022-02-13T18:10:07Z" changeset="117364390" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Złotoryja"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="59-500"/>
+    <tag k="addr:street" v="Basztowa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4394519399" lat="50.0152951" lon="22.6904733" version="2" timestamp="2022-11-16T00:29:16Z" changeset="128964312" uid="11220113" user="ivanbranco">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4395826119" lat="51.6922706" lon="18.9742673" version="2" timestamp="2016-10-27T17:50:14Z" changeset="43224262" uid="622058" user="hammerheart">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4398734693" lat="49.8968750" lon="22.9568760" version="1" timestamp="2016-09-13T11:19:25Z" changeset="42122843" uid="2563737" user="WandaN">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4402345653" lat="49.9083359" lon="19.9672318" version="3" timestamp="2021-06-12T09:48:29Z" changeset="106246611" uid="9642867" user="Maarten van Bijken">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4409401326" lat="50.9104203" lon="15.3323490" version="3" timestamp="2022-02-15T10:23:22Z" changeset="117429319" uid="2313574" user="szydzio">
+    <tag k="addr:city" v="Świeradów Zdrój"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="59-850"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4416220756" lat="50.8647027" lon="21.0880354" version="4" timestamp="2021-01-21T11:16:15Z" changeset="97899963" uid="4884270" user="cyberatlas">
+    <tag k="addr:street" v="Ogrodowa"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4418127742" lat="49.7382174" lon="19.5749760" version="3" timestamp="2021-01-28T14:47:35Z" changeset="98303835" uid="2248159" user="damianp25">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 09:00-21:00"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4425428408" lat="50.0198512" lon="22.6927754" version="2" timestamp="2022-10-24T13:42:43Z" changeset="127998152" uid="11220113" user="ivanbranco">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4440503001" lat="51.1194621" lon="15.2921255" version="4" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Lubań"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="59-800"/>
+    <tag k="addr:street" v="Tkacka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4440568445" lat="49.8631811" lon="21.7902390" version="1" timestamp="2016-10-10T12:37:42Z" changeset="42776207" uid="1585764" user="leru007">
+    <tag k="addr:city" v="Strzyżów"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="38-100"/>
+    <tag k="addr:street" v="Południowa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4448280603" lat="49.7026394" lon="21.7214517" version="4" timestamp="2023-01-07T09:51:36Z" changeset="130974243" uid="6203794" user="k2101">
+    <tag k="addr:city" v="Krosno"/>
+    <tag k="addr:housenumber" v="76a"/>
+    <tag k="addr:postcode" v="38-400"/>
+    <tag k="addr:street" v="Jerzego Popiełuszki"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4450455789" lat="49.6933216" lon="21.7748106" version="6" timestamp="2023-04-29T09:15:18Z" changeset="135496294" uid="6203794" user="k2101">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 08:00-18:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4464941936" lat="51.9318352" lon="15.9035483" version="2" timestamp="2018-10-07T18:22:49Z" changeset="63286255" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Konotop"/>
+    <tag k="addr:postcode" v="67-416"/>
+    <tag k="addr:street" v="Poznańska"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4471053862" lat="50.8461967" lon="17.4735660" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:city" v="Brzeg"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="49-305"/>
+    <tag k="addr:street" v="Jana Brzechwy"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 06:30-21:00; Su 08:00-18:00"/>
+    <tag k="phone" v="+48 519 132 456"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4473640010" lat="52.0489576" lon="23.1142463" version="2" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:postcode" v="21-500"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4477383391" lat="52.0423441" lon="23.1332500" version="3" timestamp="2023-05-14T17:03:00Z" changeset="136093880" uid="15803602" user="michalgwo">
+    <tag k="addr:postcode" v="21-500"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4485752213" lat="51.1194924" lon="15.2783230" version="3" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Lubań"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="59-800"/>
+    <tag k="addr:street" v="Łużycka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4489134865" lat="50.0602893" lon="22.4963164" version="2" timestamp="2017-02-09T20:42:21Z" changeset="45957078" uid="4424886" user="madagascar3">
+    <tag k="addr:city" v="Przeworsk"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="37-200"/>
+    <tag k="addr:street" v="Ignacego Krasickiego"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4505289791" lat="50.3036458" lon="20.8110767" version="1" timestamp="2016-11-16T23:07:58Z" changeset="43713659" uid="3987351" user="Piotr Witkoś">
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Stopnicka"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4520420205" lat="50.9264644" lon="21.3953969" version="4" timestamp="2022-10-20T16:14:51Z" changeset="127846659" uid="1682993" user="szedar">
+    <tag k="addr:city" v="Ostrowiec Świętokrzyski"/>
+    <tag k="addr:country" v="PL"/>
+    <tag k="addr:housenumber" v="83a"/>
+    <tag k="addr:postcode" v="27-400"/>
+    <tag k="addr:street" v="Sandomierska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="level" v="0"/>
+    <tag k="mobile" v="+48 606303726"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-21:00; PH off"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.delikatesy.pl/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4536212197" lat="50.8496866" lon="15.5916438" version="2" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Piechowice"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="58-573"/>
+    <tag k="addr:street" v="Kryształowa"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4537749947" lat="52.2387430" lon="21.1001493" version="4" timestamp="2022-09-13T14:09:12Z" changeset="126136149" uid="14519311" user="kwiatek_123">
+    <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="04-158"/>
+    <tag k="addr:street" v="Zamieniecka"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="check_date" v="2022-09-13"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00; Su 10:00-20:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4550954487" lat="51.6445426" lon="16.0762616" version="4" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Głogów"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="67-200"/>
+    <tag k="addr:street" v="Brzeska"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4551131941" lat="51.8015227" lon="15.2473069" version="4" timestamp="2019-05-25T11:07:59Z" changeset="70609024" uid="3266826" user="Eastside_999">
+    <tag k="addr:city" v="Nowogród Bobrzański"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="66-010"/>
+    <tag k="addr:street" v="Rynek"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="old_name" v="Eko"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4556107190" lat="50.0448743" lon="21.9854503" version="2" timestamp="2022-07-25T02:18:05Z" changeset="124029083" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4565028950" lat="52.2247813" lon="20.9462814" version="6" timestamp="2022-10-24T11:14:34Z" changeset="127991679" uid="3167354" user="Adikso">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="check_date" v="2022-10-24"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00; Su 10:00-18:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4578956606" lat="49.7700160" lon="20.6930644" version="2" timestamp="2021-09-08T10:50:33Z" changeset="110910893" uid="6739817" user="rayleigh1">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-20:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4582020476" lat="50.1783908" lon="22.6084385" version="2" timestamp="2021-03-22T07:21:18Z" changeset="101479261" uid="10642775" user="Dawid2849">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4583843628" lat="49.5989257" lon="21.0435109" version="1" timestamp="2017-01-01T13:44:42Z" changeset="44822815" uid="564175" user="ekeshkekesh">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4585495321" lat="49.6971991" lon="20.4227473" version="5" timestamp="2019-06-01T17:59:30Z" changeset="70840840" uid="6739817" user="rayleigh1">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:30; Su 08:00-20:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4591616290" lat="49.8060952" lon="19.0403924" version="2" timestamp="2017-01-05T23:35:43Z" changeset="44939458" uid="2274433" user="sorbovit">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="name:pl" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4628143779" lat="50.9425166" lon="20.4239910" version="3" timestamp="2023-01-26T11:26:55Z" changeset="131728895" uid="4128818" user="☆Finvenkulo">
+    <tag k="addr:city" v="Strawczyn"/>
+    <tag k="addr:housenumber" v="12 B"/>
+    <tag k="addr:postcode" v="26-067"/>
+    <tag k="addr:street" v="Stefana Żeromskiego"/>
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00; Sa 10:00-14:00; Jan 29,Apr 02,Apr 30,Jun 25,Aug 27,Dec 17 Su 10:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4635309821" lat="52.9924060" lon="22.7018340" version="3" timestamp="2022-08-26T23:36:33Z" changeset="125426497" uid="12914377" user="Patryk2710">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4635678377" lat="50.5342644" lon="22.7231825" version="7" timestamp="2023-05-14T18:10:41Z" changeset="136096082" uid="10642775" user="Dawid2849">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:website" v="https://www.delikatesy.pl/"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="brand:wikipedia" v="pl:Delikatesy Centrum"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="old_name" v="Mila"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4636191753" lat="49.6073792" lon="20.7631099" version="1" timestamp="2017-01-26T23:27:03Z" changeset="45534710" uid="413484" user="sznik">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="4664185509" lat="51.0221953" lon="15.2633012" version="2" timestamp="2022-02-13T17:31:47Z" changeset="117363117" uid="8346287" user="pawelu">
+    <tag k="addr:city" v="Leśna"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="59-820"/>
+    <tag k="addr:street" v="Elizy Orzeszkowej"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="opening_hours" v="Mo-Sa 06:30-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4672974879" lat="51.4092257" lon="21.1447046" version="2" timestamp="2022-08-20T13:58:01Z" changeset="125148971" uid="3885790" user="NieWnen">
+    <tag k="brand" v="Delikatesy Centrum"/>
+    <tag k="brand:wikidata" v="Q11693824"/>
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4675398586" lat="50.0492139" lon="21.4188416" version="2" timestamp="2019-02-17T20:01:09Z" changeset="67290966" uid="6529331" user="edc22">
+    <tag k="name" v="Delikatesy Centrum"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
 </osm>
