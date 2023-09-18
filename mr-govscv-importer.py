@@ -7,9 +7,9 @@ import osmium
 import requests
 
 from src.utils import strip_number, fieldnames, nominatim_addr, komoot_addr
-from src.place_handlers import OsmHandler, GovHandler
+from src.place_handlers import OsmHandler, GovHandler, ADDR_FIELDS
 from src.geodistance import geodistance
-from comparators import distance, tags
+from comparators import distance_m, tags_m
 
 def nominatim_to_addr(nominatim):
     return {
@@ -74,12 +74,16 @@ if args.prepare:
     f_in = open(f'input/{args.name}_gov.csv', 'r')
     f_out = open(f'input/{args.name}_gov_clean.csv', 'w') 
     tags = config.prepare['tags']
-    r_in = csv.DictReader(f_in, delimiter=config.prepare['separator'] or ',')
+    r_in = csv.DictReader(f_in,
+        delimiter=config.prepare.get('separator', ','),
+        quotechar=config.prepare.get('quote', '"'))
     r_out = csv.DictWriter(f_out, fieldnames=tags.keys())
     r_out.writeheader()
     for row in r_in:
-        if not config.prepare['accept'](row):
-            continue
+        # print(row)
+        if config.prepare.get('accept'):
+            if not config.prepare['accept'](row):
+                continue
         new_row = {}
         for key, value in tags.items():
             if type(value) is str:
@@ -97,7 +101,7 @@ osm.add_addresses()
 
 # add cords to gov
 gov = GovHandler(args.name)
-gov.import_csv(f'input/{args.name}_gov.csv')
+gov.import_csv(f'input/{args.name}_gov_clean.csv')
 
 
 
@@ -113,21 +117,46 @@ for rule in config.matching:
     if isinstance(rule, str):
         if rule.split(':')[0] == 'location':
             max_dist = int(rule.split(':')[1])
-            output = distance(gov.match, osm.all, osm.match, max_dist)
-            mapping.update(output)
+            output = distance_m(gov.match, osm.all, osm.match, max_dist)
+            mapping['osm'].update(output.get('osm'))
+            mapping['gov'].update(output.get('gov'))
         else:
             raise NotImplementedError(f'rule {rule} not supported!')
     elif isinstance(rule, list):
-        output = tags(rule, gov.match, osm.all, osm.match)
-        mapping.update(output)
+        output = tags_m(rule, gov.match, osm.all, osm.match)
+        mapping['osm'].update(output.get('osm'))
+        mapping['gov'].update(output.get('gov'))
     else:
         raise NotImplementedError(f'rule {rule} not supported!')
 
 for arr in mapping.values():
-    print([x.length for x in arr])
+    print([x for x in arr])
 
 new_writer = osmium.SimpleWriter(f'output/{args.name}_new.osm')
 edit_writer = osmium.SimpleWriter(f'output/{args.name}_edit.osm')
+
+for g in gov.all.keys():
+    writer = new_writer
+    if g in mapping['gov'] and len(mapping['gov'].get(g, [])) == 1:
+        o = mapping['gov'].get(g)[0]
+        tags_e = dict(osm.all[o].tags)
+        for t, tv in dict(gov.all[g].tags).items():
+            if t in ADDR_FIELDS and t in tags_e:
+                continue
+            tags_e[t] = tv
+
+        location_e = osm.all[o].location
+
+        node = osmium.osm.mutable.Node(
+            tags = tags_e,
+            location = location_e,
+            id = osm.all[o].id
+            )
+        edit_writer.add_node(node)
+
+    
+
+
 
 for k, v in osm.all2:
     print(osm.all)
@@ -149,9 +178,7 @@ for g, o in mapping['gov'].items():
     
     
     item['heritage'] = '7'
-    node = osmium.osm.mutable.Node(tags=item, location=loc, id=g[1:])
-    writer.add_node(node)
-
+    
 
 
 project_name = config.static["project_name"]

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.19.0">
+  <node id="3373563916" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej  &quot;Kameleon&quot;"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="addr:place" v=""/>
+    <tag k="operator" v="Stowarzyszenie &quot;DAĆ NADZIEJĘ&quot; w Lubinie"/>
+    <tag k="start_date" v="2007-12-02"/>
+  </node>
+  <node id="3373563916" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej  &quot;Akademia Życia&quot;"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="addr:place" v=""/>
+    <tag k="operator" v="Stowarzyszenie &quot;DAĆ NADZIEJĘ&quot; w Lubinie"/>
+    <tag k="start_date" v="2009-12-02"/>
+  </node>
+  <node id="10242225685" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej &quot;Uśmiech&quot;"/>
+    <tag k="office" v="therapist"/>
+    <tag k="addr:place" v=""/>
+    <tag k="operator" v="Fundacja Przystań w Ścinawie"/>
+    <tag k="start_date" v="2018-12-31"/>
+  </node>
+  <node id="8140275052" lat="53.156255" lon="18.8925423">
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="healthcare" v="occupational_therapist"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej "/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="operator" v="Caritas Diecezji Legnickiej "/>
+    <tag k="phone" v="+48 56 684 12 37"/>osm
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+    <tag k="addr:place" v=""/>
+    <tag k="start_date" v="2012-01-01"/>
+  </node>
+  <node id="3373563916" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej &quot;OSTOJA&quot;"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="addr:place" v=""/>
+    <tag k="operator" v="Stowarzyszenie &quot;Ostoja&quot; na rzecz osób z niepełnosprawnościami"/>
+    <tag k="start_date" v="2008-12-16"/>
+  </node>
+  <node id="4744435293" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej "/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="operator" v="Stowarzyszenie &quot;Bliżej Ciebie&quot; przy Zespole Szkół Specjalnych w Świdnicy"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="social_facility" v="outreach"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+    <tag k="addr:place" v=""/>
+    <tag k="start_date" v="2016-12-06"/>
+  </node>
+  <node id="10242225685" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej "/>
+    <tag k="office" v="therapist"/>
+    <tag k="addr:place" v=""/>
+    <tag k="operator" v="Caritas Archidiecezji Wrocławskiej"/>
+    <tag k="start_date" v="2008-12-02"/>
+  </node>
+  <node id="8140275052" lat="53.156255" lon="18.8925423">
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="healthcare" v="occupational_therapist"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="operator" v="Urząd Miasta i Gminy"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+    <tag k="addr:place" v=""/>
+    <tag k="start_date" v="2007-12-16"/>
+  </node>
+</osm>

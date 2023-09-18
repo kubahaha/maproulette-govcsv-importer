@@ -3,7 +3,7 @@ import importlib.util
 import osmium
 import random
 import requests
-from src.utils import nominatim_addr
+from src.utils import nominatim_addr, nominatim_searchurl
 
 NOMINATIM_SERVER = 'https://nominatim.openstreetmap.org'
 ADDR_FIELDS = 'addr:postcode', 'addr:city', 'addr:place', 'addr:street', 'addr:housenumber'
@@ -99,9 +99,9 @@ class GovHandler():
 
     def add_cords(self):
         for it_k, it_v in self.all.items():
-            addr = '&'.join([f'{k}={it_v.tags.get(k)}' for k in ADDR_FIELDS if it_v.tags.get(k)])
-            url = f'{NOMINATIM_SERVER}/search?{addr}&addressdetails=1&format=json'
-            print(url)
+            search = nominatim_searchurl(it_v.tags)
+            url = f'{NOMINATIM_SERVER}/search?{search}&addressdetails=1&format=json'
+            # print(url)
             res = requests.get(url).json()
             if res:
                 item = osmium.osm.mutable.Node(
@@ -111,8 +111,22 @@ class GovHandler():
                 )
                 self.match.update({it_k: item})
             else:
-                print(f'Downloading {url} failed - not found!')
-                self.nomatch.append(it_k)
+                search2 = nominatim_searchurl(it_v.tags, single=True)
+                url2 = f'{NOMINATIM_SERVER}/search?q={search2}&addressdetails=1&format=json'
+                # print(url)
+                res2 = requests.get(url2).json()
+                if res2:
+                    item = osmium.osm.mutable.Node(
+                        tags=nominatim_addr(res2[0]),
+                        location=osmium.osm.Location(float(res2[0].get("lat")), float(res2[0].get("lon"))),
+                        id=res2[0].get("osm_id")
+                    )
+                    self.match.update({it_k: item})
+                else:
+                    print(f'Downloading failed - not found!')
+                    print(f'  {url}')
+                    print(f'  {url2}')
+                    self.nomatch.append(it_k)
 
 
         total = len(self.match) + len(self.nomatch)

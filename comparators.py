@@ -7,7 +7,7 @@ def match_latlon(latlon1, latlon2, limit=100):
         return False
     return True
 
-def distance(gov_match, osm_all, osm_match, dist):
+def distance_m(gov_match, osm_all, osm_match, dist):
     mapping = {
         'osm': defaultdict(list),
         'gov': defaultdict(list)
@@ -23,17 +23,17 @@ def distance(gov_match, osm_all, osm_match, dist):
             else:
                 continue
             if match_latlon(latlon_g, latlon_o, limit=dist):
-                mapping['osm'][id].append(g)
-                mapping['gov'][g].append(id)
+                mapping['osm'][o_id].append(g_id)
+                mapping['gov'][g_id].append(o_id)
     return mapping
 
-def tags(taglist, gov_match, osm_all, osm_match):
+def tags_m(taglist, gov_match, osm_all, osm_match):
     mapping = {
         'osm': defaultdict(list),
         'gov': defaultdict(list)
     }
 
-    for g in gov_match.values():
+    for g_id, g in gov_match.items():
         gov_tags_a = [f'{x}={g.tags.get(x) or "_"}' for x in taglist]
         gov_tags = '&'.join(gov_tags_a)
 
@@ -48,7 +48,7 @@ def tags(taglist, gov_match, osm_all, osm_match):
             osm_tags = '&'.join(osm_tags_a)
 
             if gov_tags == osm_tags:
-                mapping['osm'][id].append(g)
-                mapping['gov'][g].append(id)
+                mapping['osm'][o_id].append(g_id)
+                mapping['gov'][g_id].append(o_id)
 
     return mapping
