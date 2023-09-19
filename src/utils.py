@@ -14,7 +14,7 @@ def strip_number(phone):
         return f"+48 {clear[0:2]} {clear[2:5]} {clear[5:7]} {clear[7:9]}"
     return ""
 
-def getoperator(name, operator_name):
+def get_operator_type(name, operator_name):
     public_match = re.search('(urz(ą|a)d)|(miast(o|a))|(gmin(a|y)|(m\. st\.))', operator_name, re.IGNORECASE)
     if public_match:
         return 'public'
@@ -23,53 +23,6 @@ def getoperator(name, operator_name):
     if private_match:
         return 'private'
     return ''
-
-def getnames_pinb(oldname):
-    reg = re.compile('(.+) ((we*|dla) .+)')
-    match = reg.match(oldname.strip())
-
-    if match:
-        return {
-            'name': match.group(1).strip(),
-            'official_name': match.group(0),
-            'short_name': f'PINB {match.group(2)}' if match.group(1)[0] == 'P' else ''
-        }
-    return {
-        'name': oldname.strip(),
-    }
-
-def getnames_sanepid(oldname):
-    reg = re.compile('(.+) ((we*|dla) .+)')
-    match = reg.match(oldname.strip())
-
-    if match:
-        return {
-            'name': match.group(1).strip(),
-            'official_name': match.group(0),
-            'short_name': f'Sanepid {match.group(2)}' if match.group(1)[0] != 'G' else ''
-        }
-    return {
-        'name': oldname.strip(),
-    }
-
-getnames = {
-    'pinb': getnames_pinb,
-    'sanepid': getnames_sanepid
-}
-
-def getopening(openstr):
-    if not openstr:
-        return False
-
-    match = re.search(r'(Poniedziałek, Wtorek, Środa, Czwartek, Piątek)(, Sobota)*(, Niedziela)* (\d{1,2}):(\d{1,2})-(\d{1,2}):(\d{1,2})', openstr)
-    if match:
-        if match.group(3):
-            return f'Mo-Su {match.group(4)}:{match.group(5)}-{match.group(6)}:{match.group(7)}'
-        if match.group(2):
-            return f'Mo-Sa {match.group(4)}:{match.group(5)}-{match.group(6)}:{match.group(7)}'
-        
-        return f'Mo-Fr {match.group(4)}:{match.group(5)}-{match.group(6)}:{match.group(7)}'
-    return False
 
 def getaddr(addrstring, city=False, place=False, street=False, housenumber=False, door=False):
     if not addrstring:
@@ -145,35 +98,6 @@ def komoot_addr(komoot):
         'addr:postcode': prefix.get('postcode'),
         'addr:door': prefix.get('door')
     }
-
-def nominatim_assign(nominatim, key):
-    tmp = False
-    for k in key:
-        tmp = tmp or nominatim['address'].get(k, False)
-    
-    if tmp:
-        return tmp
-    else:
-        print(f"  Nominatim failed! {'/'.join(key)}")
-        print(f"  https://nominatim.openstreetmap.org/ui/reverse.html?lat={nominatim['lat']}&lon={nominatim['lon']}&zoom=18&format=jsonv2\n")
-
-def count_distance(first, second):
-    R = 6373.0
-
-    lat1 = radians(float(first['lat']))
-    lon1 = radians(float(first['lon']))
-    lat2 = radians(float(second['lat']))
-    lon2 = radians(float(second['lon']))
-
-    dlon = lon2 - lon1
-    dlat = lat2 - lat1
-
-    a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
-    c = 2 * atan2(sqrt(a), sqrt(1 - a))
-
-    distance = R * c
-
-    return distance
 
 ADDR_FIELDS = {
     'street': lambda x: f'{x.get("addr:street")} {x.get("addr:housenumber")}',

@@ -1,0 +1,1408 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.19.0">
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Stowarzyszenie &quot;DAĆ NADZIEJĘ&quot; w Lubinie"/>
+    <tag k="start_date" v="2007-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Stowarzyszenie &quot;DAĆ NADZIEJĘ&quot; w Lubinie"/>
+    <tag k="start_date" v="2009-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Fundacja Przystań w Ścinawie"/>
+    <tag k="start_date" v="2018-12-31"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Stowarzyszenie &quot;Ostoja&quot; na rzecz osób z niepełnosprawnościami"/>
+    <tag k="start_date" v="2008-12-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2016-12-06"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Caritas Archidiecezji Wrocławskiej"/>
+    <tag k="start_date" v="2008-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2007-12-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Fundacja im. Błogosławionego Ojca Damiana"/>
+    <tag k="start_date" v="2004-01-01"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="7856320861" version="3" timestamp="2022-02-28T11:25:17Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="51.103305" lon="17.1533792">
+    <tag k="addr:postcode" v="51-520"/>
+    <tag k="addr:city" v="Wrocław"/>
+    <tag k="addr:street" v="Smocza"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej &quot;Wspólnota&quot;"/>
+    <tag k="operator" v="Fundacja Imienia Brata Alberta"/>
+    <tag k="start_date" v="2003-01-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="biuro@fundacja-wro.id.pl"/>
+    <tag k="name:uk" v="Майстерня трудотерапії «Громада»"/>
+    <tag k="phone" v="+48 501 899 938"/>
+    <tag k="website" v="https://albert.krakow.pl/pl/58/Wspolnota_we_Wroclawiu"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1998-06-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1998-09-28"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2006-02-03"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci Kujawsko-Pomorski Oddział Regionalny w Toruniu"/>
+    <tag k="start_date" v="2009-11-11"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2007-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2011-12-01"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="1997-06-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10116803193" version="1" timestamp="2022-10-20T15:18:06Z" uid="16972410" user="Barroszt" changeset="127844498" lat="53.0117751" lon="18.5818138">
+    <tag k="addr:postcode" v="87-100"/>
+    <tag k="addr:city" v="Toruń"/>
+    <tag k="addr:street" v="Mickiewicza"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="name" v="WARSZTATY TERAPII ZAJĘCIOWEJ"/>
+    <tag k="operator" v="Polski Związek Niewidomych Zarząd Główny"/>
+    <tag k="start_date" v="1999-10-28"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Gminny Ośrodek Pomocy Społecznej"/>
+    <tag k="start_date" v="2007-12-20"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2009-12-15"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:place" v="Oszczów Kolonia"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Gminny Ośrodek Pomocy Społecznej w Dołhobyczowie"/>
+    <tag k="start_date" v="2002-06-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2005-10-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="8758105259" version="1" timestamp="2021-05-23T15:37:22Z" uid="1703910" user="Grzegorz_Kujawa" changeset="105173086" lat="50.4437008" lon="23.2134871">
+    <tag k="addr:postcode" v="22-672"/>
+    <tag k="addr:place" v="Grabowica"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej w Grabowicy"/>
+    <tag k="operator" v="Urząd Gminy Susiec"/>
+    <tag k="start_date" v="2012-11-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzgrabowica@wp.pl"/>
+    <tag k="mobile" v="+48 781502600"/>
+    <tag k="phone" v="+48 846662078"/>
+    <tag k="website" v="http://wtzgrabowica.naszbip.pl/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2001-02-03"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="4362773794" version="1" timestamp="2016-08-23T13:28:47Z" uid="4307191" user="AdrianXQ" changeset="41638270" lat="51.1395518" lon="23.4521592">
+    <tag k="addr:postcode" v="22-100"/>
+    <tag k="addr:city" v="Chełm"/>
+    <tag k="addr:street" v="Lubelska"/>
+    <tag k="addr:housenumber" v="135E"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Ośrodek Pomocy Osobom Niepełnosprawnym przy Parafii Miłosierdzia Bożego"/>
+    <tag k="start_date" v="2007-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Polskie Stowarzyszenie na Rzecz Osób z Niepełnosprawnością Intelektualną-Koło"/>
+    <tag k="start_date" v="1998-07-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="1999-10-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2001-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Stowarzyszenie Pomocy Dzieciom Niepełnosprawnym &quot;Krok za Krokiem&quot;"/>
+    <tag k="start_date" v="2007-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2003-10-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1999-10-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2006-01-03"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2009-12-29"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="ZPCH Discol obecnie Stowarzyszenie na Rzecz Osób Niepełnosprawnych Razem"/>
+    <tag k="start_date" v="2000-01-18"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2005-11-08"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Stowarzyszenie Tkalnia"/>
+    <tag k="start_date" v="1997-04-08"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="10098072465" version="1" timestamp="2022-10-13T13:10:40Z" uid="4873389" user="Iga | Yanosik" changeset="127470137" lat="49.866034" lon="20.292628">
+    <tag k="addr:postcode" v="32-740"/>
+    <tag k="addr:place" v="Łapanów"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Katolickie Stowarzyszenie Przyjaciół Niepełnosprawnych &quot;Otwarte Serca&quot; w Łapanowie"/>
+    <tag k="start_date" v="2007-12-31"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzlapanow@gmail.com"/>
+    <tag k="website" v="http://www.wtzlapanow.pl/"/>
+  </node>
+  <node action='modify' id="4297683833" version="2" timestamp="2018-01-19T12:16:20Z" uid="175746" user="RafalR" changeset="55576435" lat="51.2245127" lon="23.124078">
+    <tag k="addr:postcode" v="22-130"/>
+    <tag k="addr:place" v="Majdan Zahorodyński"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej w Majdanie Zahorodyńskim"/>
+    <tag k="operator" v="Fundacja im. Brata Alberta"/>
+    <tag k="start_date" v="1997-03-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4297683833" version="2" timestamp="2018-01-19T12:16:20Z" uid="175746" user="RafalR" changeset="55576435" lat="51.2245127" lon="23.124078">
+    <tag k="addr:postcode" v="22-130"/>
+    <tag k="addr:place" v="Majdan Zahorodyński"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej w Majdanie Zahorodyńskim"/>
+    <tag k="operator" v="Dom omocy Społecznej W Harbutowicach"/>
+    <tag k="start_date" v="1999-10-18"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2003-12-15"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="4297683833" version="2" timestamp="2018-01-19T12:16:20Z" uid="175746" user="RafalR" changeset="55576435" lat="51.2245127" lon="23.124078">
+    <tag k="addr:postcode" v="22-130"/>
+    <tag k="addr:place" v="Majdan Zahorodyński"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej w Majdanie Zahorodyńskim"/>
+    <tag k="operator" v="Caritas Archidiecezji Krakowskiej"/>
+    <tag k="start_date" v="2008-12-15"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4297683833" version="2" timestamp="2018-01-19T12:16:20Z" uid="175746" user="RafalR" changeset="55576435" lat="51.2245127" lon="23.124078">
+    <tag k="addr:postcode" v="22-130"/>
+    <tag k="addr:place" v="Majdan Zahorodyński"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej w Majdanie Zahorodyńskim"/>
+    <tag k="operator" v="Dom Pomocy Społecznej OO Bonifratrów w Zebrzydowicach"/>
+    <tag k="start_date" v="1997-09-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="3294298098" version="3" timestamp="2021-08-18T08:01:31Z" uid="657596" user="taxi301" changeset="109856319" lat="54.1678562" lon="15.5602748">
+    <tag k="addr:postcode" v="78-100"/>
+    <tag k="addr:city" v="Kołobrzeg"/>
+    <tag k="addr:street" v="Mazowiecka"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Szpital Specjalistyczny im. dr J.Babińskiego"/>
+    <tag k="start_date" v="1999-09-22"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="community_centre:for" v="disabled"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
+    <tag k="email" v="zk.kolobrzeg@psouu.org.pl"/>
+    <tag k="entrance" v="main"/>
+    <tag k="mobile" v="+48 533 995 792"/>
+    <tag k="phone" v="+48 94 352 53 88"/>
+    <tag k="website" v="https://psoni.kolobrzeg.eu/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2008-10-23"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="8765404117" version="1" timestamp="2021-05-25T16:05:33Z" uid="13410637" user="Szymon Babecki" changeset="105303235" lat="50.0388723" lon="19.9553952">
+    <tag k="addr:postcode" v="30-542"/>
+    <tag k="addr:city" v="Kraków"/>
+    <tag k="addr:street" v="Za Torem"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Stowarzyszenie &quot;Dobrej Nadziei&quot;"/>
+    <tag k="start_date" v="2009-03-04"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Dom Rehabilitacyjno-Opiekuńczy KSNAW"/>
+    <tag k="start_date" v="2006-01-23"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1999-12-23"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2008-12-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="3222756548" version="4" timestamp="2023-08-30T16:29:26Z" uid="408964" user="Lesnydzban" changeset="140597562" lat="49.7295399" lon="19.3320495">
+    <tag k="addr:postcode" v="34-322"/>
+    <tag k="addr:city" v="Gilowice"/>
+    <tag k="addr:street" v="Zakopiańska"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Stowarzyszenie Przyjaciół Osób z Ograniczeniem Samodzielności Życiowej &quot;AGIS&quot;"/>
+    <tag k="start_date" v="1998-01-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="addr:city:simc" v="0051747"/>
+    <tag k="addr:street:sym_ul" v="25458"/>
+    <tag k="source:addr" v="gilowice.e-mapa.net"/>
+  </node>
+  <node action='modify' id="4703183765" version="1" timestamp="2017-02-24T09:24:54Z" uid="2540707" user="lemacik" changeset="46361900" lat="52.2447117" lon="20.9470035">
+    <tag k="addr:postcode" v="01-441"/>
+    <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:street" v="Deotymy"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Katolickie Stowarzyszenie Archidiecezji Warszawskiej"/>
+    <tag k="start_date" v="1999-01-12"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="3222756548" version="4" timestamp="2023-08-30T16:29:26Z" uid="408964" user="Lesnydzban" changeset="140597562" lat="49.7295399" lon="19.3320495">
+    <tag k="addr:postcode" v="34-322"/>
+    <tag k="addr:city" v="Gilowice"/>
+    <tag k="addr:street" v="Zakopiańska"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Katolickie Stowarzyszenie Archidiecezji Warszawskiej"/>
+    <tag k="start_date" v="2001-10-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="addr:city:simc" v="0051747"/>
+    <tag k="addr:street:sym_ul" v="25458"/>
+    <tag k="source:addr" v="gilowice.e-mapa.net"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2007-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2005-11-24"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1997-06-10"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Powiat Głubczycki"/>
+    <tag k="start_date" v="2006-01-03"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4790279182" version="1" timestamp="2017-04-12T16:39:24Z" uid="2319082" user="jacek_zwik" changeset="47700678" lat="50.9730643" lon="18.2229842">
+    <tag k="addr:postcode" v="46-200"/>
+    <tag k="addr:city" v="Kluczbork"/>
+    <tag k="addr:street" v="Katowicka"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Caritas diecezji opolskiej"/>
+    <tag k="start_date" v="1999-07-21"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2004-01-12"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2006-01-03"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="10120311639" version="2" timestamp="2022-11-06T10:09:19Z" uid="12914377" user="Patryk2710" changeset="128548704" lat="50.2481847" lon="21.7785426">
+    <tag k="addr:postcode" v="36-100"/>
+    <tag k="addr:city" v="Kolbuszowa"/>
+    <tag k="addr:street" v="Tyszkiewiczów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Caritas Diecezji Rzeszowskiej"/>
+    <tag k="start_date" v="2008-12-23"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="description" v="Caritas Diecezji Rzeszowskiej Warsztaty Terapii Zajęciowej"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:30"/>
+  </node>
+  <node action='modify' id="10276580841" version="1" timestamp="2022-12-20T19:39:30Z" uid="6203794" user="k2101" changeset="130303771" lat="49.6831847" lon="21.7673401">
+    <tag k="addr:postcode" v="38-400"/>
+    <tag k="addr:city" v="Krosno"/>
+    <tag k="addr:street" v="Grodzka"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Polskie Stowarzyszenie na Rzecz Osób z Niepełnosprawnością Intelektualną Koło w Krośnie"/>
+    <tag k="start_date" v="1996-09-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1997-05-15"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2009-12-21"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2006-01-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2009-12-21"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Stowarzyszenie na Rzecz Osób Niepełnosprawnych &quot;Razem&quot;"/>
+    <tag k="start_date" v="2000-11-27"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="6342605520" version="2" timestamp="2022-02-28T11:24:22Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.137878" lon="23.1410488">
+    <tag k="addr:postcode" v="15-702"/>
+    <tag k="addr:city" v="Białystok"/>
+    <tag k="addr:street" v="Knyszyńska"/>
+    <tag k="addr:housenumber" v="12a"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Caritas Archidiecezji Białostockiej"/>
+    <tag k="start_date" v="1999-12-28"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-14:00"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="1999-09-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Caritas Diecezji Pelplińskiej"/>
+    <tag k="start_date" v="2002-12-17"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2009-12-21"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Fundacja &quot;Sprawni Inaczej&quot;"/>
+    <tag k="start_date" v="1997-04-20"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4898439115" version="1" timestamp="2017-06-05T23:52:20Z" uid="604437" user="RicoElectrico" changeset="49290678" lat="54.5518642" lon="18.5032087">
+    <tag k="addr:postcode" v="81-183"/>
+    <tag k="addr:city" v="Gdynia"/>
+    <tag k="addr:street" v="Boisko"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej przy Stowarzyszeniu Osób z Wadami Słuchu &quot;Cisza&quot;"/>
+    <tag k="operator" v="Stowarzyszenie Osób z Wadą Słuchu Cisza"/>
+    <tag k="start_date" v="2008-12-05"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="phone" v="+48586253323"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.cisza.org.pl/"/>
+  </node>
+  <node action='modify' id="3294298098" version="3" timestamp="2021-08-18T08:01:31Z" uid="657596" user="taxi301" changeset="109856319" lat="54.1678562" lon="15.5602748">
+    <tag k="addr:postcode" v="78-100"/>
+    <tag k="addr:city" v="Kołobrzeg"/>
+    <tag k="addr:street" v="Mazowiecka"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Caritas Archidiecezji Katowickiej"/>
+    <tag k="start_date" v="1998-04-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="community_centre:for" v="disabled"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
+    <tag k="email" v="zk.kolobrzeg@psouu.org.pl"/>
+    <tag k="entrance" v="main"/>
+    <tag k="mobile" v="+48 533 995 792"/>
+    <tag k="phone" v="+48 94 352 53 88"/>
+    <tag k="website" v="https://psoni.kolobrzeg.eu/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2010-12-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="2296689085" version="1" timestamp="2013-05-09T07:04:16Z" uid="838827" user="gregorisan" changeset="16042556" lat="50.0923713" lon="18.2180367">
+    <tag k="addr:postcode" v="47-400"/>
+    <tag k="addr:city" v="Racibórz"/>
+    <tag k="addr:street" v="Rzeźnicza"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="name" v="Ośrodek Pomocy Społecznej Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Ośrodek Pomocy Społecznej w Raciborzu"/>
+    <tag k="start_date" v="2000-10-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="phone" v="+ 4832 415 05 60"/>
+  </node>
+  <node action='modify' id="3222756548" version="4" timestamp="2023-08-30T16:29:26Z" uid="408964" user="Lesnydzban" changeset="140597562" lat="49.7295399" lon="19.3320495">
+    <tag k="addr:postcode" v="34-322"/>
+    <tag k="addr:city" v="Gilowice"/>
+    <tag k="addr:street" v="Zakopiańska"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Rada Gminy w Gilowicach"/>
+    <tag k="start_date" v="1997-08-21"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="addr:city:simc" v="0051747"/>
+    <tag k="addr:street:sym_ul" v="25458"/>
+    <tag k="source:addr" v="gilowice.e-mapa.net"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2000-09-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="3294298098" version="3" timestamp="2021-08-18T08:01:31Z" uid="657596" user="taxi301" changeset="109856319" lat="54.1678562" lon="15.5602748">
+    <tag k="addr:postcode" v="78-100"/>
+    <tag k="addr:city" v="Kołobrzeg"/>
+    <tag k="addr:street" v="Mazowiecka"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Śląskie Centrum Edukacji i Rehabilitacji &quot;Arteria&quot;"/>
+    <tag k="start_date" v="2022-03-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="community_centre:for" v="disabled"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
+    <tag k="email" v="zk.kolobrzeg@psouu.org.pl"/>
+    <tag k="entrance" v="main"/>
+    <tag k="mobile" v="+48 533 995 792"/>
+    <tag k="phone" v="+48 94 352 53 88"/>
+    <tag k="website" v="https://psoni.kolobrzeg.eu/"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Caritas Diecezji Gliwickiej"/>
+    <tag k="start_date" v="2006-12-01"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Stowarzyszenie Integracji Zawodowej i Społecznej Osób Niepełnosprawnych &quot;Tęcza&quot;"/>
+    <tag k="start_date" v="2008-12-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Stowarzyszenie &quot;Integracja&quot;"/>
+    <tag k="start_date" v="1997-09-28"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Parafia Rzymskokatolicka św. Judy Tadeusza"/>
+    <tag k="start_date" v="1998-07-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1999-07-11"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="CARITAS Diecezji Ełckiej"/>
+    <tag k="start_date" v="2004-08-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
+    <tag k="addr:postcode" v="22-107"/>
+    <tag k="addr:city" v="Sawin"/>
+    <tag k="addr:street" v="Chełmska"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej"/>
+    <tag k="operator" v="Mazurskie Stowarzyszenie na Rzecz Osób Niepełnosprawnych"/>
+    <tag k="start_date" v="1999-10-25"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2000-06-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Stowarzyszenie Pomocy Dzieciom &quot;SERCE&quot;"/>
+    <tag k="start_date" v="2004-03-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="3294298098" version="3" timestamp="2021-08-18T08:01:31Z" uid="657596" user="taxi301" changeset="109856319" lat="54.1678562" lon="15.5602748">
+    <tag k="addr:postcode" v="78-100"/>
+    <tag k="addr:city" v="Kołobrzeg"/>
+    <tag k="addr:street" v="Mazowiecka"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Stowarzyszenie &quot;Sprawni Inaczej&quot;"/>
+    <tag k="start_date" v="2020-12-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="community_centre:for" v="disabled"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
+    <tag k="email" v="zk.kolobrzeg@psouu.org.pl"/>
+    <tag k="entrance" v="main"/>
+    <tag k="mobile" v="+48 533 995 792"/>
+    <tag k="phone" v="+48 94 352 53 88"/>
+    <tag k="website" v="https://psoni.kolobrzeg.eu/"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1998-06-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="2003-04-01"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="3057641865" version="2" timestamp="2014-12-05T10:28:29Z" uid="2274433" user="sorbovit" changeset="27258893" lat="51.5757698" lon="17.6782766">
+    <tag k="addr:postcode" v="63-430"/>
+    <tag k="addr:city" v="Odolanów"/>
+    <tag k="addr:street" v="Słoneczna"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Fundacja Inwalidów i Osób Niepełnosprawnych &quot;Miłosierdzie&quot; w Kaliszu"/>
+    <tag k="start_date" v="2000-04-11"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2008-12-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="1998-06-22"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2008-08-02"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="9490826077" version="1" timestamp="2022-02-08T20:47:14Z" uid="4493657" user="Aim311" changeset="117176690" lat="52.4501048" lon="16.4010209">
+    <tag k="addr:postcode" v="64-550"/>
+    <tag k="addr:city" v="Duszniki"/>
+    <tag k="addr:street" v="Jana Pawła II B"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="name" v="Warsztat terapii zajęciowej w Dusznikach"/>
+    <tag k="operator" v="Gminny Ośrodek Pomocy Społecznej w Dusznikach"/>
+    <tag k="start_date" v="2016-12-06"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="social_facility:for" v="mental_health"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="website" v="https://opsduszniki.pl/cms/692/warsztat-terapii-zajeciowej"/>
+  </node>
+</osm>

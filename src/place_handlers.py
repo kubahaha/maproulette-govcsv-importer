@@ -1,12 +1,14 @@
 import csv
 import importlib.util
-import osmium
 import random
 import requests
+
+import osmium
+
 from src.utils import nominatim_addr, nominatim_searchurl
 
+
 NOMINATIM_SERVER = 'https://nominatim.openstreetmap.org'
-ADDR_FIELDS = 'addr:postcode', 'addr:city', 'addr:place', 'addr:street', 'addr:housenumber'
 
 def _haveaddr(tags):
     if not all(x in tags for x in ['addr:postcode', 'addr:housenumber']):
@@ -127,8 +129,8 @@ class GovHandler():
                     self.match.update({it_k: item})
                 else:
                     print(f'Downloading failed - not found!')
-                    print(f'  {url}')
-                    print(f'  {url2}')
+                    print(f'  <{NOMINATIM_SERVER}/ui/search.html?{search}&addressdetails=1>')
+                    print(f'  <{NOMINATIM_SERVER}/ui/search.html?q={search2}&addressdetails=1>')
                     self.nomatch.append(it_k)
 
 
