@@ -87,9 +87,9 @@ if args.prepare:
         new_row = {}
         for key, value in tags.items():
             if type(value) is str:
-                new_row[key] = row.get(value).strip()
+                new_row[key] = row.get(value, '').strip()
             elif callable(value):
-                new_row[key] = value(row).strip()
+                new_row[key] = (value(row) or '').strip()
             else:
                 raise NotImplementedError
         r_out.writerow(new_row)
@@ -136,31 +136,57 @@ new_writer = osmium.SimpleWriter(f'output/{args.name}_new.osm')
 edit_writer = osmium.SimpleWriter(f'output/{args.name}_edit.osm')
 
 for g in gov.all.keys():
-    writer = new_writer
-    if g in mapping['gov'] and len(mapping['gov'].get(g, [])) == 1:
-        o = mapping['gov'].get(g)[0]
-        tags_e = dict(osm.all[o].tags)
-        print(o, tags_e)
-        for t, tv in dict(gov.all[g].tags).items():
-            if t in ADDR_FIELDS and t in tags_e:
-                continue
+    # print(g)
+    tags_e, location_e = {}, {}
+    writer, edit = new_writer, False
+
+    for t, tv in dict(gov.all[g].tags).items():
+        if tv:
             tags_e[t] = tv
 
-        location_e = osm.all[o].location
+    tags_e.update(config.tags_to_add)
 
-        # node = osmium.osm.mutable.Node(
-        #     tags = tags_e,
-        #     location = location_e,
-        #     id = osm.all[o].id
-        #     )
-        edit_writer.add_node(osm.all[o])
-    else:
-        node = osmium.osm.mutable.Node(
-            tags = tags_e,
-            location = location_e,
-            id = osm.all[o].id
+    if g in mapping['gov'] and len(mapping['gov'].get(g, [])) == 1:
+        # print('MATCH')
+        o = mapping['gov'].get(g)[0]
+
+        for k,v in dict(osm.all[o].tags).items():
+            if k in config.tags_to_delete:
+                val_to_del = config.tags_to_delete[k]
+                if val_to_del == '*' or v == val_to_del:
+                    continue
+            tags_e.update({k: v})
+
+        # print(o)
+        if o[0] == 'N':
+            node = osmium.osm.mutable.Node(
+                osm.all[o],
+                tags = tags_e
+                )
+            edit_writer.add_node(node)
+        elif o[0] == 'W':
+            way = osmium.osm.mutable.Way(
+                osm.all[o],
+                tags = tags_e
             )
-        edit_writer.add_node(osm.all[o])
+            edit_writer.add_way(way)
+            print(osm.waynodes)
+        else:
+            raise NotImplementedError(o)
+
+    else:
+        # print('NEW')
+        m = gov.match.get(g)
+        if m:
+            location_e = m.location
+            
+            # print(tags_e, location_e, gov.all[g].id)
+            node = osmium.osm.mutable.Node(
+                tags = tags_e,
+                location = location_e,
+                id = int(gov.all[g].id)
+            )
+            new_writer.add_node(node)
     
 
 

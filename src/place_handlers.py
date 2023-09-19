@@ -29,6 +29,7 @@ class OsmHandler(osmium.SimpleHandler):
         self.nomatch = []
         self.filled = []
         self.all = {}
+        self.waynodes = set()
 
 
     def node(self, n):
@@ -39,6 +40,7 @@ class OsmHandler(osmium.SimpleHandler):
             self.nomatch.append(f'N{n.id}')
 
     def way(self, w):
+        self.waynodes.update([n.ref for n in w.nodes])
         self.all.update({f'W{w.id}': w.replace(tags=dict(w.tags))})
         if _haveaddr(w.tags):
             self.filled.append(f'W{w.id}')
@@ -56,7 +58,7 @@ class OsmHandler(osmium.SimpleHandler):
                 key = f'{it.get("osm_type")[0].upper()}{it.get("osm_id")}'
                 self.match[key] = osmium.osm.mutable.Node(
                     tags=nominatim_addr(it),
-                    location=osmium.osm.Location(float(it.get("lat")), float(it.get("lon"))),
+                    location=osmium.osm.Location(float(it.get("lon")), float(it.get("lat"))),
                     id=it.get("osm_id")
                 )
                 self.nomatch.remove(key)
@@ -106,7 +108,7 @@ class GovHandler():
             if res:
                 item = osmium.osm.mutable.Node(
                     tags=nominatim_addr(res[0]),
-                    location=osmium.osm.Location(float(res[0].get("lat")), float(res[0].get("lon"))),
+                    location=osmium.osm.Location(float(res[0].get("lon")), float(res[0].get("lat"))),
                     id=res[0].get("osm_id")
                 )
                 self.match.update({it_k: item})
@@ -118,7 +120,8 @@ class GovHandler():
                 if res2:
                     item = osmium.osm.mutable.Node(
                         tags=nominatim_addr(res2[0]),
-                        location=osmium.osm.Location(float(res2[0].get("lat")), float(res2[0].get("lon"))),
+                        location=osmium.osm.Location(float(res2[0].get("lon")), float(res2[0].get("lat"))),
+                        # location=osmium.osm.Location(float(res2[0].get("lon")), float(res2[0].get("lat"))),
                         id=res2[0].get("osm_id")
                     )
                     self.match.update({it_k: item})
