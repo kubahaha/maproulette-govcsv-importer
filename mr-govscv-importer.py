@@ -87,9 +87,9 @@ if args.prepare:
         new_row = {}
         for key, value in tags.items():
             if type(value) is str:
-                new_row[key] = row.get(value)
+                new_row[key] = row.get(value).strip()
             elif callable(value):
-                new_row[key] = value(row)
+                new_row[key] = value(row).strip()
             else:
                 raise NotImplementedError
         r_out.writerow(new_row)
@@ -129,8 +129,8 @@ for rule in config.matching:
     else:
         raise NotImplementedError(f'rule {rule} not supported!')
 
-for arr in mapping.values():
-    print([x for x in arr])
+# for arr in mapping.values():
+    # print([x for x in arr])
 
 new_writer = osmium.SimpleWriter(f'output/{args.name}_new.osm')
 edit_writer = osmium.SimpleWriter(f'output/{args.name}_edit.osm')
@@ -140,6 +140,7 @@ for g in gov.all.keys():
     if g in mapping['gov'] and len(mapping['gov'].get(g, [])) == 1:
         o = mapping['gov'].get(g)[0]
         tags_e = dict(osm.all[o].tags)
+        print(o, tags_e)
         for t, tv in dict(gov.all[g].tags).items():
             if t in ADDR_FIELDS and t in tags_e:
                 continue
@@ -147,13 +148,19 @@ for g in gov.all.keys():
 
         location_e = osm.all[o].location
 
+        # node = osmium.osm.mutable.Node(
+        #     tags = tags_e,
+        #     location = location_e,
+        #     id = osm.all[o].id
+        #     )
+        edit_writer.add_node(osm.all[o])
+    else:
         node = osmium.osm.mutable.Node(
             tags = tags_e,
             location = location_e,
             id = osm.all[o].id
             )
-        edit_writer.add_node(node)
-
+        edit_writer.add_node(osm.all[o])
     
 
 
