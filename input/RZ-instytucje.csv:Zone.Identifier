@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://dane.gov.pl/
+HostUrl=https://api.dane.gov.pl/media/resources/20230920/RZ-instytucje.csv

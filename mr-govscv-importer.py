@@ -26,7 +26,6 @@ args = parser.parse_args()
 check_files(args.name, args.prepare)
 
 console.log(f'[bold]Importing conf/{args.name}_conf.py')
-
 config = importlib.import_module(f'conf.{args.name}_conf')
 
 if args.prepare:
@@ -41,11 +40,9 @@ if args.prepare:
     r_out = csv.DictWriter(f_out, fieldnames=tags.keys())
     r_out.writeheader()
 
-
-
     for row in track(r_in, description='Preparing gov data'):
-        # with Live(console=console) as live:
-            # console.print(f'Processing {row.get("name", "")}')
+        with console.status("Preparation starting") as status:
+            status.update(f'Processing {row}')
 
         if config.prepare.get('accept'):
             if not config.prepare['accept'](row):
@@ -57,7 +54,7 @@ if args.prepare:
             elif callable(value):
                 new_row[key] = (value(row) or '').strip()
             else:
-                raise NotImplementedError
+                raise NotImplementedError(f'Error! Preparation rule: {key, value} not supported!')
         r_out.writerow(new_row)
 
 # add addresses to osm
@@ -76,7 +73,7 @@ mapping = {
 }
 
 for rule in config.matching:
-    print(f'Matching with rule: {rule}')
+    console.log(f'Matching with rule: {rule}')
 
     if isinstance(rule, str):
         if rule.split(':')[0] == 'location':
@@ -92,6 +89,9 @@ for rule in config.matching:
         mapping['gov'].update(output.get('gov'))
     else:
         raise NotImplementedError(f'rule {rule} not supported!')
+    
+    new = sum(filter(lambda x: x == 1, [len(x) for x in mapping['gov'].values()]))
+    console.log(f'Found {new} new matches for gov data')
 
 new_writer = osmium.SimpleWriter(f'output/{args.name}_cooperative.osm')
 edit_writer = osmium.SimpleWriter(f'output/{args.name}_tagfix.osm')
