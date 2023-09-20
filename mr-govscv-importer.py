@@ -1,26 +1,37 @@
 #!/usr/bin/env python3
 import argparse
 import csv
+import fileinput
 import importlib.util
 from collections import defaultdict
+import subprocess
+from time import sleep
 
 import osmium
+from rich.console import Console
+from rich.live import Live
+from rich.progress import track
 
 from comparators import distance_m, tags_m
-from src.geodistance import geodistance
+from src.check_files import check_files
 from src.place_handlers import GovHandler, OsmHandler
 
-
+console = Console()
 parser = argparse.ArgumentParser()
 parser.add_argument('name', type=str)
 parser.add_argument('-p', '--prepare', action='store_true')
 # parser.add_argument('-g', '--geocode', choices=['nominatim', 'komoot'], default='nominatim', type=str.lower)
 args = parser.parse_args()
 
-print(f'Importing conf/{args.name}_conf.py')
+check_files(args.name, args.prepare)
+
+console.log(f'[bold]Importing conf/{args.name}_conf.py')
+
 config = importlib.import_module(f'conf.{args.name}_conf')
 
 if args.prepare:
+    console.log(f'Starting preparation step...')
+    
     f_in = open(f'input/{args.name}_gov.csv', 'r')
     f_out = open(f'input/{args.name}_gov_clean.csv', 'w') 
     tags = config.prepare['tags']
@@ -29,8 +40,13 @@ if args.prepare:
         quotechar=config.prepare.get('quote', '"'))
     r_out = csv.DictWriter(f_out, fieldnames=tags.keys())
     r_out.writeheader()
-    for row in r_in:
-        # print(row)
+
+
+
+    for row in track(r_in, description='Preparing gov data'):
+        # with Live(console=console) as live:
+            # console.print(f'Processing {row.get("name", "")}')
+
         if config.prepare.get('accept'):
             if not config.prepare['accept'](row):
                 continue
@@ -52,8 +68,6 @@ osm.add_addresses()
 # add cords to gov
 gov = GovHandler(args.name)
 gov.import_csv(f'input/{args.name}_gov_clean.csv')
-
-
 
 # match
 mapping = {
@@ -79,14 +93,10 @@ for rule in config.matching:
     else:
         raise NotImplementedError(f'rule {rule} not supported!')
 
-# for arr in mapping.values():
-    # print([x for x in arr])
-
 new_writer = osmium.SimpleWriter(f'output/{args.name}_cooperative.osm')
 edit_writer = osmium.SimpleWriter(f'output/{args.name}_tagfix.osm')
 
 for g in gov.all.keys():
-    # print(g)
     tags_e, location_e = {}, {}
     writer, edit = new_writer, False
 
@@ -97,7 +107,6 @@ for g in gov.all.keys():
     tags_e.update(config.tags_to_add)
 
     if g in mapping['gov'] and len(mapping['gov'].get(g, [])) == 1:
-        # print('MATCH')
         o = mapping['gov'].get(g)[0]
 
         for k,v in dict(osm.all[o].tags).items():
@@ -107,7 +116,6 @@ for g in gov.all.keys():
                     continue
             tags_e.update({k: v})
 
-        # print(o)
         if o[0] == 'N':
             node = osmium.osm.mutable.Node(
                 osm.all[o],
@@ -126,16 +134,19 @@ for g in gov.all.keys():
             raise NotImplementedError(o)
 
     else:
-        # print('NEW')
         m = gov.match.get(g)
         if m:
             location_e = m.location
-            
-            # print(tags_e, location_e, gov.all[g].id)
             node = osmium.osm.mutable.Node(
                 tags = tags_e,
                 location = location_e,
                 id = int(gov.all[g].id)
             )
             new_writer.add_node(node)
-    
+
+with fileinput.FileInput(f'./output/{args.name}_tagfix.osm', inplace=True) as file:
+    for line in file:
+        print(line.replace("<node ", "<node action='modify' "), end='')
+
+subprocess.run(f'mr cooperative change --out ./output/{args.name}_cooperative.geojson ./output/{args.name}_cooperative.osm', shell=True, check=True)
+subprocess.run(f'mr cooperative tag --out ./output/{args.name}_tagfix.geojson ./output/{args.name}_tagfix.osm', shell=True, check=True)
