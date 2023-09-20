@@ -1,3 +1,5 @@
+import re
+
 from src.utils import getaddr
 
 
@@ -27,3 +29,15 @@ def wtz_getstartdate(row):
 def wtz_postcode(row):
     postcode = ''.join(row.get('Kod').split('-'))
     return f'{postcode[0:2]}-{postcode[2:5]}'
+
+def wtz_get_facility_for(row):
+    patterns = {
+        'mental_health': r'.*(intelektual|umysł|niedorozw).*',
+        'disabled': r'.*(głuch|niesłysz|niewido).*'
+    }
+
+    for value, regex in patterns.items():
+        if re.match(regex, row.get('Nazwa wtz'), re.IGNORECASE) or re.match(regex, row.get('Organizator'), re.IGNORECASE):
+            return value
+        
+    return ''

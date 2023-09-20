@@ -144,9 +144,9 @@ for g in gov.all.keys():
             )
             new_writer.add_node(node)
 
-with fileinput.FileInput(f'./output/{args.name}_tagfix.osm', inplace=True) as file:
-    for line in file:
-        print(line.replace("<node ", "<node action='modify' "), end='')
+# with fileinput.FileInput(f'./output/{args.name}_tagfix.osm', inplace=True) as file:
+#     for line in file:
+#         print(line.replace("<node ", "<node action='modify' "), end='')
 
 subprocess.run(f'mr cooperative change --out ./output/{args.name}_cooperative.geojson ./output/{args.name}_cooperative.osm', shell=True, check=True)
 subprocess.run(f'mr cooperative tag --out ./output/{args.name}_tagfix.geojson ./output/{args.name}_tagfix.osm', shell=True, check=True)

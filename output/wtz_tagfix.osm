@@ -10,7 +10,6 @@
     <tag k="start_date" v="2007-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
@@ -23,7 +22,6 @@
     <tag k="start_date" v="2009-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
@@ -36,7 +34,6 @@
     <tag k="start_date" v="2018-12-31"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
@@ -49,7 +46,6 @@
     <tag k="start_date" v="2008-12-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
@@ -62,7 +58,6 @@
     <tag k="start_date" v="2016-12-06"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -78,7 +73,6 @@
     <tag k="start_date" v="2008-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -91,7 +85,6 @@
     <tag k="start_date" v="2007-12-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -108,7 +101,6 @@
     <tag k="start_date" v="2004-01-01"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="7856320861" version="3" timestamp="2022-02-28T11:25:17Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="51.103305" lon="17.1533792">
@@ -121,7 +113,6 @@
     <tag k="start_date" v="2003-01-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="biuro@fundacja-wro.id.pl"/>
     <tag k="name:uk" v="Майстерня трудотерапії «Громада»"/>
@@ -138,7 +129,6 @@
     <tag k="start_date" v="1998-06-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -155,7 +145,6 @@
     <tag k="start_date" v="1998-09-28"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -169,10 +158,10 @@
     <tag k="addr:housenumber" v="3"/>
     <tag k="name" v="Warsztat Terapii Zajęciowej"/>
     <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="social_facility:for" v="mental_health"/>
     <tag k="start_date" v="2006-02-03"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -188,7 +177,6 @@
     <tag k="start_date" v="2009-11-11"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
@@ -201,7 +189,6 @@
     <tag k="start_date" v="2007-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -217,7 +204,6 @@
     <tag k="start_date" v="2011-12-01"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -231,10 +217,10 @@
     <tag k="addr:housenumber" v="3"/>
     <tag k="name" v="Warsztat Terapii Zajęciowej"/>
     <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="social_facility:for" v="disabled"/>
     <tag k="start_date" v="1997-06-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -247,10 +233,10 @@
     <tag k="addr:housenumber" v="61"/>
     <tag k="name" v="WARSZTATY TERAPII ZAJĘCIOWEJ"/>
     <tag k="operator" v="Polski Związek Niewidomych Zarząd Główny"/>
+    <tag k="social_facility:for" v="disabled"/>
     <tag k="start_date" v="1999-10-28"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
@@ -263,7 +249,6 @@
     <tag k="start_date" v="2007-12-20"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
@@ -276,7 +261,6 @@
     <tag k="start_date" v="2009-12-15"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -291,7 +275,6 @@
     <tag k="start_date" v="2002-06-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="addr:city" v="Zabrze"/>
     <tag k="addr:street" v="Henryka Sienkiewicza"/>
@@ -306,7 +289,6 @@
     <tag k="start_date" v="2005-10-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -320,7 +302,6 @@
     <tag k="start_date" v="2012-11-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzgrabowica@wp.pl"/>
     <tag k="mobile" v="+48 781502600"/>
@@ -337,7 +318,6 @@
     <tag k="start_date" v="2001-02-03"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -353,7 +333,6 @@
     <tag k="start_date" v="2007-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
@@ -363,10 +342,10 @@
     <tag k="addr:housenumber" v="5"/>
     <tag k="name" v="Warsztaty terapii zajęciowej"/>
     <tag k="operator" v="Polskie Stowarzyszenie na Rzecz Osób z Niepełnosprawnością Intelektualną-Koło"/>
+    <tag k="social_facility:for" v="mental_health"/>
     <tag k="start_date" v="1998-07-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
@@ -379,7 +358,6 @@
     <tag k="start_date" v="1999-10-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -392,10 +370,10 @@
     <tag k="addr:housenumber" v="3"/>
     <tag k="name" v="Warsztat Terapii Zajęciowej"/>
     <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="social_facility:for" v="mental_health"/>
     <tag k="start_date" v="2001-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -411,7 +389,6 @@
     <tag k="start_date" v="2007-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -424,7 +401,6 @@
     <tag k="start_date" v="2003-10-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -441,7 +417,6 @@
     <tag k="start_date" v="1999-10-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -458,7 +433,6 @@
     <tag k="start_date" v="2006-01-03"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -474,7 +448,6 @@
     <tag k="start_date" v="2009-12-29"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -490,7 +463,6 @@
     <tag k="start_date" v="2000-01-18"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
@@ -503,7 +475,6 @@
     <tag k="start_date" v="2005-11-08"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -519,7 +490,6 @@
     <tag k="start_date" v="1997-04-08"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="10098072465" version="1" timestamp="2022-10-13T13:10:40Z" uid="4873389" user="Iga | Yanosik" changeset="127470137" lat="49.866034" lon="20.292628">
@@ -530,7 +500,6 @@
     <tag k="start_date" v="2007-12-31"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzlapanow@gmail.com"/>
     <tag k="website" v="http://www.wtzlapanow.pl/"/>
@@ -544,7 +513,6 @@
     <tag k="start_date" v="1997-03-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4297683833" version="2" timestamp="2018-01-19T12:16:20Z" uid="175746" user="RafalR" changeset="55576435" lat="51.2245127" lon="23.124078">
@@ -556,7 +524,6 @@
     <tag k="start_date" v="1999-10-18"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -569,7 +536,6 @@
     <tag k="start_date" v="2003-12-15"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -585,7 +551,6 @@
     <tag k="start_date" v="2008-12-15"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4297683833" version="2" timestamp="2018-01-19T12:16:20Z" uid="175746" user="RafalR" changeset="55576435" lat="51.2245127" lon="23.124078">
@@ -597,7 +562,6 @@
     <tag k="start_date" v="1997-09-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="3294298098" version="3" timestamp="2021-08-18T08:01:31Z" uid="657596" user="taxi301" changeset="109856319" lat="54.1678562" lon="15.5602748">
@@ -610,7 +574,6 @@
     <tag k="start_date" v="1999-09-22"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="community_centre:for" v="disabled"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
@@ -630,7 +593,6 @@
     <tag k="start_date" v="2008-10-23"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -646,7 +608,6 @@
     <tag k="start_date" v="2009-03-04"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
@@ -659,7 +620,6 @@
     <tag k="start_date" v="2006-01-23"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -672,7 +632,6 @@
     <tag k="start_date" v="1999-12-23"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -689,7 +648,6 @@
     <tag k="start_date" v="2008-12-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -705,7 +663,6 @@
     <tag k="start_date" v="1998-01-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="addr:city:simc" v="0051747"/>
     <tag k="addr:street:sym_ul" v="25458"/>
@@ -721,7 +678,6 @@
     <tag k="start_date" v="1999-01-12"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="3222756548" version="4" timestamp="2023-08-30T16:29:26Z" uid="408964" user="Lesnydzban" changeset="140597562" lat="49.7295399" lon="19.3320495">
@@ -734,7 +690,6 @@
     <tag k="start_date" v="2001-10-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="addr:city:simc" v="0051747"/>
     <tag k="addr:street:sym_ul" v="25458"/>
@@ -750,7 +705,6 @@
     <tag k="start_date" v="2007-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -767,7 +721,6 @@
     <tag k="start_date" v="2005-11-24"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -784,7 +737,6 @@
     <tag k="start_date" v="1997-06-10"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -801,7 +753,6 @@
     <tag k="start_date" v="2006-01-03"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4790279182" version="1" timestamp="2017-04-12T16:39:24Z" uid="2319082" user="jacek_zwik" changeset="47700678" lat="50.9730643" lon="18.2229842">
@@ -814,7 +765,6 @@
     <tag k="start_date" v="1999-07-21"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -824,10 +774,10 @@
     <tag k="addr:housenumber" v="2"/>
     <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
     <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="social_facility:for" v="disabled"/>
     <tag k="start_date" v="2004-01-12"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -844,7 +794,6 @@
     <tag k="start_date" v="2006-01-03"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -861,7 +810,6 @@
     <tag k="start_date" v="2008-12-23"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="description" v="Caritas Diecezji Rzeszowskiej Warsztaty Terapii Zajęciowej"/>
     <tag k="opening_hours" v="Mo-Fr 07:30-15:30"/>
@@ -873,10 +821,10 @@
     <tag k="addr:housenumber" v="49"/>
     <tag k="name" v="Warsztat Terapii Zajęciowej"/>
     <tag k="operator" v="Polskie Stowarzyszenie na Rzecz Osób z Niepełnosprawnością Intelektualną Koło w Krośnie"/>
+    <tag k="social_facility:for" v="mental_health"/>
     <tag k="start_date" v="1996-09-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -886,10 +834,10 @@
     <tag k="addr:housenumber" v="2"/>
     <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
     <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="social_facility:for" v="mental_health"/>
     <tag k="start_date" v="1997-05-15"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -906,7 +854,6 @@
     <tag k="start_date" v="2009-12-21"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -922,7 +869,6 @@
     <tag k="start_date" v="2006-01-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -939,7 +885,6 @@
     <tag k="start_date" v="2009-12-21"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -956,7 +901,6 @@
     <tag k="start_date" v="2000-11-27"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="6342605520" version="2" timestamp="2022-02-28T11:24:22Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.137878" lon="23.1410488">
@@ -969,7 +913,6 @@
     <tag k="start_date" v="1999-12-28"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="opening_hours" v="Mo-Fr 07:00-14:00"/>
@@ -984,7 +927,6 @@
     <tag k="start_date" v="1999-09-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -1000,7 +942,6 @@
     <tag k="start_date" v="2002-12-17"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
@@ -1013,7 +954,6 @@
     <tag k="start_date" v="2009-12-21"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -1029,7 +969,6 @@
     <tag k="start_date" v="1997-04-20"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4898439115" version="1" timestamp="2017-06-05T23:52:20Z" uid="604437" user="RicoElectrico" changeset="49290678" lat="54.5518642" lon="18.5032087">
@@ -1042,7 +981,6 @@
     <tag k="start_date" v="2008-12-05"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="phone" v="+48586253323"/>
     <tag k="source" v="survey"/>
@@ -1058,7 +996,6 @@
     <tag k="start_date" v="1998-04-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="community_centre:for" v="disabled"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
@@ -1078,7 +1015,6 @@
     <tag k="start_date" v="2010-12-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -1094,7 +1030,6 @@
     <tag k="start_date" v="2000-10-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="phone" v="+ 4832 415 05 60"/>
   </node>
@@ -1108,7 +1043,6 @@
     <tag k="start_date" v="1997-08-21"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="addr:city:simc" v="0051747"/>
     <tag k="addr:street:sym_ul" v="25458"/>
@@ -1124,7 +1058,6 @@
     <tag k="start_date" v="2000-09-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -1141,7 +1074,6 @@
     <tag k="start_date" v="2022-03-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="community_centre:for" v="disabled"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
@@ -1161,7 +1093,6 @@
     <tag k="start_date" v="2006-12-01"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
@@ -1174,7 +1105,6 @@
     <tag k="start_date" v="2008-12-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
@@ -1187,7 +1117,6 @@
     <tag k="start_date" v="1997-09-28"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
@@ -1200,7 +1129,6 @@
     <tag k="start_date" v="1998-07-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -1213,7 +1141,6 @@
     <tag k="start_date" v="1999-07-11"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -1230,7 +1157,6 @@
     <tag k="start_date" v="2004-08-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="10242225685" version="1" timestamp="2022-12-06T12:01:02Z" uid="17902517" user="djsako" changeset="129780504" lat="51.2698437" lon="23.4332638">
@@ -1243,7 +1169,6 @@
     <tag k="start_date" v="1999-10-25"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
@@ -1256,7 +1181,6 @@
     <tag k="start_date" v="2000-06-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -1273,7 +1197,6 @@
     <tag k="start_date" v="2004-03-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="3294298098" version="3" timestamp="2021-08-18T08:01:31Z" uid="657596" user="taxi301" changeset="109856319" lat="54.1678562" lon="15.5602748">
@@ -1286,7 +1209,6 @@
     <tag k="start_date" v="2020-12-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="community_centre:for" v="disabled"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
@@ -1303,10 +1225,10 @@
     <tag k="addr:housenumber" v="2"/>
     <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
     <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="social_facility:for" v="mental_health"/>
     <tag k="start_date" v="1998-06-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -1323,7 +1245,6 @@
     <tag k="start_date" v="2003-04-01"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="email" v="wtzkowalewo@onet.pl"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
@@ -1340,7 +1261,6 @@
     <tag k="start_date" v="2000-04-11"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
   <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
@@ -1353,7 +1273,6 @@
     <tag k="start_date" v="2008-12-16"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -1369,7 +1288,6 @@
     <tag k="start_date" v="1998-06-22"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -1385,7 +1303,6 @@
     <tag k="start_date" v="2008-08-02"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="name:uk" v="Майстерня трудотерапії"/>
     <tag k="phone" v="+48 67 2830638"/>
@@ -1401,8 +1318,99 @@
     <tag k="start_date" v="2016-12-06"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="social_facility" v="workshop"/>
-    <tag k="social_facility:for" v="mental_health"/>
     <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
     <tag k="website" v="https://opsduszniki.pl/cms/692/warsztat-terapii-zajeciowej"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2010-11-26"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="8140275052" version="1" timestamp="2020-11-18T23:37:42Z" uid="1946262" user="Mirosław Żylewicz" changeset="94400238" lat="53.156255" lon="18.8925423">
+    <tag k="addr:postcode" v="87-410"/>
+    <tag k="addr:city" v="Kowalewo Pomorskie"/>
+    <tag k="addr:street" v="Odrodzenia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Towarzystwo Przyjaciół Dzieci - Oddział Okręgowy Toruń"/>
+    <tag k="start_date" v="1997-04-27"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="email" v="wtzkowalewo@onet.pl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:00"/>
+    <tag k="phone" v="+48 56 684 12 37"/>
+    <tag k="phone:mobile" v="+48 606 948 293"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="1997-09-01"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="4744435293" version="3" timestamp="2022-02-28T11:24:00Z" uid="15186991" user="name_translation_proxy_ukraine_refugee_crisis" changeset="117940280" lat="53.0524185" lon="16.7330997">
+    <tag k="addr:postcode" v="64-850"/>
+    <tag k="addr:city" v="Ujście"/>
+    <tag k="addr:street" v="Plac Wiosny Ludów"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="name" v="Warsztat Terapii Zajęciowej"/>
+    <tag k="operator" v="Urząd Miejski w Ujściu"/>
+    <tag k="start_date" v="2000-05-11"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="name:uk" v="Майстерня трудотерапії"/>
+    <tag k="phone" v="+48 67 2830638"/>
+    <tag k="website" v="http://www.wtzujscie.pl/"/>
+  </node>
+  <node action='modify' id="3294298098" version="3" timestamp="2021-08-18T08:01:31Z" uid="657596" user="taxi301" changeset="109856319" lat="54.1678562" lon="15.5602748">
+    <tag k="addr:postcode" v="78-100"/>
+    <tag k="addr:city" v="Kołobrzeg"/>
+    <tag k="addr:street" v="Mazowiecka"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="name" v="Warsztaty Terapii Zajęciowej"/>
+    <tag k="operator" v="Polskie Stowarzyszenie Na Rzecz Osób Z Upośledzeniem Koło W Kołobrzegu"/>
+    <tag k="start_date" v="1997-09-16"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
+    <tag k="community_centre:for" v="disabled"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Warsztat-Terapii-Zaj%C4%99ciowej-w-Ko%C5%82obrzegu-389512561127463/"/>
+    <tag k="email" v="zk.kolobrzeg@psouu.org.pl"/>
+    <tag k="entrance" v="main"/>
+    <tag k="mobile" v="+48 533 995 792"/>
+    <tag k="phone" v="+48 94 352 53 88"/>
+    <tag k="website" v="https://psoni.kolobrzeg.eu/"/>
+  </node>
+  <node action='modify' id="3373563916" version="1" timestamp="2015-02-26T18:07:26Z" uid="278187" user="dzamper" changeset="29119715" lat="50.2964391" lon="18.7935116">
+    <tag k="addr:postcode" v="41-800"/>
+    <tag k="addr:city" v="Zabrze"/>
+    <tag k="addr:street" v="Henryka Sienkiewicza"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="name" v="Warsztaty terapii zajęciowej Caritas Diecezji Gliwickiej"/>
+    <tag k="operator" v="Stowarzyszenie &quot;Akson&quot;"/>
+    <tag k="start_date" v="2007-08-29"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="social_facility" v="workshop"/>
+    <tag k="source:amenity" v="Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023"/>
   </node>
 </osm>

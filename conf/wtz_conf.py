@@ -1,5 +1,5 @@
 from src.utils import getaddr
-from conf.helpers import wtz_get_housenumber, wtz_getstartdate, wtz_postcode
+from conf.helpers import wtz_get_housenumber, wtz_getstartdate, wtz_postcode, wtz_get_facility_for
 
 prepare = {
     "tags": {
@@ -10,6 +10,7 @@ prepare = {
         'addr:housenumber': wtz_get_housenumber,
         'name': 'Nazwa wtz',
         'operator': 'Organizator',
+        'social_facility:for': wtz_get_facility_for,
         'start_date': wtz_getstartdate
     }
 }
@@ -32,7 +33,6 @@ tags_to_delete = {
 tags_to_add = {
     'amenity': 'social_facility',
     'social_facility': 'workshop',
-    'social_facility:for': 'mental_health',
     'source:amenity': 'Baza adresowa warsztatów terapii zajęciowej - wypis na dzień 19.09.2023'
 }
 
