@@ -110,7 +110,7 @@ class GovHandler():
             id = f'-{round(random.random() * 10 ** 10)}'
             location = ''
             if '__lat' in row and '__lon' in row:
-                location = osmium.osm.Location(float(row.get("__lat")), float(row.get("__lon"))),
+                location = osmium.osm.Location(float(row.get("__lat").replace(',', '.')), float(row.get("__lon").replace(',', '.'))),
                 del row['__lat']
                 del row['__lon']
 
@@ -134,29 +134,24 @@ class GovHandler():
                 url = f'{NOMINATIM_SERVER}/search?{search}&addressdetails=1&format=json'
                 # print(url)
                 res = requests.get(url).json()
-                if res:
-                    item = osmium.osm.mutable.Node(
-                        tags=nominatim_addr(res[0]),
-                        location=osmium.osm.Location(float(res[0].get("lon")), float(res[0].get("lat"))),
-                        id=res[0].get("osm_id")
-                    )
-                    self.match.update({it_k: item})
-                else:
+                if not res:
                     search2 = nominatim_searchurl(it_v.tags, single=True)
                     url2 = f'{NOMINATIM_SERVER}/search?q={search2}&addressdetails=1&format=json'
                     res2 = requests.get(url2).json()
-                    if res2:
-                        item = osmium.osm.mutable.Node(
-                            tags=nominatim_addr(res2[0]),
-                            location=osmium.osm.Location(float(res2[0].get("lon")), float(res2[0].get("lat"))),
-                            id=res2[0].get("osm_id")
-                        )
-                        self.match.update({it_k: item})
-                    else:
-                        p.console.log('Downloading failed - can not match!')
-                        p.console.log(f'{NOMINATIM_SERVER}/ui/search.html?{urllib.parse.quote(search)}&addressdetails=1')
-                        p.console.log(f'{NOMINATIM_SERVER}/ui/search.html?q={urllib.parse.quote(search2)}&addressdetails=1')
-                        self.nomatch.append(it_k)
+                if not res2:
+                    p.console.log(f'[bold][red]Downloading failed - Addr not found! {search}')
+                    p.console.log(f'{NOMINATIM_SERVER}/ui/search.html?{urllib.parse.quote(search)}&addressdetails=1')
+                    p.console.log(f'{NOMINATIM_SERVER}/ui/search.html?q={urllib.parse.quote(search2)}&addressdetails=1')
+                    self.nomatch.append(it_k)
+                    continue
+
+                item = osmium.osm.mutable.Node(
+                    tags=nominatim_addr(res[0]),
+                    location=osmium.osm.Location(float(res[0].get("lon")), float(res[0].get("lat"))),
+                    id=res[0].get('osm_id')
+                )
+                self.match.update({it_k: item})
+                
             p.console.log('Finished processing gov data.')
 
         total = len(self.match) + len(self.nomatch)

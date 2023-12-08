@@ -78,7 +78,7 @@ for rule in config.matching:
     if isinstance(rule, str):
         if rule.split(':')[0] == 'location':
             max_dist = int(rule.split(':')[1])
-            output = distance_m(gov.match, osm.all, osm.match, max_dist)
+            output = distance_m(gov.all, gov.match, osm.all, osm.match, max_dist)
             mapping['osm'].update(output.get('osm'))
             mapping['gov'].update(output.get('gov'))
         else:
@@ -90,7 +90,7 @@ for rule in config.matching:
     else:
         raise NotImplementedError(f'rule {rule} not supported!')
     
-    new = sum(filter(lambda x: x == 1, [len(x) for x in mapping['gov'].values()]))
+    new = sum(filter(lambda x: x == 1, [len(x) for x in output['gov'].values()]))
     console.log(f'Found {new} new matches for gov data')
 
 new_writer = osmium.SimpleWriter(f'output/{args.name}_cooperative.osm')

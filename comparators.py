@@ -7,14 +7,23 @@ def match_latlon(latlon1, latlon2, limit=100):
         return False
     return True
 
-def distance_m(gov_match, osm_all, osm_match, dist):
+def distance_m(gov_all, gov_match, osm_all, osm_match, dist):
     mapping = {
         'osm': defaultdict(list),
         'gov': defaultdict(list)
     }
 
     for g_id, g in gov_match.items():
-        latlon_g = g.location
+        latlon_g = False
+
+        if gov_all[g_id].location:
+            latlon_g = gov_all[g_id].location
+        else:
+            latlon_g = gov_match[g_id].location
+        
+        if type(latlon_g) == tuple:
+            latlon_g = latlon_g[0]
+        
         for o_id, o in osm_all.items():
             if hasattr(o, "location"):
                 latlon_o = o.location
