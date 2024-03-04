@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-03-04T22:17:07.834745Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-910255639" lat="51.0980593" lon="17.026603418898574" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Izba Administracji Skarbowej we Wrocławiu"/>
+	<tag k="name" v="Izba Administracji Skarbowej"/>
+	<tag k="addr:postcode" v="53-333"/>
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:street" v="Powstańców Śląskich"/>
+	<tag k="addr:housenumber" v="24.26"/>
+	<tag k="phone" v="+48 71 365 24 00"/>
+	<tag k="fax" v="+48 71 365 27 80"/>
+	<tag k="email" v="ias.wroclaw@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-27520083" lat="51.2607929" lon="15.559815067067273" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Bolesławcu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="59-700"/>
+	<tag k="addr:city" v="Bolesławiec"/>
+	<tag k="addr:street" v="Garncarska"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="phone" v="+48 75 646 52 00"/>
+	<tag k="fax" v="+48 75 646 52 01"/>
+	<tag k="email" v="us.boleslawiec@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-boleslawcu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-887637467" lat="50.430753949999996" lon="16.6525448258856" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Kłodzku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="57-300"/>
+	<tag k="addr:city" v="Kłodzko"/>
+	<tag k="addr:street" v="Stanisławy Walasiewiczówny"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="phone" v="+48 74 647 43 00"/>
+	<tag k="fax" v="+48 74 647 43 70"/>
+	<tag k="email" v="us.klodzko@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-klodzku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-828184034" lat="51.519346600000006" lon="17.293535708783782" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Miliczu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="56-300"/>
+	<tag k="addr:city" v="Milicz"/>
+	<tag k="addr:street" v="Składowa"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="phone" v="+48 71 380 51 00"/>
+	<tag k="fax" v="+48 71 380 51 10"/>
+	<tag k="email" v="us.milicz@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-miliczu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1031918675" lat="50.783388200000005" lon="17.06294595668394" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Strzelinie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="57-100"/>
+	<tag k="addr:city" v="Strzelin"/>
+	<tag k="addr:street" v="Bolka I Świdnickiego"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="phone" v="+48 71 392 72 86"/>
+	<tag k="fax" v="+48 71 392 72 88"/>
+	<tag k="email" v="us.strzelin@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-strzelinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-6708567" lat="51.161676850000006" lon="16.60402365400273" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Środzie Śląskiej"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="55-300"/>
+	<tag k="addr:city" v="Środa Śląska"/>
+	<tag k="addr:street" v="Oławska"/>
+	<tag k="addr:housenumber" v="5A"/>
+	<tag k="phone" v="+48 71 757 25 00"/>
+	<tag k="fax" v="+48 71 757 25 04"/>
+	<tag k="email" v="us.sroda_slaska@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-srodzie-slaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-960399884" lat="50.8378159" lon="16.4678426" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Świdnicy"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="58-100"/>
+	<tag k="addr:city" v="Świdnica"/>
+	<tag k="addr:street" v="Marii Skłodowskiej-Curie"/>
+	<tag k="addr:housenumber" v="1-3"/>
+	<tag k="phone" v="+48 74 856 14 00"/>
+	<tag k="fax" v="+48 74 856 14 90"/>
+	<tag k="email" v="us.swidnica@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-swidnicy"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-44145509" lat="50.59722825" lon="16.81452976645507" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Ząbkowicach Śląskich"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="57-200"/>
+	<tag k="addr:city" v="Ząbkowice Śląskie"/>
+	<tag k="addr:street" v="Ludwika Waryńskiego"/>
+	<tag k="addr:housenumber" v="2A"/>
+	<tag k="phone" v="+48 74 815 13 82"/>
+	<tag k="fax" v="+48 74 815 52 94"/>
+	<tag k="email" v="us.zabkowice_slaskie@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-zabkowicach-slaskich"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-515009400" lat="51.1239586" lon="15.915966324778953" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Złotoryi"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="59-500"/>
+	<tag k="addr:city" v="Złotoryja"/>
+	<tag k="addr:street" v="Rynek"/>
+	<tag k="addr:housenumber" v="42"/>
+	<tag k="phone" v="+48 76 878 35 09"/>
+	<tag k="fax" v="+48 76 878 32 28"/>
+	<tag k="email" v="us.zlotoryja@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/urzad-skarbowy-w-zlotoryi"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-653367903" lat="51.1145421" lon="16.9994024" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Dolnośląski Urząd Celno-Skarbowy we Wrocławiu"/>
+	<tag k="name" v="Dolnośląski Urząd Celno-Skarbowy"/>
+	<tag k="addr:postcode" v="53-613"/>
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:street" v="Stacyjna"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="phone" v="+48 71 355 75 00"/>
+	<tag k="fax" v="+48 71 355 33 06"/>
+	<tag k="email" v="wroclaw.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/dolnoslaski-urzad-celno-skarbowy-we-wroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-728869967" lat="51.0708339" lon="16.96236" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny I we Wrocławiu"/>
+	<tag k="name" v="Oddział Celny I"/>
+	<tag k="addr:postcode" v="52-437"/>
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:street" v="Karmelkowa"/>
+	<tag k="addr:housenumber" v="31"/>
+	<tag k="phone" v="+48 71 798 61 60"/>
+	<tag k="fax" v="+48 71 798 61 69"/>
+	<tag k="email" v="OC451010@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/dolnoslaski-urzad-celno-skarbowy-we-wroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-313465507" lat="51.1072197" lon="16.885580079704958" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Towarowy Port Lotniczy Wrocław-Strachowice"/>
+	<tag k="name" v="Oddział Celny Towarowy Port Lotniczy Wrocław-Strachowice"/>
+	<tag k="addr:postcode" v="54-530"/>
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:street" v="Zarembowicza"/>
+	<tag k="addr:housenumber" v="40"/>
+	<tag k="phone" v="+48 71 725 41 40"/>
+	<tag k="fax" v="+48 71 373 68 58"/>
+	<tag k="email" v="OC451030@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/dolnoslaski-urzad-celno-skarbowy-we-wroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-340051519" lat="51.109483" lon="16.8806884" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Osobowy Port Lotniczy Wrocław-Strachowice"/>
+	<tag k="name" v="Oddział Celny Osobowy Port Lotniczy Wrocław-Strachowice"/>
+	<tag k="addr:postcode" v="54-530"/>
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:street" v="Graniczna"/>
+	<tag k="addr:housenumber" v="190"/>
+	<tag k="phone" v="+48 71 725 50 22"/>
+	<tag k="fax" v="+48 71 725 34 34"/>
+	<tag k="email" v="OC451040@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/dolnoslaski-urzad-celno-skarbowy-we-wroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-640015147" lat="51.242160299999995" lon="16.214590730190363" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Legnicy"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="59-220"/>
+	<tag k="addr:city" v="Legnica"/>
+	<tag k="addr:street" v="Pątnowska"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="fax" v="+48 76 862 83 37"/>
+	<tag k="email" v="UCS.452000@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/dolnoslaski-urzad-celno-skarbowy-we-wroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-627322507" lat="50.81595915" lon="16.2882671" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Wałbrzychu"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="58-306"/>
+	<tag k="addr:city" v="Wałbrzych"/>
+	<tag k="addr:street" v="Ogrodowa"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="phone" v="+48 74 846 86 61"/>
+	<tag k="fax" v="+48 74 846 62 06"/>
+	<tag k="email" v="UCS.454000@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/dolnoslaski-urzad-celno-skarbowy-we-wroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-101724485" lat="50.7811386" lon="16.2657709" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Wałbrzychu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="58-304"/>
+	<tag k="addr:city" v="Wałbrzych"/>
+	<tag k="addr:street" v="Ludowa"/>
+	<tag k="addr:housenumber" v="63"/>
+	<tag k="email" v="OC454010@mf.gov.pl"/>
+	<tag k="website" v="https://www.dolnoslaskie.kas.gov.pl/dolnoslaski-urzad-celno-skarbowy-we-wroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1025313093" lat="53.0426422" lon="18.6256608" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Izba Administracji Skarbowej w Bydgoszczy"/>
+	<tag k="name" v="Izba Administracji Skarbowej"/>
+	<tag k="addr:postcode" v="85-950"/>
+	<tag k="addr:city" v="Bydgoszcz"/>
+	<tag k="addr:street" v="Dr. Emila Warmińskiego"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="phone" v="+48 52 585 61 00"/>
+	<tag k="fax" v="+48 52 585 61 14"/>
+	<tag k="email" v="ias.bydgoszcz@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-925938040" lat="52.7896672" lon="18.2516411" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Inowrocławiu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="88-100"/>
+	<tag k="addr:city" v="Inowrocław"/>
+	<tag k="addr:street" v="al. Niepodległości"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="phone" v="+48 52 587 60 00"/>
+	<tag k="fax" v="+48 52 587 60 01"/>
+	<tag k="email" v="us.inowroclaw@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-inowroclawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-75164514" lat="53.0430324" lon="18.6256447" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy w Toruniu"/>
+	<tag k="name" v="Drugi Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="addr:city" v="Toruń"/>
+	<tag k="addr:street" v="Mazowiecka"/>
+	<tag k="addr:housenumber" v="63"/>
+	<tag k="fax" v="+48 56 664 78 20"/>
+	<tag k="email" v="2us.torun@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/drugi-urzad-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-628864137" lat="52.6562127" lon="19.0602124" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy we Włocławku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="87-800"/>
+	<tag k="addr:city" v="Włocławek"/>
+	<tag k="addr:street" v="Stefana Okrzei"/>
+	<tag k="addr:housenumber" v="72B"/>
+	<tag k="phone" v="+48 54 423 21 00"/>
+	<tag k="fax" v="+48 54 423 21 50"/>
+	<tag k="email" v="us.wloclawek@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-we-wloclawku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1020379951" lat="53.0300159" lon="18.6185153" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Kujawsko-Pomorski Urząd Celno-Skarbowy w Toruniu"/>
+	<tag k="name" v="Kujawsko-Pomorski Urząd Celno-Skarbowy"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="addr:city" v="Toruń"/>
+	<tag k="addr:street" v="Batorego"/>
+	<tag k="addr:housenumber" v="61"/>
+	<tag k="fax" v="+48 56 619 77 27"/>
+	<tag k="email" v="kujawsko-pomorski.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/kujawsko-pomorski-urzad-celno-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-286654095" lat="53.095506" lon="18.010520422976683" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny II w Bydgoszczy"/>
+	<tag k="name" v="Oddział Celny II"/>
+	<tag k="addr:postcode" v="85-152"/>
+	<tag k="addr:city" v="Bydgoszcz"/>
+	<tag k="addr:street" v="Daleka"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="phone" v="+48 52 320 58 00"/>
+	<tag k="fax" v="+48 52 320 58 50"/>
+	<tag k="email" v="pl431020@mf.gv.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/kujawsko-pomorski-urzad-celno-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-904953773" lat="52.7899163" lon="18.2516368" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Inowrocławiu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="88-100"/>
+	<tag k="addr:city" v="Inowrocław"/>
+	<tag k="addr:street" v="Aleja Niepodległości"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="phone" v="+48 52 587 61 19"/>
+	<tag k="fax" v="+48 52 587 60 45"/>
+	<tag k="email" v="pl431030@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/kujawsko-pomorski-urzad-celno-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-511142160" lat="53.0298348" lon="18.6182375" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Toruniu"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="addr:city" v="Toruń"/>
+	<tag k="addr:street" v="Batorego"/>
+	<tag k="addr:housenumber" v="61"/>
+	<tag k="phone" v="+48 56 619 76 02"/>
+	<tag k="fax" v="+48 56 619 77 27"/>
+	<tag k="email" v="ucsd.432000@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/kujawsko-pomorski-urzad-celno-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-193613420" lat="53.02989145" lon="18.618712292764453" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Toruniu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="addr:city" v="Toruń"/>
+	<tag k="addr:street" v="Batorego"/>
+	<tag k="addr:housenumber" v="61"/>
+	<tag k="fax" v="+48 56 619 77 30"/>
+	<tag k="email" v="pl432010@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/kujawsko-pomorski-urzad-celno-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1067577087" lat="52.6564057" lon="19.0604805" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny we Włocławku"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="87-800"/>
+	<tag k="addr:city" v="Włocławek"/>
+	<tag k="addr:street" v="Okrzei"/>
+	<tag k="addr:housenumber" v="72B"/>
+	<tag k="fax" v="+48 54 423 21 50"/>
+	<tag k="email" v="pl432030@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/kujawsko-pomorski-urzad-celno-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-251004378" lat="53.41440795" lon="18.72864620705853" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Grudziądzu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="86-302"/>
+	<tag k="addr:city" v="Biały Bór, Grudziądz 4"/>
+	<tag k="addr:street" v="-"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 56 450 77 30"/>
+	<tag k="email" v="pl432040@mf.gov.pl"/>
+	<tag k="website" v="https://www.kujawsko-pomorskie.kas.gov.pl/kujawsko-pomorski-urzad-celno-skarbowy-w-toruniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1012760096" lat="51.2636475" lon="22.55635427789104" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Izba Administracji Skarbowej w Lublinie"/>
+	<tag k="name" v="Izba Administracji Skarbowej"/>
+	<tag k="addr:postcode" v="20-883"/>
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:street" v="Tadeusza Szeligowskiego"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="phone" v="+48 81 452 23 00"/>
+	<tag k="fax" v="+48 81 452 23 06"/>
+	<tag k="email" v="sekretariat.ias.lublin@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-336030149" lat="51.2637022" lon="22.55683248635031" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy w Lublinie"/>
+	<tag k="name" v="Drugi Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="20-883"/>
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:street" v="Tadeusza Szeligowskiego"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="phone" v="+48 81 452 24 00"/>
+	<tag k="fax" v="+48 81 452 24 04"/>
+	<tag k="email" v="sekretariat.2us.lublin@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-295330703" lat="52.0462986" lon="23.1485884" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Białej Podlaskiej"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="21-500"/>
+	<tag k="addr:city" v="Biała Podlaska"/>
+	<tag k="addr:street" v="Celników Polskich"/>
+	<tag k="addr:housenumber" v="23"/>
+	<tag k="fax" v="+48 83 342 76 79"/>
+	<tag k="email" v="sekretariat.ucs.301000@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-912734389" lat="52.0462986" lon="23.1485884" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Białej Podlaskiej"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="21-500"/>
+	<tag k="addr:city" v="Biała Podlaska"/>
+	<tag k="addr:street" v="Celników Polskich"/>
+	<tag k="addr:housenumber" v="23"/>
+	<tag k="email" v="sekretariat.oc.301010@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-114786440" lat="52.0456329" lon="23.5637941" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Małaszewiczach"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="21-540"/>
+	<tag k="addr:city" v="Małaszewicze"/>
+	<tag k="addr:street" v="Słoneczna , Kobylany"/>
+	<tag k="addr:housenumber" v="152"/>
+	<tag k="phone" v="+48 83 376 12 40"/>
+	<tag k="fax" v="+48 83 376 12 54"/>
+	<tag k="email" v="sekretariat.oc.301020@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-122944079" lat="52.0762144" lon="23.51596475355843" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Koroszczynie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="21-550"/>
+	<tag k="addr:city" v="Koroszczyn"/>
+	<tag k="addr:street" v="Terminal Samochodowy w Koroszczynie"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="phone" v="+48 83 376 40 00"/>
+	<tag k="fax" v="+48 83 376 41 44"/>
+	<tag k="email" v="sekretariat.oc.301040@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-118156253" lat="52.0743321" lon="23.601254" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Drogowy w Terespolu"/>
+	<tag k="name" v="Oddział Celny Drogowy"/>
+	<tag k="addr:postcode" v="21-550"/>
+	<tag k="addr:city" v="Terespol"/>
+	<tag k="addr:street" v="Drogowe przejście graniczne w Terespolu"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 83 353 44 52"/>
+	<tag k="email" v="sekretariat.oc.301060@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1013601714" lat="51.7635674" lon="23.5555236" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Sławatyczach"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="21-515"/>
+	<tag k="addr:city" v="Sławatycze"/>
+	<tag k="addr:street" v="Drogowe przejście graniczne w Sławatyczach"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 83 341 45 05"/>
+	<tag k="email" v="sekretariat.oc.301070@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-575080833" lat="51.2083154" lon="22.5510575" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Lublinie"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="20-468"/>
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:street" v="Energetyków"/>
+	<tag k="addr:housenumber" v="20-22"/>
+	<tag k="phone" v="+48 81 748 42 30"/>
+	<tag k="fax" v="+48 81 748 43 24"/>
+	<tag k="email" v="sekretariat.ucs.302000@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-934222424" lat="51.208221" lon="22.5507626" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Lublinie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="20-468"/>
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:street" v="Energetyków"/>
+	<tag k="addr:housenumber" v="20-22"/>
+	<tag k="phone" v="+48 81 748 42 74"/>
+	<tag k="fax" v="+48 81 748 43 19"/>
+	<tag k="email" v="sekretariat.oc.302010@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-296472510" lat="51.1608274" lon="23.803447" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Drogowy w Dorohusku"/>
+	<tag k="name" v="Oddział Celny Drogowy"/>
+	<tag k="addr:postcode" v="22-175"/>
+	<tag k="addr:city" v="Dorohusk"/>
+	<tag k="addr:street" v="Drogowe przejście graniczne"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 82 577 57 22"/>
+	<tag k="email" v="sekretariat.oc.302060@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-635627078" lat="51.1120115" lon="21.8035857" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Pocztowy w Lublinie"/>
+	<tag k="name" v="Oddział Celny Pocztowy"/>
+	<tag k="addr:postcode" v="20-900"/>
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:street" v="Wacława Moritza"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="phone" v="+48 81 748 43 36"/>
+	<tag k="fax" v="+48 81 748 43 37"/>
+	<tag k="email" v="sekretariat.oc.302080@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-422201739" lat="50.7170854" lon="23.2525711" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Zamościu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="22-400"/>
+	<tag k="addr:city" v="Zamość"/>
+	<tag k="addr:street" v="Stefowa"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="phone" v="+48 84 696 61 00"/>
+	<tag k="fax" v="+48 84 696 61 06"/>
+	<tag k="email" v="sekretariat.oc.303010@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-602165879" lat="50.2829015" lon="23.5797971" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Hrebennem"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="22-681"/>
+	<tag k="addr:city" v="Hrebenne"/>
+	<tag k="addr:street" v="Drogowe przejście graniczne"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 84 677 62 71"/>
+	<tag k="email" v="sekretariat.oc.303020@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-858729873" lat="50.8586225" lon="24.1120246" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Zosinie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="22-523"/>
+	<tag k="addr:city" v="Zosin"/>
+	<tag k="addr:street" v="Drogowe przejście graniczne"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 84 683 67 06"/>
+	<tag k="email" v="sekretariat.oc.303040@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-546671769" lat="50.5867411" lon="24.0348579" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Dołhobyczowie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="22-540"/>
+	<tag k="addr:city" v="Dołhobyczów"/>
+	<tag k="addr:street" v="Drogowe przejście graniczne"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="email" v="sekretariat.oc.303091@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubelskie.kas.gov.pl/lubelski-urzad-celno-skarbowy-w-bialej-podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-843997322" lat="52.75236645" lon="15.232008653535786" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Gorzowie Wielkopolskim"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="66-400"/>
+	<tag k="addr:city" v="Gorzów Wielkopolski"/>
+	<tag k="addr:street" v="Kazimierza Jagiellończyka"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="phone" v="+48 95 711 57 42"/>
+	<tag k="fax" v="+48 95 711 59 05"/>
+	<tag k="email" v="us.gorzowwielkopolski@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-682355245" lat="51.9408642" lon="15.5101469" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Pierwszy Urząd Skarbowy w Zielonej Górze"/>
+	<tag k="name" v="Pierwszy Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="65-054"/>
+	<tag k="addr:city" v="Zielona Góra"/>
+	<tag k="addr:street" v="Dr. Pieniężnego"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="phone" v="+48 68 456 01 00"/>
+	<tag k="fax" v="+48 68 456 01 01"/>
+	<tag k="email" v="1us.zielonagora@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-244249361" lat="51.9407477" lon="15.5102633" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy w Zielonej Górze"/>
+	<tag k="name" v="Drugi Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="65-054"/>
+	<tag k="addr:city" v="Zielona Góra"/>
+	<tag k="addr:street" v="Dr. Pieniężnego"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="phone" v="+48 68 456 02 00"/>
+	<tag k="fax" v="+48 68 456 02 01"/>
+	<tag k="email" v="2us.zielonagora@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubuskie.kas.gov.pl/drugi-urzad-skarbowy-w-zielonej-gorze"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-796128973" lat="51.9630136" lon="15.540581520487567" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Zielonej Górze"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="65-127"/>
+	<tag k="addr:city" v="Zielona Góra"/>
+	<tag k="addr:street" v="Kostrzyńska"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="fax" v="+48 68 322 92 33"/>
+	<tag k="email" v="oc-3.ucs.411010@mf.gov.pl"/>
+	<tag k="website" v="https://www.lubuskie.kas.gov.pl/lubuski-urzad-celno-skarbowy-w-gorzowie-wielkopolskim"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+
+<node id="-550689795" lat="51.9481246" lon="19.7283209" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Głownie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="95-015"/>
+	<tag k="addr:city" v="Głowno"/>
+	<tag k="addr:street" v="Ludwika Norblina"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="phone" v="+48 42 719 19 81"/>
+	<tag k="email" v="us.glowno@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/urzad-skarbowy-w-glownie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-439662304" lat="52.115198199999995" lon="19.950752364450672" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Łowiczu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="99-400"/>
+	<tag k="addr:city" v="Łowicz"/>
+	<tag k="addr:street" v="Józefa Chełmońskiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="phone" v="+48 46 837 80 28"/>
+	<tag k="email" v="us.lowicz@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/urzad-skarbowy-w-lowiczu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1006076033" lat="51.81019235" lon="19.3893480329839" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy Łódź - Bałuty"/>
+	<tag k="name" v="Drugi Urząd Skarbowy Łódź - Bałuty"/>
+	<tag k="addr:postcode" v="91-222"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Św. Teresy od Dzieciątka Jezus"/>
+	<tag k="addr:housenumber" v="105"/>
+	<tag k="phone" v="+48 42 253 40 00"/>
+	<tag k="fax" v="+48 42 253 42 50"/>
+	<tag k="email" v="2us.lodz.baluty@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/drugi-urzad-skarbowy-lodz-baluty"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-267433645" lat="51.7434858" lon="19.4546569" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Pierwszy Urząd Skarbowy Łódź - Górna"/>
+	<tag k="name" v="Pierwszy Urząd Skarbowy Łódź - Górna"/>
+	<tag k="addr:postcode" v="93-578"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Walerego Wróblewskiego"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="phone" v="+48 42 258 81 00"/>
+	<tag k="email" v="1us.lodz.gorna@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/pierwszy-urzad-skarbowy-lodz-gorna"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-5463610" lat="51.7440415" lon="19.4541922" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy Łódź - Górna"/>
+	<tag k="name" v="Drugi Urząd Skarbowy Łódź - Górna"/>
+	<tag k="addr:postcode" v="93-578"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Walerego Wróblewskiego"/>
+	<tag k="addr:housenumber" v="10A"/>
+	<tag k="phone" v="+48 42 258 82 00"/>
+	<tag k="fax" v="+48 42 258 82 83"/>
+	<tag k="email" v="2us.lodz.gorna@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/drugi-urzad-skarbowy-lodz-gorna"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-574707653" lat="51.765053800000004" lon="19.468724885010538" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy Łódź - Śródmieście"/>
+	<tag k="name" v="Urząd Skarbowy Łódź - Śródmieście"/>
+	<tag k="addr:postcode" v="90-019"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Dowborczyków"/>
+	<tag k="addr:housenumber" v="9/11"/>
+	<tag k="phone" v="+48 42 253 06 00"/>
+	<tag k="fax" v="+48 42 253 07 01"/>
+	<tag k="email" v="us.lodz.srodmiescie@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/urzad-skarbowy-lodz-srodmiescie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-768663701" lat="51.3763801" lon="20.28347015" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Opocznie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="26-300"/>
+	<tag k="addr:city" v="Opoczno"/>
+	<tag k="addr:street" v="Piotrkowska"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="phone" v="+48 44 755 31 01"/>
+	<tag k="fax" v="+48 44 755 24 45"/>
+	<tag k="email" v="us.opoczno@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/urzad-skarbowy-w-opocznie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1014822664" lat="51.2947355" lon="18.1507473" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Wieruszowie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="98-400"/>
+	<tag k="addr:city" v="Wieruszów"/>
+	<tag k="addr:street" v="Rynek"/>
+	<tag k="addr:housenumber" v="12/13"/>
+	<tag k="phone" v="+48 62 783 19 71"/>
+	<tag k="fax" v="+48 62 783 19 78"/>
+	<tag k="email" v="us.wieruszow@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/urzad-skarbowy-w-wieruszowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-62183871" lat="51.1457818" lon="18.9995518" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Pajęcznie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="98-330"/>
+	<tag k="addr:city" v="Pajęczno"/>
+	<tag k="addr:street" v="1 Maja"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="phone" v="+48 34 311 39 60"/>
+	<tag k="fax" v="+48 34 311 33 55"/>
+	<tag k="email" v="us.pajeczno@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/urzad-skarbowy-w-pajecznie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-680017727" lat="51.4041211" lon="19.646343561456234" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Łódzki Urząd Skarbowy w Łodzi"/>
+	<tag k="name" v="Łódzki Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="90-436"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="aleja T. Kościuszki"/>
+	<tag k="addr:housenumber" v="85"/>
+	<tag k="phone" v="+48 42 253 05 00"/>
+	<tag k="fax" v="+48 42 253 05 06"/>
+	<tag k="email" v="lodzki.us@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/lodzki-urzad-skarbowy-w-lodzi"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-987438931" lat="51.7096832" lon="19.464881149636795" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny I w Łodzi"/>
+	<tag k="name" v="Oddział Celny I"/>
+	<tag k="addr:postcode" v="93-350"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Ustronna"/>
+	<tag k="addr:housenumber" v="3/9"/>
+	<tag k="phone" v="+48 42 689 79 40"/>
+	<tag k="fax" v="+48 42 645 78 63"/>
+	<tag k="email" v="sekretariat.oc.361010@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/lodzki-urzad-celno-skarbowy-w-lodzi"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-603858543" lat="51.80409995" lon="19.41934865" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny II w Łodzi"/>
+	<tag k="name" v="Oddział Celny II"/>
+	<tag k="addr:postcode" v="91-341"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Św. Teresy od Dzieciątka Jezus"/>
+	<tag k="addr:housenumber" v="106"/>
+	<tag k="phone" v="+48 42 616 25 24"/>
+	<tag k="fax" v="+48 42 616 25 35"/>
+	<tag k="email" v="oc-3.ucs.362000@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/lodzki-urzad-celno-skarbowy-w-lodzi"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-513881026" lat="51.7272811" lon="19.403363928766467" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Port Lotniczy Łódź-Lublinek"/>
+	<tag k="name" v="Oddział Celny Port Lotniczy Łódź-Lublinek"/>
+	<tag k="addr:postcode" v="94-328"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Gen. Stanisława Maczka"/>
+	<tag k="addr:housenumber" v="35"/>
+	<tag k="phone" v="+48 42 253 14 19"/>
+	<tag k="fax" v="+48 42 253 14 18"/>
+	<tag k="email" v="lotnisko.oc.362040@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/lodzki-urzad-celno-skarbowy-w-lodzi"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-861748827" lat="51.4041211" lon="19.646343561456234" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Piotrkowie Trybunalskim"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="97-300"/>
+	<tag k="addr:city" v="Piotrków Trybunalski"/>
+	<tag k="addr:street" v="Dworska"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="phone" v="+48 44 649 32 47"/>
+	<tag k="fax" v="+48 44 649 32 70"/>
+	<tag k="email" v="sekretariat.oc.363010@mf.gov.pl"/>
+	<tag k="website" v="https://www.lodzkie.kas.gov.pl/lodzki-urzad-celno-skarbowy-w-lodzi"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-207557487" lat="51.39107385" lon="19.6592482" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura Krajowej Informacji Skarbowej w Piotrkowie Trybunalskim"/>
+	<tag k="name" v="Delegatura Krajowej Informacji Skarbowej"/>
+	<tag k="addr:postcode" v="97-300"/>
+	<tag k="addr:city" v="Piotrków Trybunalski"/>
+	<tag k="addr:street" v="Wronia"/>
+	<tag k="addr:housenumber" v="65"/>
+	<tag k="phone" v="+48 44 645 01 51"/>
+	<tag k="email" v="kis.piotrkow-trybunalski@mf.gov.pl"/>
+	<tag k="website" v="https://www.kis.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-805274097" lat="50.0843379" lon="19.93147" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy Kraków - Krowodrza"/>
+	<tag k="name" v="Urząd Skarbowy Kraków - Krowodrza"/>
+	<tag k="addr:postcode" v="30-016"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Władysława Łokietka"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="phone" v="+48 12 299 21 00"/>
+	<tag k="fax" v="+48 12 665 61 36"/>
+	<tag k="email" v="us.krakow.krowodrza@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/urzad-skarbowy-krakow-krowodrza"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-882363986" lat="50.08492885" lon="19.931430599115654" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy Kraków - Śródmieście"/>
+	<tag k="name" v="Urząd Skarbowy Kraków - Śródmieście"/>
+	<tag k="addr:postcode" v="31-272"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Krowoderskich Zuchów"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="phone" v="+48 12 665 62 00"/>
+	<tag k="fax" v="+48 12 634 34 24"/>
+	<tag k="email" v="us.krakow.srodmiescie@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/urzad-skarbowy-krakow-srodmiescie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-172730575" lat="50.084763" lon="19.9314325" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy Kraków"/>
+	<tag k="name" v="Drugi Urząd Skarbowy Kraków"/>
+	<tag k="addr:postcode" v="31-272"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Krowoderskich Zuchów"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="phone" v="+48 12 665 63 00"/>
+	<tag k="fax" v="+48 12 631 54 50"/>
+	<tag k="email" v="2us.krakow@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/drugi-urzad-skarbowy-krakow"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-48186049" lat="50.1044526" lon="20.011668756330685" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Małopolski Urząd Skarbowy w Krakowie"/>
+	<tag k="name" v="Małopolski Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="31-621"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="os. Bohaterów Września"/>
+	<tag k="addr:housenumber" v="80"/>
+	<tag k="phone" v="+48 12 681 70 00"/>
+	<tag k="fax" v="+48 12 647 70 56"/>
+	<tag k="email" v="malopolski.us@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/malopolski-urzad-skarbowy-w-krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-315196670" lat="50.093225450000006" lon="19.919358668652926" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Małopolski Urząd Celno-Skarbowy w Krakowie"/>
+	<tag k="name" v="Małopolski Urząd Celno-Skarbowy"/>
+	<tag k="addr:postcode" v="31-223"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Pachońskiego"/>
+	<tag k="addr:housenumber" v="3A"/>
+	<tag k="phone" v="+48 12 350 76 00"/>
+	<tag k="fax" v="+48 12 350 75 25"/>
+	<tag k="email" v="malopolskie.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/malopolski-urzad-celno-skarbowy-w-krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-732346972" lat="50.032297400000004" lon="20.05858510154333" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Krakowie"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="30-741"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Nad Drwiną"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="phone" v="+48 12 627 60 00"/>
+	<tag k="fax" v="+48 12 627 60 57"/>
+	<tag k="email" v="malopolskie.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/malopolski-urzad-celno-skarbowy-w-krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-826776002" lat="50.0322044" lon="20.0585757" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny II w Krakowie"/>
+	<tag k="name" v="Oddział Celny II"/>
+	<tag k="addr:postcode" v="30-741"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Nad Drwiną"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="email" v="oc.krakow.malopolskie.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/malopolski-urzad-celno-skarbowy-w-krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-201358203" lat="48.68938555" lon="20.206245997880906" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Chyżnem"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="34-481"/>
+	<tag k="addr:city" v="Chyżne"/>
+	<tag k="addr:street" v="Chyżne"/>
+	<tag k="addr:housenumber" v="297"/>
+	<tag k="fax" v="+48 18 266 28 35"/>
+	<tag k="email" v="oc.chyzne.malopolskie.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/malopolski-urzad-celno-skarbowy-w-krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-821638772" lat="49.5974638" lon="20.7294091" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Nowym Sączu"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="33-300"/>
+	<tag k="addr:city" v="Nowy Sącz"/>
+	<tag k="addr:street" v="Józefa Piłsudskiego"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="phone" v="+48 18 449 53 00"/>
+	<tag k="fax" v="+48 18 449 53 17"/>
+	<tag k="email" v="delegatura.nowy-sacz.malopolskie.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/malopolski-urzad-celno-skarbowy-w-krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-783333841" lat="49.5974638" lon="20.7294091" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Nowym Sączu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="33-300"/>
+	<tag k="addr:city" v="Nowy Sącz"/>
+	<tag k="addr:street" v="Józefa Piłsudskiego"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="phone" v="+48 18 449 53 32"/>
+	<tag k="fax" v="+48 18 449 53 36"/>
+	<tag k="email" v="oc.nowy-sacz.malopolskie.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.malopolskie.kas.gov.pl/malopolski-urzad-celno-skarbowy-w-krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-995661058" lat="52.877390500000004" lon="20.617636170166755" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Ciechanowie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="06-400"/>
+	<tag k="addr:city" v="Ciechanów"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="58"/>
+	<tag k="phone" v="+48 23 674 19 00"/>
+	<tag k="fax" v="+48 23 674 19 03"/>
+	<tag k="email" v="us.ciechanow@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-ciechanowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-958596801" lat="51.89591225" lon="21.6122888" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Garwolinie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="08-400"/>
+	<tag k="addr:city" v="Garwolin"/>
+	<tag k="addr:street" v="Senatorska"/>
+	<tag k="addr:housenumber" v="30"/>
+	<tag k="fax" v="+48 25 682 38 28"/>
+	<tag k="email" v="us.garwolin@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-garwolinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-513398908" lat="52.8673393" lon="21.096338997984176" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Makowie Mazowieckim"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="06-200"/>
+	<tag k="addr:city" v="Maków Mazowiecki"/>
+	<tag k="addr:street" v="Kopernika"/>
+	<tag k="addr:housenumber" v="6C"/>
+	<tag k="phone" v="+48 29 765 07 00"/>
+	<tag k="fax" v="+48 29 717 49 74"/>
+	<tag k="email" v="us.makow-mazowiecki@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-makowie-mazowieckim"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-93418467" lat="52.5471136" lon="19.697830542191078" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Płocku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="09-402"/>
+	<tag k="addr:city" v="Płock"/>
+	<tag k="addr:street" v="1 Maja"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="phone" v="+48 24 361 65 00"/>
+	<tag k="fax" v="+48 24 361 65 45"/>
+	<tag k="email" v="us.plock@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-plocku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-281675539" lat="53.027540900000005" lon="20.89230734770893" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Przasnyszu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="06-300"/>
+	<tag k="addr:city" v="Przasnysz"/>
+	<tag k="addr:street" v="Świerkowa"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="phone" v="+48 29 752 26 62"/>
+	<tag k="email" v="us.przasnysz@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-przasnyszu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-416470406" lat="51.4135761" lon="21.1766534" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Pierwszy Urząd Skarbowy w Radomiu"/>
+	<tag k="name" v="Pierwszy Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="26-615"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:street" v="Stanisława Zbrowskiego"/>
+	<tag k="addr:housenumber" v="106"/>
+	<tag k="email" v="1us.radom@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-144019343" lat="52.40697615" lon="22.216321936530058" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Sokołowie Podlaskim"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="08-300"/>
+	<tag k="addr:city" v="Sokołów Podlaski"/>
+	<tag k="addr:street" v="Węgrowska"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="email" v="us.sokolow-podlaski@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-sokolowie-podlaskim"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-457432535" lat="52.2514529" lon="21.0348607" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy Warszawa - Praga"/>
+	<tag k="name" v="Urząd Skarbowy Warszawa - Praga"/>
+	<tag k="addr:postcode" v="03-719"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Jagiellońska"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="fax" v="+48 22 509 19 90"/>
+	<tag k="email" v="us.warszawa.praga@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-praga"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-358461392" lat="52.2256478" lon="20.9971631" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Pierwszy Urząd Skarbowy Warszawa - Śródmieście"/>
+	<tag k="name" v="Pierwszy Urząd Skarbowy Warszawa - Śródmieście"/>
+	<tag k="addr:postcode" v="02-013"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Williama Lindleya"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="email" v="1us.warszawa.srodmiescie@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-warszawa-srodmiescie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-170913756" lat="52.2512584" lon="21.0349465" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy Warszawa - Śródmieście"/>
+	<tag k="name" v="Drugi Urząd Skarbowy Warszawa - Śródmieście"/>
+	<tag k="addr:postcode" v="03-719"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Jagiellońska"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="phone" v="+48 22 511 35 01"/>
+	<tag k="fax" v="+48 22 511 35 02"/>
+	<tag k="email" v="2us.warszawa.srodmiescie@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/drugi-urzad-skarbowy-warszawa-srodmiescie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-106757310" lat="52.22273195" lon="20.918224153687124" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy Warszawa - Wola"/>
+	<tag k="name" v="Urząd Skarbowy Warszawa - Wola"/>
+	<tag k="addr:postcode" v="01-381"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Powstańców Śląskich"/>
+	<tag k="addr:housenumber" v="2D"/>
+	<tag k="phone" v="+48 22 533 66 00"/>
+	<tag k="fax" v="+48 22 533 66 15"/>
+	<tag k="email" v="us.warszawa.wola@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-wola"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-612092272" lat="51.3614642" lon="20.6338724" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Przysusze"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="26-400"/>
+	<tag k="addr:city" v="Przysucha"/>
+	<tag k="addr:street" v="Szkolna"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="email" v="us.przysucha@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-przysusze"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-634961590" lat="52.2255857" lon="20.9966834" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Trzeci Urząd Skarbowy Warszawa - Śródmieście"/>
+	<tag k="name" v="Trzeci Urząd Skarbowy Warszawa - Śródmieście"/>
+	<tag k="addr:postcode" v="02-013"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Williama Lindleya"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="phone" v="+48 22 584 51 00"/>
+	<tag k="fax" v="+48 22 584 53 12"/>
+	<tag k="email" v="3us.warszawa.srodmiescie@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/trzeci-urzad-skarbowy-warszawa-srodmiescie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-475920895" lat="52.259742" lon="20.990698860000002" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Pierwszy Mazowiecki Urząd Skarbowy w Warszawie"/>
+	<tag k="name" v="Pierwszy Mazowiecki Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="01-513"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Alojzego Felińskiego"/>
+	<tag k="addr:housenumber" v="2A"/>
+	<tag k="fax" v="+48 22 568 93 01"/>
+	<tag k="email" v="1mazowiecki.us@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/pierwszy-mazowiecki-urzad-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-764333860" lat="51.405495349999995" lon="21.159847583648368" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Trzeci Mazowiecki Urząd Skarbowy w Radomiu"/>
+	<tag k="name" v="Trzeci Mazowiecki Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="26-610"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:street" v="Andrzeja Struga"/>
+	<tag k="addr:housenumber" v="26/28"/>
+	<tag k="email" v="3mazowiecki.us@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/trzeci-mazowiecki-urzad-skarbowy-w-radomiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-506907774" lat="52.1688813" lon="20.9734783" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Osobowy w Warszawie"/>
+	<tag k="name" v="Oddział Celny Osobowy"/>
+	<tag k="addr:postcode" v="00-906"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Żwirki i Wigury"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="fax" v="+48 22 650 22 13"/>
+	<tag k="email" v="sekretariat.443010@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-851567326" lat="52.4411765" lon="20.651416288683773" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Port Lotniczy Warszawa-Modlin"/>
+	<tag k="name" v="Oddział Celny Port Lotniczy Warszawa-Modlin"/>
+	<tag k="addr:postcode" v="05-102"/>
+	<tag k="addr:city" v="Nowy Dwór Mazowiecki"/>
+	<tag k="addr:street" v="Gen. Wiktora Thommee"/>
+	<tag k="addr:housenumber" v="1A"/>
+	<tag k="email" v="OC.443050@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-748817611" lat="52.695614" lon="16.3655487" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny I Pocztowy w Warszawie"/>
+	<tag k="name" v="Oddział Celny I Pocztowy"/>
+	<tag k="addr:postcode" v="00-900"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Łączyny"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="phone" v="+48 22 545 16 00"/>
+	<tag k="email" v="sekretariat.ucs.441010@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-955552456" lat="51.4080578" lon="21.1719402" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Radomiu"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:street" v="Struga"/>
+	<tag k="addr:housenumber" v="60"/>
+	<tag k="email" v="sekretariat.ucs.444000@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-155949076" lat="51.401747900000004" lon="21.19190833987006" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Radomiu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:street" v="Wrocławska"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="email" v="sekretariat.oc.444010@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-73499601" lat="52.16430455" lon="20.76805014846382" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny I w Pruszkowie"/>
+	<tag k="name" v="Oddział Celny I"/>
+	<tag k="addr:postcode" v="05-800"/>
+	<tag k="addr:city" v="Pruszków"/>
+	<tag k="addr:street" v="Przejazdowa"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="fax" v="+48 22 728 10 66"/>
+	<tag k="email" v="kancelaria.oc.445010@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1051565630" lat="52.2882792" lon="21.006599" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny VI w Warszawie"/>
+	<tag k="name" v="Oddział Celny VI"/>
+	<tag k="addr:postcode" v="03-215"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Jagiellońska"/>
+	<tag k="addr:housenumber" v="88"/>
+	<tag k="email" v="sekretariat.oc.442020@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-457878057" lat="52.148654" lon="22.306444" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Siedlcach"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="08-110"/>
+	<tag k="addr:city" v="Siedlce"/>
+	<tag k="addr:street" v="Brzeska"/>
+	<tag k="addr:housenumber" v="185"/>
+	<tag k="phone" v="+48 25 633 52 02"/>
+	<tag k="fax" v="+48 25 632 40 35"/>
+	<tag k="email" v="sekretariat.446010@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-633423302" lat="52.8900575" lon="20.6128028757172" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Ciechanowie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="06-400"/>
+	<tag k="addr:city" v="Ciechanów"/>
+	<tag k="addr:street" v="Gostkowska"/>
+	<tag k="addr:housenumber" v="39A"/>
+	<tag k="phone" v="+48 23 662 60 90"/>
+	<tag k="fax" v="+48 23 662 22 05"/>
+	<tag k="email" v="sekretariat.oc.447010@mf.gov.pl"/>
+	<tag k="website" v="https://www.mazowieckie.kas.gov.pl/mazowiecki-urzad-celno-skarbowy-w-warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-236497508" lat="52.5471136" lon="19.697830542191078" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura Krajowej Informacji Skarbowej w Płocku"/>
+	<tag k="name" v="Delegatura Krajowej Informacji Skarbowej"/>
+	<tag k="addr:postcode" v="09-402"/>
+	<tag k="addr:city" v="Płock"/>
+	<tag k="addr:street" v="1 Maja"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="phone" v="+48 24 361 62 63"/>
+	<tag k="email" v="kis.plock@mf.gov.pl"/>
+	<tag k="website" v="https://www.kis.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-90205898" lat="50.6702531" lon="17.9428205" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Izba Administracji Skarbowej w Opolu"/>
+	<tag k="name" v="Izba Administracji Skarbowej"/>
+	<tag k="addr:postcode" v="45-331"/>
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:street" v="płk. Witolda Pileckiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="fax" v="+48 77 456 43 13"/>
+	<tag k="email" v="sekretariat.ias.opole@mf.gov.pl; ias.opole@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-903325251" lat="50.3374211" lon="18.199405953517317" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Kędzierzynie-Koźlu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="47-224"/>
+	<tag k="addr:city" v="Kędzierzyn-Koźle"/>
+	<tag k="addr:street" v="Piotra Skargi"/>
+	<tag k="addr:housenumber" v="19"/>
+	<tag k="fax" v="+48 77 406 17 11"/>
+	<tag k="email" v="us.kedzierzyn-kozle@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-kedzierzynie-kozlu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-588079022" lat="50.97727865" lon="18.2007909599892" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Kluczborku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="46-200"/>
+	<tag k="addr:city" v="Kluczbork"/>
+	<tag k="addr:street" v="Sienkiewicza"/>
+	<tag k="addr:housenumber" v="22A"/>
+	<tag k="fax" v="+48 77 425 06 01"/>
+	<tag k="email" v="us.kluczbork@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-kluczborku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-52496436" lat="51.070986700000006" lon="17.70486073520119" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Namysłowie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="46-100"/>
+	<tag k="addr:city" v="Namysłów"/>
+	<tag k="addr:street" v="Marii Skłodowskiej-Curie"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="fax" v="+48 77 410 20 46"/>
+	<tag k="email" v="us.namyslow@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-namyslowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-565848999" lat="50.6702858" lon="17.9427586" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy w Opolu"/>
+	<tag k="name" v="Drugi Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="45-331"/>
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:street" v="płk. Witolda Pileckiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="fax" v="+48 77 442 36 41"/>
+	<tag k="email" v="2us.opole@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-890340129" lat="50.5168478" lon="18.2872188" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Strzelcach Opolskich"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="47-100"/>
+	<tag k="addr:city" v="Strzelce Opolskie"/>
+	<tag k="addr:street" v="Opolska"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="email" v="us.strzelce-opolskie@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-strzelcach-opolskich"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-497918016" lat="50.6656217" lon="17.945413301058096" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Opolski Urząd Celno-Skarbowy w Opolu"/>
+	<tag k="name" v="Opolski Urząd Celno-Skarbowy"/>
+	<tag k="addr:postcode" v="45-342"/>
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:street" v="Drzymały"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="phone" v="+48 77 401 78 00"/>
+	<tag k="fax" v="+48 77 401 79 17"/>
+	<tag k="email" v="sekretariat.ucs.388000@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/opolski-urzad-celno-skarbowy-w-opolu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-445939956" lat="50.66647825" lon="17.969769224715037" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Opolu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="45-323"/>
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:street" v="Zielonogórska"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="phone" v="+48 77 402 32 32"/>
+	<tag k="fax" v="+48 77 402 32 39"/>
+	<tag k="email" v="sekretariat.oc.381010@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/opolski-urzad-celno-skarbowy-w-opolu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-915164968" lat="50.48043375" lon="17.29882055" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Nysie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="48-300"/>
+	<tag k="addr:city" v="Nysa"/>
+	<tag k="addr:street" v="Otmuchowska"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="phone" v="+48 77 400 67 11"/>
+	<tag k="email" v="sekretariat.oc.381040@mf.gov.pl"/>
+	<tag k="website" v="https://www.opolskie.kas.gov.pl/opolski-urzad-celno-skarbowy-w-opolu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-406349661" lat="50.0110372" lon="22.67049405547082" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Jarosławiu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="37-500"/>
+	<tag k="addr:city" v="Jarosław"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="2A"/>
+	<tag k="phone" v="+48 16 624 67 55"/>
+	<tag k="fax" v="+48 16 624 67 87"/>
+	<tag k="email" v="us.jaroslaw@mf.gov.pl"/>
+	<tag k="website" v="https://www.podkarpackie.kas.gov.pl/urzad-skarbowy-w-jaroslawiu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-648181681" lat="49.786834150000004" lon="22.781911446983727" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Przemyślu"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="37-700"/>
+	<tag k="addr:city" v="Przemyśl"/>
+	<tag k="addr:street" v="Zaciszna"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="fax" v="+48 16 675 23 47"/>
+	<tag k="email" v="delegatura.przemysl.podkarpacki.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.podkarpackie.kas.gov.pl/podkarpacki-urzad-celno-skarbowy-w-przemyslu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-13847733" lat="49.8043503" lon="22.9461933" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Kolejowy Przemyśl-Medyka"/>
+	<tag k="name" v="Oddział Celny Kolejowy Przemyśl-Medyka"/>
+	<tag k="addr:postcode" v="37- 732"/>
+	<tag k="addr:city" v="Medyka"/>
+	<tag k="addr:street" v="Dworzec PKP"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 16 676 07 92"/>
+	<tag k="email" v="oc.przemysl.kolejowy@mf.gov.pl"/>
+	<tag k="website" v="https://www.podkarpackie.kas.gov.pl/podkarpacki-urzad-celno-skarbowy-w-przemyslu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-344443596" lat="50.0110899" lon="22.6710064" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Jarosławiu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="37-500"/>
+	<tag k="addr:city" v="Jarosław"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="2A"/>
+	<tag k="phone" v="+48 16 624 86 02"/>
+	<tag k="email" v="oc.jaroslaw@mf.gov.pl"/>
+	<tag k="website" v="https://www.podkarpackie.kas.gov.pl/podkarpacki-urzad-celno-skarbowy-w-przemyslu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-832545448" lat="50.0192708" lon="21.9651937" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Rzeszowie"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="35-105"/>
+	<tag k="addr:city" v="Rzeszów"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="fax" v="+48 17 862 17 50"/>
+	<tag k="email" v="delegatura.rzeszow.podkarpacki.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.podkarpackie.kas.gov.pl/podkarpacki-urzad-celno-skarbowy-w-przemyslu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-971794905" lat="50.0189063" lon="21.9648879" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Rzeszowie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="35-105"/>
+	<tag k="addr:city" v="Rzeszów"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="email" v="oc.rzeszow@mf.gov.pl"/>
+	<tag k="website" v="https://www.podkarpackie.kas.gov.pl/podkarpacki-urzad-celno-skarbowy-w-przemyslu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-798397379" lat="52.7684203" lon="23.1910706" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Bielsku Podlaskim"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="17-100"/>
+	<tag k="addr:city" v="Bielsk Podlaski"/>
+	<tag k="addr:street" v="Adama Mickiewicza"/>
+	<tag k="addr:housenumber" v="33"/>
+	<tag k="phone" v="+48 85 730 11 01"/>
+	<tag k="fax" v="+48 85 730 11 00"/>
+	<tag k="email" v="us.bielsk-podlaski@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/urzad-skarbowy-w-bielsku-podlaskim"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-136951824" lat="52.4244118" lon="22.862582546516393" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Siemiatyczach"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="17-300"/>
+	<tag k="addr:city" v="Siemiatycze"/>
+	<tag k="addr:street" v="Pałacowa"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="phone" v="+48 85 656 13 90"/>
+	<tag k="fax" v="+48 85 655 27 40"/>
+	<tag k="email" v="us.siemiatycze@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/urzad-skarbowy-w-siemiatyczach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-172517919" lat="53.4031747" lon="23.491842393486486" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Sokółce"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="16-100"/>
+	<tag k="addr:city" v="Sokółka"/>
+	<tag k="addr:street" v="Białostocka"/>
+	<tag k="addr:housenumber" v="47"/>
+	<tag k="email" v="us.sokolka@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/urzad-skarbowy-w-sokolce"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-773639609" lat="53.1210879" lon="23.119492" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Białymstoku"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="15-399"/>
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:street" v="Octowa"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="phone" v="+48 85 745 86 66"/>
+	<tag k="fax" v="+48 85 745 57 52"/>
+	<tag k="email" v="sekretariat.ucs.311000@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/podlaski-urzad-celno-skarbowy-w-bialymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-930693489" lat="53.1208281" lon="23.1198448" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Białymstoku"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="15-399"/>
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:street" v="Octowa"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="email" v="sekretariat.oc.311010@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/podlaski-urzad-celno-skarbowy-w-bialymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-301099442" lat="53.510982600000006" lon="23.642300702541434" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Kolejowy w Kuźnicy"/>
+	<tag k="name" v="Oddział Celny Kolejowy"/>
+	<tag k="addr:postcode" v="16-123"/>
+	<tag k="addr:city" v="Kuźnica"/>
+	<tag k="addr:street" v="Dworzec PKP"/>
+	<tag k="addr:housenumber" v="-"/>
+	<tag k="fax" v="+48 85 722 92 09"/>
+	<tag k="email" v="sekretariat.oc.311020@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/podlaski-urzad-celno-skarbowy-w-bialymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-484428717" lat="53.51744695" lon="23.653044479316545" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Drogowy w Kuźnicy"/>
+	<tag k="name" v="Oddział Celny Drogowy"/>
+	<tag k="addr:postcode" v="16-123"/>
+	<tag k="addr:city" v="Kuźnica"/>
+	<tag k="addr:street" v="Graniczna"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="fax" v="+48 85 748 77 70"/>
+	<tag k="email" v="sekretariat.oc.311030@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/podlaski-urzad-celno-skarbowy-w-bialymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-177708613" lat="52.90266425" lon="23.827045304289275" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Siemianówce"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="17-220"/>
+	<tag k="addr:city" v="Siemianówka"/>
+	<tag k="addr:street" v="Szkolna"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="email" v="sekretariat.oc.311050@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/podlaski-urzad-celno-skarbowy-w-bialymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-491314250" lat="52.47453" lon="23.35546" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Połowcach"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="17-240"/>
+	<tag k="addr:city" v="Czeremcha"/>
+	<tag k="addr:street" v="Połowce"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="phone" v="+48 85 685 02 97"/>
+	<tag k="fax" v="+48 85 685 02 96"/>
+	<tag k="email" v="sekretariat.oc.311060@mf.gov.pl"/>
+	<tag k="website" v="https://www.podlaskie.kas.gov.pl/podlaski-urzad-celno-skarbowy-w-bialymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-400203546" lat="54.5483296" lon="18.4666471" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy w Gdyni"/>
+	<tag k="name" v="Drugi Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="81-061"/>
+	<tag k="addr:city" v="Gdynia"/>
+	<tag k="addr:street" v="Hutnicza"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="phone" v="+48 58 765 48 00"/>
+	<tag k="fax" v="+48 58 765 49 00"/>
+	<tag k="email" v="2us.gdynia@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/drugi-urzad-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-56542695" lat="54.11934515" lon="17.96872597762274" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Kościerzynie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="83-400"/>
+	<tag k="addr:city" v="Kościerzyna"/>
+	<tag k="addr:street" v="Staszica"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="phone" v="+48 58 680 89 00"/>
+	<tag k="fax" v="+48 58 686 40 97"/>
+	<tag k="email" v="us.koscierzyna@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/urzad-skarbowy-w-koscierzynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-171373248" lat="53.73595675" lon="18.931924312045172" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Kwidzynie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="82-500"/>
+	<tag k="addr:city" v="Kwidzyn"/>
+	<tag k="addr:street" v="3 Maja"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="fax" v="+48 55 641 37 90"/>
+	<tag k="email" v="us.kwidzyn@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/urzad-skarbowy-w-kwidzynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-775608056" lat="54.03455735" lon="19.029896118065786" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Malborku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="82-200"/>
+	<tag k="addr:city" v="Malbork"/>
+	<tag k="addr:street" v="Mikołaja Kopernika"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="fax" v="+48 55 270 22 44"/>
+	<tag k="email" v="us.malbork@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/urzad-skarbowy-w-malborku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1061826128" lat="54.7148824" lon="18.4086265" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Pucku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="84-100"/>
+	<tag k="addr:city" v="Puck"/>
+	<tag k="addr:street" v="Kmdr. E. Szystowskiego"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="fax" v="+48 58 774 24 32"/>
+	<tag k="email" v="us.puck@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/urzad-skarbowy-w-pucku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-648159759" lat="54.45697135" lon="16.992322018975674" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Słupsku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="76-200"/>
+	<tag k="addr:city" v="Słupsk"/>
+	<tag k="addr:street" v="Szczecińska"/>
+	<tag k="addr:housenumber" v="59"/>
+	<tag k="phone" v="+48 59 844 73 00"/>
+	<tag k="fax" v="+48 59 844 73 17"/>
+	<tag k="email" v="us.slupsk@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/urzad-skarbowy-w-slupsku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-799383596" lat="54.603806250000005" lon="18.218539522256396" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Wejherowie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="84-200"/>
+	<tag k="addr:city" v="Wejherowo"/>
+	<tag k="addr:street" v="Jana III Sobieskiego"/>
+	<tag k="addr:housenumber" v="346"/>
+	<tag k="fax" v="+48 58 736 38 97"/>
+	<tag k="email" v="us.wejherowo@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/urzad-skarbowy-w-wejherowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-350315083" lat="54.24883695" lon="18.637465704229474" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Pruszczu Gdańskim"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="83-000"/>
+	<tag k="addr:city" v="Pruszcz Gdański"/>
+	<tag k="addr:street" v="Ignacego Łukasiewicza"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="phone" v="+48 58 773 16 25"/>
+	<tag k="fax" v="+48 58 773 16 26"/>
+	<tag k="email" v="us.pruszcz.gdanski@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/urzad-skarbowy-w-pruszczu-gdanskim"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-84440643" lat="54.5511224" lon="18.45972675911854" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Gdyni"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="81-029"/>
+	<tag k="addr:city" v="Gdynia"/>
+	<tag k="addr:street" v="Północna"/>
+	<tag k="addr:housenumber" v="9A"/>
+	<tag k="fax" v="+48 58 666 90 60"/>
+	<tag k="email" v="znd2.pomorski.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-708752799" lat="54.52937755" lon="18.52070878363768" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny „Basen V” w Gdyni"/>
+	<tag k="name" v="Oddział Celny „Basen V”"/>
+	<tag k="addr:postcode" v="81-336"/>
+	<tag k="addr:city" v="Gdynia"/>
+	<tag k="addr:street" v="Indyjska"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="fax" v="+48 58 666 76 27"/>
+	<tag k="email" v="oc.321010@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-999005998" lat="54.5508644" lon="18.4630601" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny „Basen IV” w Gdyni"/>
+	<tag k="name" v="Oddział Celny „Basen IV”"/>
+	<tag k="addr:postcode" v="81-029"/>
+	<tag k="addr:city" v="Gdynia"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="phone" v="+48 58 627 88 40"/>
+	<tag k="fax" v="+48 58 627 88 50"/>
+	<tag k="email" v="oc.321050@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-436913528" lat="54.3473921" lon="18.684055394770922" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Gdańsku"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="80-730"/>
+	<tag k="addr:city" v="Gdańsk"/>
+	<tag k="addr:street" v="Opłotki"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="phone" v="+48 58 785 45 84"/>
+	<tag k="fax" v="+48 58 785 46 09"/>
+	<tag k="email" v="znd1.pomorski.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-973221019" lat="54.3473921" lon="18.684055394770922" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny „Opłotki” w Gdańsku"/>
+	<tag k="name" v="Oddział Celny „Opłotki”"/>
+	<tag k="addr:postcode" v="80-730"/>
+	<tag k="addr:city" v="Gdańsk"/>
+	<tag k="addr:street" v="Opłotki"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="fax" v="+48 58 785 46 18"/>
+	<tag k="email" v="oc.322010@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-64138058" lat="54.3884133" lon="18.4431417" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Port Lotniczy Gdańsk-Rębiechowo"/>
+	<tag k="name" v="Oddział Celny Port Lotniczy Gdańsk-Rębiechowo"/>
+	<tag k="addr:postcode" v="80-298"/>
+	<tag k="addr:city" v="Gdańsk - Rębiechowo"/>
+	<tag k="addr:street" v="Słowackiego"/>
+	<tag k="addr:housenumber" v="200"/>
+	<tag k="fax" v="+48 58 341 72 64"/>
+	<tag k="email" v="oc.322050@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-236853409" lat="54.3675244" lon="18.6918808" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny „Terminal Kontenerowy” w Gdańsku"/>
+	<tag k="name" v="Oddział Celny „Terminal Kontenerowy”"/>
+	<tag k="addr:postcode" v="80-601"/>
+	<tag k="addr:city" v="Gdańsk"/>
+	<tag k="addr:street" v="Prof. Witolda Andruszkiewicza"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="fax" v="+48 58 796 54 02"/>
+	<tag k="email" v="oc.322080@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-661957430" lat="54.2608539" lon="18.6461908" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Pocztowy w Pruszczu Gdańskim"/>
+	<tag k="name" v="Oddział Celny Pocztowy"/>
+	<tag k="addr:postcode" v="83-900"/>
+	<tag k="addr:city" v="Pruszcz Gdański"/>
+	<tag k="addr:street" v="Handlowa"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="fax" v="+48 58 692 55 50"/>
+	<tag k="email" v="oc.322090@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-322679131" lat="54.4841371" lon="17.0158037" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Słupsku"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="76-200"/>
+	<tag k="addr:city" v="Słupsk"/>
+	<tag k="addr:street" v="Portowa"/>
+	<tag k="addr:housenumber" v="13B"/>
+	<tag k="phone" v="+48 58 774 08 30"/>
+	<tag k="fax" v="+48 58 774 08 17"/>
+	<tag k="email" v="oc.323010@mf.gov.pl"/>
+	<tag k="website" v="https://www.pomorskie.kas.gov.pl/pomorski-urzad-celno-skarbowy-w-gdyni"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-320534449" lat="50.2500142" lon="19.0288310914533" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Izba Administracji Skarbowej w Katowicach"/>
+	<tag k="name" v="Izba Administracji Skarbowej"/>
+	<tag k="addr:postcode" v="40-022"/>
+	<tag k="addr:city" v="Katowice"/>
+	<tag k="addr:street" v="Konstantego Damrota"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="phone" v="+48 32 207 60 00"/>
+	<tag k="fax" v="+48 32 207 60 10"/>
+	<tag k="email" v="kancelaria.ias.katowice@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-439728439" lat="49.742121499999996" lon="18.633253228840108" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Cieszynie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="43-400"/>
+	<tag k="addr:city" v="Cieszyn"/>
+	<tag k="addr:street" v="Ignacego Kraszewskiego"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="phone" v="+48 33 852 63 00"/>
+	<tag k="fax" v="+48 33 852 63 30"/>
+	<tag k="email" v="sekretariat.us.cieszyn@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/urzad-skarbowy-w-cieszynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-53424548" lat="50.32191485" lon="19.208923092012526" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Dąbrowie Górniczej"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="41-300"/>
+	<tag k="addr:city" v="Dąbrowa Górnicza"/>
+	<tag k="addr:street" v="Zygmunta Krasińskiego"/>
+	<tag k="addr:housenumber" v="33A"/>
+	<tag k="fax" v="+48 32 295 90 70"/>
+	<tag k="email" v="sekretariat.us.dabrowa.gornicza@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/urzad-skarbowy-w-dabrowie-gorniczej"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-850687025" lat="50.9025547" lon="18.93716" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Kłobucku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="42-100"/>
+	<tag k="addr:city" v="Kłobuck"/>
+	<tag k="addr:street" v="Rynek im. Jana Pawła II"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="phone" v="+48 34 310 08 00"/>
+	<tag k="fax" v="+48 34 310 08 88"/>
+	<tag k="email" v="sekretariat.us.klobuck@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/urzad-skarbowy-w-klobucku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-57053964" lat="50.088529" lon="18.22064533101415" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Raciborzu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="47-400"/>
+	<tag k="addr:city" v="Racibórz"/>
+	<tag k="addr:street" v="Michała Drzymały"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="fax" v="+48 32 415 20 47"/>
+	<tag k="email" v="sekretariat.us.raciborz@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/urzad-skarbowy-w-raciborzu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-61326930" lat="50.057907650000004" lon="18.611842109782096" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Rybniku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="44-200"/>
+	<tag k="addr:city" v="Rybnik"/>
+	<tag k="addr:street" v="Pl. Armii Krajowej"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="phone" v="+48 32 423 58 00"/>
+	<tag k="fax" v="+48 32 423 58 80"/>
+	<tag k="email" v="sekretariat.us.rybnik@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/urzad-skarbowy-w-rybniku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-175783728" lat="50.0421739" lon="18.68786121123781" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Żorach"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="44-240"/>
+	<tag k="addr:city" v="Żory"/>
+	<tag k="addr:street" v="Wodzisławska"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="phone" v="+48 32 478 85 30"/>
+	<tag k="fax" v="+48 32 478 85 31"/>
+	<tag k="email" v="sekretariat.us.zory@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/urzad-skarbowy-w-zorach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-915081854" lat="50.3150688" lon="19.1955386" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Pierwszy Śląski Urząd Skarbowy w Sosnowcu"/>
+	<tag k="name" v="Pierwszy Śląski Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="41-219"/>
+	<tag k="addr:city" v="Sosnowiec"/>
+	<tag k="addr:street" v="Braci Mieroszewskich"/>
+	<tag k="addr:housenumber" v="97"/>
+	<tag k="phone" v="+48 32 786 11 00"/>
+	<tag k="fax" v="+48 32 786 12 05"/>
+	<tag k="email" v="sekretariat.1sl.us.sosnowiec@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/pierwszy-slaski-urzad-skarbowy-w-sosnowcu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-685161728" lat="50.28005495" lon="19.319381139849934" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Sławkowie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="41-260"/>
+	<tag k="addr:city" v="Sławków"/>
+	<tag k="addr:street" v="Groniec"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="fax" v="+48 32 293 18 97"/>
+	<tag k="email" v="sekretariat.OC.slawkow@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/slaski-urzad-celno-skarbowy-w-katowicach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-535773234" lat="50.4694628" lon="19.0751464" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Towarowy Port Lotniczy Katowice-Pyrzowice"/>
+	<tag k="name" v="Oddział Celny Towarowy Port Lotniczy Katowice-Pyrzowice"/>
+	<tag k="addr:postcode" v="42-625"/>
+	<tag k="addr:city" v="Ożarowice"/>
+	<tag k="addr:street" v="Wolności"/>
+	<tag k="addr:housenumber" v="90"/>
+	<tag k="phone" v="+48 32 284 50 22"/>
+	<tag k="fax" v="+48 32 284 50 12"/>
+	<tag k="email" v="sekretariat.OC.pyrzowice-towarowy@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/slaski-urzad-celno-skarbowy-w-katowicach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-108256125" lat="50.4694628" lon="19.0751464" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Osobowy Port Lotniczy Katowice-Pyrzowice"/>
+	<tag k="name" v="Oddział Celny Osobowy Port Lotniczy Katowice-Pyrzowice"/>
+	<tag k="addr:postcode" v="42-625"/>
+	<tag k="addr:city" v="Ożarowice"/>
+	<tag k="addr:street" v="Wolności"/>
+	<tag k="addr:housenumber" v="90"/>
+	<tag k="email" v="sekretariat.OC.pyrzowice-osobowy@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/slaski-urzad-celno-skarbowy-w-katowicach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-657457816" lat="55.7152377" lon="13.239170325859288" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Pocztowy w Zabrzu"/>
+	<tag k="name" v="Oddział Celny Pocztowy"/>
+	<tag k="addr:postcode" v="41-850"/>
+	<tag k="addr:city" v="Zabrze"/>
+	<tag k="addr:street" v="Macieja Mielżyńskiego"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="phone" v="+48 32 718 70 75"/>
+	<tag k="email" v="sekretariat.OC.zabrze@mf.gov.pl"/>
+	<tag k="website" v="https://www.slaskie.kas.gov.pl/slaski-urzad-celno-skarbowy-w-katowicach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-963597410" lat="49.8301511" lon="19.043622120035828" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Krajowa Informacja Skarbowa"/>
+	<tag k="name" v="Krajowa Informacja Skarbowa"/>
+	<tag k="addr:postcode" v="43-300"/>
+	<tag k="addr:city" v="Bielsko- Biała"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="phone" v="+48 33 472 79 00"/>
+	<tag k="fax" v="+48 33 472 79 04"/>
+	<tag k="email" v="kancelaria.kis@mf.gov.pl"/>
+	<tag k="website" v="https://www.kis.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-790345772" lat="50.88885195" lon="20.606001695851134" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Urząd Skarbowy w Kielcach"/>
+	<tag k="name" v="Drugi Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="25-647"/>
+	<tag k="addr:city" v="Kielce"/>
+	<tag k="addr:street" v="Częstochowska"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="phone" v="+48 41 364 72 03"/>
+	<tag k="fax" v="+48 41 364 72 50"/>
+	<tag k="email" v="2us.kielce@mf.gov.pl"/>
+	<tag k="website" v="https://www.swietokrzyskie.kas.gov.pl/drugi-urzad-skarbowy-w-kielcach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-120076638" lat="50.88867855" lon="20.606006510994206" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Świętokrzyski Urząd Skarbowy w Kielcach"/>
+	<tag k="name" v="Świętokrzyski Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="25-647"/>
+	<tag k="addr:city" v="Kielce"/>
+	<tag k="addr:street" v="Częstochowska"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="phone" v="+48 41 364 75 07"/>
+	<tag k="fax" v="+48 41 364 75 50"/>
+	<tag k="email" v="swietokrzyski.us@mf.gov.pl"/>
+	<tag k="website" v="https://www.swietokrzyskie.kas.gov.pl/swietokrzyski-urzad-skarbowy-w-kielcach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1047070273" lat="50.7998789" lon="20.6198919" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Kielcach"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="25-116"/>
+	<tag k="addr:city" v="Kielce"/>
+	<tag k="addr:street" v="Ściegiennego"/>
+	<tag k="addr:housenumber" v="264 D"/>
+	<tag k="phone" v="+48 41 348 99 30"/>
+	<tag k="fax" v="+48 41 348 99 50"/>
+	<tag k="email" v="ducs.kielce@mf.gov.pl"/>
+	<tag k="website" v="https://www.swietokrzyskie.kas.gov.pl/swietokrzyski-urzad-celno-skarbowy-w-kielcach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-437890078" lat="50.8000534" lon="20.6198969" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Kielcach"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="25-116"/>
+	<tag k="addr:city" v="Kielce"/>
+	<tag k="addr:street" v="Ściegiennego"/>
+	<tag k="addr:housenumber" v="264 D"/>
+	<tag k="phone" v="+48 41 348 99 15"/>
+	<tag k="fax" v="+48 41 362 03 64"/>
+	<tag k="email" v="ockielce.sekretariat@mf.gov.pl"/>
+	<tag k="website" v="https://www.swietokrzyskie.kas.gov.pl/swietokrzyski-urzad-celno-skarbowy-w-kielcach"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-728418532" lat="53.7740673" lon="20.497491132420524" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Izba Administracji Skarbowej w Olsztynie"/>
+	<tag k="name" v="Izba Administracji Skarbowej"/>
+	<tag k="addr:postcode" v="10-950"/>
+	<tag k="addr:city" v="Olsztyn"/>
+	<tag k="addr:street" v="Al. Marszałka Józefa Piłsudskiego"/>
+	<tag k="addr:housenumber" v="59A"/>
+	<tag k="email" v="ias.olsztyn@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-987754781" lat="54.15875925" lon="19.417469671187177" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Elblągu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="82-300"/>
+	<tag k="addr:city" v="Elbląg"/>
+	<tag k="addr:street" v="Adama Mickiewicza"/>
+	<tag k="addr:housenumber" v="43"/>
+	<tag k="phone" v="+48 55 611 56 00"/>
+	<tag k="fax" v="+48 55 611 57 43"/>
+	<tag k="email" v="us.elblag@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/urzad-skarbowy-w-elblagu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-901876868" lat="54.040674" lon="21.7720226" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Giżycku"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="11-500"/>
+	<tag k="addr:city" v="Giżycko"/>
+	<tag k="addr:street" v="Tadeusza Kościuszki"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="phone" v="+48 87 429 93 00"/>
+	<tag k="fax" v="+48 87 428 35 07"/>
+	<tag k="email" v="us.gizycko@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/urzad-skarbowy-w-gizycku"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-303787734" lat="53.35824075" lon="20.430054209636932" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Nidzicy"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="13-100"/>
+	<tag k="addr:city" v="Nidzica"/>
+	<tag k="addr:street" v="Żeromskiego"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="phone" v="+48 89 523 18 00"/>
+	<tag k="fax" v="+48 89 523 18 01"/>
+	<tag k="email" v="us.nidzica@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/urzad-skarbowy-w-nidzicy"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1018560031" lat="53.77393455" lon="20.49802044050491" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Olsztynie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="10-950"/>
+	<tag k="addr:city" v="Olsztyn"/>
+	<tag k="addr:street" v="Aleja Marszałka Józefa Piłsudskiego"/>
+	<tag k="addr:housenumber" v="59"/>
+	<tag k="phone" v="+48 89 539 24 00"/>
+	<tag k="fax" v="+48 89 539 26 00"/>
+	<tag k="email" v="us.olsztyn@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/urzad-skarbowy-w-olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-798001160" lat="53.7766839" lon="20.476507" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Olsztynie"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="10-421"/>
+	<tag k="addr:city" v="Olsztyn"/>
+	<tag k="addr:street" v="Składowa"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="phone" v="+48 89 538 74 00"/>
+	<tag k="fax" v="+48 89 538 74 59"/>
+	<tag k="email" v="sekretariat.ucs.371000@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/warminsko-mazurski-urzad-celno-skarbowy-w-olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-598258071" lat="53.7766839" lon="20.476507" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Olsztynie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="10-421"/>
+	<tag k="addr:city" v="Olsztyn"/>
+	<tag k="addr:street" v="Składowa"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="fax" v="+48 89 538 47 59"/>
+	<tag k="email" v="sekretariat.oc.371010@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/warminsko-mazurski-urzad-celno-skarbowy-w-olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-367446684" lat="54.1724247" lon="21.1363395" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Korszach"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="11-430"/>
+	<tag k="addr:city" v="Korsze"/>
+	<tag k="addr:street" v="Dworcowa"/>
+	<tag k="addr:housenumber" v="1A"/>
+	<tag k="fax" v="+48 89 754 09 34"/>
+	<tag k="email" v="sekretariat.oc.371020@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/warminsko-mazurski-urzad-celno-skarbowy-w-olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-77696027" lat="54.145826299999996" lon="19.388603563157897" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Elblągu"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="82-300"/>
+	<tag k="addr:city" v="Elbląg"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="129A"/>
+	<tag k="phone" v="+48 55 236 54 01"/>
+	<tag k="fax" v="+48 55 236 54 06"/>
+	<tag k="email" v="sekretariat.ucs.372000@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/warminsko-mazurski-urzad-celno-skarbowy-w-olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-609335448" lat="54.1458284" lon="19.3885988" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Elblągu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="82-300"/>
+	<tag k="addr:city" v="Elbląg"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="129A"/>
+	<tag k="email" v="sekretariat.oc.372010@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/warminsko-mazurski-urzad-celno-skarbowy-w-olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-158018930" lat="53.57926965" lon="19.585558584419324" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Iławie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="14-200"/>
+	<tag k="addr:city" v="Iława"/>
+	<tag k="addr:street" v="Lubawska"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="fax" v="+48 89 648 50 09"/>
+	<tag k="email" v="sekretariat.oc.372040@mf.gov.pl"/>
+	<tag k="website" v="https://www.warminsko-mazurskie.kas.gov.pl/warminsko-mazurski-urzad-celno-skarbowy-w-olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-251072234" lat="52.22584185" lon="16.369275095978992" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Grodzisku Wielkopolskim"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="62-065"/>
+	<tag k="addr:city" v="Grodzisk Wielkopolski"/>
+	<tag k="addr:street" v="Chopina"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="phone" v="+48 61 442 64 00"/>
+	<tag k="fax" v="+48 61 442 64 40"/>
+	<tag k="email" v="us.grodzisk-wielkopolski@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-grodzisku-wielkopolskim"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-937096302" lat="52.30167" lon="16.12731" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Nowym Tomyślu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="64-300"/>
+	<tag k="addr:city" v="Nowy Tomyśl"/>
+	<tag k="addr:street" v="Kolejowa"/>
+	<tag k="addr:housenumber" v="38"/>
+	<tag k="phone" v="+48 61 295 68 00"/>
+	<tag k="fax" v="+48 61 442 38 41"/>
+	<tag k="email" v="us.nowy-tomysl@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-tomyslu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-556077488" lat="51.4164032" lon="17.9329024" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Ostrzeszowie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="63-500"/>
+	<tag k="addr:city" v="Ostrzeszów"/>
+	<tag k="addr:street" v="Władysława Grabskiego"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="phone" v="+48 62 587 03 00"/>
+	<tag k="fax" v="+48 62 586 00 11"/>
+	<tag k="email" v="us.ostrzeszow@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-903993285" lat="53.1626048" lon="16.772062" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Pile"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="64-920"/>
+	<tag k="addr:city" v="Piła"/>
+	<tag k="addr:street" v="Kossaka"/>
+	<tag k="addr:housenumber" v="106"/>
+	<tag k="phone" v="+48 67 352 60 00"/>
+	<tag k="fax" v="+48 67 351 26 96"/>
+	<tag k="email" v="us.pila@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-870366880" lat="52.40481855" lon="16.931613467755348" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy Poznań - Jeżyce"/>
+	<tag k="name" v="Urząd Skarbowy Poznań - Jeżyce"/>
+	<tag k="addr:postcode" v="61-845"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="Strzelecka"/>
+	<tag k="addr:housenumber" v="2/6"/>
+	<tag k="phone" v="+48 61 647 18 00"/>
+	<tag k="fax" v="+48 61 647 19 21"/>
+	<tag k="email" v="us.poznan-jezyce@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-859038565" lat="52.0835859" lon="17.01617930392188" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Śremie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="63-100"/>
+	<tag k="addr:city" v="Śrem"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="phone" v="+48 61 283 65 01"/>
+	<tag k="fax" v="+48 61 283 67 44"/>
+	<tag k="email" v="us.srem@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-sremie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-763306273" lat="51.7583807" lon="18.0862995" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Drugi Wielkopolski Urząd Skarbowy w Kaliszu"/>
+	<tag k="name" v="Drugi Wielkopolski Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="62-800"/>
+	<tag k="addr:city" v="Kalisz"/>
+	<tag k="addr:street" v="Fabryczna"/>
+	<tag k="addr:housenumber" v="1A"/>
+	<tag k="phone" v="+48 62 768 20 20"/>
+	<tag k="fax" v="+48 62 768 20 40"/>
+	<tag k="email" v="2.wielkopolski.us@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/drugi-wielkopolski-urząd-skarbowy-w-kaliszu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-6316832" lat="52.4024028" lon="16.9094775" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny „MTP” w Poznaniu"/>
+	<tag k="name" v="Oddział Celny „MTP”"/>
+	<tag k="addr:postcode" v="60-734"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="Głogowska"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="phone" v="+48 61 866 67 37"/>
+	<tag k="fax" v="+48 61 866 64 26"/>
+	<tag k="email" v="oc.391020@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1024441805" lat="52.4133833" lon="16.834247040781904" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny Port Lotniczy Poznań-Ławica"/>
+	<tag k="name" v="Oddział Celny Port Lotniczy Poznań-Ławica"/>
+	<tag k="addr:postcode" v="60-189"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="Bukowska"/>
+	<tag k="addr:housenumber" v="285"/>
+	<tag k="phone" v="+48 61 862 38 00"/>
+	<tag k="fax" v="+48 61 862 38 20"/>
+	<tag k="email" v="oc.391030@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-375786039" lat="52.30891415000001" lon="17.051326101698272" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Gądkach"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="62-023"/>
+	<tag k="addr:city" v="Gądki"/>
+	<tag k="addr:street" v="Poznańska"/>
+	<tag k="addr:housenumber" v="71"/>
+	<tag k="phone" v="+48 61 817 11 55"/>
+	<tag k="fax" v="+48 61 817 05 82"/>
+	<tag k="email" v="oc.391040@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-319189299" lat="53.1221787" lon="16.7745984" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Pile"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="64-920"/>
+	<tag k="addr:city" v="Piła"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="23"/>
+	<tag k="phone" v="+48 67 211 90 19"/>
+	<tag k="email" v="oc.392010@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-254179594" lat="51.8408565" lon="16.5969083" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Lesznie"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="64-100"/>
+	<tag k="addr:city" v="Leszno"/>
+	<tag k="addr:street" v="Dekana"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="fax" v="+48 65 526 97 14"/>
+	<tag k="email" v="ucs.393000@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-592018511" lat="51.8409435" lon="16.5968414" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Lesznie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="64-100"/>
+	<tag k="addr:city" v="Leszno"/>
+	<tag k="addr:street" v="Dekana"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="phone" v="+48 65 525 89 93"/>
+	<tag k="fax" v="+48 65 526 97 13"/>
+	<tag k="email" v="oc.393010@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-182810251" lat="51.7582619" lon="18.0865015" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Kaliszu"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="62-800"/>
+	<tag k="addr:city" v="Kalisz"/>
+	<tag k="addr:street" v="Fabryczna"/>
+	<tag k="addr:housenumber" v="1A"/>
+	<tag k="phone" v="+48 62 768 20 80"/>
+	<tag k="fax" v="+48 62 768 20 95"/>
+	<tag k="email" v="ucs.394000@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-617867084" lat="51.73527245" lon="18.056268719881462" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Kaliszu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="62-800"/>
+	<tag k="addr:city" v="Kalisz"/>
+	<tag k="addr:street" v="Powstańców Wlkp."/>
+	<tag k="addr:housenumber" v="1-3"/>
+	<tag k="phone" v="+48 62 765 46 05"/>
+	<tag k="email" v="oc.394010@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-850215847" lat="52.1585" lon="18.19528" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Koninie"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="62-571"/>
+	<tag k="addr:city" v="Modła Królewska"/>
+	<tag k="addr:street" v="Skandynawska"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="phone" v="+48 63 246 61 00"/>
+	<tag k="email" v="oc.394020@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl/wielkopolski-urząd-celno-skarbowy-w-poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-41578137" lat="51.8402782" lon="16.5964782" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura Krajowej Informacji Skarbowej w Lesznie"/>
+	<tag k="name" v="Delegatura Krajowej Informacji Skarbowej"/>
+	<tag k="addr:postcode" v="64-100"/>
+	<tag k="addr:city" v="Leszno"/>
+	<tag k="addr:street" v="Dekana"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="phone" v="+48 65 619 89 00"/>
+	<tag k="email" v="kis.leszno@mf.gov.pl"/>
+	<tag k="website" v="https://www.kis.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-389375336" lat="52.22736985" lon="18.24095712121337" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Biuro Wymiany Informacji Podatkowych w Koninie"/>
+	<tag k="name" v="Biuro Wymiany Informacji Podatkowych"/>
+	<tag k="addr:postcode" v="62-510"/>
+	<tag k="addr:city" v="Konin"/>
+	<tag k="addr:street" v="Poznańska"/>
+	<tag k="addr:housenumber" v="46"/>
+	<tag k="phone" v="+48 63 240 19 77"/>
+	<tag k="fax" v="+48 63 240 19 88"/>
+	<tag k="email" v="bwip.ias.poznan@mf.gov.pl"/>
+	<tag k="website" v="https://www.wielkopolskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-598490271" lat="53.421734150000006" lon="14.56185782661994" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Izba Administracji Skarbowej w Szczecinie"/>
+	<tag k="name" v="Izba Administracji Skarbowej"/>
+	<tag k="addr:postcode" v="70-525"/>
+	<tag k="addr:city" v="Szczecin"/>
+	<tag k="addr:street" v="Franklina Delano Roosevelta"/>
+	<tag k="addr:housenumber" v="1/2"/>
+	<tag k="phone" v="+48 91 480 36 00"/>
+	<tag k="fax" v="+48 91 480 36 56"/>
+	<tag k="email" v="ias.szczecin@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-451411148" lat="53.1688391" lon="15.417405222806316" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Choszcznie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="73-200"/>
+	<tag k="addr:city" v="Choszczno"/>
+	<tag k="addr:street" v="Lipcowa"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="phone" v="+48 95 717 43 00"/>
+	<tag k="fax" v="+48 95 717 43 61"/>
+	<tag k="email" v="us.choszczno@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-choszcznie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-1010276548" lat="53.2593058" lon="14.491229281296851" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Gryfinie"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="74-100"/>
+	<tag k="addr:city" v="Gryfino"/>
+	<tag k="addr:street" v="Szczecińska"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="fax" v="+48 91 404 51 58"/>
+	<tag k="email" v="us.gryfino@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-856351541" lat="53.9146496" lon="14.2388205" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Świnoujściu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="72-600"/>
+	<tag k="addr:city" v="Świnoujście"/>
+	<tag k="addr:street" v="Kazimierza Pułaskiego"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="phone" v="+48 91 322 02 00"/>
+	<tag k="fax" v="+48 91 321 54 17"/>
+	<tag k="email" v="us.swinoujscie@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-swinoujsciu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-27565675" lat="53.27371775" lon="16.47428644770552" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Urząd Skarbowy w Wałczu"/>
+	<tag k="name" v="Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="78-600"/>
+	<tag k="addr:city" v="Wałcz"/>
+	<tag k="addr:street" v="T. Kościuszki"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="phone" v="+48 67 254 98 00"/>
+	<tag k="fax" v="+48 67 254 98 98"/>
+	<tag k="email" v="us.walcz@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-walczu"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-633090307" lat="53.4460782" lon="14.4948376" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Zachodniopomorski Urząd Skarbowy w Szczecinie"/>
+	<tag k="name" v="Zachodniopomorski Urząd Skarbowy"/>
+	<tag k="addr:postcode" v="71-210"/>
+	<tag k="addr:city" v="Szczecin"/>
+	<tag k="addr:street" v="Żołnierska"/>
+	<tag k="addr:housenumber" v="45"/>
+	<tag k="fax" v="+48 91 440 67 50"/>
+	<tag k="email" v="kancelaria.zachodniopomorski.us@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/zachodniopomorski-urzad-skarbowy-w-szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-128407017" lat="53.4461855" lon="14.4945276" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Szczecinie"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="71-210"/>
+	<tag k="addr:city" v="Szczecin"/>
+	<tag k="addr:street" v="Żołnierska"/>
+	<tag k="addr:housenumber" v="45"/>
+	<tag k="phone" v="+48 91 440 65 12"/>
+	<tag k="fax" v="+48 91 433 46 50"/>
+	<tag k="email" v="sekretariat.zachodniopomorski.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/zachodniopomorski-urzad-celno-skarbowy-w-szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-339835494" lat="53.9050849" lon="14.2669369" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Świnoujściu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="72-602"/>
+	<tag k="addr:city" v="Świnoujście"/>
+	<tag k="addr:street" v="Dworcowa"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="phone" v="+48 66 059 98 85"/>
+	<tag k="email" v="oc.swinoujscie@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/zachodniopomorski-urzad-celno-skarbowy-w-szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-626875326" lat="54.188721900000004" lon="16.190096699710253" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="tax"/>
+	<tag k="official_name" v="Delegatura UCS w Koszalinie"/>
+	<tag k="name" v="Delegatura UCS"/>
+	<tag k="addr:postcode" v="75-620"/>
+	<tag k="addr:city" v="Koszalin"/>
+	<tag k="addr:street" v="Racławicka"/>
+	<tag k="addr:housenumber" v="3-5"/>
+	<tag k="email" v="2sekretariat.zachodniopomorski.ucs@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/zachodniopomorski-urzad-celno-skarbowy-w-szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node>
+<node id="-71735065" lat="54.1829102" lon="15.55701233522505" version="1" timestamp="2024-03-04T22:12:44.658618Z" action="modify"   >
+	<tag k="government" v="customs"/>
+	<tag k="official_name" v="Oddział Celny w Kołobrzegu"/>
+	<tag k="name" v="Oddział Celny"/>
+	<tag k="addr:postcode" v="78-100"/>
+	<tag k="addr:city" v="Kołobrzeg"/>
+	<tag k="addr:street" v="Portowa"/>
+	<tag k="addr:housenumber" v="41"/>
+	<tag k="email" v="oc.kolobrzeg@mf.gov.pl"/>
+	<tag k="website" v="https://www.zachodniopomorskie.kas.gov.pl/zachodniopomorski-urzad-celno-skarbowy-w-szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza teleadresowa jednostek KAS na dzień 12.02.2024"/>
+</node></osm>

@@ -1,0 +1,11 @@
+[out:json][timeout:999];
+{{geocodeArea:Polska}}->.searchArea;
+
+(
+    nw[office=government][government=tax](area.searchArea);
+    nw[office=government][government=customs](area.searchArea);
+);
+
+out meta;
+>;
+out meta;

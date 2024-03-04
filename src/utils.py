@@ -1,18 +1,29 @@
-from audioop import add
 import re
+from itertools import accumulate
+
+import requests
 
 fieldnames = {
     'addr': ['addr:postcode', 'addr:city', 'addr:place', 'addr:street', 'addr:housenumber', 'addr:door'],
     'tech': ['@lat', '@lon', '@id']
 }
 
-def strip_number(phone):
+
+def strip_number(phone, format='2232'):
     clear = phone.replace('-', '').replace('+48', '').replace('(', '').replace(')', '').replace(' ', '')
-    if len(clear) == 11 and clear[0] == '4' and clear[1] == '8':
-        clear = clear[2:]
-    if len(clear) > 0:
-        return f"+48 {clear[0:2]} {clear[2:5]} {clear[5:7]} {clear[7:9]}"
-    return ""
+    prefix = re.search(r'^(00)?(48)(\d+)', clear, flags=re.MULTILINE)
+    if prefix:
+        clear = prefix.group(3)
+    if len(clear) != sum(int(x) for x in format if x.isdigit()):
+        return ""
+    lenghts = list(accumulate([0] + list(int(x) for x in format)))
+    out = '+48'
+    for i, k in zip(lenghts[0:], lenghts[1:]):
+        out += f' {clear[i:k]}'
+
+    return out
+    # return f"+48 {clear[g[0]:g[1]]} {clear[g[1]:g[2]]} {clear[g[2]:g[3]]} {clear[g[3]:g[4]]}"
+
 
 def get_operator_type(name, operator_name):
     public_match = re.search('(urz(ą|a)d)|(miast(o|a))|(gmin(a|y)|(m\. st\.))', operator_name, re.IGNORECASE)
@@ -23,6 +34,7 @@ def get_operator_type(name, operator_name):
     if private_match:
         return 'private'
     return ''
+
 
 def getaddr(addrstring, city=False, place=False, street=False, housenumber=False, door=False):
     if not addrstring:
@@ -43,11 +55,11 @@ def getaddr(addrstring, city=False, place=False, street=False, housenumber=False
         if match:
             result.update({'addr:housenumber': match.group(2).strip()})
             addrstring = re.sub(reg, r'\1', addrstring)
-    
+
     if street:
         reg = re.compile(r'(.*)(pl(\.|ac)*|al(\.|eja)*|ul(\.|ica)*)? ?(.*)', re.IGNORECASE)
         match = reg.match(addrstring)
-        
+
         if match:
             street_name = match.group(6) or match.group(1)
             result.update({'addr:street': street_name.strip()})
@@ -86,6 +98,7 @@ def nominatim_addr(nominatim):
         'addr:door': prefix.get('door')
     }
 
+
 def komoot_addr(komoot):
     prefix = komoot['features'][0]['properties']
     is_city = prefix.get('city') and (prefix.get('street') or prefix.get('locality'))
@@ -99,16 +112,72 @@ def komoot_addr(komoot):
         'addr:door': prefix.get('door')
     }
 
+
 ADDR_FIELDS = {
     'street': lambda x: f'{x.get("addr:street")} {x.get("addr:housenumber")}',
     'city': lambda x: x.get('addr:city') or x.get('addr:place'),
     'postalcode': lambda x: x.get('addr:postcode')
 }
 
+
 def nominatim_searchurl(row, fields=ADDR_FIELDS, single=False):
     if single:
         filled = [field_map(row) if field_map(row) else "" for field_map in fields.values()]
         return ' '.join(filled)
-    
+
     filled = [f'{field}={field_map(row)}' if field_map(row) else "" for field, field_map in fields.items()]
     return '&'.join(filled)
+
+
+def force_https(url, add_missing=True, rewrite=False):
+    if url.startswith('https://'):
+        return url
+    elif url.startswith('http://'):
+        if rewrite:
+            return url.replace('http://', 'https://')
+    else:
+        if add_missing:
+            return 'https://' + url
+
+    return url
+
+
+def format_phone():
+    pass
+
+
+def query_nominatim(q=False, p=False):
+    if q:
+        url = f'https://nominatim.openstreetmap.org/search?q={q}&format=jsonv2'.replace(' ', '+')
+    elif p:
+        url = f'https://nominatim.openstreetmap.org/search?p={p}&format=jsonv2'.replace(' ', '+')
+    else:
+        raise ValueError()
+    # print(url)
+    resp = requests.get(url)
+    resp_json = resp.json()
+
+    if resp_json:
+        # print(resp_json[0])
+        return resp_json[0]
+
+
+def get_lat_lon_nominatim(tags):
+    found = False
+
+    if tags.get("official_name"):
+        found = query_nominatim(q=tags["official_name"])
+        if found:
+            return {'lat': found['lat'], 'lon': found['lon']}
+
+    if (tags.get("addr:city") or tags.get("addr:place")) and tags.get("addr:street") and tags.get("addr:housenumber"):
+        found = query_nominatim(q=f'{tags.get("addr:street", tags.get("addr:place", ""))} {tags.get("addr:housenumber", "")} {tags.get("addr:city", "")} {tags.get("addr:postcode", "")}')
+        if found:
+            return {'lat': found['lat'], 'lon': found['lon']}
+
+    if (tags.get("addr:city") or tags.get("addr:place")) and tags.get("name") and tags.get("addr:housenumber"):
+        found = query_nominatim(q=f'{tags.get("addr:name", "")}, {tags.get("addr:city", tags.get("addr:place", ""))}, {tags.get("addr:postcode", "")}')
+        if found:
+            return {'lat': found['lat'], 'lon': found['lon']}
+
+    return {}

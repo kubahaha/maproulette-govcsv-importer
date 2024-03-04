@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-03-04T15:50:36.175594Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-502272705" lat="51.105" lon="17.028" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="50-040"/>
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:street" v="Podwale"/>
+	<tag k="addr:housenumber" v="31-33"/>
+	<tag k="email" v="kontaktkwp@wr.policja.gov.pl"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji we Wrocławiu"/>
+	<tag k="phone" v="+48 47 87 134 00"/>
+	<tag k="website" v="https://www.dolnoslaska.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-514304284" lat="51.2568" lon="15.5735" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="59-700"/>
+	<tag k="addr:city" v="Bolesławiec"/>
+	<tag k="addr:street" v="Zygmunta Augusta"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="email" v="komendant@boleslawiec.wr.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 87 332 21"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Bolesławcu"/>
+	<tag k="phone" v="+48 47 87 332 00"/>
+	<tag k="website" v="https://www.boleslawiec.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-443616153" lat="51.1129" lon="15.5785" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="59-600"/>
+	<tag k="addr:city" v="Lwówek Śląski"/>
+	<tag k="addr:street" v="Przyjaciół Żołnierza"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="email" v="komendant@lwowek-slaski.wr.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 87 352 40"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Lwówku Śląskim"/>
+	<tag k="phone" v="+48 47 87 352 00"/>
+	<tag k="website" v="https://www.lwowek-slaski.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-699982422" lat="51.2071" lon="17.3837" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="56-400"/>
+	<tag k="addr:city" v="Oleśnica"/>
+	<tag k="addr:street" v="Gen. Hallera"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="email" v="komendant@olesnica.wr.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 87 262 42"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Oleśnicy"/>
+	<tag k="phone" v="+48 47 87 262 00"/>
+	<tag k="website" v="https://bip.olesnica.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-192266978" lat="50.9429" lon="17.2976" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="55-200"/>
+	<tag k="addr:city" v="Oława"/>
+	<tag k="addr:street" v="Kopernika"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="email" v="komendant@olawa.wr.policja.pl"/>
+	<tag k="fax" v="+48 47 87 272 42"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Oławie"/>
+	<tag k="phone" v="+48 47 87 272 00"/>
+	<tag k="website" v="https://olawa.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-669370111" lat="51.1472" lon="15.0135" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="59-900"/>
+	<tag k="addr:city" v="Zgorzelec"/>
+	<tag k="addr:street" v="ul. Boh. II Armii Woj. Polskiego"/>
+	<tag k="addr:housenumber" v="12 G"/>
+	<tag k="email" v="kpp@zgorzelec.wr.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 87 322 21"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Zgorzelcu"/>
+	<tag k="phone" v="+48 47 87 322 00"/>
+	<tag k="website" v="https://www.zgorzelec.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-980635370" lat="53.12952596" lon="18.02406624" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="85-090"/>
+	<tag k="addr:city" v="Bydgoszcz"/>
+	<tag k="addr:street" v="Powstańców Wielkopolskich"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="email" v="sekretariat-komendanta@bg.policja.gov.pl"/>
+	<tag k="fax" v="+48 52 52 550 17"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji w Bydgoszczy"/>
+	<tag k="phone" v="+48 52 52 550 10"/>
+	<tag k="website" v="https://www.kujawsko-pomorska.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-744629074" lat="50.8065" lon="23.8855" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="22- 500"/>
+	<tag k="addr:city" v="Hrubieszów"/>
+	<tag k="addr:street" v="Narutowicza"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="email" v="policja.kpphrubieszow@lu.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 81 116 85"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Hrubieszowie"/>
+	<tag k="phone" v="+48 47 81 532 16"/>
+	<tag k="website" v="https://www.hrubieszow.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-1002572798" lat="51.783" lon="22.6027" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="21-300"/>
+	<tag k="addr:city" v="Radzyń Podlaski"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="100 a"/>
+	<tag k="email" v="komendant.kppradzynpodlaski@lu.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 81 117 45"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Radzyniu Podlaskim"/>
+	<tag k="phone" v="+48 47 81 422 16"/>
+	<tag k="website" v="https://www.radzyn-podlaski.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-746687457" lat="51.5491" lon="23.5546" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="22-200"/>
+	<tag k="addr:city" v="Włodawa"/>
+	<tag k="addr:street" v="Al.. Pilsudskiego"/>
+	<tag k="addr:housenumber" v="51"/>
+	<tag k="email" v="kppwlodawa@lu.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 81 117 83"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji we Włodawie"/>
+	<tag k="phone" v="+48 47 81 322 16"/>
+	<tag k="website" v="https://www.wlodawa.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-146885198" lat="52.7208" lon="15.2312" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="66-400"/>
+	<tag k="addr:city" v="Gorzów Wlkp."/>
+	<tag k="addr:street" v="Kwiatowa"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="email" v="kwpgorzow@go.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 79 112 05"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji w Gorzowie Wlkp."/>
+	<tag k="phone" v="+48 47 79 119 00"/>
+	<tag k="website" v="https://www.lubuska.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-304846556" lat="51.9318" lon="15.5203" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="65-332"/>
+	<tag k="addr:city" v="Zielona Góra"/>
+	<tag k="addr:street" v="Partyzantów"/>
+	<tag k="addr:housenumber" v="40"/>
+	<tag k="email" v="sekretariat.kmp_zgora@go.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 79 524 15"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Zielonej Górze"/>
+	<tag k="phone" v="+48 47 79 524 11"/>
+	<tag k="website" v="https://zielona-gora.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-659314236" lat="52.3557" lon="14.5688" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="69-100"/>
+	<tag k="addr:city" v="Słubice"/>
+	<tag k="addr:street" v="Kazimierza Wielkiego"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="email" v="kpp_slubice@go.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 79 232 15"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Słubicach"/>
+	<tag k="phone" v="+48 47 79 232 11"/>
+	<tag k="website" v="https://www.slubice.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-707463512" lat="51.7676" lon="19.4622" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="90-114"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Sienkiewicza"/>
+	<tag k="addr:housenumber" v="28/30"/>
+	<tag k="email" v="dyzurny@lodz.ld.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 84 117 55"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Łodzi"/>
+	<tag k="phone" v="+48 47 84 122 50"/>
+	<tag k="website" v="https://www.lodz.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-1070976597" lat="50.0103" lon="20.9257" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="33-101"/>
+	<tag k="addr:city" v="Tarnów"/>
+	<tag k="addr:street" v="ul. Traugutta"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="email" v="kmp@tarnow.policja.gov.pl"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Tarnowie"/>
+	<tag k="phone" v="+48 47 83 129 00"/>
+	<tag k="website" v="https://tarnow.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-1067049745" lat="50.3617" lon="20.0459" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="32-200"/>
+	<tag k="addr:city" v="Miechów"/>
+	<tag k="addr:street" v="ul. B.Prusa"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="email" v="kpp@miechow.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 83 462 03"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Miechowie"/>
+	<tag k="phone" v="+48 47 83 462 00"/>
+	<tag k="website" v="https://www.miechow.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-158825573" lat="49.482" lon="20.0435" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="34-400"/>
+	<tag k="addr:city" v="Nowy Targ"/>
+	<tag k="addr:street" v="ul. Konfederacji Tatrzańskiej"/>
+	<tag k="addr:housenumber" v="1A"/>
+	<tag k="email" v="sekretariat@nowy-targ.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 83 464 25"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Nowym Targu"/>
+	<tag k="phone" v="+48 47 83 464 01"/>
+	<tag k="website" v="https://www.nowy-targ.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-309365896" lat="49.2947" lon="19.9642" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="34-500"/>
+	<tag k="addr:city" v="Zakopane"/>
+	<tag k="addr:street" v="ul. Jagiellońska"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="email" v="kpp@zakopane.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 83 474 25"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Zakopanem"/>
+	<tag k="phone" v="+48 47 83 474 00"/>
+	<tag k="website" v="https://www.zakopane.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-630842471" lat="51.4137" lon="21.1624" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:street" v="11 Listopada"/>
+	<tag k="addr:housenumber" v="37/59"/>
+	<tag k="email" v="dyzurny.kwp@ra.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 70 122 45"/>
+	<tag k="name" v="Komenda Wojewódzka Policji zs."/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji zs. w Radomiu"/>
+	<tag k="phone" v="+48 47 70 146 44"/>
+	<tag k="website" v="https://www.mazowiecka.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-175081755" lat="52.4027" lon="20.9257" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="05-120"/>
+	<tag k="addr:city" v="Legionowo"/>
+	<tag k="addr:street" v="Jagiellońska"/>
+	<tag k="addr:housenumber" v="26B"/>
+	<tag k="email" v="kpp.legionowo@ksp.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 72 482 07"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Legionowie"/>
+	<tag k="phone" v="+48 22 77 427 77"/>
+	<tag k="website" v="https://kpplegionowo.policja.waw.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-217057506" lat="51.4137" lon="21.1623" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:street" v="11 Listopada"/>
+	<tag k="addr:housenumber" v="37/59"/>
+	<tag k="email" v="dyzurny.kmpradom@ra.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 70 135 45"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Radomiu"/>
+	<tag k="phone" v="+48 47 70 150 10"/>
+	<tag k="website" v="https://www.mazowiecka.policja.gov.pl/wra/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-524547082" lat="50.6629" lon="17.9242" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="45-077"/>
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:street" v="Korfantego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="email" v="komendant@op.policja.gov.pl"/>
+	<tag k="fax" v="+48 77 86 131 13"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji w Opolu"/>
+	<tag k="phone" v="+48 47 86 121 06"/>
+	<tag k="website" v="https://www.opolska.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-75618215" lat="50.6634" lon="17.9239" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="45-078"/>
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:street" v="Powolnego"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="email" v="komendant.op@op.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 86 125 44"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Opolu"/>
+	<tag k="phone" v="+48 47 86 125 42"/>
+	<tag k="website" v="https://www.opole.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-750528384" lat="50.4711" lon="17.9653" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="47-300"/>
+	<tag k="addr:city" v="Krapkowice"/>
+	<tag k="addr:street" v="Sądowa"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="email" v="komendant.kr@op.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 86 262 30"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Krapkowicach"/>
+	<tag k="phone" v="+48 47 86 262 02"/>
+	<tag k="website" v="https://www.krapkowice.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-557962676" lat="50.5252" lon="18.2457" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="46-300"/>
+	<tag k="addr:city" v="Olesno"/>
+	<tag k="addr:street" v="Klonowa"/>
+	<tag k="addr:housenumber" v="1a"/>
+	<tag k="email" v="komendant.ol@op.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 86 362 45"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Oleśnie"/>
+	<tag k="phone" v="+48 47 86 362 02"/>
+	<tag k="website" v="https://www.olesno.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-1004775505" lat="50.5717" lon="21.6656" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="39-400"/>
+	<tag k="addr:city" v="Tarnobrzeg"/>
+	<tag k="addr:street" v="1 maja"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="email" v="kmp.tarnobrzeg@rz.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 82 533 19"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Tarnobrzegu"/>
+	<tag k="phone" v="+48 47 82 533 99"/>
+	<tag k="website" v="https://bip.tarnobrzeg.kmp.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-619305339" lat="50.0599" lon="21.6025" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="39-100"/>
+	<tag k="addr:city" v="Ropczyce"/>
+	<tag k="addr:street" v="Piłsudskiego"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="email" v="ropczyce@rz.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 82 243 19"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Ropczycach"/>
+	<tag k="phone" v="+48 47 82 243 10"/>
+	<tag k="website" v="https://bip.ropczyce.kpp.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-948262974" lat="50.567" lon="22.0562" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="37-450"/>
+	<tag k="addr:city" v="Stalowa Wola"/>
+	<tag k="addr:street" v="Ks. J. Popiełuszki"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="email" v="stalowa-wola@rz.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 82 613 19"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Stalowej Woli"/>
+	<tag k="phone" v="+48 47 82 613 10"/>
+	<tag k="website" v="https://bip.stalowawola.kpp.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-842096949" lat="53.1259" lon="23.1483" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="15-369"/>
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:street" v="Bema"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="email" v="kmp@bialystok.bk.policja.gov.pl"/>
+	<tag k="fax" v="+48 85 67 024 26"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Białymstoku"/>
+	<tag k="phone" v="+48 85 67 034 00"/>
+	<tag k="website" v="https://www.bialystok.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-353779776" lat="53.1259" lon="23.1483" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="15-369"/>
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:street" v="Bema"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="email" v="kmp@bialystok.bk.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 71 134 41"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Białymstoku"/>
+	<tag k="phone" v="+48 47 71 124 73"/>
+	<tag k="website" v="https://www.bialystok.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-1028574562" lat="53.838" lon="22.989" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="16-300"/>
+	<tag k="addr:city" v="Augustów"/>
+	<tag k="addr:street" v="Brzostowskiego"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="email" v="kpp@augustow.bk.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 71 562 15"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Augustowie"/>
+	<tag k="phone" v="+48 47 71 562 12"/>
+	<tag k="website" v="https://www.augustow.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-555208372" lat="53.7299" lon="18.9311" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="82-500"/>
+	<tag k="addr:city" v="Kwidzyn"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="30"/>
+	<tag k="email" v="komenda.kwidzyn@gd.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 74 292 04"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Kwidzynie"/>
+	<tag k="phone" v="+48 47 74 292 22"/>
+	<tag k="website" v="https://www.kwidzyn.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-111009105" lat="54.2135" lon="19.122" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="82-100"/>
+	<tag k="addr:city" v="Nowy Dwór Gdański"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="email" v="komenda.ndg@gd.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 74 392 23"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Nowym Dworze Gdańskim"/>
+	<tag k="phone" v="+48 47 74 392 72"/>
+	<tag k="website" v="https://www.nowydworgdanski.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-728353142" lat="50.2475" lon="19.0227" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="40-038"/>
+	<tag k="addr:city" v="Katowice"/>
+	<tag k="addr:street" v="ul. Lompy"/>
+	<tag k="addr:housenumber" v="19"/>
+	<tag k="email" v="kancelaria-kwp@ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 116 26"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji w Katowicach"/>
+	<tag k="phone" v="+48 47 85 122 22"/>
+	<tag k="website" v="https://slaska.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-506502325" lat="50.3187" lon="19.1342" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="42-500"/>
+	<tag k="addr:city" v="Będzin"/>
+	<tag k="addr:street" v="ul. Generała Józefa Bema"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="email" v="komendant@bedzin.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 362 44"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Będzinie"/>
+	<tag k="phone" v="+48 47 85 362 00"/>
+	<tag k="website" v="https://bedzin.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-447340783" lat="49.8265" lon="19.0525" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="43-300"/>
+	<tag k="addr:city" v="Bielsko-Biała"/>
+	<tag k="addr:street" v="ul. Wapienna"/>
+	<tag k="addr:housenumber" v="45"/>
+	<tag k="email" v="komendant@bielsko.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 712 44"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Bielsku-Białej"/>
+	<tag k="phone" v="+48 47 85 712 00"/>
+	<tag k="website" v="https://bielsko-biala.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-980472302" lat="50.8162" lon="19.1034" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="42-200"/>
+	<tag k="addr:city" v="Częstochowa"/>
+	<tag k="addr:street" v="ul. Popiełuszki"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="email" v="komendant@czestochowa.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 812 44"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Częstochowie"/>
+	<tag k="website" v="https://czestochowa.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-769035966" lat="50.2476" lon="19.0232" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="40-038"/>
+	<tag k="addr:city" v="Katowice"/>
+	<tag k="addr:street" v="ul. Lompy"/>
+	<tag k="addr:housenumber" v="19"/>
+	<tag k="email" v="komendant@katowice.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 122 44"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Katowicach"/>
+	<tag k="phone" v="+48 47 85 125 55"/>
+	<tag k="website" v="https://katowice.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-137984190" lat="50.9062" lon="18.9394" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="42-100"/>
+	<tag k="addr:city" v="Kłobuck"/>
+	<tag k="addr:street" v="ul. Boh. Bitwy pod Mokrą"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="email" v="komendant@klobuck.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 822 44"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Kłobucku"/>
+	<tag k="phone" v="+48 47 85 822 00"/>
+	<tag k="website" v="https://klobuck.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-581517082" lat="50.5836" lon="19.3421" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="42-300"/>
+	<tag k="addr:city" v="Myszków"/>
+	<tag k="addr:street" v="ul. Kościuszki"/>
+	<tag k="addr:housenumber" v="105"/>
+	<tag k="email" v="komendant@myszkow.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 842 44"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Myszkowie"/>
+	<tag k="phone" v="+48 47 85 842 00"/>
+	<tag k="website" v="https://myszkow.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-982572641" lat="50.2884" lon="18.8719" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="41-709"/>
+	<tag k="addr:city" v="Ruda Śląska"/>
+	<tag k="addr:street" v="ul. Hallera"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="email" v="komendant@ruda.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 412 44"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Rudzie Śląskiej"/>
+	<tag k="phone" v="+48 47 85 412 00"/>
+	<tag k="website" v="https://ruda-slaska.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-411721125" lat="50.0884" lon="18.5422" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="44-200"/>
+	<tag k="addr:city" v="Rybnik"/>
+	<tag k="addr:street" v="Pl. Armii Krajowej"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="email" v="komendant@rybnik.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 572 44"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Rybniku"/>
+	<tag k="phone" v="+48 47 85 572 00"/>
+	<tag k="website" v="https://rybnik.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-76448579" lat="50.3059" lon="19.0239" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="41-100"/>
+	<tag k="addr:city" v="Siemianowice Śląskie"/>
+	<tag k="addr:street" v="ul. Jana Pawła II"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="email" v="komendant@siemianowice.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 312 44"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Siemianowicach Śląskich"/>
+	<tag k="phone" v="+48 47 85 312 01"/>
+	<tag k="website" v="https://siemianowice-slaskie.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-1068677147" lat="50.0171" lon="18.4501" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="44-313"/>
+	<tag k="addr:city" v="Wodzisław Śląski"/>
+	<tag k="addr:street" v="ul. Kokoszycka"/>
+	<tag k="addr:housenumber" v="180b"/>
+	<tag k="email" v="komendant@wodzislaw.ka.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 85 552 44"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Wodzisławiu Śląskim"/>
+	<tag k="phone" v="+48 47 85 552 00"/>
+	<tag k="website" v="https://wodzislaw-slaski.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-413435604" lat="53.782" lon="20.4829" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="10-521"/>
+	<tag k="addr:city" v="Olsztyn"/>
+	<tag k="addr:street" v="Partyzantów"/>
+	<tag k="addr:housenumber" v="08.cze"/>
+	<tag k="email" v="komendant@ol.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 73 155 05"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji w Olsztynie"/>
+	<tag k="phone" v="+48 47 73 139 00"/>
+	<tag k="website" v="https://warminsko-mazurska.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-617905631" lat="53.6273" lon="21.8079" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="12-100"/>
+	<tag k="addr:city" v="Szczytno"/>
+	<tag k="addr:street" v="Piłsudskiego"/>
+	<tag k="addr:housenumber" v="39"/>
+	<tag k="email" v="komendant@szczytno.ol.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 73 312 05"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Szczytnie"/>
+	<tag k="phone" v="+48 47 73 312 00"/>
+	<tag k="website" v="https://szczytno.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-680250620" lat="52.4129" lon="16.9103" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="60-844"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="ul. Kochanowskiego"/>
+	<tag k="addr:housenumber" v="2a"/>
+	<tag k="email" v="kancelaria.komendanta@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 77 140 11"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji w Poznaniu"/>
+	<tag k="phone" v="+48 47 77 138 18"/>
+	<tag k="website" v="https://www.wielkopolska.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-223610645" lat="52.4064" lon="16.9008" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="60-787"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="ul. A. Szylinga"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="email" v="dyzurny.poznan@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 61 84 156 69"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Poznaniu"/>
+	<tag k="phone" v="+48 47 77 156 00"/>
+	<tag k="website" v="https://www.poznan.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-923543974" lat="52.5359" lon="17.6046" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="62-200"/>
+	<tag k="addr:city" v="Gniezno"/>
+	<tag k="addr:street" v="ul. Jana Pawła II"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="email" v="dyzurny.gniezno@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 77 212 15"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Gnieźnie"/>
+	<tag k="phone" v="+48 47 77 212 11"/>
+	<tag k="website" v="https://www.gniezno.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-1026815450" lat="51.7599" lon="18.0925" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="62-800"/>
+	<tag k="addr:city" v="Kalisz"/>
+	<tag k="addr:street" v="ul. Jasna"/>
+	<tag k="addr:housenumber" v="01.mar"/>
+	<tag k="email" v="dyzurny.kalisz@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 77 511 74"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Kaliszu"/>
+	<tag k="phone" v="+48 47 77 512 40"/>
+	<tag k="website" v="https://www.kalisz.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-975310929" lat="51.2799" lon="17.9299" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="63-600"/>
+	<tag k="addr:city" v="Kępno"/>
+	<tag k="addr:street" v="Chojęcin-Szum"/>
+	<tag k="addr:housenumber" v="8a"/>
+	<tag k="email" v="dyzurny.kepno@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 77 152 15"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Kępnie"/>
+	<tag k="phone" v="+48 47 77 152 11"/>
+	<tag k="website" v="https://www.kepno.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-70859310" lat="51.8387" lon="16.5781" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="64-100"/>
+	<tag k="addr:city" v="Leszno"/>
+	<tag k="addr:street" v="ul. 17 -go Stycznia"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="email" v="dyzurny.leszno@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 77 316 57"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Lesznie"/>
+	<tag k="phone" v="+48 47 77 319 00"/>
+	<tag k="website" v="https://www.leszno.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-224760426" lat="53.1513" lon="16.7635" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="64-920"/>
+	<tag k="addr:city" v="Piła"/>
+	<tag k="addr:street" v="ul. Bydgoska"/>
+	<tag k="addr:housenumber" v="115"/>
+	<tag k="email" v="dyzurny.pila@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 77 413 22"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Pile"/>
+	<tag k="phone" v="+48 47 77 415 60"/>
+	<tag k="website" v="https://www.pila.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-630635757" lat="52.0148" lon="18.5071" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="62-700"/>
+	<tag k="addr:city" v="Turek"/>
+	<tag k="addr:street" v="ul. Legionów Polskich"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="email" v="dyzurny.turek@po.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 77 372 15"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Turku"/>
+	<tag k="phone" v="+48 47 77 372 00"/>
+	<tag k="website" v="https://www.turek.policja.gov.pl/"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-854439407" lat="53.4291" lon="14.5587" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="70-515"/>
+	<tag k="addr:city" v="Szczecin"/>
+	<tag k="addr:street" v="ul. Małopolska"/>
+	<tag k="addr:housenumber" v="47"/>
+	<tag k="email" v="biuroprasowe@sc.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 78 151 19"/>
+	<tag k="name" v="Komenda Wojewódzka Policji"/>
+	<tag k="official_name" v="Komenda Wojewódzka Policji w Szczecinie"/>
+	<tag k="phone" v="+48 47 78 119 00"/>
+	<tag k="website" v="https://www.zachodniopomorska.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-345870486" lat="53.4196" lon="14.5462" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="70-227"/>
+	<tag k="addr:city" v="Szczecin"/>
+	<tag k="addr:street" v="ul. Kaszubska"/>
+	<tag k="addr:housenumber" v="35"/>
+	<tag k="email" v="kmpszczecin@sc.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 78 135 08"/>
+	<tag k="name" v="Komenda Miejska Policji"/>
+	<tag k="official_name" v="Komenda Miejska Policji w Szczecinie"/>
+	<tag k="phone" v="+48 47 78 135 05"/>
+	<tag k="website" v="https://szczecin.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-431766992" lat="54.0054" lon="15.9882" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="78-200"/>
+	<tag k="addr:city" v="Białogard"/>
+	<tag k="addr:street" v="ul. Kołobrzeska"/>
+	<tag k="addr:housenumber" v="43"/>
+	<tag k="email" v="kpp@bialogard.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 78 425 13"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Białogardzie"/>
+	<tag k="phone" v="+48 47 78 425 11"/>
+	<tag k="website" v="https://bialogard.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-880124331" lat="53.9721" lon="14.7753" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="72-400"/>
+	<tag k="addr:city" v="Kamień Pomorski"/>
+	<tag k="addr:street" v="ul. Żwirki i Wigury"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="email" v="rzecznik@kamien.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 78 345 13"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Kamieniu Pomorskim"/>
+	<tag k="phone" v="+48 47 78 345 11"/>
+	<tag k="website" v="https://kamien.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-393953415" lat="53.1449" lon="14.8852" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="74-200"/>
+	<tag k="addr:city" v="Pyrzyce"/>
+	<tag k="addr:street" v="ul.Tadeusza Kościuszki"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="email" v="komenda@pyrzyce.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 78 285 13"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Pyrzycach"/>
+	<tag k="phone" v="+48 47 78 285 11"/>
+	<tag k="website" v="https://pyrzyce.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node>
+<node id="-168870343" lat="53.7721" lon="15.7817" version="1" timestamp="2024-03-04T15:50:27.965709Z" action="modify"   >
+	<tag k="addr:postcode" v="78-300"/>
+	<tag k="addr:city" v="Świdwin"/>
+	<tag k="addr:street" v="ul. Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="18 A"/>
+	<tag k="email" v="sekretariat.swidwin@sc.policja.gov.pl"/>
+	<tag k="fax" v="+48 47 78 445 13"/>
+	<tag k="name" v="Komenda Powiatowa Policji"/>
+	<tag k="official_name" v="Komenda Powiatowa Policji w Świdwinie"/>
+	<tag k="phone" v="+48 47 78 445 11"/>
+	<tag k="website" v="https://swidwin.policja.gov.pl"/>
+	<tag k="amenity" v="police"/>
+	<tag k="source:amenity" v="Baza teleadresowa administracji zespolonej - wypis na dzień 16.08.2021"/>
+</node></osm>

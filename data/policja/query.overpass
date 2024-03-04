@@ -1,0 +1,6 @@
+[out:json][timeout:999];
+{{geocodeArea:Polska}}->.searchArea;
+nw[amenity=police](area.searchArea);
+out meta;
+>;
+out meta;
