@@ -181,3 +181,29 @@ def get_lat_lon_nominatim(tags):
             return {'lat': found['lat'], 'lon': found['lon']}
 
     return {}
+
+
+def get_opening_hours(openstr):
+    if not openstr:
+        return False
+
+    match = re.search(r'(Poniedziałek, Wtorek, Środa, Czwartek, Piątek)(, Sobota)*(, Niedziela)* (\d{1,2}):(\d{1,2})-(\d{1,2}):(\d{1,2})', openstr)
+    if match:
+        if match.group(3):
+            return f'Mo-Su {match.group(4)}:{match.group(5)}-{match.group(6)}:{match.group(7)}'
+        if match.group(2):
+            return f'Mo-Sa {match.group(4)}:{match.group(5)}-{match.group(6)}:{match.group(7)}'
+
+        return f'Mo-Fr {match.group(4)}:{match.group(5)}-{match.group(6)}:{match.group(7)}'
+    return False
+
+
+def get_operator(name, operator_name):
+    public_match = re.search('(urz(ą|a)d)|(miast(o|a))|(gmin(a|y)|(m\. st\.))', operator_name, re.IGNORECASE)
+    if public_match:
+        return 'public'
+
+    private_match = re.search('(niepubliczn)|(sp\.* *z\.* *o\.* *o)|(s\. *c\.)|(spó|oł|lka)|(prywatny)', name, re.IGNORECASE)
+    if private_match:
+        return 'private'
+    return ''

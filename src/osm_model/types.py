@@ -118,7 +118,9 @@ class OsmWay(OsmObject):
 
     @property
     def loc(self):
-        return self._child_nodes[0].loc
+        if len(self._child_nodes) > 0:
+            return self._child_nodes[0].loc
+        return (0, 0)
         # x, y = 0, 0
         # n = len(self._child_nodes)
         # print(f'{self._id} childnodes: {n}')

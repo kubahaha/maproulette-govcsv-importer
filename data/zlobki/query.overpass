@@ -1,9 +1,8 @@
 [out:json][timeout:999];
 {{geocodeArea:Polska}}->.searchArea;
-
 (
-    nw[office=government][government=tax](area.searchArea);
-    nw[office=government][government=customs](area.searchArea);
+    nw[amenity=kindergarten](area.searchArea);
+    nw[amenity=childcare](area.searchArea);
 );
 
 out meta;
