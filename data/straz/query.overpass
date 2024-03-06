@@ -1,0 +1,13 @@
+[out:json][timeout:999];
+{{geocodeArea:Polska}}->.searchArea;
+
+(
+  nwr[amenity=fire_station]["name"~"((komenda)|(KP)|(KW)|(KM)).*((PSP)|(straży).*)", i](area.searchArea);
+  nwr[building=fire_station]["name"~"((komenda)|(KP)|(KW)|(KM)).*((PSP)|(straży).*)", i](area.searchArea);
+  nwr[office=government]["name"~"((komenda)|(KP)|(KW)|(KM)).*((PSP)|(straży).*)", i](area.searchArea);
+  nwr[office=fire_department]["name"~"((komenda)|(KP)|(KW)|(KM)).*((PSP)|(straży).*)", i](area.searchArea);
+);
+
+out meta;
+>;
+out meta;

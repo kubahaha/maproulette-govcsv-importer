@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-03-06T00:31:19.921912Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-554532150" lat="52.2319581" lon="21.0067249" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:housenumber" v="38"/>
+	<tag k="addr:postcode" v="00-463"/>
+	<tag k="addr:street" v="ul. Podchorążych"/>
+	<tag k="fax" v="+48 22 628 65 75"/>
+	<tag k="name" v="Komenda Główna Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Główna Państwowej Straży Pożarnej w Warszawie"/>
+	<tag k="phone" v="+48 22 523 35 10"/>
+	<tag k="short_name" v="KG PSP Warszawa"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-965951009" lat="53.1356823" lon="23.1672255" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="addr:postcode" v="15-062"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="email" v="kmpspbk.sk@straz.bialystok.pl"/>
+	<tag k="fax" v="+48 85 676 99 89"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Białymstoku"/>
+	<tag k="short_name" v="KM PSP Białystok"/>
+	<tag k="website" v="https://www.bialystok.straz.bialystok.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-838411145" lat="51.1339221" lon="23.4711548" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Chełm"/>
+	<tag k="addr:housenumber" v="2b"/>
+	<tag k="addr:postcode" v="22-100"/>
+	<tag k="addr:street" v="Prym. S. Wyszyńskiego"/>
+	<tag k="email" v="km_chelm@straz.lublin.pl"/>
+	<tag k="fax" v="+48 82 565 55 50"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Chełmie"/>
+	<tag k="phone" v="+48 82 565 34 28"/>
+	<tag k="short_name" v="KM PSP Chełm"/>
+	<tag k="website" v="https://www.strazchelm.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-736749115" lat="50.3240192" lon="19.223716626217914" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Dąbrowa Górnicza"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="41-303"/>
+	<tag k="addr:street" v="Podlesie"/>
+	<tag k="email" v="pspdabrowa@katowice.kwpsp.gov.pl"/>
+	<tag k="fax" v="+48 32 264 28 25"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Dąbrowie Górniczej"/>
+	<tag k="phone" v="+48 32 264 76 94"/>
+	<tag k="short_name" v="KM PSP Dąbrowa Górnicza"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-dabrowa-gornicza"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-977542715" lat="54.1558708" lon="19.4044583" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Elbląg"/>
+	<tag k="addr:housenumber" v="17"/>
+	<tag k="addr:postcode" v="82-300"/>
+	<tag k="addr:street" v="Gen. J. Bema"/>
+	<tag k="email" v="km.elblag@kwpsp.olsztyn.pl"/>
+	<tag k="fax" v="+48 55 233 36 22"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Elblągu"/>
+	<tag k="phone" v="+48 55 641 30 00"/>
+	<tag k="short_name" v="KM PSP Elbląg"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-elblag"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-461885755" lat="50.2928404" lon="18.674542677528883" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Gliwice"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="addr:postcode" v="44-100"/>
+	<tag k="addr:street" v="Wrocławska"/>
+	<tag k="email" v="kmpsp@kmpsp.gliwice.pl"/>
+	<tag k="fax" v="+48 32 301 97 16"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Gliwicach"/>
+	<tag k="phone" v="+48 32 231 18 85"/>
+	<tag k="short_name" v="KM PSP Gliwice"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-gliwice"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-262319062" lat="50.8711498" lon="20.64648110512036" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Kielce"/>
+	<tag k="addr:housenumber" v="81"/>
+	<tag k="addr:postcode" v="25-324"/>
+	<tag k="addr:street" v="Sandomierska/83"/>
+	<tag k="email" v="km@straz.kielce.pl"/>
+	<tag k="fax" v="+48 41 360 06 15"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Kielcach"/>
+	<tag k="phone" v="+48 41 369 30 10"/>
+	<tag k="short_name" v="KM PSP Kielce"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-kielce"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-646284740" lat="49.6938045" lon="21.7651458" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Krosno"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="addr:postcode" v="38-402"/>
+	<tag k="addr:street" v="Niepodległości"/>
+	<tag k="email" v="kmkrosno@podkarpacie.straz.pl"/>
+	<tag k="fax" v="+48 13 436 71 10"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Krośnie"/>
+	<tag k="phone" v="+48 13 436 63 08"/>
+	<tag k="short_name" v="KM PSP Krosno"/>
+	<tag k="website" v="https://kmkrosno.itl.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-977507633" lat="51.2392688" lon="22.5555402" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="addr:postcode" v="20-012"/>
+	<tag k="addr:street" v="Antoniego Szczerbowskiego"/>
+	<tag k="email" v="msk_lublin@straz.lublin.pl"/>
+	<tag k="fax" v="+48 81 535 13 02"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Lublinie"/>
+	<tag k="phone" v="+48 81 535 13 20"/>
+	<tag k="short_name" v="KM PSP Lublin"/>
+	<tag k="website" v="https://kmpsp.lublin.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-895058286" lat="51.403562699999995" lon="19.694045352914962" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:housenumber" v="47"/>
+	<tag k="addr:postcode" v="91-446"/>
+	<tag k="addr:street" v="Zgierska"/>
+	<tag k="email" v="kmpsp07@straz.lodz.pl"/>
+	<tag k="fax" v="+48 42 616 30 63"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Łodzi"/>
+	<tag k="phone" v="+48 42 616 30 00"/>
+	<tag k="short_name" v="KM PSP Łódź"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-lodz"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-968551547" lat="50.6289761" lon="21.698622" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Ostrołęka"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="addr:postcode" v="07-412"/>
+	<tag k="addr:street" v="Celna"/>
+	<tag k="email" v="ostroleka@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 29 760 59 06"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Ostrołęce"/>
+	<tag k="phone" v="+48 29 769 44 00"/>
+	<tag k="short_name" v="KM PSP Ostrołęka"/>
+	<tag k="website" v="https://www.gov.pl/kmpsp-ostroleka"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-193542893" lat="52.53865305" lon="19.72865350440817" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Płock"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="addr:postcode" v="09-402"/>
+	<tag k="addr:street" v="Wyszogrodzka A"/>
+	<tag k="email" v="plock@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 24 366 78 50"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Płocku"/>
+	<tag k="phone" v="+48 24 366 78 13"/>
+	<tag k="short_name" v="KM PSP Płock"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-541155011" lat="52.386562" lon="16.966501915684013" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:housenumber" v="6a"/>
+	<tag k="addr:postcode" v="61-248"/>
+	<tag k="addr:street" v="Bobrzańska"/>
+	<tag k="email" v="km-poznan@psp.wlkp.pl"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Poznaniu"/>
+	<tag k="short_name" v="KM PSP Poznań"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-poznan"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-755998178" lat="54.464303349999994" lon="17.036082021800585" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Słupsk"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="76-200"/>
+	<tag k="addr:street" v="Młyńska"/>
+	<tag k="email" v="msk.slupsk@straz.gda.pl"/>
+	<tag k="fax" v="+48 59 841 71 92"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Słupsku"/>
+	<tag k="phone" v="+48 59 842 40 01"/>
+	<tag k="short_name" v="KM PSP Słupsk"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-slupsk"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-599934570" lat="50.29578555" lon="18.91486265395567" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Świętochłowice"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="addr:postcode" v="41-600"/>
+	<tag k="addr:street" v="Harcerska"/>
+	<tag k="email" v="pspswietochlowice@katowice.kwpsp.gov.pl"/>
+	<tag k="fax" v="+48 32 346 20 21"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Świętochłowicach"/>
+	<tag k="phone" v="+48 32 346 20 20"/>
+	<tag k="short_name" v="KM PSP Świętochłowice"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-swietochlowice/"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-364674843" lat="53.0303031" lon="18.6013184" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Toruń"/>
+	<tag k="addr:housenumber" v="70"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="addr:street" v="Legionów/76"/>
+	<tag k="email" v="msk@straz.torun.pl"/>
+	<tag k="fax" v="+48 56 659 71 13"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Toruniu"/>
+	<tag k="phone" v="+48 56 611 92 00"/>
+	<tag k="short_name" v="KM PSP Toruń"/>
+	<tag k="website" v="https://www.straz.torun.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-625416126" lat="50.05046675" lon="18.67308383537773" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Żory"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="addr:postcode" v="44-240"/>
+	<tag k="addr:street" v="Ogniowa"/>
+	<tag k="email" v="pspzory@katowice.kwpsp.gov.pl"/>
+	<tag k="fax" v="+48 32 434 51 15"/>
+	<tag k="name" v="Komenda Miejska Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Miejska Państwowej Straży Pożarnej w Żorach"/>
+	<tag k="phone" v="+48 32 434 54 38"/>
+	<tag k="short_name" v="KM PSP Żory"/>
+	<tag k="website" v="https://www.gov.pl/web/kmpsp-zory"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-136302518" lat="51.265554550000004" lon="15.558525048766935" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Bolesławiec"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="59-700"/>
+	<tag k="addr:street" v="Wesoła"/>
+	<tag k="email" v="boleslawiec@kwpsp.wroc.pl"/>
+	<tag k="fax" v="+48 75 644 33 05"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Bolesławcu"/>
+	<tag k="phone" v="+48 75 644 33 00"/>
+	<tag k="short_name" v="KP PSP Bolesławiec"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-boleslawiec"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-34946647" lat="49.9740308" lon="20.6159308" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Brzesko"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="addr:postcode" v="32-800"/>
+	<tag k="addr:street" v="Solskiego"/>
+	<tag k="email" v="kppspbrzesko@straz.krakow.pl"/>
+	<tag k="fax" v="+48 47 831 44 19"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Brzesku"/>
+	<tag k="phone" v="+48 47 831 44 00"/>
+	<tag k="short_name" v="KP PSP Brzesko"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-brzesko"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-741336142" lat="53.6981791" lon="17.5822055" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Chojnice"/>
+	<tag k="addr:housenumber" v="51"/>
+	<tag k="addr:postcode" v="89-600"/>
+	<tag k="addr:street" v="Gdańska"/>
+	<tag k="email" v="sekretariat.chojnice@straz.gda.pl"/>
+	<tag k="fax" v="+48 52 395 64 16"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Chojnicach"/>
+	<tag k="phone" v="+48 52 395 64 10"/>
+	<tag k="short_name" v="KP PSP Chojnice"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-chojnice"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-755823659" lat="52.8688875" lon="20.598998321901597" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Ciechanów"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="addr:postcode" v="06-400"/>
+	<tag k="addr:street" v="Płocka"/>
+	<tag k="email" v="ciechanow@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 23 671 28 51"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Ciechanowie"/>
+	<tag k="phone" v="+48 23 672 48 81"/>
+	<tag k="short_name" v="KP PSP Ciechanów"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-ciechanow"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-265351127" lat="53.6688336" lon="17.3566763" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Człuchów"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="addr:postcode" v="77-300"/>
+	<tag k="addr:street" v="Stefana Batorego"/>
+	<tag k="email" v="sekretariat@czluchow112.pl"/>
+	<tag k="fax" v="+48 59 834 56 25"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Człuchowie"/>
+	<tag k="phone" v="+48 59 834 53 08"/>
+	<tag k="short_name" v="KP PSP Człuchów"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-czluchow"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-728824168" lat="50.1951875" lon="17.8326017572227" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Głubczyce"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="addr:postcode" v="48-100"/>
+	<tag k="addr:street" v="Kołłątaja"/>
+	<tag k="email" v="sekretariat.glubczyce@psp.opole.pl"/>
+	<tag k="fax" v="+48 47 861 64 03"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Głubczycach"/>
+	<tag k="phone" v="+48 47 861 64 00"/>
+	<tag k="short_name" v="KP PSP Głubczyce"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-glubczyce"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-698313924" lat="52.54511875" lon="17.58426601285081" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Gniezno"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="addr:postcode" v="62-200"/>
+	<tag k="addr:street" v="B.Chrobrego"/>
+	<tag k="email" v="kppspgniezno@psp.wlkp.pl"/>
+	<tag k="fax" v="+48 61 222 06 38"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Gnieźnie"/>
+	<tag k="short_name" v="KP PSP Gniezno"/>
+	<tag k="website" v="https://www.gniezno.psp.wlkp.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-177730360" lat="52.11347195" lon="20.6242767809741" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Grodzisk Mazowiecki"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="addr:postcode" v="05-825"/>
+	<tag k="addr:street" v="Żydowska"/>
+	<tag k="email" v="grodziskpsp@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 22 755 56 94"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Grodzisku Mazowieckim"/>
+	<tag k="phone" v="+48 22 755 52 37"/>
+	<tag k="short_name" v="KP PSP Grodzisk Mazowiecki"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-grodzisk-mazowiecki"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-564094309" lat="50.788212599999994" lon="16.035279162246958" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Kamienna Góra"/>
+	<tag k="addr:housenumber" v="2c"/>
+	<tag k="addr:postcode" v="58-400"/>
+	<tag k="addr:street" v="Wałbrzyska"/>
+	<tag k="email" v="kamgora@kwpsp.wroc.pl"/>
+	<tag k="fax" v="+48 75 744 77 00"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Kamiennej Górze"/>
+	<tag k="short_name" v="KP PSP Kamienna Góra"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-kamienna-gora"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-336562456" lat="54.33643545" lon="18.204531064359067" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="KARTUZY"/>
+	<tag k="addr:housenumber" v="16a"/>
+	<tag k="addr:postcode" v="83-300"/>
+	<tag k="addr:street" v="3 Maja"/>
+	<tag k="email" v="psk.kartuzy@straz.gda.pl"/>
+	<tag k="fax" v="+48 47 741 84 55"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Kartuzach"/>
+	<tag k="phone" v="+48 58 694 44 44"/>
+	<tag k="short_name" v="KP PSP Kartuzy"/>
+	<tag k="website" v="https://www.gov.pl/kppsp-kartuzy"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-813616222" lat="50.334344900000005" lon="18.14090020051643" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Kędzierzyn-Koźle"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="addr:postcode" v="47-200"/>
+	<tag k="addr:street" v="Kraszewskiego"/>
+	<tag k="email" v="kozlesekret@psp.opole.pl"/>
+	<tag k="fax" v="+48 47 861 65 14"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Kędzierzynie-Koźlu"/>
+	<tag k="phone" v="+48 47 861 65 10"/>
+	<tag k="short_name" v="KP PSP Kędzierzyn-Koźle"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-kedzierzyn-kozle"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-778194127" lat="54.544883549999994" lon="17.735804142148815" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Lębork"/>
+	<tag k="addr:housenumber" v="37"/>
+	<tag k="addr:postcode" v="84-300"/>
+	<tag k="addr:street" v="Stryjewskiego"/>
+	<tag k="email" v="sekretariat.lebork@straz.gda.pl"/>
+	<tag k="fax" v="+48 47 741 86 59"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Lęborku"/>
+	<tag k="phone" v="+48 59 863 33 66"/>
+	<tag k="short_name" v="KP PSP Lębork"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-lebork"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-794714394" lat="51.46253" lon="22.61053" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Lubartów"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="addr:postcode" v="21-100"/>
+	<tag k="addr:street" v="Jana Pawła II"/>
+	<tag k="email" v="psk@straz.lubartow.pl"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Lubartowie"/>
+	<tag k="phone" v="+48 81 855 30 81"/>
+	<tag k="short_name" v="KP PSP Lubartów"/>
+	<tag k="website" v="https://www.straz.lubartow.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-305723541" lat="51.594151350000004" lon="19.13159694107359" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Łask"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="98-100"/>
+	<tag k="addr:street" v="Strażacka"/>
+	<tag k="email" v="kppsp04@straz.lodz.pl"/>
+	<tag k="fax" v="+48 43 675 56 41"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Łasku"/>
+	<tag k="phone" v="+48 43 675 23 26"/>
+	<tag k="short_name" v="KP PSP Łask"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-lask"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-423192063" lat="52.8633057" lon="21.099539999999998" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Maków Mazowiecki"/>
+	<tag k="addr:housenumber" v="6A"/>
+	<tag k="addr:postcode" v="06-200"/>
+	<tag k="addr:street" v="Moniuszki"/>
+	<tag k="email" v="makow@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 29 717 11 37"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Makowie Mazowieckim"/>
+	<tag k="phone" v="+48 29 717 11 50"/>
+	<tag k="short_name" v="KP PSP Maków Mazowiecki"/>
+	<tag k="website" v="https://kppspmakowmaz.binp.info"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-217122377" lat="52.4560021" lon="15.5775132" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Międzyrzecz"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="addr:postcode" v="66-300"/>
+	<tag k="addr:street" v="Rokitniańska"/>
+	<tag k="email" v="kppspmiedzyrzecz@straz.gorzow.pl"/>
+	<tag k="fax" v="+48 95 742 66 31"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Międzyrzeczu"/>
+	<tag k="phone" v="+48 95 742 66 20"/>
+	<tag k="short_name" v="KP PSP Międzyrzecz"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-miedzyrzecz/"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+
+<node id="-672647140" lat="52.63082165" lon="20.37965284860087" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Płońsk"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="addr:postcode" v="09-100"/>
+	<tag k="addr:street" v="Henryka Sienkiewicza"/>
+	<tag k="email" v="plonsk@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 23 653 30 04"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Płońsku"/>
+	<tag k="phone" v="+48 23 652 75 98"/>
+	<tag k="short_name" v="KP PSP Płońsk"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-plonsk"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-544220428" lat="50.317865850000004" lon="17.56742882835495" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Prudnik"/>
+	<tag k="addr:housenumber" v="12a"/>
+	<tag k="addr:postcode" v="48-200"/>
+	<tag k="addr:street" v="Legionów"/>
+	<tag k="email" v="sekretariat.prudnik@psp.opole.pl"/>
+	<tag k="fax" v="+48 47 861 61 81"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Prudniku"/>
+	<tag k="phone" v="+48 47 861 61 00"/>
+	<tag k="short_name" v="KP PSP Prudnik"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-prudnik"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-1001225997" lat="54.2665475" lon="18.637935" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Pruszcz Gdański"/>
+	<tag k="addr:housenumber" v="1a"/>
+	<tag k="addr:postcode" v="83-000"/>
+	<tag k="addr:street" v="Gdańska"/>
+	<tag k="email" v="pruszcz@straz.gda.pl"/>
+	<tag k="fax" v="+48 58 682 23 22"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Pruszczu Gdańskim"/>
+	<tag k="phone" v="+48 58 682 30 24"/>
+	<tag k="short_name" v="KP PSP Pruszcz Gdański"/>
+	<tag k="website" v="https://kppsppruszcz.bip.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-306367841" lat="51.4150201" lon="21.99067630059584" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Puławy"/>
+	<tag k="addr:housenumber" v="51"/>
+	<tag k="addr:postcode" v="24-100"/>
+	<tag k="addr:street" v="Lubelska"/>
+	<tag k="email" v="kp_pulawy@straz.lublin.pl"/>
+	<tag k="fax" v="+48 81 888 65 96"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Puławach"/>
+	<tag k="phone" v="+48 81 886 34 47"/>
+	<tag k="short_name" v="KP PSP Puławy"/>
+	<tag k="website" v="https://www.straz.pulawy.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-710540740" lat="50.09411675" lon="18.218952644354" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Racibórz"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="addr:postcode" v="47-400"/>
+	<tag k="addr:street" v="Władysława Reymonta"/>
+	<tag k="email" v="info@raciborz.kppsp.gov.pl"/>
+	<tag k="fax" v="+48 32 415 44 44"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Raciborzu"/>
+	<tag k="short_name" v="KP PSP Racibórz"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-raciborz"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-764746363" lat="51.755077299999996" lon="20.247475909326525" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Rawa Mazowiecka"/>
+	<tag k="addr:housenumber" v="2A"/>
+	<tag k="addr:postcode" v="96-200"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="email" v="kppsp15@straz.lodz.pl"/>
+	<tag k="fax" v="+48 46 814 40 28"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Rawie Mazowieckiej"/>
+	<tag k="phone" v="+48 46 814 40 27"/>
+	<tag k="short_name" v="KP PSP Rawa Mazowiecka"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-rawa-mazowiecka"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-555187121" lat="51.578203099999996" lon="18.70699733348257" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Sieradz"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="addr:postcode" v="98-200"/>
+	<tag k="addr:street" v="T. Grzesika, R. Piwnika"/>
+	<tag k="email" v="kppsp16@straz.lodz.pl"/>
+	<tag k="fax" v="+48 43 827 98 24"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Sieradzu"/>
+	<tag k="phone" v="+48 43 828 10 63"/>
+	<tag k="short_name" v="KP PSP Sieradz"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-sieradz"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-898164579" lat="52.41428655" lon="22.229419760318983" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Sokołów Podlaski"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="addr:postcode" v="08-300"/>
+	<tag k="addr:street" v="Kolejowa"/>
+	<tag k="email" v="sokolow@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 25 781 26 41"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Sokołowie Podlaskim"/>
+	<tag k="phone" v="+48 60 695 67 60"/>
+	<tag k="short_name" v="KP PSP Sokołów Podlaski"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-sokolow-podlaski"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-387509306" lat="53.33345505" lon="15.037702766630867" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Stargard"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="addr:postcode" v="73-110"/>
+	<tag k="addr:street" v="Księcia Bogusława IV nr"/>
+	<tag k="email" v="kp.stargard@szczecin.kwpsp.gov.pl"/>
+	<tag k="fax" v="+48 91 578 87 66"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Stargardzie"/>
+	<tag k="phone" v="+48 91 578 87 50"/>
+	<tag k="short_name" v="KP PSP Stargard"/>
+	<tag k="website" v="https://www.straz.stargard.com.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-922663573" lat="53.9656342" lon="18.52771584263343" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Starogard Gdański"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="addr:postcode" v="83-200"/>
+	<tag k="addr:street" v="Lubichowska"/>
+	<tag k="email" v="sekretariat.starogard@straz.gda.pl"/>
+	<tag k="fax" v="+48 58 560 15 19"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Starogardzie Gdańskim"/>
+	<tag k="phone" v="+48 58 562 30 11"/>
+	<tag k="short_name" v="KP PSP Starogard Gdański"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-starogard-gdanski"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-211092167" lat="50.51840215" lon="18.310888438456324" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Strzelce Opolskie"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="addr:postcode" v="47-100"/>
+	<tag k="addr:street" v="Zakładowa"/>
+	<tag k="email" v="strzelcersk@psp.opole.pl"/>
+	<tag k="fax" v="+48 77 404 99 10"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Strzelcach Opolskich"/>
+	<tag k="phone" v="+48 77 404 99 00"/>
+	<tag k="short_name" v="KP PSP Strzelce Opolskie"/>
+	<tag k="website" v="https://www.pspstrzelceop.pl/"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-625347408" lat="52.2117904" lon="20.6077203" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Błonie"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="addr:postcode" v="05-870"/>
+	<tag k="addr:street" v="Lesznowska a"/>
+	<tag k="email" v="warszawazachod@mazowsze.straz.pl"/>
+	<tag k="fax" v="+48 22 725 51 23"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w False"/>
+	<tag k="phone" v="+48 22 725 52 93"/>
+	<tag k="short_name" v="KP PSP w pow. warsz. zachodnim"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-warszawski-zachodni"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-905679611" lat="53.2720488" lon="18.97143909160134" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Wąbrzeźno"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="addr:postcode" v="87-200"/>
+	<tag k="addr:street" v="św. Floriana"/>
+	<tag k="email" v="kppsp_wabrzezno@kujawy.psp.gov.pl"/>
+	<tag k="fax" v="+48 56 689 09 03"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Wąbrzeźnie"/>
+	<tag k="phone" v="+48 56 689 09 00"/>
+	<tag k="short_name" v="KP PSP Wąbrzeźno"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-498328768" lat="51.3348766" lon="16.6419952" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Wołów"/>
+	<tag k="addr:housenumber" v="38"/>
+	<tag k="addr:postcode" v="56-100"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="email" v="wolow@kwpsp.wroc.pl"/>
+	<tag k="fax" v="+48 71 389 11 90"/>
+	<tag k="name" v="Komenda Powiatowa Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Powiatowa Państwowej Straży Pożarnej w Wołowie"/>
+	<tag k="phone" v="+48 71 389 27 02"/>
+	<tag k="short_name" v="KP PSP Wołów"/>
+	<tag k="website" v="https://www.gov.pl/web/kppsp-wolow"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-859405393" lat="53.1356566" lon="23.1669261" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="addr:postcode" v="15-062"/>
+	<tag k="addr:street" v="ul. Warszawska"/>
+	<tag k="email" v="kwpsp@straz.bialystok.pl (e-mail)"/>
+	<tag k="fax" v="+48 85 653 74 44"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Białymstoku"/>
+	<tag k="phone" v="+48 47 711 70 10"/>
+	<tag k="short_name" v="KW PSP Białystok"/>
+	<tag k="website" v="https://www.gov.pl/web/kwpsp-bialystok"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-464036720" lat="52.7309926" lon="15.2400451" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Gorzów Wielkopolski"/>
+	<tag k="addr:housenumber" v="64"/>
+	<tag k="addr:postcode" v="66-400"/>
+	<tag k="addr:street" v="ul. kard. Stefana Wyszyńskiego-66"/>
+	<tag k="email" v="komenda@straz.gorzow.pl"/>
+	<tag k="fax" v="+48 95 720 89 91"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Gorzowie Wielkopolskim"/>
+	<tag k="phone" v="+48 95 733 83 00"/>
+	<tag k="short_name" v="KW PSP Gorzów Wielkopolski"/>
+	<tag k="website" v="https://www.straz.gorzow.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-382150527" lat="50.8708425" lon="20.64648384991308" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Kielce"/>
+	<tag k="addr:housenumber" v="81"/>
+	<tag k="addr:postcode" v="25-324"/>
+	<tag k="addr:street" v="ul. Sandomierska"/>
+	<tag k="email" v="kw@straz.kielce.pl"/>
+	<tag k="fax" v="+48 41 365 32 03"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Kielcach"/>
+	<tag k="phone" v="+48 41 365 32 05"/>
+	<tag k="short_name" v="KW PSP Kielce"/>
+	<tag k="website" v="https://www.gov.pl/web/kwpsp-kielce"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-697983333" lat="50.07552295" lon="19.8875821648355" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:housenumber" v="106"/>
+	<tag k="addr:postcode" v="30-134"/>
+	<tag k="addr:street" v="ul. Zarzecze (Kraków-Krowodrza)"/>
+	<tag k="email" v="kwpspkrakow@straz.gov.pl"/>
+	<tag k="fax" v="+48 47 835 90 09"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Krakowie"/>
+	<tag k="phone" v="+48 47 835 90 00"/>
+	<tag k="short_name" v="KW PSP Kraków"/>
+	<tag k="website" v="https://www.straz.krakow.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-124294655" lat="48.4037328" lon="-1.3576887" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="addr:postcode" v="61-767"/>
+	<tag k="addr:street" v="ul. Masztalarska"/>
+	<tag k="email" v="kw-poznan@psp.wlkp.pl"/>
+	<tag k="fax" v="+48 61 222 05 55"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Poznaniu"/>
+	<tag k="phone" v="+48 47 771 60 00"/>
+	<tag k="short_name" v="KW PSP Poznań"/>
+	<tag k="website" v="https://www.psp.wlkp.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-619446708" lat="50.0374531" lon="22.0047174" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Rzeszów"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="addr:postcode" v="35-016"/>
+	<tag k="addr:street" v="ul. Maurycego Mochnackiego"/>
+	<tag k="email" v="biuro@podkarpacie.straz.pl"/>
+	<tag k="fax" v="+48 17 862 20 97"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Rzeszowie"/>
+	<tag k="phone" v="+48 17 747 02 00"/>
+	<tag k="short_name" v="KW PSP Rzeszów"/>
+	<tag k="website" v="https://www.gov.pl/web/kwpsp-rzeszow"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-870425745" lat="53.01340615" lon="18.60764039941497" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Toruń"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="addr:street" v="Prosta"/>
+	<tag k="email" v="wskr@kujawy.psp.gov.pl"/>
+	<tag k="fax" v="+48 56 657 57 32"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Toruniu"/>
+	<tag k="phone" v="+48 56 658 01 24"/>
+	<tag k="short_name" v="KW PSP Toruń"/>
+	<tag k="website" v="https://www.gov.pl/web/kwpsp-torun"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-48779534" lat="52.1837566" lon="21.00297793053724" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:housenumber" v="40"/>
+	<tag k="addr:postcode" v="02-672"/>
+	<tag k="addr:street" v="ul. Domaniewska"/>
+	<tag k="email" v="kwpspwarszawa@straz.gov.pl"/>
+	<tag k="fax" v="+48 22 559 51 24"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Warszawie"/>
+	<tag k="phone" v="+48 22 559 52 75"/>
+	<tag k="short_name" v="KW PSP Warszawa"/>
+	<tag k="website" v="https://www.straz.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node>
+<node id="-519119171" lat="51.1089776" lon="17.0326689" version="1" timestamp="2024-03-06T00:08:14.342818Z" action="modify"   >
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:housenumber" v="138"/>
+	<tag k="addr:postcode" v="50-552"/>
+	<tag k="addr:street" v="ul. Borowska (Wrocław-Krzyki)"/>
+	<tag k="email" v="kw@kwpsp.wroc.pl"/>
+	<tag k="fax" v="+48 71 368 22 44"/>
+	<tag k="name" v="Komenda Wojewódzka Państwowej Straży Pożarnej"/>
+	<tag k="official_name" v="Komenda Wojewódzka Państwowej Straży Pożarnej w Wrocławiu"/>
+	<tag k="phone" v="+48 71 368 22 01"/>
+	<tag k="short_name" v="KW PSP Wrocław"/>
+	<tag k="website" v="https://www.straz.wroclaw.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="government" v="public_safety"/>
+	<tag k="source:office" v="Dane teleadresowe jednostek organizacyjnych Państwowej Straży Pożarnej według stanu na 16.02.2022"/>
+</node></osm>

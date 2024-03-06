@@ -1,0 +1,353 @@
+Nazwa,Rodzaj,Województwo,Powiat,Gmina,Miejscowość,Kod pocztowy,Adres,Centrala,FAX,Służbowa strona WWW,Służbowy adres e-mail
+KG PSP Warszawa,KG,mazowieckie,Warszawa,Warszawa,Warszawa,00-463,ul. Podchorążych 38,225233510,226286575,,
+KM PSP Biała Podlaska,KM/KP,lubelskie,Biała Podlaska,Biała Podlaska,Biała Podlaska,21-500,Sidorska 93,833447251,833447227,https://strazbiala.pl/,km_bialapodlaska@straz.lublin.pl
+KM PSP Białystok,KM/KP,podlaskie,Białystok,Białystok,Białystok,15-062,Warszawska 3,,856769989,www.bialystok.straz.bialystok.pl,kmpspbk.sk@straz.bialystok.pl
+KM PSP Bielsko Biała,KM/KP,śląskie,Bielsko-Biała,Bielsko-Biała,Bielsko Biała,43-300,Leszczyńska 43,338122233,338228310,www.gov.pl/web/kmpsp-bielsko-biala,pspbielsko@katowice.kwpsp.gov.pl
+KM PSP Bydgoszcz,KM/KP,kujawsko-pomorskie,Bydgoszcz,Bydgoszcz,Bydgoszcz,85-158,Dąbrowskiego 4,525848800,525848863,kmpspbydgoszcz.pl,kmpsp_bydgoszcz@kujawy.psp.gov.pl
+KM PSP Bytom,KM/KP,śląskie,Bytom,Bytom,Bytom,41-902,Łużycka 21,323887600,323887618,https://www.gov.pl/web/kmpsp-bytom,pspbytom@katowice.kwpsp.gov.pl
+KM PSP Chełm,KM/KP,lubelskie,Chełm,Chełm,Chełm,22-100,Prym. S. Wyszyńskiego 2b,825653428,825655550,www.strazchelm.pl,km_chelm@straz.lublin.pl
+KM PSP Chorzów,KM/KP,śląskie,Chorzów,Chorzów,Chorzów,41-500,Katowicka 123,322410977,322411009,https://www.gov.pl/web/kmpsp-chorzow,sekretariat@straz-chorzow.pl
+KM PSP Częstochowa,KM/KP,śląskie,Częstochowa,Częstochowa,Częstochowa,42-202,ul. Gen. Wł.Sikorskiego 82/94,,343614993,www.straz.czestochowa.pl,skkm@straz.czestochowa.pl
+KM PSP Dąbrowa Górnicza,KM/KP,śląskie,Dąbrowa Górnicza,Dąbrowa Górnicza,Dąbrowa Górnicza,41-303,Podlesie 2,322647694,322642825,www.gov.pl/web/kmpsp-dabrowa-gornicza,pspdabrowa@katowice.kwpsp.gov.pl
+KM PSP Elbląg,KM/KP,warmińsko-mazurskie,Elbląg,Elbląg,Elbląg,82-300,Gen. J. Bema 17,556413000,552333622,www.gov.pl/web/kmpsp-elblag,km.elblag@kwpsp.olsztyn.pl
+KM PSP Gdańsk,KM/KP,pomorskie,Gdańsk,Gdańsk,Gdańsk,80-382,Beniowskiego 7,587690501,585111351,www.kmpsp.gda.pl,sekretariat@kmpsp.gda.pl
+KM PSP Gdynia,KM/KP,pomorskie,Gdynia,Gdynia,Gdynia,81-353,Władysława IV 12/14,586602300,586602207,psp.seveo.pl,sekretariat@kmpsp.gdynia.pl
+KM PSP Gliwice,KM/KP,śląskie,Gliwice,Gliwice,Gliwice,44-100,Wrocławska 1,322311885,323019716,https://www.gov.pl/web/kmpsp-gliwice,kmpsp@kmpsp.gliwice.pl
+KM PSP Gorzów Wielkopolski,KM/KP,lubuskie,Gorzów Wielkopolski,Gorzów Wielkopolski,Gorzów Wielkopolski,66-400,Dąbrowskiego 3,957338400,957338460,https://www.gov.pl/web/kmpsp-gorzow-wielkopolski,kmpspgorzow@straz.gorzow.pl
+KM PSP Grudziądz,KM/KP,kujawsko-pomorskie,grudziądzki,Grudziądz,Grudziądz,86-300,Piłsudskiego 25/27,564506632,564506630,http://www.pspgrudziadz.pl,kmpsp_grudziadz@kujawy.psp.gov.pl
+KM PSP Jastrzębie Zdrój,KM/KP,śląskie,Jastrzębie-Zdrój,Jastrzębie-Zdrój,Jastrzębie Zdrój,44-330,Jagiełły 4,,324759509,www.gov.pl/kmpsp-jastrzebie-zdroj,pspjastrzebie@katowice.kwpsp.gov.pl
+KM PSP Jaworzno,KM/KP,śląskie,Jaworzno,Jaworzno,Jaworzno,43-600,Krakowska 22,327518710,327518710,https://www.gov.pl/web/kmpsp-jaworzno,pspjaworzno@katowice.kwpsp.gov.pl
+KM PSP Jelenia Góra,KM/KP,dolnośląskie,Jelenia Góra,Jelenia Góra,Jelenia Góra,58-500,Sudecka 2,757647460,757647496,www.straz.jgora.pl,jeleniagora@kwpsp.wroc.pl
+KM PSP Kalisz,KM/KP,wielkopolskie,Kalisz,Kalisz,Kalisz,62-800,Nowy Swiat 40/42,477717600 wew.: 7600,627654223,www.kalisz.psp.wlkp.pl,km-kalisz@psp.wlkp.pl
+KM PSP Katowice,KM/KP,śląskie,Katowice,Katowice,Katowice,40-026,Wojewódzka 11,323583700,323583708,www.gov.pl/web/kmpsp-katowice/,skkm@strazpozarna.katowice.pl
+KM PSP Kielce,KM/KP,świętokrzyskie,Kielce,Kielce,Kielce,25-324,Sandomierska 81/83,413693010,413600615,www.gov.pl/web/kmpsp-kielce,km@straz.kielce.pl
+KM PSP Konin,KM/KP,wielkopolskie,Konin,Konin,Konin,62-510,Przemysłowa 7,477717900,632499813,www.konin.psp.wlkp.pl,kmpspkonin@psp.wlkp.pl
+KM PSP Koszalin,KM/KP,zachodniopomorskie,Koszalin,Koszalin,Koszalin,75-738,Strażacka 8,943455230 wew.: 230,943455250 wew.: 250,www.kmpsp.koszalin.pl,km.koszalin@szczecin.kwpsp.gov.pl
+KM PSP Kraków,KM/KP,małopolskie,Kraków,Kraków,Kraków,31-033,Westerplatte 19,126168300,126165909,https://www.gov.pl/web/kmpsp-krakow/,sekretariat1@psp.krakow.pl
+KM PSP Krosno,KM/KP,podkarpackie,Krosno,Krosno,Krosno,38-402,Niepodległości 6,134366308,134367110,kmkrosno.itl.pl,kmkrosno@podkarpacie.straz.pl
+KM PSP Legnica,KM/KP,dolnośląskie,Legnica,Legnica,Legnica,59-220,Witelona 2,767522112 wew.: 103,768567475,www.gov.pl/web/kmpsp-legnica,legnica@kwpsp.wroc.pl
+KM PSP Leszno,KM/KP,wielkopolskie,Leszno,Leszno,Leszno,64-100,Okrężna 19,477718200 wew.: 8200,477718209 wew.: 8209,https://www.gov.pl/web/kmpsp-leszno,kmpspleszno@psp.wlkp.pl
+KM PSP Lublin,KM/KP,lubelskie,Lublin,Lublin,Lublin,20-012,Antoniego Szczerbowskiego 6,815351320,815351302,kmpsp.lublin.pl,msk_lublin@straz.lublin.pl
+KM PSP Łomża,KM/KP,podlaskie,Łomża,Łomża,Łomża,18-400,gen. Władysława Sikorskiego 48/94,862150220,477117403,https://www.gov.pl/web/kmpsp-lomza/,kmpsplo@straz.lomza.pl
+KM PSP Łódź,KM/KP,łódzkie,Łódź,Łódź,Łódź,91-446,Zgierska 47,426163000,426163063,https://www.gov.pl/web/kmpsp-lodz,kmpsp07@straz.lodz.pl
+KM PSP m. st. Warszawa,KM/KP,mazowieckie,Warszawa,Warszawa,Warszawa,00-622,Polna 1,225967300,225967900,https://www.gov.pl/web/kmpsp-warszawa/,kmwarszawa@mazowsze.straz.pl
+KM PSP Mysłowice,KM/KP,śląskie,Mysłowice,Mysłowice,Mysłowice,41-400,Mikołowska 50 M,,323160039,http://myslowice.kmpsp.gov.pl,skkm@myslowice.kmpsp.gov.pl
+KM PSP Nowy Sącz,KM/KP,małopolskie,Nowy Sącz,Nowy Sącz,Nowy Sącz,33-300,Wincentego Witosa 69,478314900,478314919,www.gov.pl/web/kmpsp-nowy-sacz,kppspnowysacz@straz.krakow.pl
+KM PSP Olsztyn,KM/KP,warmińsko-mazurskie,Olsztyn,Olsztyn,Olsztyn,10-045,Niepodległości 16,895229200,895229209,www.gov.pl/web/kmpsp-olsztyn,sekretariat@straz.olsztyn.pl
+KM PSP Opole,KM/KP,opolskie,Opole,Opole,Opole,45-315,Głogowska 24,774002000,774002031,www.kmpsp.opole.pl,opolersk@kmpsp.opole.pl
+KM PSP Ostrołęka,KM/KP,mazowieckie,Ostrołęka,Ostrołęka,Ostrołęka,07-412,Celna 11,297694400,297605906,www.gov.pl/kmpsp-ostroleka,ostroleka@mazowsze.straz.pl
+KM PSP Piekary Śląskie,KM/KP,śląskie,Piekary Śląskie,Piekary Śląskie,Piekary Śląskie,41-940,Karola Miarki 14,,322872124,https://www.gov.pl/web/kmpsp-piekary-slaskie,sekretariat@kmpsppiekary.pl
+KM PSP Piotrków Trybunalski,KM/KP,łódzkie,Piotrków Trybunalski,Piotrków Trybunalski,Piotrków Trybunalski,97-300,Jagiellońska 11,446473919,446473488,https://www.gov.pl/web/kmpsp-piotrkow-trybunalski,kmpsp12@straz.lodz.pl
+KM PSP Płock,KM/KP,mazowieckie,Płock,Płock,Płock,09-402,Wyszogrodzka 1 A,243667813,243667850,,plock@mazowsze.straz.pl
+KM PSP Poznań,KM/KP,wielkopolskie,Poznań,Poznań,Poznań,61-248,Bobrzańska 6a,477716300 wew.: 6300,477716315 wew.: 6315,www.gov.pl/web/kmpsp-poznan,km-poznan@psp.wlkp.pl
+KM PSP Przemyśl,KM/KP,podkarpackie,przemyski,Przemyśl,Przemyśl,37-700,Pl. Św. Floriana 1,,166764602,www.przemysl.kmpsp.gov.pl,kmprzemysl@podkarpacie.straz.pl
+KM PSP Radom,KM/KP,mazowieckie,Radom,Radom,Radom,26-600,Romualda Traugutta 57,483688998,483688912,https://www.gov.pl/web/kmpsp-radom,radom@mazowsze.straz.pl
+KM PSP Ruda Śląska,KM/KP,śląskie,Ruda Śląska,Ruda Śląska,Ruda Śląska,41-710,Strażacka 10,322447060,322447077,https://www.gov.pl/web/kmpsp-ruda-slaska,pspruda@katowice.kwpsp.gov.pl
+KM PSP Rybnik,KM/KP,śląskie,Rybnik,Rybnik,Rybnik,44-200,Św. Józefa 4,324395800,324395810,www.gov.pl/web/kmpsp-rybnik,psprybnik@katowice.kwpsp.gov.pl
+KM PSP Rzeszów,KM/KP,podkarpackie,Rzeszów,Rzeszów,Rzeszów,35-016,Maurycego Mochnackiego 4,178523303,178523540,www.gov.pl/web/kmpsp-rzeszow,kmrzeszow@podkarpacie.straz.pl
+KM PSP Siedlce,KM/KP,mazowieckie,Siedlce,Siedlce,Siedlce,08-110,Czerwonego Krzyża 45,256445978,256443288,www.gov.pl/web/kmpsp-siedlce,siedlce@mazowsze.straz.pl
+KM PSP Siemianowice Śląskie,KM/KP,śląskie,Siemianowice Śląskie,Siemianowice Śląskie,Siemianowice Śląskie,41-100,Pułaskiego 2,327668030,322203231,https://www.gov.pl/web/kmpsp-siemianowice-slaskie,pspsiemianowice@siemianowice.kmpsp.gov.pl
+KM PSP Skierniewice,KM/KP,łódzkie,Skierniewice,Skierniewice,Skierniewice,96-100,Aleja Macieja Rataja 4,468333611,468325762,https://www.gov.pl/web/kmpsp-skierniewice,kmpsp17@straz.lodz.pl
+KM PSP Słupsk,KM/KP,pomorskie,Słupsk,Słupsk,Słupsk,76-200,Młyńska 2,598424001,598417192,https://www.gov.pl/web/kmpsp-slupsk,msk.slupsk@straz.gda.pl
+KM PSP Sopot,KM/KP,pomorskie,Sopot,Sopot,SOPOT,81-824,Armii Krajowej 105,585558173 wew.: 173,585558174,https://www.gov.pl/web/kmpsp-sopot,msk.sopot@straz.gda.pl
+KM PSP Sosnowiec,KM/KP,śląskie,Sosnowiec,Sosnowiec,Sosnowiec,41-200,Klimontowska 21,323631840,323631842,www.sosnowiec.kmpsp.gov.pl,straz@sosnowiec.kmpsp.gov.pl
+KM PSP Suwałki,KM/KP,podlaskie,Suwałki,Suwałki,Suwałki,16-400,Witosa Wincentego 10,477117510,477117503,www.straz.suwalki.pl,msk@kmpsp.suwalki.pl
+KM PSP Szczecin,KM/KP,zachodniopomorskie,Szczecin,Szczecin,Szczecin,70-560,Grodzka 1/5,914348400,914348500,http://www.straz.szczecin.pl/index.htm,km.szczecin@szczecin.kwpsp.gov.pl
+KM PSP Świętochłowice,KM/KP,śląskie,Świętochłowice,Świętochłowice,Świętochłowice,41-600,Harcerska 16,323462020,323462021,https://www.gov.pl/web/kmpsp-swietochlowice/,pspswietochlowice@katowice.kwpsp.gov.pl
+KM PSP Świnoujście,KM/KP,zachodniopomorskie,Świnoujście,Świnoujście,Świnoujście,72-602,Norberta Barlickiego 18,913275210,913275214,kmpspswinoujscie.binp.info/kmpspswinoujscie/,km.swinoujscie@szczecin.kwpsp.gov.pl
+KM PSP Tarnobrzeg,KM/KP,podkarpackie,Tarnobrzeg,Tarnobrzeg,Tarnobrzeg,39-400,Targowa 3,158233507,158233507 wew.: 204,https://www.gov.pl/web/kmpsp-tarnobrzeg,kmtarnobrzeg@podkarpacie.straz.pl
+KM PSP Tarnów,KM/KP,małopolskie,Tarnów,Tarnów,Tarnów,33-100,Klikowska 39,146317000,146317007,www.straz.tarnow.pl,kmpsp@straz.tarnow.pl
+KM PSP Toruń ,KM/KP,kujawsko-pomorskie,Toruń,Toruń,Toruń,87-100,Legionów 70/76,566119200,566597113,http://www.straz.torun.pl,msk@straz.torun.pl
+KM PSP Tychy,KM/KP,śląskie,Tychy,Tychy,Tychy,43-100,aleja Niepodległości 230,322273871,323232458,https://www.gov.pl/web/kmpsp-tychy,psptychy@katowice.kwpsp.gov.pl
+KM PSP Wałbrzych,KM/KP,dolnośląskie,Wałbrzych,Wałbrzych,Wałbrzych,58-306,Ogrodowa 20,748877200,748423137,www.straz.walbrzych.pl,walbrzych@kwpsp.wroc.pl
+KM PSP Włocławek,KM/KP,kujawsko-pomorskie,Włocławek,Włocławek,Włocławek,87-800,Rolna 1,477512810,542306513,www.gov.pl/kmpsp-wloclawek,wloclawek@kujawy.psp.gov.pl
+KM PSP Wrocław,KM/KP,dolnośląskie,Wrocław,Wrocław,Wrocław,50-233,Kręta 28,713563431,717702396,https://www.gov.pl/web/kmpsp-wroclaw,wroclaw@kwpsp.wroc.pl
+KM PSP Zabrze ,KM/KP,śląskie,Zabrze,Zabrze,Zabrze,41-800,Stalmacha 22,323760990,322781777,www.gov.pl/web/kmpsp-zabrze,straz@psp.zabrze.pl
+KM PSP Zamość,KM/KP,lubelskie,Zamość,Zamość,Zamość,22-400,Kilińskiego 62,846807410,846271628,http://www.straz.zamosc.pl,km_zamosc@straz.zamosc.pl
+KM PSP Zielona Góra,KM/KP,lubuskie,Zielona Góra,Zielona Góra,Zielona Góra,65-074,Jana Kasprowicza 3-5,684575600,684575647,www.straz.zgora.pl,sekretariat@straz.zgora.pl
+KM PSP Żory,KM/KP,śląskie,Żory,Żory,Żory,44-240,Ogniowa 10,324345438,324345115,https://www.gov.pl/web/kmpsp-zory,pspzory@katowice.kwpsp.gov.pl
+KP PSP Aleksandrów Kujawski,KM/KP,kujawsko-pomorskie,aleksandrowski,Aleksandrów Kujawski (gmina miejska),Aleksandrów Kujawski,87-700,Halinowo 2a,542318900,542824060,https://www.gov.pl/kppsp-aleksandrow-kujawski,aleksandrow@kujawy.psp.gov.pl
+KP PSP Augustów,KM/KP,podlaskie,augustowski,Augustów (gmina miejska),Augustów,16-300,Brzostowskiego Karola 2,477118010,477118003,https://www.gov.pl/web/kppsp-augustow,kppspau@straz.bialystok.pl
+KP PSP Bartoszyce,KM/KP,warmińsko-mazurskie,bartoszycki,Bartoszyce (gmina miejska),Bartoszyce,11-200,Bema 36,897649800,897649802,www.gov.pl/web/kppsp-bartoszyce,kpbartoszyce@kwpsp.olsztyn.pl
+KP PSP Bełchatów ,KM/KP,łódzkie,bełchatowski,Bełchatów (gmina miejska),Bełchatów,97-400,Wspólna  7,446338200,446338205,https://www.gov.pl/web/kppsp-belchatow,kppsp01@straz.lodz.pl
+KP PSP Będzin,KM/KP,śląskie,będziński,Będzin,Będzin,42-500,Modrzejowska 74,322944540,322944546,www.gov.pl/web/kppsp-bedzin/,komenda@bedzin.kppsp.gov.pl
+KP PSP Białobrzegi,KM/KP,mazowieckie,białobrzeski,Białobrzegi,Białobrzegi,26-800,Mikołaja Kopernika 4,486132336,486132281 wew.: 31,http://www.bialobrzegistraz.pl/,bialobrzegi@mazowsze.straz.pl
+KP PSP Białogard,KM/KP,zachodniopomorskie,białogardzki,Białogard (gmina miejska),Białogard,78-200,Szosa Połczyńska 1,943120320,943120321,www.kppspbialogard.pl,kp.bialogard@szczecin.kwpsp.gov.pl
+KP PSP Bielsk Podlaski,KM/KP,podlaskie,bielski,Bielsk Podlaski (gmina miejska),Bielsk Podlaski,17-100,Poniatowskiego 11,477118051,477118059,www.gov.pl/web/kppsp-bielsk-podlaski,kppspbp@straz.bialystok.pl
+KP PSP Biłgoraj,KM/KP,lubelskie,biłgorajski,Biłgoraj (gmina miejska),Biłgoraj,23-400,Gen. H. Dąbrowskiego 10,846880010,846880011,www.straz.lbl.pl,kp_bilgoraj@straz.lublin.pl
+KP PSP Bochnia,KM/KP,małopolskie,bocheński,Bochnia (gmina miejska),Bochnia,32-700,Poniatowskiego 7,478314200,478314219,gov.pl/web/kppsp-bochnia,kppspbochnia@straz.krakow.pl
+KP PSP Bolesławiec,KM/KP,dolnośląskie,bolesławiecki,Bolesławiec (gmina miejska),Bolesławiec,59-700,Wesoła 2,756443300,756443305,https://www.gov.pl/web/kppsp-boleslawiec,boleslawiec@kwpsp.wroc.pl
+KP PSP Braniewo,KM/KP,warmińsko-mazurskie,braniewski,Braniewo (gmina miejska),Braniewo,14-500,Plac Strażacki 2,556205503,556205509,www.gov.pl/web/kppsp-braniewo,skkp.braniewo@skkw.olsztyn.pl
+KP PSP Brodnica,KM/KP,kujawsko-pomorskie,brodnicki,Brodnica (gmina miejska),Brodnica,87-300,Sienkiewicza 23,564950600,564950603,straz.brodnica.pl,kppsp_brodnica@kujawy.psp.gov.pl
+KP PSP Brzeg,KM/KP,opolskie,brzeski,Brzeg,Brzeg,49-300,Saperska 16,478616301,478616321,www.gov.pl/kppsp-brzeg,sekretariat.brzeg@psp.opole.pl
+KP PSP Brzesko,KM/KP,małopolskie,brzeski,Brzesko,Brzesko,32-800,Solskiego 16,478314400,478314419,https://www.gov.pl/web/kppsp-brzesko,kppspbrzesko@straz.krakow.pl
+KP PSP Brzeziny,KM/KP,łódzkie,brzeziński,Brzeziny (gmina miejska),Brzeziny,95-060,Waryńskiego 55,468752736,468752733,https://www.gov.pl/web/kppsp-brzeziny,kppsp02@straz.lodz.pl
+KP PSP Brzozów,KM/KP,podkarpackie,brzozowski,Brzozów,Brzozów,36-200,Mickiewicza 1,134341141,134344000,https://www.gov.pl/web/kppsp-brzozow,kpbrzozow@podkarpacie.straz.pl
+KP PSP Busko Zdrój,KM/KP,świętokrzyskie,buski,Busko-Zdrój,Busko Zdrój,28-100,Waryńskiego 29a,413782043,413788771,https://www.gov.pl/web/kppsp-busko-zdroj/,sekretariat@strazbusko.pl
+KP PSP Bytów,KM/KP,pomorskie,bytowski,Bytów,Bytów,77-100,Gen. Józefa Wybickiego 9,477418003,477418032,https://www.gov.pl/web/kppsp-bytow,psk.bytow@straz.gda.pl
+KP PSP Chełmno,KM/KP,kujawsko-pomorskie,chełmiński,Chełmno (gmina wiejska),Chełmno,86-200,Łunawska 3a,566864466,566864467,https://www.gov.pl/web/kppsp-chelmno/,kppsp_chelmno@kujawy.psp.gov.pl
+KP PSP Chodzież,KM/KP,wielkopolskie,chodzieski,Chodzież (gmina miejska),Chodzież,64-800,Marcinkowskiego 6,477717000,672223316,www.chodziez.psp.wlkp.pl,kppspchodziez@psp.wlkp.pl
+KP PSP Chojnice,KM/KP,pomorskie,chojnicki,Chojnice (gmina miejska),Chojnice,89-600,Gdańska 51,523956410,523956416,https://www.gov.pl/web/kppsp-chojnice,sekretariat.chojnice@straz.gda.pl
+KP PSP Choszczno,KM/KP,zachodniopomorskie,choszczeński,Choszczno,Choszczno,73-200,Bolesława Chrobrego 6,957689800,957689818,choszczno.straz.gov.pl,kp.choszczno@szczecin.kwpsp.gov.pl
+KP PSP Chrzanów,KM/KP,małopolskie,chrzanowski,Chrzanów,Chrzanów,32-500,Ks.Skorupki 3,326278900,478314519,www.gov.pl/web/kppsp-chrzanow,kppspchrzanow@straz.krakow.pl
+KP PSP Ciechanów,KM/KP,mazowieckie,ciechanowski,Ciechanów (gmina miejska),Ciechanów,06-400,Płocka 32,236724881,236712851,https://www.gov.pl/web/kppsp-ciechanow,ciechanow@mazowsze.straz.pl
+KP PSP Cieszyn,KM/KP,śląskie,cieszyński,Cieszyn,Cieszyn,43-400,Chemików 16,338521106,338522760,kppsp.cieszyn.pl,pspcieszyn@katowice.kwpsp.gov.pl
+KP PSP Czarnków ,KM/KP,wielkopolskie,czarnkowsko-trzcianecki,Czarnków (gmina miejska),Czarnków,64-700,Ogrodowa 1,477717100,672553420,www.czarnkow.psp.wlkp.pl,kppspczarnkow@psp.wlkp.pl
+KP PSP Człuchów,KM/KP,pomorskie,człuchowski,Człuchów (gmina miejska),Człuchów,77-300,Stefana Batorego 10,598345308,598345625,https://www.gov.pl/web/kppsp-czluchow,sekretariat@czluchow112.pl
+KP PSP Dąbrowa Tarnowska,KM/KP,małopolskie,dąbrowski,Dąbrowa Tarnowska,Dąbrowa Tarnowska,33-200,Żabieńska 20,478314600,478314609,https://www.gov.pl/kppsp-dabrowa-tarnowska,kppspdabrowa@straz.krakow.pl
+KP PSP Dębica,KM/KP,podkarpackie,dębicki,Dębica (gmina miejska),Dębica,39-200,Poddęby 6a,146812855,146832622,www.gov.pl/web/kppsp-debica,kpdebica@podkarpacie.straz.pl
+KP PSP Drawsko Pomorskie,KM/KP,zachodniopomorskie,drawski,Drawsko Pomorskie,Drawsko Pomorskie,78-500,Plac Marii Konopnickiej 1,943632061,943630103,www.strazdrawsko.pl,kp.drawsko@szczecin.kwpsp.gov.pl
+KP PSP Działdowo,KM/KP,warmińsko-mazurskie,działdowski,Działdowo (gmina miejska),Działdowo,13-200,Marii Curie Skłodowskiej 10,236970500,236970515,www.gov.pl/web/kppsp-dzialdowo,kpdzialdowo@kwpsp.olsztyn.pl
+KP PSP Dzierżoniów,KM/KP,dolnośląskie,dzierżoniowski,Dzierżoniów (gmina miejska),Dzierżoniów,58-200,Piłsudskiego 26,748325380,748325393,https://www.gov.pl/web/kppsp-dzierzoniow,dzierzoniow@kwpsp.wroc.pl
+KP PSP Ełk,KM/KP,warmińsko-mazurskie,ełcki,Ełk (gmina miejska),Ełk,19-300,Suwalska 50,876217100,876217125,www.gov.pl/web/kppsp-elk,kpelk@kwpsp.olsztyn.pl
+KP PSP Garwolin,KM/KP,mazowieckie,garwoliński,Garwolin (gmina miejska),Garwolin,08-400,Targowa  2A,256822288 wew.: 24,256824226,https://www.gov.pl/web/kppsp-garwolin,garwolin@mazowsze.straz.pl
+KP PSP Giżycko,KM/KP,warmińsko-mazurskie,giżycki,Giżycko (gmina miejska),Giżycko,11-500,Białostocka 2,874299100,874299105,www.gov.pl/web/kppsp-gizycko,kpgizycko@kwpsp.olsztyn.pl
+KP PSP Głogów,KM/KP,dolnośląskie,głogowski,Głogów (gmina miejska),Głogów,67-200,Sikorskiego 55,768357714,768357713,https://www.gov.pl/web/kppsp-glogow,glogow@kwpsp.wroc.pl
+KP PSP Głubczyce,KM/KP,opolskie,głubczycki,Głubczyce,Głubczyce,48-100,Kołłątaja 4,478616400,478616403,https://www.gov.pl/web/kppsp-glubczyce,sekretariat.glubczyce@psp.opole.pl
+KP PSP Gniezno,KM/KP,wielkopolskie,gnieźnieński,Gniezno (gmina miejska),Gniezno,62-200,B.Chrobrego 22,477717200 wew.: 7200,612220638,www.gniezno.psp.wlkp.pl,kppspgniezno@psp.wlkp.pl
+KP PSP Goleniów,KM/KP,zachodniopomorskie,goleniowski,Goleniów,Goleniów,72-100,Gen. Władysława Andersa 8,914317900,914317908,www.straz.goleniow.pl,kp.goleniow@szczecin.kwpsp.gov.pl
+KP PSP Golub-Dobrzyń,KM/KP,kujawsko-pomorskie,golubsko-dobrzyński,Golub-Dobrzyń (gmina miejska),Golub-Dobrzyń,87-400,Lipnowska 9,566835389,566835389,https://www.gov.pl/kppsp-golub-dobrzyn,golub-dobrzyn@kujawy.psp.gov.pl
+KP PSP Gołdap,KM/KP,warmińsko-mazurskie,gołdapski,Gołdap,Gołdap,19-500,Wojska Polskiego 19,876156100 wew.: 900,876156134 wew.: 934,www.gov.pl/web/kppsp-goldap,kpgoldap@kwpsp.olsztyn.pl
+KP PSP Gorlice,KM/KP,małopolskie,gorlicki,Gorlice (gmina miejska),Gorlice,38-300,11 Listopada 84,183549300,183549305,www.gov.pl/web/kppsp-gorlice,kppspgorlice@straz.krakow.pl
+KP PSP Gostynin,KM/KP,mazowieckie,gostyniński,Gostynin (gmina miejska),Gostynin,09-500,Przemysłowa 1,242360200,242353333,https://www.gov.pl/web/kppsp-gostynin,gostynin@mazowsze.straz.pl
+KP PSP Gostyń,KM/KP,wielkopolskie,gostyński,Gostyń,Gostyń,63-800,Wrocławska 247,477717300,653224278,http://www.gostyn.psp.wlkp.pl/,kppspgostyn@psp.wlkp.pl
+KP PSP Góra,KM/KP,dolnośląskie,górowski,Góra,Góra,56-200,Wincentego Witosa 22,655433103,655442062,https://www.gov.pl/web/kppsp-gora,kpgora@kwpsp.wroc.pl
+KP PSP Grajewo,KM/KP,podlaskie,grajewski,Grajewo (gmina miejska),Grajewo,19-203,Wojska Polskiego 74,477118101,477118103,https://www.gov.pl/web/kppsp-grajewo,kppspgr@straz.bialystok.pl
+KP PSP Grodzisk Mazowiecki,KM/KP,mazowieckie,grodziski,Grodzisk Mazowiecki,Grodzisk Mazowiecki,05-825,Żydowska 7,227555237,227555694,www.gov.pl/web/kppsp-grodzisk-mazowiecki,grodziskpsp@mazowsze.straz.pl
+KP PSP Grodzisk Wielkopolski,KM/KP,wielkopolskie,grodziski,Grodzisk Wielkopolski,Grodzisk Wielkopolski,62-065,Rakoniewicka 31,477717400,477717404,www.grodzisk.psp.wlkp.pl,kppspgrodzisk@psp.wlkp.pl
+KP PSP Grójec,KM/KP,mazowieckie,grójecki,Grójec,Grójec,05-600,Strażacka 11,486642388,486642556,https://www.gov.pl/web/kppsp-grojec,grojec@mazowsze.straz.pl
+KP PSP Gryfice,KM/KP,zachodniopomorskie,gryficki,Gryfice,Gryfice,72-300,3-Maja 25,913847720,913847731,www.straz.gryfice.pl,kp.gryfice@szczecin.kwpsp.gov.pl
+KP PSP Gryfino,KM/KP,zachodniopomorskie,gryfiński,Gryfino,Gryfino,74-100,Łużycka 1,914667180,914667182,kppspgryfino.pl,kp.gryfino@szczecin.kwpsp.gov.pl
+KP PSP Hajnówka,KM/KP,podlaskie,hajnowski,Hajnówka (gmina miejska),Hajnowka,17-200,11 Listopada 4,477118160,477118153,https://www.gov.pl/web/kppsp-hajnowka/,kpspsha@straz.bialystok.pl
+KP PSP Hrubieszów,KM/KP,lubelskie,hrubieszowski,Hrubieszów (gmina miejska),Hrubieszów,22-500,Gródecka 36,846962655,846962589,www.hrubieszow.kppsp.gov.pl,kp_hrubieszow@straz.lublin.pl
+KP PSP Iława,KM/KP,warmińsko-mazurskie,iławski,Iława (gmina miejska),Iława,14-200,Kardynała Stefana Wyszyńskiego 10,,896449503,www.gov.pl/web/kppsp-ilawa,skkp@kppsp.ilawa.pl
+KP PSP Inowrocław,KM/KP,kujawsko-pomorskie,inowrocławski,Inowrocław (gmina miejska),Inowrocław,88-100,Poznańska 133,523575021,523575021 wew.: 236,https://www.gov.pl/web/kppsp-inowroclaw,inowroclaw@kujawy.psp.gov.pl
+KP PSP Janów Lubelski,KM/KP,lubelskie,janowski,Janów Lubelski,Janów Lubelski,23-300,Piłsudskiego 58,158725024,158721182,www.straz-janowlub.pl,kp_janowlubelski@staz.lublin.pl
+KP PSP Jarocin,KM/KP,wielkopolskie,jarociński,Jarocin,Jarocin,63-200,Powstańców Wlkp. 2,477717500 wew.: 7500,477717518,www.jarocin.psp.wlkp.pl,kppspjarocin@psp.wlkp.pl
+KP PSP Jarosław,KM/KP,podkarpackie,jarosławski,Jarosław (gmina miejska),Jarosław,37-500,Morawska 2,163071200,163071221,https://www.gov.pl/web/kppsp-jaroslaw,kpjaroslaw@podkarpacie.straz.pl
+KP PSP Jasło,KM/KP,podkarpackie,jasielski,Jasło (gmina miejska),Jasło,38-200,Mickiewicza 33,134435800,134435828,https://www.gov.pl/web/kppsp-jaslo,kpjaslo@podkarpacie.straz.pl
+KP PSP Jawor,KM/KP,dolnośląskie,jaworski,Jawor,Jawor,59-400,Kościuszki 6,768702643,768702643 wew.: 104,https://www.gov.pl/web/kppsp-jawor,jawor@kwpsp.wroc.pl
+KP PSP Jędrzejów,KM/KP,świętokrzyskie,jędrzejowski,Jędrzejów,Jędrzejów,28-300,Reymonta 5,413861895,413865202,www.gov.pl/web/kppsp-jedrzejow/,jedrzejow@straz.kielce.pl
+KP PSP Kamienna Góra,KM/KP,dolnośląskie,kamiennogórski,Kamienna Góra (gmina miejska),Kamienna Góra,58-400,Wałbrzyska 2c,757447701 wew.: 10,757447700,https://www.gov.pl/web/kppsp-kamienna-gora,kamgora@kwpsp.wroc.pl
+KP PSP Kamień Pomorski,KM/KP,zachodniopomorskie,kamieński,Kamień Pomorski,Kamień Pomorski,72-400,Wolińska 7 d,913275610,913820132,www.strazkamien.pl,kp.kamien@szczecin.kwpsp.gov.pl
+KP PSP Kartuzy,KM/KP,pomorskie,kartuski,Kartuzy,KARTUZY,83-300,3 Maja 16a,586944444,477418455,www.gov.pl/kppsp-kartuzy,psk.kartuzy@straz.gda.pl
+KP PSP Kazimierza Wielka,KM/KP,świętokrzyskie,kazimierski,Kazimierza Wielka,Kazimierza Wielka,28-500,Kolejowa 142,413521119,413501187,https://www.gov.pl/web/kppsp-kazimierza-wielka/,kazimierza@straz.kielce.pl
+KP PSP Kędzierzyn-Koźle,KM/KP,opolskie,kędzierzyńsko-kozielski,Kędzierzyn-Koźle,Kędzierzyn-Koźle,47-200,Kraszewskiego 12,478616510,478616514,https://www.gov.pl/web/kppsp-kedzierzyn-kozle,kozlesekret@psp.opole.pl
+KP PSP Kępno,KM/KP,wielkopolskie,kępiński,Kępno,Kępno,63-600,Broniewskiego 12,477717700,623324338,www.straz.kepno.com.pl,kppspkepno@psp.wlkp.pl
+KP PSP Kętrzyn,KM/KP,warmińsko-mazurskie,kętrzyński,Kętrzyn (gmina miejska),Kętrzyn,11-400,Plac Słowiański 1a,897517116,897517114,www.gov.pl/web/kppsp-ketrzyn,kpketrzyn@kwpsp.olsztyn.pl
+KP PSP Kluczbork,KM/KP,opolskie,kluczborski,Kluczbork,Kluczbork,46-200,Krakusa 1,,774170397,https://www.gov.pl/web/kppsp-kluczbork,kluczrsk@psp.opole.pl
+KP PSP Kłobuck,KM/KP,śląskie,kłobucki,Kłobuck,Kłobuck,42-100,Częstochowska 45,343172213,343172416 wew.: 36,https://www.gov.pl/web/kppsp-klobuck,psk@strazklobuck.pl
+KP PSP Kłodzko,KM/KP,dolnośląskie,kłodzki,Kłodzko (gmina miejska),Kłodzko,57-300,Traugutta 7,748657200,748657203,www.gov.pl/web/kppsp-klodzko,klodzko@kwpsp.wroc.pl
+KP PSP Kolbuszowa,KM/KP,podkarpackie,kolbuszowski,Kolbuszowa,Kolbuszowa,36-100,Piekarska 13,,172271165,www.straz.kolbuszowa.pl,kpkolbuszowa@podkarpacie.straz.pl
+KP PSP Kolno,KM/KP,podlaskie,kolneński,Kolno (gmina miejska),Kolno,18-500,Strażacka 3,477118210,477118203,www.gov.pl/web/kppsp-kolno,kppspko@straz.bialystok.pl
+KP PSP Koło,KM/KP,wielkopolskie,kolski,Koło (gmina miejska),Koło,62-600,Toruńska 74,477717800,632234278,www.kolo.psp.bip.net.pl,kp-kolo@psp.wlkp.pl
+KP PSP Kołobrzeg,KM/KP,zachodniopomorskie,kołobrzeski,Kołobrzeg (gmina miejska),Kołobrzeg,78-100,Żurawia 12 B,943551435,943551442,www.psp.kolobrzeg.pl,kp.kolobrzeg@szczecin.kwpsp.gov.pl
+KP PSP Końskie,KM/KP,świętokrzyskie,konecki,Końskie,Końskie,26-200,Strażacka 14,413750030,412010420,https://www.gov.pl/web/kppsp-konskie/,biuro@strazkonskie.pl
+KP PSP Kościan,KM/KP,wielkopolskie,kościański,Kościan (gmina miejska),Kościan,64-000,Bączkowskiego 5a,477718000,653224297,www.koscian.psp.wlkp.pl,kppspkoscian@psp.wlkp.pl
+KP PSP Kościerzyna,KM/KP,pomorskie,kościerski,Kościerzyna (gmina miejska),Kościerzyna,83-400,Traugutta 6,586863037,586864197,https://www.gov.pl/web/kppsp-koscierzyna/,psk.koscierzyna@straz.gda.pl
+KP PSP Kozienice,KM/KP,mazowieckie,kozienicki,Kozienice,Kozienice,26-900,Nowy Świat 3,486117898,486117888,https://www.gov.pl/web/kppsp-kozienice,kozienice@mazowsze.straz.pl
+KP PSP Krapkowice,KM/KP,opolskie,krapkowicki,Krapkowice,Krapkowice,47-303,3 Maja 19,,478616719,www.gov.pl/web/kppsp-krapkowice,sekretariat.krapkowice@psp.opole.pl
+KP PSP Krasnystaw,KM/KP,lubelskie,krasnostawski,Krasnystaw (gmina miejska),Krasnystaw,22-300,Poniatowskiego 10,825762555,825762555 wew.: 137,www.straz.krasnystaw.pl,kp_krasnystaw@straz.lublin.pl
+KP PSP Kraśnik,KM/KP,lubelskie,kraśnicki,Kraśnik (gmina miejska),Kraśnik,23-200,Obwodowa 1,818252281,818264157,www.straz.krasnik.pl,kp_krasnik@straz.lublin.pl
+KP PSP Krosno Odrzańskie,KM/KP,lubuskie,krośnieński,Krosno Odrzańskie,Krosno Odrzańskie,66-600,Sienkiewicza 2a,683830100,683830103,https://www.gov.pl/web/kppsp-krosno-odrzanskie,kppspkrosno@straz.gorzow.pl
+KP PSP Krotoszyn,KM/KP,wielkopolskie,krotoszyński,Krotoszyn,Krotoszyn,63-700,Mickiewicza 29,477718100,623324358,www.krotoszyn.psp.wlkp.pl,kppspkrotoszyn@psp.wlkp.pl
+KP PSP Kutno,KM/KP,łódzkie,kutnowski,Kutno (gmina miejska),Kutno,99-300,1-go Maja 7,242510060,242510075,https://www.gov.pl/web/kppsp-kutno,kppsp03@straz.lodz.pl
+KP PSP Kwidzyn,KM/KP,pomorskie,kwidzyński,Kwidzyn (gmina miejska),Kwidzyn,82-500,Sportowa 3,477415264,477415266,https://www.gov.pl/web/kppsp-kwidzyn,sekretariat.kwidzyn@straz.gda.pl
+KP PSP Legionowo,KM/KP,mazowieckie,legionowski,Legionowo,Legionowo,05-120,Jagiellońska 71A,227742828,227742888,https://www.gov.pl/web/kppsp-legionowo,legionowo@mazowsze.straz.pl
+KP PSP Lesko,KM/KP,podkarpackie,leski,Lesko,Lesko,38-600,Jana Pawła II 2,,134696997,www.gov.pl/web/kppsp-lesko,kplesko@podkarpacie.straz.pl
+KP PSP Leżajsk,KM/KP,podkarpackie,leżajski,Leżajsk (gmina miejska),Leżajsk,37-300,Opalińskiego 6,174241459,172426381 wew.: 31,https://www.gov.pl/web/kppsp-lezajsk,kplezajsk@podkarpacie.straz.pl
+KP PSP Lębork,KM/KP,pomorskie,lęborski,Lębork,Lębork,84-300,Stryjewskiego 37,598633366,477418659,https://www.gov.pl/web/kppsp-lebork,sekretariat.lebork@straz.gda.pl
+KP PSP Lidzbark Warmiński,KM/KP,warmińsko-mazurskie,lidzbarski,Lidzbark Warmiński (gmina miejska),Lidzbark Warmiński,11-100,Olsztyńska 8,897677550,897677553,www.gov.pl/web/kppsp-lidzbark-warminski,skkp.lidzbark@skkw.olsztyn.pl
+KP PSP Limanowa,KM/KP,małopolskie,limanowski,Limanowa (gmina miejska),Limanowa,34-600,Matki  Boskiej Bolesnej 43,478314700,478314709,www.kppsplimanowa.pl,kppsplimanowa@straz.krakow.pl
+KP PSP Lipno,KM/KP,kujawsko-pomorskie,lipnowski,Lipno (gmina miejska),Lipno,87-600,Sportowa 16a,542886562,542886577,http://psplipno.internetdsl.pl,kppsp_lipno@kujawy.psp.gov.pl
+KP PSP Lipsko,KM/KP,mazowieckie,lipski,Lipsko,Lipsko,27-300,Partyzantów 3,483781188,483780661,https://www.gov.pl/web/kppsp-lipsko,lipsko@mazowsze.straz.pl
+KP PSP Lubaczów,KM/KP,podkarpackie,lubaczowski,Lubaczów (gmina miejska),Lubaczów,37-600,Sobieskiego 13,166322183,166325021,https://www.gov.pl/web/kppsp-lubaczow,kplubaczow@podkarpacie.straz.pl
+KP PSP Lubań,KM/KP,dolnośląskie,lubański,Lubań (gmina miejska),Lubań,59-800,Podwale 7,757223128,757222031 wew.: 30,https://www.gov.pl/web/kppsp-luban,kpluban@kwpsp.wroc.pl
+KP PSP Lubartów,KM/KP,lubelskie,lubartowski,Lubartów (gmina wiejska),Lubartów,21-100,Jana Pawła II 14,818553081,818553082 wew.: 125,www.straz.lubartow.pl,psk@straz.lubartow.pl
+KP PSP Lubin,KM/KP,dolnośląskie,lubiński,Lubin (gmina miejska),Lubin,59-300,Ścinawska 21,768461840,768461855,https://www.gov.pl/web/kppsp-lubin/,lubin@kwpsp.wroc.pl
+KP PSP Lubliniec,KM/KP,śląskie,lubliniecki,Lubliniec,Lubliniec,42-700,PCK 10,343510730,343510732,https://www.gov.pl/web/kppsp-lubliniec,sekretariat@straz-lubliniec.pl
+KP PSP Lwówek Śląski,KM/KP,dolnośląskie,lwówecki,Lwówek Śląski,Lwówek Śląski,59-600,Sikorskiego 2,757822222,757822222 wew.: 39,www.gov.pl/web/kppsp-lwowek-slaski,kplwowek@kwpsp.wroc.pl
+KP PSP Łańcut,KM/KP,podkarpackie,łańcucki,Łańcut (gmina miejska),Łańcut,37-100,Grunwaldzka 68,694488702,172254003,www.straz-lancut.pl/,kplancut@podkarpacie.straz.pl
+KP PSP Łask,KM/KP,łódzkie,łaski,Łask,Łask,98-100,Strażacka 2,436752326,436755641,https://www.gov.pl/web/kppsp-lask,kppsp04@straz.lodz.pl
+KP PSP Łęczna,KM/KP,lubelskie,łęczyński,Łęczna,Łęczna,21-010,Przemysłowa 18,817527520,817527524,http://www.straz.leczna.pl/,kp_leczna@straz.lublin.pl
+KP PSP Łęczyca,KM/KP,łódzkie,łęczycki,Łęczyca (gmina miejska),Łęczyca,99-100,Lotnicza 21E,247212632,247212632,https://www.gov.pl/web/kppsp-leczyca,kppsp05@straz.lodz.pl
+KP PSP Łobez,KM/KP,zachodniopomorskie,łobeski,Łobez,Łobez,73-150,Przemysłowa 2,913974026,913970955,http://kppsp.lobez.ibip.pl,kp.lobez@szczecin.kwpsp.gov.pl
+KP PSP Łosice,KM/KP,mazowieckie,łosicki,Łosice,Łosice,08-200,Kolejowa 2A,833572241,833572243,www.gov.pl/web/kppsp-losice,losice@mazowsze.straz.pl
+KP PSP Łowicz,KM/KP,łódzkie,łowicki,Łowicz (gmina miejska),Łowicz,99-400,Seminaryjna 4,468302550,468376929,https://www.gov.pl/web/kppsp-lowicz,kppsp06@straz.lodz.pl
+KP PSP Łuków,KM/KP,lubelskie,łukowski,Łuków (gmina miejska),Łuków,21-400,Partyzantów 6,257982087,257971067,,kp_lukow@straz.lublin.pl
+KP PSP Maków Mazowiecki,KM/KP,mazowieckie,makowski,Maków Mazowiecki,Maków Mazowiecki,06-200,Moniuszki 6A,297171150,297171137,http://kppspmakowmaz.binp.info,makow@mazowsze.straz.pl
+KP PSP Malbork,KM/KP,pomorskie,malborski,Malbork (gmina wiejska),Malbork,82-200,Józefa Wybickiego 1,552702120,552702122,https://www.gov.pl/web/kppsp-malbork,psk.malbork@straz.gda.pl
+KP PSP Miechów,KM/KP,małopolskie,miechowski,Miechów,Miechów,32-200,Racławicka 20,478317109,478317109,https://www.gov.pl/web/kppsp-miechow,kppspmiechow@straz.krakow.pl
+KP PSP Mielec,KM/KP,podkarpackie,mielecki,Mielec (gmina miejska),Mielec,39-300,Sienkiewicza 54,177800970,177800973,https://www.gov.pl/web/kppsp-mielec,kpmielec@podkarpacie.straz.pl
+KP PSP Międzychód,KM/KP,wielkopolskie,międzychodzki,Międzychód,Międzychód,64-400,Zewnętrzna 4,477718300,952222018,www.gov.pl/web/kppsp-miedzychod,kppspmiedzychod@psp.wlkp.pl
+KP PSP Międzyrzecz,KM/KP,lubuskie,międzyrzecki,Międzyrzecz,Międzyrzecz,66-300,Rokitniańska 1,957426620,957426631,https://www.gov.pl/web/kppsp-miedzyrzecz/,kppspmiedzyrzecz@straz.gorzow.pl
+KP PSP Mikołów,KM/KP,śląskie,mikołowski,Mikołów,Mikołów,43-190,Konstantego Prusa 7,,323262311,https://www.gov.pl/web/kppsp-mikolow,pspmikolow@katowice.kwpsp.gov.pl
+KP PSP Milicz,KM/KP,dolnośląskie,milicki,Milicz,Milicz,56-300,Powstańców Wielkopolskich 3,713841338,713842152,https://www.gov.pl/web/kppsp-milicz,kpmilicz@kwpsp.wroc.pl
+KP PSP Mińsk Mazowiecki,KM/KP,mazowieckie,miński,Mińsk Mazowiecki (gmina miejska),Mińsk Mazowiecki,05-300,Warszawska 120,257585061,257584473,https://www.gov.pl/web/kppsp-minsk-mazowiecki,minsk@mazowsze.straz.pl
+KP PSP Mława,KM/KP,mazowieckie,mławski,Mława,Mława,06-500,Padlewskiego 15,236543385,236545368,https://www.gov.pl/web/kppsp-mlawa/,mlawa@mazowsze.straz.pl
+KP PSP Mogilno,KM/KP,kujawsko-pomorskie,mogileński,Mogilno,Mogilno,88-300,900 - lecia 3,523152351,523152351,http://pspmogilno.pl/,kppsp_mogilno@kujawy.psp.gov.pl
+KP PSP Mońki,KM/KP,podlaskie,moniecki,Mońki,Mońki,19-100,Mickiewicza 18,477118260,477118259,www.gov.pl/web/kppsp-monki,kppspmo@straz.bialystok.pl
+KP PSP Mrągowo,KM/KP,warmińsko-mazurskie,mrągowski,Mrągowo (gmina miejska),Mrągowo,11-700,Oficerska 2 A,897410500,897410511,www.gov.pl/web/kppsp-mragowo,kpmragowo@kwpsp.olsztyn.pl
+KP PSP Myszków,KM/KP,śląskie,myszkowski,Myszków,Myszków,42-300,Jana Pawła II 11,,343131541,https://www.gov.pl/web/kppsp-myszkow,pspmyszkow@katowice.kwpsp.gov.pl
+KP PSP Myślenice,KM/KP,małopolskie,myślenicki,Myślenice,Myślenice,32-400,Przemysłowa 9,478317000,478317009,https://www.gov.pl/web/kppsp-myslenice,kppspmyslenice@straz.krakow.pl
+KP PSP Myślibórz,KM/KP,zachodniopomorskie,myśliborski,Myślibórz,Myślibórz,74-300,Lipowa 1B,957472096,957472096 wew.: 103,https://www.gov.pl/web/kppsp-mysliborz,kp.mysliborz@szczecin.kwpsp.gov.pl
+KP PSP Nakło nad Notecią,KM/KP,kujawsko-pomorskie,nakielski,Nakło nad Notecią,Nakło nad Notecią,89-100,Strażacka 3,477513701,,www.gov.pl/web/kppsp-naklo,kppsp_naklo@kujawy.psp.gov.pl
+KP PSP Namysłów,KM/KP,opolskie,namysłowski,Namysłów,Namysłów,46-100,Pl. Powstańców Śląskich 3,774106777,774106776,www.gov.pl/kppsp-namyslow,sekretariatnamyslow@psp.opole.pl
+KP PSP Nidzica,KM/KP,warmińsko-mazurskie,nidzicki,Nidzica,Nidzica,13-100,Kolejowa 9,896250400,896250413,www.gov.pl/web/kppsp-nidzica,kpnidzica@kwpsp.olsztyn.pl
+KP PSP Nisko,KM/KP,podkarpackie,niżański,Nisko,Nisko,37-400,Nowa 42,158412140,158414998,https://www.gov.pl/web/kppsp-nisko,kpnisko@podkarpacie.straz.pl
+KP PSP Nowa Sól,KM/KP,lubuskie,nowosolski,Nowa Sól (gmina miejska),Nowa Sól,67-100,Marszałka J.Piłsudskiego 65 A,683559280,683559281,www.straz.nowasol.pl,sekretariat@straz.nowasol.pl
+KP PSP Nowe Miasto Lubawskie,KM/KP,warmińsko-mazurskie,nowomiejski,Nowe Miasto Lubawskie (gmina miejska),Nowe Miasto Lubawskie,13-300,Szkolna 5b,564744100,564744115,www.gov.pl/web/kppsp-nowe-miasto-lubawskie,kpnmiastol@kwpsp.olsztyn.pl
+KP PSP Nowy Dwór Gdański,KM/KP,pomorskie,nowodworski,Nowy Dwór Gdański,Nowy Dwór Gdański,82-100,Warszawska 53,552473589 wew.: 113,552460063,https://www.gov.pl/web/kppsp-nowy-dwor-gdanski,psk.nowydwor@straz.gda.pl
+KP PSP Nowy Dwór Mazowiecki,KM/KP,mazowieckie,nowodworski,Nowy Dwór Mazowiecki,Nowy Dwór Mazowiecki,05-100,Gospodarcza 1,227753650,227758898,www.gov.pl/web/kppsp-nowy-dwor-mazowiecki,ndwormaz@mazowsze.straz.pl
+KP PSP Nowy Targ,KM/KP,małopolskie,nowotarski,Nowy Targ (gmina miejska),Nowy Targ,34-400,Tadeusza Kościuszki 3,182610980,182610999,www.gov.pl/web/kppsp-nowy-targ,kppspnowytarg@straz.krakow.pl
+KP PSP Nowy Tomyśl,KM/KP,wielkopolskie,nowotomyski,Nowy Tomyśl,Nowy Tomyśl,64-300,Powstanców Wlkp.2a,477718400,614427728,www.gov.pl/web/kppsp-nowy-tomysl,kppsptomysl@psp.wlkp.pl
+KP PSP Nysa,KM/KP,opolskie,nyski,Nysa,Nysa,48-300,Szopena 5,,478616900,www.gov.pl/web/kppsp-nysa,sekretariat@psp.nysa.pl
+KP PSP Oborniki,KM/KP,wielkopolskie,obornicki,Oborniki,Oborniki,64-600,11 Listopada 16,477718500,,kppsp-oborniki.pl,kp-oborniki@psp.wlkp.pl
+KP PSP Olecko,KM/KP,warmińsko-mazurskie,olecki,Olecko,Olecko,19-400,Kolejowa 27a,875207100,875207105,www.gov.pl/web/kppsp-olecko,kpolecko@kwpsp.olsztyn.pl
+KP PSP Olesno,KM/KP,opolskie,oleski,Olesno,Olesno,46-300,Solny Rynek 1,,478616080,https://www.gov.pl/kppsp-olesno,pskol@psp.olesno.pl
+KP PSP Oleśnica,KM/KP,dolnośląskie,oleśnicki,Oleśnica (gmina miejska),Oleśnica,56-400,Kopernika 4,603654472,713147025,https://www.gov.pl/web/kppsp-olesnica,kpolesnica@kwpsp.wroc.pl
+KP PSP Olkusz,KM/KP,małopolskie,olkuski,Olkusz,Olkusz,32-300,1000-lecia 2c,326414008,327547721,www.gov.pl/web/kppsp-olkusz,kppspolkusz@straz.krakow.pl
+KP PSP Oława,KM/KP,dolnośląskie,oławski,Oława (gmina miejska),Oława,55-200,Ks. Franciszka Kutrowskiego 20,713134045,713033343,www.straz.olawa.pl,olawa@kwpsp.wroc.pl
+KP PSP Opatów,KM/KP,świętokrzyskie,opatowski,Opatów,Opatów,27-500,Kościuszki 39,158682071,158684101,https://www.gov.pl/web/kppsp-opatow/,opatow@straz.kielce.pl
+KP PSP Opoczno,KM/KP,łódzkie,opoczyński,Opoczno,Opoczno,26-300,Rolna 1,446453200,446453218,https://www.gov.pl/web/kppsp-opoczno,kppsp09@straz.lodz.pl
+KP PSP Opole Lubelskie,KM/KP,lubelskie,opolski,Opole Lubelskie,Opole Lubelskie,24-300,Przemysłowa 25,818272008 wew.: 103,818273638,www.strazopolelubelskie.pl,kp_opolelubelskie@straz.lublin.pl
+KP PSP Ostrowiec Świętokrzyski,KM/KP,świętokrzyskie,ostrowiecki,Ostrowiec Świętokrzyski,Ostrowiec Świętokrzyski,27-400,Wardyńskiego 32,412489435,412476200,www.gov.pl/web/kppsp-ostrowiec-swietokrzyski/,ostrowiec@straz.kielce.pl
+KP PSP Ostróda,KM/KP,warmińsko-mazurskie,ostródzki,Ostróda (gmina miejska),Ostróda,14-100,Jana Stapińskiego 19 c,896423100,896423103,www.gov.pl/web/kppsp-ostroda,kpostroda@kwpsp.olsztyn.pl
+KP PSP Ostrów Mazowiecka,KM/KP,mazowieckie,ostrowski,Ostrów Mazowiecka (gmina miejska),Ostrów Mazowiecka,07-300,11 Listopada 5,297463200,297463202,https://www.gov.pl/kppsp-ostrow-mazowiecka,ostrowmaz@mazowsze.straz.pl
+KP PSP Ostrów Wielkopolski,KM/KP,wielkopolskie,ostrowski,Ostrów Wielkopolski (gmina miejska),Ostrów Wielkopolski,63-400,Stefana Batorego 21,477718600 wew.: 8600,623324295,www.ostrow.psp.wlkp.pl,kppspostrow@psp.wlkp.pl
+KP PSP Ostrzeszów,KM/KP,wielkopolskie,ostrzeszowski,Ostrzeszów,Ostrzeszów,63-500,Sportowa 9,477718700,,http://www.gov.pl/web/kppsp-ostrzeszow,kp-ostrzeszow@psp.wlkp.pl
+KP PSP Oświęcim,KM/KP,małopolskie,oświęcimski,Oświęcim (gmina miejska),Oświęcim,32-600,Zatorska 2,478317911,338448999,www.psposwiecim.pl,kppsposwiecim@straz.krakow.pl
+KP PSP Otwock,KM/KP,mazowieckie,otwocki,Otwock,Otwock,05-402,Mieszka I 13/15,227181620,227181642,www.gov.pl/kppsp-otwock,otwock@mazowsze.straz.pl
+KP PSP Pabianice,KM/KP,łódzkie,pabianicki,Pabianice (gmina miejska),Pabianice,95-200,Kilińskiego 4,422254300,422254323,https://www.gov.pl/web/kppsp-pabianice,kppsp10@straz.lodz.pl
+KP PSP Pajęczno,KM/KP,łódzkie,pajęczański,Pajęczno,Pajęczno,98-330,Cmentarna 1,343111588,343114202,https://www.gov.pl/web/kppsp-pajeczno,kppsp11@straz.lodz.pl
+KP PSP Parczew,KM/KP,lubelskie,parczewski,Parczew,Parczew,21-200,Piwonia 12,833551954,833551969,kppsp.parczew.pl,kp_parczew@straz.lublin.pl
+KP PSP Piaseczno,KM/KP,mazowieckie,piaseczyński,Piaseczno,Piaseczno,05-500,Staszica 19,227567243,227569815,www.gov.pl/kppsp-piaseczno,piaseczno@mazowsze.straz.pl
+KP PSP Piła,KM/KP,wielkopolskie,pilski,Piła,Piła,64-920,Moniuszki 1,477718800 wew.: 8800,672223201,www.pila.psp.wlkp.pl,kppsppila@psp.wlkp.pl
+KP PSP Pińczów,KM/KP,świętokrzyskie,pińczowski,Pińczów,Pińczów,28-400,Przemysłowa  21,413572247,413572694,www.gov.pl/web/kppsp-pinczow,pinczow@straz.kielce.pl
+KP PSP Pisz,KM/KP,warmińsko-mazurskie,piski,Pisz,Pisz.,12-200,Olsztyńska 40a,874254104,874254139,www.gov.pl/web/kppsp-pisz,kppisz@kwpsp.olsztyn.pl
+KP PSP Pleszew,KM/KP,wielkopolskie,pleszewski,Pleszew,Pleszew,63-300,Słowackiego 19,477718900,625080585,www.pleszew.psp.wlkp.pl,kppsppleszew@psp.wlkp.pl
+KP PSP Płońsk,KM/KP,mazowieckie,płoński,Płońsk (gmina miejska),Płońsk,09-100,Henryka Sienkiewicza 9,236527598,236533004,https://www.gov.pl/web/kppsp-plonsk,plonsk@mazowsze.straz.pl
+KP PSP Poddębice,KM/KP,łódzkie,poddębicki,Poddębice,Poddębice,99-200,Narutowicza 3,436787500,436787504,https://www.gov.pl/web/kppsp-poddebice,kppsp13@straz.lodz.pl
+KP PSP Police,KM/KP,zachodniopomorskie,policki,Police,Police,72-010,Tanowska 4a,914316810,914316803,www.gov.pl/web/kppsp-police,kp.police@szczecin.kwpsp.gov.pl
+KP PSP Polkowice,KM/KP,dolnośląskie,polkowicki,Polkowice,Polkowice,59-100,Polna 3,767249900,767249914,https://www.gov.pl/web/kppsp-polkowice,kppolkowice@kwpsp.wroc.pl
+KP PSP Proszowice,KM/KP,małopolskie,proszowicki,Proszowice,Proszowice,32-100,3-go Maja 140,123853160,123853168,www.gov.pl/web/kppsp-proszowice,kppspproszowice@straz.krakow.pl
+KP PSP Prudnik,KM/KP,opolskie,prudnicki,Prudnik,Prudnik,48-200,Legionów 12a,478616100,478616181,https://www.gov.pl/web/kppsp-prudnik,sekretariat.prudnik@psp.opole.pl
+KP PSP Pruszcz Gdański,KM/KP,pomorskie,gdański,Pruszcz Gdański (gmina miejska),Pruszcz Gdański,83-000,Gdańska 1a,586823024,586822322,kppsppruszcz.bip.gov.pl,pruszcz@straz.gda.pl
+KP PSP Pruszków,KM/KP,mazowieckie,pruszkowski,Pruszków,Pruszków,05-800,Stanisława Staszica 4,227587216,227598425,https://www.gov.pl/web/kppsp-pruszkow/,pruszkow@mazowsze.straz.pl
+KP PSP Przasnysz,KM/KP,mazowieckie,przasnyski,Przasnysz (gmina miejska),Przasnysz,06-300,Baranowska 44,297522445,297563672,www.gov.pl/web/kppsp-przasnysz,przasnysz@mazowsze.straz.pl
+KP PSP Przeworsk,KM/KP,podkarpackie,przeworski,Przeworsk (gmina miejska),Przeworsk,37-200,Ignacego Krasickiego  7,166487781,166490170,www.przeworsk.info,kpprzeworsk@podkarpacie.straz.pl
+KP PSP Przysucha,KM/KP,mazowieckie,przysuski,Przysucha,Przysucha,26-400,Targowa 3,486752055,486752056,https://www.gov.pl/web/kppsp-przysucha,przysucha@mazowsze.straz.pl
+KP PSP Pszczyna,KM/KP,śląskie,pszczyński,Pszczyna,Pszczyna,43-200,Górnośląska 7,324493700,324493722,www.pszczyna.kppsp.gov.pl,straz1221@pszczyna.kppsp.gov.pl
+KP PSP Puck,KM/KP,pomorskie,pucki,Puck (gmina miejska),Puck,84-100,Mestwina 11,586730451,586730453,www.gov.pl/web/kppsp-puck/,sekretariat.puck@straz.gda.pl
+KP PSP Puławy,KM/KP,lubelskie,puławski,Puławy (gmina miejska),Puławy,24-100,Lubelska 51,818863447,818886596,www.straz.pulawy.pl,kp_pulawy@straz.lublin.pl
+KP PSP Pułtusk,KM/KP,mazowieckie,pułtuski,Pułtusk,Pułtusk,06-100,Daszyńskiego 19,236921722,236920006,https://www.gov.pl/web/kppsp-pultusk,pultusk@mazowsze.straz.pl
+KP PSP Pyrzyce,KM/KP,zachodniopomorskie,pyrzycki,Pyrzyce,Pyrzyce,74-200,Stargardzka 29,915700555,915700486 wew.: 206,http://strazpyrzyce.xon.pl/joomla/,kp.pyrzyce@szczecin.kwpsp.gov.pl
+KP PSP Racibórz,KM/KP,śląskie,raciborski,Racibórz,Racibórz,47-400,Władysława Reymonta 8,324152107 wew.: 8,324154444,https://www.gov.pl/web/kppsp-raciborz,info@raciborz.kppsp.gov.pl
+KP PSP Radomsko,KM/KP,łódzkie,radomszczański,Radomsko (gmina miejska),Radomsko,97-500,Żeromskiego 19,446859400,446859410,https://www.gov.pl/web/kppsp-radomsko,kppsp14@straz.lodz.pl
+KP PSP Radziejów,KM/KP,kujawsko-pomorskie,radziejowski,Radziejów (gmina miejska),Radziejów,88-200,Szpitalna 17,477513810,,gov.pl/kppsp-radziejow,radziejow@kujawy.psp.gov.pl
+KP PSP Radzyń Podlaski,KM/KP,lubelskie,radzyński,Radzyń Podlaski (gmina miejska),Radzyń Podlaski,21-300,Pomiarowa 1,833527768,833527766,kppspradzyn.pl,kp_radzyn@straz.lublin.pl
+KP PSP Rawa Mazowiecka,KM/KP,łódzkie,rawski,Rawa Mazowiecka (gmina miejska),Rawa Mazowiecka,96-200,Przemysłowa 2A,468144027,468144028,https://www.gov.pl/web/kppsp-rawa-mazowiecka,kppsp15@straz.lodz.pl
+KP PSP Rawicz,KM/KP,wielkopolskie,rawicki,Rawicz,Rawicz,63-900,Scherwentkego 13,477719000,653224318,www.rawicz.psp.wlkp.pl,kppsprawicz@psp.wlkp.pl
+KP PSP Ropczyce,KM/KP,podkarpackie,ropczycko-sędziszowski,Ropczyce,Ropczyce,39-100,Św. Floriana 6,172218467,172227572,www.gov.pl/web/kppsp-ropczyce,kpropczyce@podkarpacie.straz.pl
+KP PSP Ryki,KM/KP,lubelskie,rycki,Ryki,Ryki,08-500,Warszawska 25,818652020,818656161,strazryki.pl,kp_ryki@straz.lublin.pl
+KP PSP Rypin,KM/KP,kujawsko-pomorskie,rypiński,Rypin (gmina miejska),Rypin,87-500,Strażacka 4,542809141,,https://www.gov.pl/web/kppsp-rypin,kppsp_rypin@kujawy.psp.gov.pl
+KP PSP Sandomierz,KM/KP,świętokrzyskie,sandomierski,Sandomierz,Sandomierz,27-600,Adama Mickiewicza 61,504099376,158325055 wew.: 1044,https://www.gov.pl/web/kppsp-sandomierz,sandomierz@straz.kielce.pl
+KP PSP Sanok,KM/KP,podkarpackie,sanocki,Sanok (gmina miejska),Sanok,38-500,Wincentego Witosa 60,,134658910,www.gov.pl/web/kppsp-sanok,kpsanok@podkarpacie.straz.pl
+KP PSP Sejny,KM/KP,podlaskie,sejneński,Sejny (gmina miejska),Sejny,16-500,Strażacka 2,477118310,477118309,http://www.gov.pl/web/kppsp-sejny,kppspse@straz.bialystok.pl
+KP PSP Sępólno Krajenskie,KM/KP,kujawsko-pomorskie,sępoleński,Sępólno Krajeńskie,Sępólno Krajeńskie,89-400,Sienkiewicza 54,523888350,,sepolno.kujawy.psp.gov.pl,sepolno@kujawy.psp.gov.pl
+KP PSP Siemiatycze,KM/KP,podlaskie,siemiatycki,Siemiatycze (gmina miejska),Siemiatycze,17-300,11-go Listopada 31,477118360,477118359,www.gov.pl/web/kppsp-siemiatycze,kppspsi@straz.bialystok.pl
+KP PSP Sieradz,KM/KP,łódzkie,sieradzki,Sieradz (gmina miejska),Sieradz,98-200,"T. Grzesika, R. Piwnika 1",438281063,438279824,https://www.gov.pl/web/kppsp-sieradz,kppsp16@straz.lodz.pl
+KP PSP Sierpc,KM/KP,mazowieckie,sierpecki,Sierpc (gmina miejska),Sierpc,09-200,Przemysłowa 2,,242752933,https://www.gov.pl/web/kppsp-sierpc,sierpc@mazowsze.straz.pl
+KP PSP Skarżysko Kamienna,KM/KP,świętokrzyskie,skarżyski,Skarżysko-Kamienna,Skarżysko-Kamienna,26-110,1 Maja 101,478018524,412516331,https://www.gov.pl/web/kppsp-skarzysko-kamienna/,skarzysko@straz.kielce.pl
+KP PSP Sławno,KM/KP,zachodniopomorskie,sławieński,Sławno (gmina miejska),Sławno,76-100,Wojska Polskiego 19,598103008,598103008,www.kppspslawno.pl,kp.slawno@szczecin.kwpsp.gov.pl
+KP PSP Słubice,KM/KP,lubuskie,słubicki,Słubice,Słubice,69-100,Konstytucji 3 Maja 79,957507600,957580903,www.gov.pl/web/kppsp-slubice,kppspslubice@straz.gorzow.pl
+KP PSP Słupca,KM/KP,wielkopolskie,słupecki,Słupca (gmina miejska),Słupca,62-400,Ratajczaka 1,477719100,477719199,www.slupca.psp.wlkp.pl,kppspslupca@psp.wlkp.pl
+KP PSP Sochaczew,KM/KP,mazowieckie,sochaczewski,Sochaczew (gmina miejska),Sochaczew,96-500,Stanisława Staszica  7,468622926,468623094,www.kppspsochaczew.pl,sochaczew@mazowsze.straz.pl
+KP PSP Sokołów Podlaski,KM/KP,mazowieckie,sokołowski,Sokołów Podlaski (gmina miejska),Sokołów Podlaski,08-300,Kolejowa 21,606956760,257812641,https://www.gov.pl/web/kppsp-sokolow-podlaski,sokolow@mazowsze.straz.pl
+KP PSP Sokółka,KM/KP,podlaskie,sokólski,Sokółka,Sokółka,16-100,Plac Kościuszki 4,857229900,477118403,www.gov.pl/web/kppsp-sokolka,kppspso@straz.bialystok.pl
+KP PSP Stalowa Wola,KM/KP,podkarpackie,stalowowolski,Stalowa Wola,Stalowa Wola,37-450,Jana Pawła II 27,158426511,158109076,https://www.gov.pl/web/kppsp-stalowa-wola,kpstwola@podkarpacie.straz.pl
+KP PSP Starachowice,KM/KP,świętokrzyskie,starachowicki,Starachowice,Starachowice,27-200,Aleja Armii Krajowej 29,412745389,412745388,www.gov.pl/web/kppsp-starachowice,starachowice@straz.kielce.pl
+KP PSP Stargard,KM/KP,zachodniopomorskie,stargardzki,Stargard (gmina miejska),Stargard,73-110,Księcia Bogusława IV nr 21,915788750,915788766,www.straz.stargard.com.pl,kp.stargard@szczecin.kwpsp.gov.pl
+KP PSP Starogard Gdański,KM/KP,pomorskie,starogardzki,Starogard Gdański (gmina miejska),Starogard Gdański,83-200,Lubichowska 1,585623011,585601519,www.gov.pl/web/kppsp-starogard-gdanski,sekretariat.starogard@straz.gda.pl
+KP PSP Staszów,KM/KP,świętokrzyskie,staszowski,Staszów,Staszów,28-200,Parkowa 4,158642108,158642472 wew.: 210,https://www.gov.pl/web/kppsp-staszow/,staszow@straz.kielce.pl
+KP PSP Strzelce Krajeńskie,KM/KP,lubuskie,strzelecko-drezdenecki,Strzelce Krajeńskie,Strzelce Krajeńskie,66-500,Wyzwolenia 7,957639671,957639670,https://www.gov.pl/web/kppsp-strzelce-krajenskie,kppspstrzelce@straz.gorzow.pl
+KP PSP Strzelce Opolskie,KM/KP,opolskie,strzelecki,Strzelce Opolskie,Strzelce Opolskie,47-100,Zakładowa 1,774049900,774049910,https://www.pspstrzelceop.pl/,strzelcersk@psp.opole.pl
+KP PSP Strzelin,KM/KP,dolnośląskie,strzeliński,Strzelin,Strzelin,57-100,Marii Konopnickiej 3,713921555,713923618,https://www.gov.pl/web/kppsp-strzelin,strzelin@kwpsp.wroc.pl
+KP PSP Strzyżów,KM/KP,podkarpackie,strzyżowski,Strzyżów,Strzyżów,38-100,Sportowa 20,172761001,172761240,https://www.gov.pl/web/kppsp-strzyzow,kpstrzyzow@podkarpacie.straz.pl
+KP PSP Sucha Beskidzka,KM/KP,małopolskie,suski,Sucha Beskidzka,Sucha Beskidzka,34-200,Makowska 26,478317500,478317509,https://www.gov.pl/web/kppsp-sucha-beskidzka,kppspsucha@straz.krakow.pl
+KP PSP Sulęcin,KM/KP,lubuskie,sulęciński,Sulęcin,Sulęcin,69-200,Emilii Plater  8,957550050,957550057,www.gov.pl/web/kppsp-sulecin,kppspsulecin@straz.gorzow.pl
+KP PSP Szamotuły,KM/KP,wielkopolskie,szamotulski,Szamotuły,Szamotuły,64-500,Obornicka 10,477719200,612921138 wew.: 31,www.szamotuly.psp.wlkp.pl,kppspszamotuly@psp.wlkp.pl
+KP PSP Szczecinek,KM/KP,zachodniopomorskie,szczecinecki,Szczecinek (gmina miejska),Szczecinek,78-400,1-go Maja 61,943730750,943730751,www.straz.szczecinek.pl,kp.szczecinek@szczecin.kwpsp.gov.pl
+KP PSP Szczytno,KM/KP,warmińsko-mazurskie,szczycieński,Szczytno (gmina miejska),Szczytno,12-100,Sobieszczańskiego 2,896225422,896225444,gov.pl/web/kppsp-szczytno,kpszczytno@kwpsp.olsztyn.pl
+KP PSP Sztum,KM/KP,pomorskie,sztumski,Sztum,Sztum,82-400,Sienkiewicza 27,477418920,477418923,https://www.gov.pl/web/kppsp-sztum,psk.sztum@straz.gda.pl
+KP PSP Szydłowiec,KM/KP,mazowieckie,szydłowiecki,Szydłowiec,Szydłowiec,26-500,Strażacka 3,486178189,486170889,www.gov.pl/web/kppsp-szydlowiec,szydlowiec@mazowsze.straz.pl
+KP PSP Śrem,KM/KP,wielkopolskie,śremski,Śrem,Śrem,63-100,Grunwaldzka 23,477719300,612810709,http://www.srem.psp.wlkp.pl/,kppspsrem@psp.wlkp.pl
+KP PSP Środa Śląska,KM/KP,dolnośląskie,średzki,Środa Śląska,Środa Śląska,55-300,Kolejowa 45,713172212,713176983,https://www.gov.pl/web/kppsp-sroda-slaska/,sroda@kwpsp.wroc.pl
+KP PSP Środa Wielkopolska,KM/KP,wielkopolskie,średzki,Środa Wielkopolska,Środa Wielkopolska,63-000,Libelta 2a,477719400,612220758,https://www.gov.pl/web/kppsp-sroda-wielkopolska,kppspsroda@psp.wlkp.pl
+KP PSP Świdnica,KM/KP,dolnośląskie,świdnicki,Świdnica (gmina miejska),Świdnica,58-100,al. Niepodległości 8-10,748518888,748518884,www.strazswidnica.pl,kpswidnica@kwpsp.wroc.pl
+KP PSP Świdnik,KM/KP,lubelskie,świdnicki,Świdnik,Świdnik,21-045,Al. Lotników Polskich 2,817455580,817455581,www.straz.swidnik.pl,kp_swidnik@straz.swidnik.pl
+KP PSP Świdwin,KM/KP,zachodniopomorskie,świdwiński,Świdwin (gmina miejska),Świdwin,78-300,Armii Krajowej 23,943652481,943650050,www.straz-swidwin.pl,kp.swidwin@szczecin.kwpsp.gov.pl
+KP PSP Świebodzin,KM/KP,lubuskie,świebodziński,Świebodzin,Świebodzin,66-200,Cegielniana 13,684707380,684707392,www.straz.swiebodzin.pl,kppspswiebodzin@straz.gorzow.pl
+KP PSP Świecie,KM/KP,kujawsko-pomorskie,świecki,Świecie,Świecie,86-100,Mieczysława Petelskiego 1,477514110,,kppspswiecie.pl,swiecie@kujawy.gov.pl
+KP PSP Tarnowskie Góry,KM/KP,śląskie,tarnogórski,Tarnowskie Góry,Tarnowskie Góry.,42-600,Górnicza 36,478518600,327390549,gov.pl/web/kppsp-tarnowskie-gory,kontakt@psptg.pl
+KP PSP Tczew,KM/KP,pomorskie,tczewski,Tczew (gmina miejska),Tczew,83-110,Lecha 11,585304060,585304089,https://www.gov.pl/web/kppsp-tczew,sekretariat.tczew@straz.gda.pl
+KP PSP Tomaszów Lubelski,KM/KP,lubelskie,tomaszowski,Tomaszów Lubelski (gmina miejska),Tomaszów Lubelski,22-600,dr. Janusza Petera 7,846618000,846643588,http://straz-tomaszowlubelski.idsl.pl/,kp_tomaszowlubelski@straz.lublin.pl
+KP PSP Tomaszów Mazowiecki,KM/KP,łódzkie,tomaszowski,Tomaszów Mazowiecki (gmina miejska),Tomaszów Mazowiecki,97-200,Warszawska 105,447259126,447259127,https://www.gov.pl/web/kppsp-tomaszow-mazowiecki,kppsp18@straz.lodz.pl
+KP PSP Trzebnica,KM/KP,dolnośląskie,trzebnicki,Trzebnica,Trzebnica,55-100,B. Głowackiego 12,713120851,713872858,www.gov.pl/web/kppsp-trzebnica,kptrzebnica@kwpsp.wroc.pl
+KP PSP Tuchola,KM/KP,kujawsko-pomorskie,tucholski,Tuchola,Tuchola,89-500,Sępoleńska 20,523361227,523361227,https://www.gov.pl/web/kppsp-tuchola/,kppsp_tuchola@kujawy.psp.gov.pl
+KP PSP Turek,KM/KP,wielkopolskie,turecki,Turek (gmina miejska),Turek,62-700,Św. Floriana 2,477719500,477719518,www.turek.psp.wlkp.pl,kppspturek@psp.wlkp.pl
+KP PSP Ustrzyki Dolne,KM/KP,podkarpackie,bieszczadzki,Ustrzyki Dolne,Ustrzyki Dolne,38-700,1 Maja 22,515269505,134608797,www.kppspustrzyki.itl.pl,kpustrzyki@podkarpacie.straz.pl
+KP PSP w Koluszkach,KM/KP,łódzkie,łódzki wschodni,Koluszki,Koluszki,95-040,Słowackiego 28,447256900,447256919,https://www.gov.pl/web/kppsp-koluszki,kppsp08@straz.lodz.pl
+KP PSP w pow. warsz. zachodnim,KM/KP,mazowieckie,warszawski zachodni,Błonie,Błonie,05-870,Lesznowska 20 a,227255293,227255123,https://www.gov.pl/web/kppsp-warszawski-zachodni,warszawazachod@mazowsze.straz.pl
+KP PSP Wadowice,KM/KP,małopolskie,wadowicki,Wadowice,Wadowice,34-100,Wojska Polskiego 2c,,338734381,https://www.gov.pl/web/kppsp-wadowice,kppspwadowice@straz.krakow.pl
+KP PSP Wałcz,KM/KP,zachodniopomorskie,wałecki,Wałcz (gmina miejska),Wałcz,78-600,Generała Władysława Andersa 20,,672583215,www.strazwalcz.pl,kp.walcz@szczecin.kwpsp.gov.pl
+KP PSP Wąbrzeźno,KM/KP,kujawsko-pomorskie,wąbrzeski,Wąbrzeźno,Wąbrzeźno,87-200,św. Floriana 6,566890900,566890903,,kppsp_wabrzezno@kujawy.psp.gov.pl
+KP PSP Wągrowiec,KM/KP,wielkopolskie,wągrowiecki,Wągrowiec (gmina miejska),Wągrowiec,62-100,Przemysłowa 44,477719600 wew.: 9600,672223338,https://www.gov.pl/web/kppsp-wagrowiec,kppspwagrowiec@psp.wlkp.pl
+KP PSP Wejherowo,KM/KP,pomorskie,wejherowski,Wejherowo (gmina miejska),WEJHEROWO,84-200,3 Maja 2,586776105,586776109,https://www.gov.pl/web/kppsp-wejherowo,psk.wejherowo@straz.gda.pl
+KP PSP Węgorzewo,KM/KP,warmińsko-mazurskie,węgorzewski,Węgorzewo,Węgorzewo,11-600,Sienkiewicza 10,874277500,874277511,www.gov.pl/web/kppsp-wegorzewo,kpwegorzewo@kwpsp.olsztyn.pl
+KP PSP Węgrów,KM/KP,mazowieckie,węgrowski,Węgrów,Węgrów,07-100,Zwycięstwa 83,257924998,257925310,https://www.gov.pl/web/kppsp-wegrow,wegrow@mazowsze.straz.pl
+KP PSP Wieliczka,KM/KP,małopolskie,wielicki,Wieliczka,Wieliczka,32-020,Park Kingi 4,,478317709,www.pspwieliczka.pl,kppspwieliczka@straz.krakow.pl
+KP PSP Wieluń,KM/KP,łódzkie,wieluński,Wieluń,Wieluń,98-300,Wodna 1,438434424,438411028,https://www.gov.pl/kppsp-wielun,kppsp19@straz.lodz.pl
+KP PSP Wieruszów,KM/KP,łódzkie,wieruszowski,Wieruszów,Wieruszów,98-400,Bolesławiecka 10,627841288,627841665,https://www.gov.pl/web/kppsp-wieruszow,kppsp20@straz.lodz.pl
+KP PSP Włodawa,KM/KP,lubelskie,włodawski,Włodawa (gmina miejska),Włodawa,22-200,Tysiąclecia Państwa Polskiego 8,825721008,825724652,www.straz.wlodawa.pl,kp_wlodawa@straz.lublin.pl
+KP PSP Włoszczowa,KM/KP,świętokrzyskie,włoszczowski,Włoszczowa,Włoszczowa,29-100,Sienkiewicza 45,413942998,413943178,www.gov.pl/web/kppsp-wloszczowa,wloszczowa@straz.kielce.pl
+KP PSP Wodzisław Śląski,KM/KP,śląskie,wodzisławski,Wodzisław Śląski,Wodzisław Śląski,44-300,Pszowska 68,324539393,324539392,www.gov.pl/kppsp-wodzislaw-slaski,pspwodzislaw@katowice.kwpsp.gov.pl
+KP PSP Wolsztyn,KM/KP,wielkopolskie,wolsztyński,Wolsztyn,Wolsztyn,64-200,Wschowska 17,477719700,,www.straz.powiatwolsztyn.pl,kppspwolsztyn@psp.wlkp.pl
+KP PSP Wołomin,KM/KP,mazowieckie,wołomiński,Wołomin,Wołomin,05-200,Sasina 15,227613340,227613370,https://www.gov.pl/web/kppsp-wolomin,wolomin@mazowsze.straz.pl
+KP PSP Wołów,KM/KP,dolnośląskie,wołowski,Wołów,Wołów,56-100,Wojska Polskiego 38,713892702,713891190,http://www.gov.pl/web/kppsp-wolow,wolow@kwpsp.wroc.pl
+KP PSP Września,KM/KP,wielkopolskie,wrzesiński,Września,Września,62-300,Białężyce 112,477719800,612220777,http://www.straz.wrzesnia.powiat.pl/,kp-wrzesnia@psp.wlkp.pl
+KP PSP Wschowa,KM/KP,lubuskie,wschowski,Wschowa,Wschowa,67-400,Kazimierza Wielkiego 6,655402757,655401048,www.gov.pl/web/kppsp-wschowa,sekretariat@straz.wschowa.pl
+KP PSP Wysokie Mazowieckie,KM/KP,podlaskie,wysokomazowiecki,Wysokie Mazowieckie (gmina miejska),Wysokie Mazowieckie,18-200,Mickiewicza 6,477118451,477118453,https://www.gov.pl/web/kppsp-wysokie-mazowieckie/,kppspwm@straz.bialystok.pl
+KP PSP Wyszków,KM/KP,mazowieckie,wyszkowski,Wyszków,Wyszków,07-200,Strażacka 6,297425421,297430938,https://www.gov.pl/web/kppsp-wyszkow/,wyszkow@mazowsze.straz.pl
+KP PSP Zakopane,KM/KP,małopolskie,tatrzański,Zakopane,Zakopane,34-500,Nowotarska 45,478317850,182020912,https://www.gov.pl/web/kppsp-zakopane,kppspzakopane@straz.krakow.pl
+KP PSP Zambrów,KM/KP,podlaskie,zambrowski,Zambrów (gmina miejska),Zambrów,18-300,Sadowa 4,477118501,477118503,https://www.gov.pl/web/kppsp-zambrow/,kppspza@straz.bialystok.pl
+KP PSP Zawiercie,KM/KP,śląskie,zawierciański,Zawiercie,Zawiercie,42-400,Leśna 12,326721615,326721615,www.gov.pl/web/kppsp-zawiercie,komenda@zawiercie.kppsp.gov.pl
+KP PSP Ząbkowice Śląskie,KM/KP,dolnośląskie,ząbkowicki,Ząbkowice Śląskie,Ząbkowice Śląskie,57-200,Waryńskiego 15,789023543,748157683,https://www.gov.pl/web/kppsp-zabkowice-slaskie,zabkowice@kwpsp.wroc.pl
+KP PSP Zduńska Wola,KM/KP,łódzkie,zduńskowolski,Zduńska Wola (gmina miejska),Zduńska Wola,98-220,Długa 4,438234181,438232637,https://www.gov.pl/web/kppsp-zdunska-wola,kppsp21@straz.lodz.pl
+KP PSP Zgierz,KM/KP,łódzkie,zgierski,Zgierz (gmina miejska),Zgierz,95-100,Łąkowa 6/8,427145570,427156953,https://www.gov.pl/web/kppsp-zgierz,kppsp22@straz.lodz.pl
+KP PSP Zgorzelec,KM/KP,dolnośląskie,zgorzelecki,Zgorzelec (gmina miejska),Zgorzelec,59-900,Bolesława Chrobrego 1,757751145,757730998,www.gov.pl/web/kppsp-zgorzelec,kpzgorzelec@kwpsp.wroc.pl
+KP PSP Złotoryja,KM/KP,dolnośląskie,złotoryjski,Złotoryja (gmina miejska),Złotoryja,59-500,Legnicka 49,768783397,768783143,www.gov.pl/web/kppsp-zlotoryja,zlotoryja@kwpsp.wroc.pl
+KP PSP Złotów,KM/KP,wielkopolskie,złotowski,Złotów (gmina miejska),Złotów,77-400,Domańskiego 48a,477719900,477719900,www.zlotow.psp.wlkp.pl,kp-zlotow@psp.wlkp.pl
+KP PSP Zwoleń,KM/KP,mazowieckie,zwoleński,Zwoleń,Zwoleń,26-700,Lubelska 6,486763034,486762511,www.gov.pl/web/kppsp-zwolen,zwolen@mazowsze.straz.pl
+KP PSP Żagań,KM/KP,lubuskie,żagański,Żagań (gmina miejska),Żagań,68-100,Nowogródzka 3,683772222,683681330,www.straz.zagan.pl,kppspzagan@straz.gorzow.pl
+KP PSP Żary,KM/KP,lubuskie,żarski,Żary (gmina miejska),Żary.,68-200,Serbska 58,683630716,683630721,www.straz.zary.pl,sekretariat@straz.zary.pl
+KP PSP Żnin,KM/KP,kujawsko-pomorskie,żniński,Żnin,Żnin,88-400,Dąbrowskiego 14,523033440,523033441,http://www.kpsp.pl/znin/,kppsp_znin@kujawy.psp.gov.pl
+KP PSP Żuromin,KM/KP,mazowieckie,żuromiński,Żuromin,Żuromin,09-300,Warszawska 25,236572398,236572160,www.gov.pl/web/kppsp-zuromin/,zuromin@mazowsze.straz.pl
+KP PSP Żyrardów,KM/KP,mazowieckie,żyrardowski,Żyrardów,Żyrardów,96-300,1-go Maja 61B,468553549,468581963,strazzyrardow.pl,zyrardow@mazowsze.straz.pl
+KP PSP Żywiec,KM/KP,śląskie,żywiecki,Żywiec,Żywiec,34-300,Objazdowa 2,338630400,338630431,https://www.gov.pl/web/kppsp-zywiec,pspzywiec@katowice.kwpsp.gov.pl
+KW PSP Białystok,KW,podlaskie,Białystok,Białystok,Białystok,15-062,ul. Warszawska 3,477117010,856537444,www.gov.pl/web/kwpsp-bialystok,kwpsp@straz.bialystok.pl (e-mail)
+KW PSP Gdańsk,KW,pomorskie,Gdańsk,Gdańsk,Gdańsk,80-251,Sosnowa 2,583477800,583477817,bip.straz.gda.pl,wskr@straz.gda.pl
+KW PSP Gorzów Wielkopolski,KW,lubuskie,Gorzów Wielkopolski,Gorzów Wielkopolski,Gorzów Wielkopolski,66-400,ul. kard. Stefana Wyszyńskiego 64-66,957338300,957208991,www.straz.gorzow.pl,komenda@straz.gorzow.pl
+KW PSP Katowice,KW,śląskie,Katowice,Katowice,Katowice,40-042,Wita Stwosza 36,478515000,478515215,www.katowice.kwpsp.gov.pl,kwpspkatowice@straz.gov.pl (WSKR Katowice)
+KW PSP Kielce,KW,świętokrzyskie,Kielce,Kielce,Kielce,25-324,ul. Sandomierska 81,413653205,413653203,www.gov.pl/web/kwpsp-kielce,kw@straz.kielce.pl
+KW PSP Kraków,KW,małopolskie,Kraków,Kraków,Kraków,30-134,ul. Zarzecze (Kraków-Krowodrza) 106,478359000,478359009,www.straz.krakow.pl,kwpspkrakow@straz.gov.pl
+KW PSP Lublin,KW,lubelskie,Lublin,Lublin,Lublin,20-012,Strażacka 7,815351200,815329700,www.straz.lublin.pl,kwpsplublin@straz.gov.pl
+KW PSP Łódź,KW,łódzkie,Łódź,Łódź,Łódź,90-521,Wólczanska 111/113,426315100,426315123,https://www.gov.pl/web/kwpsp-lodz,sekretariat@straz.lodz.pl
+KW PSP Olsztyn,KW,warmińsko-mazurskie,Olsztyn,Olsztyn,Olsztyn,10-045,Niepodległości 16,895229500,895229525,www.gov.pl/web/kwpsp-olsztyn,kwpspolsztyn@straz.gov.pl
+KW PSP Opole,KW,opolskie,Opole,Opole,Opole,45-005,ul. Budowlanych 1,478617001,478617085,www.psp.opole.pl,wskr@psp.opole.pl (SKKW Opole)
+KW PSP Poznań,KW,wielkopolskie,Poznań,Poznań,Poznań,61-767,ul. Masztalarska 3,477716000,612220555,www.psp.wlkp.pl,kw-poznan@psp.wlkp.pl
+KW PSP Rzeszów,KW,podkarpackie,Rzeszów,Rzeszów,Rzeszów,35-016,ul. Maurycego Mochnackiego 4,177470200,178622097,https://www.gov.pl/web/kwpsp-rzeszow,biuro@podkarpacie.straz.pl
+KW PSP Szczecin,KW,zachodniopomorskie,Szczecin,Szczecin,Szczecin,71-637,ul. Teofila Firlika 9-14,914808800,914808853,www.szczecin.kwpsp.gov.pl,kwpspszczecin@straz.gov.pl
+KW PSP Toruń,KW,kujawsko-pomorskie,Toruń,Toruń,Toruń,87-100,Prosta 32,566580124,566575732,www.gov.pl/web/kwpsp-torun,wskr@kujawy.psp.gov.pl
+KW PSP Warszawa,KW,mazowieckie,Warszawa,Warszawa,Warszawa,02-672,ul. Domaniewska 40,225595275,225595124,www.straz.pl,kwpspwarszawa@straz.gov.pl
+KW PSP Wrocław,KW,dolnośląskie,Wrocław,Wrocław,Wrocław,50-552,ul. Borowska (Wrocław-Krzyki) 138,713682201,713682244,www.straz.wroclaw.pl,kw@kwpsp.wroc.pl

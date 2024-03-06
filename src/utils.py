@@ -207,3 +207,12 @@ def get_operator(name, operator_name):
     if private_match:
         return 'private'
     return ''
+
+
+def miejscownik(mianownik):
+    try:
+        res = requests.get(f'http://nlp.actaforte.pl:8080/Nomina/Miejscowosci?nazwa={mianownik}')
+        msc = re.search(r'Miejscownik [a-zA-ZęółśążźćńĘÓŁŚĄŻŹĆŃ \(\)]+:</td><td><div><b>([a-zA-Z \-ęółśążźćńĘÓŁŚĄŻŹĆŃ]+)', res.text).group(1)
+    except Exception:
+        return False
+    return msc
