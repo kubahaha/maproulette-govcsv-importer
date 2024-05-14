@@ -32,6 +32,7 @@ prepare = {
         'operator': 'Podmiot prowadzący',
         'capacity': 'Liczba miejsc przeznaczona dla mieszkańców domu pomocy społecznej',
         'name': lambda x: x.get('Nazwa domu pomocy społecznej').split(' w ')[0].strip().split(' we ')[0].strip(),
+        'official_name': 'Nazwa domu pomocy społecznej',
         'addr:city': lambda it: parse_address(it.get('Adres')).get('addr:city'),
         'addr:postcode': lambda it: parse_address(it.get('Adres')).get('addr:postcode'),
         'addr:place': lambda it: parse_address(it.get('Adres')).get('addr:place'),

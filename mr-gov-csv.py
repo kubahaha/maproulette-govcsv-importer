@@ -19,6 +19,8 @@ def main():
     parser.add_argument('name', type=str)
     parser.add_argument('-p', '--prepare', action='store_true', help='Clean and prepare gov data')
     parser.add_argument('-d', '--download', action='store_true', help='Download fresh copy of OSM data')
+    parser.add_argument('-e', '--engine', choices=['nominatim', 'komoot'], default='nominatim', help='Engine for downloading addressess and lat_lon')
+
     args = parser.parse_args()
 
     check_files(args.name, args.prepare, args.download)
@@ -39,7 +41,7 @@ def main():
     osm = read_file(f'data/{args.name}/data.osm', 'osm')
     console.log(f'Loaded {len(osm)} elements')
 
-    to_change, to_add = match(gov, osm, args.name)
+    to_change, to_add = match(gov, osm, args.name, args.engine)
     console.log(f'To add: {len(to_add)} elements, To update: {len(to_change)} elements.')
 
     save(f'data/{args.name}/to_add.osm', "\n".join([ta.print() for ta in to_add]))

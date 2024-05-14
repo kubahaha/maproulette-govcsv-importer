@@ -1,14 +1,16 @@
 import importlib.util
-from src.compare import compare, distance
 import copy
+
 from rich.console import Console
+
+from src.compare import compare, distance
 from src.utils import fieldnames
 
 
 console = Console()
 
 
-def match(gov, osm, name):
+def match(gov, osm, name, engine='nominatim'):
     to_change, to_add = [], []
     config = importlib.import_module(f'data.{name}.conf')
 
@@ -27,7 +29,7 @@ def match(gov, osm, name):
 
                 def check(x):
                     if not x.has_loc() and config.rules.get('download_latlon'):
-                        x.save_nominatim_loc()
+                        x.download_lat_lon(engine=engine)
 
                     return x.has_loc()
 

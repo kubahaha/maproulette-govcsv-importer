@@ -1,11 +1,18 @@
 import re
 from itertools import accumulate
+from src.engines.Nominatim import Nominatim
 
 import requests
 
 fieldnames = {
     'addr': ['addr:postcode', 'addr:city', 'addr:place', 'addr:street', 'addr:housenumber', 'addr:door'],
     'tech': ['@lat', '@lon', '@id']
+}
+
+ADDR_FIELDS = {
+    'street': lambda x: f'{x.get("addr:street")} {x.get("addr:housenumber")}',
+    'city': lambda x: x.get('addr:city') or x.get('addr:place'),
+    'postalcode': lambda x: x.get('addr:postcode')
 }
 
 
@@ -22,7 +29,6 @@ def strip_number(phone, format='2232'):
         out += f' {clear[i:k]}'
 
     return out
-    # return f"+48 {clear[g[0]:g[1]]} {clear[g[1]:g[2]]} {clear[g[2]:g[3]]} {clear[g[3]:g[4]]}"
 
 
 def get_operator_type(name, operator_name):
@@ -115,51 +121,6 @@ def getaddr(addrstring, city=False, place=False, street=False, housenumber=False
     return result
 
 
-def nominatim_addr(nominatim):
-    prefix = nominatim['address']
-    city = prefix.get('city') or prefix.get('town') or prefix.get('village')
-    city_not_place = prefix.get('road') or (city and prefix.get('place'))
-
-    return {
-        'addr:housenumber': prefix.get('house_number'),
-        'addr:street': prefix.get('road'),
-        'addr:city': city if city_not_place else '',
-        'addr:place': city if not city_not_place else prefix.get('place'),
-        'addr:postcode': prefix.get('postcode'),
-        'addr:door': prefix.get('door')
-    }
-
-
-def komoot_addr(komoot):
-    prefix = komoot['features'][0]['properties']
-    is_city = prefix.get('city') and (prefix.get('street') or prefix.get('locality'))
-
-    return {
-        'addr:housenumber': prefix.get('housenumber'),
-        'addr:street': prefix.get('street'),
-        'addr:city': prefix.get('city') if is_city else '',
-        'addr:place': prefix.get('city') if not is_city else prefix.get('locality'),
-        'addr:postcode': prefix.get('postcode'),
-        'addr:door': prefix.get('door')
-    }
-
-
-ADDR_FIELDS = {
-    'street': lambda x: f'{x.get("addr:street")} {x.get("addr:housenumber")}',
-    'city': lambda x: x.get('addr:city') or x.get('addr:place'),
-    'postalcode': lambda x: x.get('addr:postcode')
-}
-
-
-def nominatim_searchurl(row, fields=ADDR_FIELDS, single=False):
-    if single:
-        filled = [field_map(row) if field_map(row) else "" for field_map in fields.values()]
-        return ' '.join(filled)
-
-    filled = [f'{field}={field_map(row)}' if field_map(row) else "" for field, field_map in fields.items()]
-    return '&'.join(filled)
-
-
 def force_https(url, add_missing=True, rewrite=False):
     if url.startswith('https://'):
         return url
@@ -173,47 +134,20 @@ def force_https(url, add_missing=True, rewrite=False):
     return url
 
 
-def format_phone():
-    pass
-
-
-def query_nominatim(q=False, p=False):
-    if q:
-        url = f'https://nominatim.openstreetmap.org/search?q={q}&format=jsonv2'.replace(' ', '+')
-    elif p:
-        url = f'https://nominatim.openstreetmap.org/search?p={p}&format=jsonv2'.replace(' ', '+')
-    else:
-        raise ValueError()
-    # print(url)
-    resp = requests.get(url)
-    try:
-        resp_json = resp.json()
-    except requests.exceptions.JSONDecodeError:
-        print(f'ERROR! {resp.text}')
-        raise
-
-    if resp_json:
-        return resp_json[0]
-
-
-def get_lat_lon_nominatim(tags):
+def download_latlon(tags, engine=Nominatim):
     found = False
 
     if tags.get("official_name"):
-        found = query_nominatim(q=tags["official_name"])
-        if found:
-            return {'lat': found['lat'], 'lon': found['lon']}
+        found = engine.query(tags["official_name"])
 
-    if (tags.get("addr:city") or tags.get("addr:place")) and tags.get("addr:street") and tags.get("addr:housenumber"):
-        found = query_nominatim(q=f'{tags.get("addr:street", tags.get("addr:place", ""))} {tags.get("addr:housenumber", "")} {tags.get("addr:city", "")} {tags.get("addr:postcode", "")}')
-        if found:
-            return {'lat': found['lat'], 'lon': found['lon']}
+    if not found and (tags.get("addr:city") or tags.get("addr:place")) and tags.get("addr:street") and tags.get("addr:housenumber"):
+        found = engine.query(f'{tags.get("addr:street", tags.get("addr:place", ""))} {tags.get("addr:housenumber", "")} {tags.get("addr:city", "")} {tags.get("addr:postcode", "")}')
 
-    if (tags.get("addr:city") or tags.get("addr:place")) and tags.get("name") and tags.get("addr:housenumber"):
-        found = query_nominatim(q=f'{tags.get("addr:name", "")}, {tags.get("addr:city", tags.get("addr:place", ""))}, {tags.get("addr:postcode", "")}')
-        if found:
-            return {'lat': found['lat'], 'lon': found['lon']}
+    if not found and (tags.get("addr:city") or tags.get("addr:place")) and tags.get("name") and tags.get("addr:housenumber"):
+        found = engine.query(f'{tags.get("addr:name", "")}, {tags.get("addr:city", tags.get("addr:place", ""))}, {tags.get("addr:postcode", "")}')
 
+    if found:
+        return engine.result_2_latlon(found)
     return {}
 
 

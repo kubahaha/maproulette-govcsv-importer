@@ -1,7 +1,9 @@
 import random
 from datetime import datetime
 
-from src.utils import get_lat_lon_nominatim
+from src.utils import download_latlon
+from src.engines.Nominatim import Nominatim
+from src.engines.Komoot import Komoot
 
 
 class OsmObject:
@@ -58,10 +60,15 @@ class OsmObject:
     def is_found(self):
         return self._found
 
-    def save_nominatim_loc(self):
-        nominatim_match = get_lat_lon_nominatim(self._tags)
+    def download_lat_lon(self, engine):
+        if engine == 'nominatim':
+            run_engine = Nominatim
+        if engine == 'komoot':
+            run_engine = Komoot
 
-        lat, lon = float(nominatim_match.get('lat')) if nominatim_match.get('lat') else False, float(nominatim_match.get('lon')) if nominatim_match.get('lon') else False
+        latlon = download_latlon(self._tags, engine=run_engine)
+
+        lat, lon = float(latlon.get('lat')) if latlon.get('lat') else False, float(latlon.get('lon')) if latlon.get('lon') else False
         self._lat = lat
         self._lon = lon
         return {'lat': lat, 'lon': lon}
