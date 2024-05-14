@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-05-14T16:50:29.638251Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-7097076" lat="52.12985985" lon="20.67139706659236" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Katolickie Stowarzyszenie Niepełnosprawnych Archidiecezji Warszawskiej"/>
+	<tag k="capacity" v="58"/>
+	<tag k="name" v="Dom Pomocy Społecznej Rehabilitacyjno-Opiekuńczy Katolickiego Stowarzyszenia Niepełnosprawnych Archidiecezji Warszawskiej"/>
+	<tag k="addr:city" v="Milanówek"/>
+	<tag k="addr:postcode" v="05-822"/>
+	<tag k="addr:street" v="Piasta"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="start_date" v="2001-02-08"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-720794238" lat="52.2497656" lon="21.0104493" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Fundacja Gniazdo Rodzinne"/>
+	<tag k="capacity" v="40"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Stanisława Broniewskiego „Orszy”"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="05-075"/>
+	<tag k="addr:street" v="Kilińskiego"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="start_date" v="2002-06-17"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-827466740" lat="52.40810315" lon="20.91719749607381" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Legionowski"/>
+	<tag k="capacity" v="94"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Kombatant”"/>
+	<tag k="addr:city" v="Legionowo"/>
+	<tag k="addr:postcode" v="05-120"/>
+	<tag k="addr:street" v="Jagiellońska"/>
+	<tag k="addr:housenumber" v="71"/>
+	<tag k="start_date" v="2002-07-01"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-202454026" lat="51.61475135" lon="20.585343879258417" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Wspomożycielek Dusz Czyśćcowych"/>
+	<tag k="capacity" v="40"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Natalii Nitosławskiej"/>
+	<tag k="addr:city" v="Nowe Miasto"/>
+	<tag k="addr:postcode" v="26-420"/>
+	<tag k="addr:street" v="Bielińskiego"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="start_date" v="2006-12-29"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-149872947" lat="52.1688722" lon="22.5731132" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Siedleckie Stowarzyszenie Pomocy Osobom z Chorobą Alzheimera"/>
+	<tag k="capacity" v="53"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Osób z Chorobą Alzheimera"/>
+	<tag k="addr:city" v="Ptaszki"/>
+	<tag k="addr:postcode" v="08-140"/>
+	<tag k="addr:housenumber" v="6a"/>
+	<tag k="start_date" v="2007-01-12"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-349379447" lat="52.122506" lon="21.2701794" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Polskie Stowarzyszenie na Rzecz Osób z Niepełnosprawnością Intelektualną Koło w Otwocku"/>
+	<tag k="capacity" v="21"/>
+	<tag k="name" v="Dom Pomocy Społecznej - Hostel im. Jana Pawła II"/>
+	<tag k="addr:city" v="Otwock"/>
+	<tag k="addr:postcode" v="05-400"/>
+	<tag k="addr:street" v="Moniuszki"/>
+	<tag k="addr:housenumber" v="41"/>
+	<tag k="start_date" v="2005-03-09"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-83685395" lat="52.7167828" lon="21.2554199" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Pułtuski"/>
+	<tag k="capacity" v="290"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Obryte"/>
+	<tag k="addr:postcode" v="07-215"/>
+	<tag k="addr:housenumber" v="188"/>
+	<tag k="start_date" v="2007-01-16"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-832378303" lat="52.7252214" lon="20.9215037" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Pułtuski"/>
+	<tag k="capacity" v="118"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Ołdaki"/>
+	<tag k="addr:postcode" v="06-126"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="start_date" v="2009-01-07"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-1066690753" lat="52.1777778" lon="20.6675" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Pruszkowski"/>
+	<tag k="capacity" v="100"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Czubin"/>
+	<tag k="addr:postcode" v="05-840"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="start_date" v="2010-03-22"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-377915924" lat="53.060646" lon="21.5869841" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Miasto Ostrołęka"/>
+	<tag k="capacity" v="233"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Kardynała Stefana Wyszyńskiego, Prymasa Tysiąclecia"/>
+	<tag k="addr:city" v="Ostrołęka"/>
+	<tag k="addr:postcode" v="07-410"/>
+	<tag k="addr:street" v="Rolna"/>
+	<tag k="addr:housenumber" v="27"/>
+	<tag k="start_date" v="2001-10-24"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-285909546" lat="51.158513" lon="21.6490099" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Lipski"/>
+	<tag k="capacity" v="105"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Dorosłych Niepełnosprawnych Intelektualnie"/>
+	<tag k="addr:city" v="Lipsko"/>
+	<tag k="addr:postcode" v="27-300"/>
+	<tag k="addr:street" v="1-go Maja"/>
+	<tag k="addr:housenumber" v="79"/>
+	<tag k="start_date" v="2009-09-07"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-1061301253" lat="51.4626372" lon="21.6719994" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Zwoleński"/>
+	<tag k="capacity" v="77"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Gródek"/>
+	<tag k="addr:postcode" v="26-720"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="start_date" v="2009-03-19"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-207521093" lat="52.5625" lon="21.9472222" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Gmina Stoczek"/>
+	<tag k="capacity" v="23"/>
+	<tag k="name" v="Samorządowy Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Stare Lipki"/>
+	<tag k="addr:postcode" v="07-104"/>
+	<tag k="addr:housenumber" v="65"/>
+	<tag k="start_date" v="2009-05-19"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-209046105" lat="51.6758247" lon="21.7233979" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Zgromadzenie SS. Albertynek Posługujących Ubogim"/>
+	<tag k="capacity" v="77"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Dorosłych prowadzony przez Zgromadzenie Sióstr Albertynek"/>
+	<tag k="addr:city" v="Dębówka"/>
+	<tag k="addr:postcode" v="08-455"/>
+	<tag k="addr:housenumber" v="53"/>
+	<tag k="start_date" v="2010-12-31"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-268643322" lat="53.1028126" lon="21.6229321" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Polski Czerwony Krzyż Oddział Rejonowy Polskiego Czerwonego Krzyża w Ostrołęce"/>
+	<tag k="capacity" v="16"/>
+	<tag k="name" v="Dom Pomocy Społecznej Polskiego Czerwonego Krzyża"/>
+	<tag k="addr:city" v="Aleja Wojska Polskiego"/>
+	<tag k="addr:postcode" v="07-401"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="start_date" v="2006-11-20"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-475510711" lat="52.3963707" lon="19.6855575" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Płocki"/>
+	<tag k="capacity" v="100"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Koszelew"/>
+	<tag k="addr:postcode" v="09-530"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="start_date" v="2008-06-04"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-496566679" lat="52.486541" lon="19.92491677278229" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Płocki"/>
+	<tag k="capacity" v="186"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Nad Jarem”"/>
+	<tag k="addr:city" v="Nowe Miszewo"/>
+	<tag k="addr:postcode" v="09-471"/>
+	<tag k="addr:street" v="Pałacowa"/>
+	<tag k="addr:housenumber" v="2B"/>
+	<tag k="start_date" v="2006-10-26"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-998138861" lat="51.579839" lon="21.5569789" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Kozienicki"/>
+	<tag k="capacity" v="108"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Kazimiery Gruszczyńskiej"/>
+	<tag k="addr:city" v="Kozienice"/>
+	<tag k="addr:postcode" v="26-900"/>
+	<tag k="addr:street" v="Lubelska"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="start_date" v="2010-01-25"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-961048165" lat="52.5074083" lon="21.427541" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Benedyktynek Samarytanek Krzyża Chrystusowego"/>
+	<tag k="capacity" v="85"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Dzieci „Fiszor”"/>
+	<tag k="addr:city" v="Zabrodzie"/>
+	<tag k="addr:postcode" v="07-230"/>
+	<tag k="addr:street" v="Matki W. Jaroszewskiej"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="start_date" v="2007-06-26"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-133159245" lat="51.4096916" lon="21.180336" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Miasto Radom"/>
+	<tag k="capacity" v="185"/>
+	<tag k="name" v="Dom Pomocy Społecznej "Nad Potokiem" im. Bohdany „Danuty” Kijewskiej"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="addr:street" v="Struga"/>
+	<tag k="addr:housenumber" v="88"/>
+	<tag k="start_date" v="2008-11-27"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-95904264" lat="52.415734799999996" lon="21.18631080845357" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Powiat Wołomiński"/>
+	<tag k="capacity" v="107"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Radzymin"/>
+	<tag k="addr:postcode" v="05-250"/>
+	<tag k="addr:street" v="Konstytucji 3 Maja"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="start_date" v="2008-03-13"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-223400975" lat="53.08915" lon="19.84362" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Żuromiński"/>
+	<tag k="capacity" v="64"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Bądzyn"/>
+	<tag k="addr:postcode" v="09-304"/>
+	<tag k="addr:housenumber" v="75"/>
+	<tag k="start_date" v="2007-01-12"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-51289362" lat="51.1964571" lon="21.2281179" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Radomski"/>
+	<tag k="capacity" v="130"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Krzyżanowice"/>
+	<tag k="addr:postcode" v="27-100"/>
+	<tag k="addr:housenumber" v="219"/>
+	<tag k="start_date" v="2008-05-07"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-430817599" lat="51.3260995" lon="20.9182398" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Szydłowiecki"/>
+	<tag k="capacity" v="80"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Dom Kombatanta”"/>
+	<tag k="addr:city" v="Łaziska"/>
+	<tag k="addr:postcode" v="26-505"/>
+	<tag k="addr:street" v="Wspólna"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="start_date" v="2008-10-21"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-548525577" lat="52.131270900000004" lon="21.28016276476065" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Otwocki"/>
+	<tag k="capacity" v="37"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Wrzos”"/>
+	<tag k="addr:city" v="Otwock"/>
+	<tag k="addr:postcode" v="05-402"/>
+	<tag k="addr:street" v="Zagłoby"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="start_date" v="2009-08-19"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-278846492" lat="51.6635408" lon="21.0813158" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Białobrzeski"/>
+	<tag k="capacity" v="70"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Niedabyl"/>
+	<tag k="addr:postcode" v="26-804"/>
+	<tag k="addr:housenumber" v="36a"/>
+	<tag k="start_date" v="2010-12-31"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-330546748" lat="51.52976" lon="21.0993897" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Radomski"/>
+	<tag k="capacity" v="140"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Jedlanka"/>
+	<tag k="addr:postcode" v="26-660"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="start_date" v="2008-12-22"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-90328961" lat="52.1857" lon="20.79276" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Benedyktynek Samarytanek Krzyża Chrystusowego"/>
+	<tag k="capacity" v="93"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Pruszków"/>
+	<tag k="addr:postcode" v="05-800"/>
+	<tag k="addr:street" v="Żbikowska"/>
+	<tag k="addr:housenumber" v="40"/>
+	<tag k="start_date" v="2007-06-26"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-224498274" lat="52.472401500000004" lon="20.730785566545173" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v=""Dom Pomocy Społecznej Pensjonat Różany" spółka z ograniczoną odpowiedzialnością"/>
+	<tag k="capacity" v="20"/>
+	<tag k="name" v="Dom Pomocy Społecznej Pensjonat „Różany”"/>
+	<tag k="addr:city" v="Pomiechówek"/>
+	<tag k="addr:postcode" v="05-180"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="start_date" v="2005-12-06"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-545066106" lat="52.0090405" lon="20.5232709522024" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Żyrardowski"/>
+	<tag k="capacity" v="73"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Tartak"/>
+	<tag k="addr:postcode" v="96-325"/>
+	<tag k="addr:street" v="Mszczonowska"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="start_date" v="2009-02-16"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-498180519" lat="52.05882335" lon="20.439185830586172" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Powiat Żyrardowski"/>
+	<tag k="capacity" v="68"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Żyrardów"/>
+	<tag k="addr:postcode" v="96-300"/>
+	<tag k="addr:street" v="Limanowskiego"/>
+	<tag k="addr:housenumber" v="32b"/>
+	<tag k="start_date" v="2009-06-01"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-736341499" lat="52.0520524" lon="20.4249896101773" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Żyrardowski"/>
+	<tag k="capacity" v="75"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Ks. J. Popiełuszki"/>
+	<tag k="addr:city" v="Żyrardów"/>
+	<tag k="addr:postcode" v="96-300"/>
+	<tag k="addr:street" v="Sosabowskiego"/>
+	<tag k="addr:housenumber" v="23"/>
+	<tag k="start_date" v="2010-02-24"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-272672948" lat="52.254573" lon="21.00498432971851" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="110"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="00-224"/>
+	<tag k="addr:street" v="Wójtowska"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="start_date" v="2010-12-01"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-103361495" lat="52.6921875" lon="20.6050277" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Płoński"/>
+	<tag k="capacity" v="50"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Karolinowo"/>
+	<tag k="addr:postcode" v="09-120"/>
+	<tag k="addr:housenumber" v="38"/>
+	<tag k="start_date" v="2007-01-12"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-829989854" lat="51.4254809" lon="21.1918366" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Miasto Radom"/>
+	<tag k="capacity" v="80"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="addr:street" v="Zofii Holszańskiej"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="start_date" v="2007-06-26"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-75951338" lat="52.0332825" lon="20.9440812" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Franciszkanek Rodziny Maryi"/>
+	<tag k="capacity" v="80"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Dorosłych Zgromadzenia Sióstr Franciszkanek Rodziny Maryi"/>
+	<tag k="addr:city" v="Głosków"/>
+	<tag k="addr:postcode" v="05-503"/>
+	<tag k="addr:street" v="Gościniec"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="start_date" v="2007-05-25"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-582878829" lat="52.20558695" lon="21.196323508002674" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="100"/>
+	<tag k="name" v="Centrum Wsparcia Społecznego „Na Przedwiośniu”"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="04-748"/>
+	<tag k="addr:street" v="Przedwiośnie"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="start_date" v="2014-01-28"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-721834487" lat="52.33942765" lon="20.99477520947884" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="78"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Pod Brzozami”"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="03-007"/>
+	<tag k="addr:street" v="Bohaterów"/>
+	<tag k="addr:housenumber" v="46"/>
+	<tag k="start_date" v="2010-05-10"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-601856188" lat="52.38849135" lon="20.193152897181594" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Powiat Płocki"/>
+	<tag k="capacity" v="34"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Jacka Kuronia"/>
+	<tag k="addr:city" v="Wyszogród"/>
+	<tag k="addr:postcode" v="09-450"/>
+	<tag k="addr:street" v="Niepodległości"/>
+	<tag k="addr:housenumber" v="5A"/>
+	<tag k="start_date" v="2010-01-06"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-289649757" lat="52.235635" lon="20.948633280268744" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="112"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Budowlani”"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="01-128"/>
+	<tag k="addr:street" v="Elekcyjna"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="start_date" v="2010-08-09"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-257336208" lat="52.6888836" lon="19.8283056" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Płocki"/>
+	<tag k="capacity" v="84"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Zakrzewo"/>
+	<tag k="addr:postcode" v="09-460"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="start_date" v="2008-11-28"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-241207074" lat="52.2074094" lon="20.9656691" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="70"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Kombatantów"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="02-382"/>
+	<tag k="addr:street" v="Dickensa"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="start_date" v="2009-07-07"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-470290126" lat="52.57147665" lon="19.570751171815623" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Płocki"/>
+	<tag k="capacity" v="140"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Abp. A. J. Nowowiejskiego"/>
+	<tag k="addr:city" v="Płock"/>
+	<tag k="addr:postcode" v="09-400"/>
+	<tag k="addr:street" v="Płocka"/>
+	<tag k="addr:housenumber" v="90"/>
+	<tag k="start_date" v="2008-08-18"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-756971825" lat="52.207622099999995" lon="21.031542749406086" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="47"/>
+	<tag k="name" v="Dom Pomocy Społecznej Pracownika Oświaty"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="00-759"/>
+	<tag k="addr:street" v="Parkowa"/>
+	<tag k="addr:housenumber" v="7a"/>
+	<tag k="start_date" v="2010-04-08"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-959785892" lat="52.6064082" lon="19.8000131" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Płocki"/>
+	<tag k="capacity" v="128"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Goślice"/>
+	<tag k="addr:postcode" v="09-230"/>
+	<tag k="addr:housenumber" v="66"/>
+	<tag k="start_date" v="2009-10-26"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-726567133" lat="52.0516259" lon="20.7793047" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Franciszkanek Rodziny Maryi"/>
+	<tag k="capacity" v="40"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Dorosłych Zgromadzenia Sióstr Franciszkanek Rodziny Maryi"/>
+	<tag k="addr:city" v="Młochów"/>
+	<tag k="addr:postcode" v="05-831"/>
+	<tag k="addr:street" v="Matki Dymman"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="start_date" v="2004-12-31"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-181676571" lat="52.2227373" lon="21.06771540873708" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="100"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. „Matysiaków”"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="03-977"/>
+	<tag k="addr:street" v="Arabska"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="start_date" v="2008-01-10"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-840895840" lat="52.175268599999995" lon="21.04012333384629" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="120"/>
+	<tag k="name" v="Centrum Alzheimera - Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="02-730"/>
+	<tag k="addr:street" v="Wilanowska"/>
+	<tag k="addr:housenumber" v="257"/>
+	<tag k="start_date" v="2010-10-20"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-364473164" lat="48.8131513" lon="2.2462324" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Ciechanowski"/>
+	<tag k="capacity" v="95"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Kombatant”"/>
+	<tag k="addr:city" v="Ciechanów"/>
+	<tag k="addr:postcode" v="04-600"/>
+	<tag k="addr:street" v="Batalionów Chłopskich"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="start_date" v="2007-01-16"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-272428402" lat="52.5396602" lon="19.701676464121185" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Miasto Płock"/>
+	<tag k="capacity" v="80"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Przyjaznych Serc”"/>
+	<tag k="addr:city" v="Płock"/>
+	<tag k="addr:postcode" v="09-400"/>
+	<tag k="addr:street" v="Krótka"/>
+	<tag k="addr:housenumber" v="6A"/>
+	<tag k="start_date" v="2008-06-04"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-483188976" lat="52.1798158" lon="22.294189575702106" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Miasto Siedlce"/>
+	<tag k="capacity" v="105"/>
+	<tag k="name" v="„DOM NAD STAWAMI” Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Siedlce"/>
+	<tag k="addr:postcode" v="08-110"/>
+	<tag k="addr:street" v="Poniatowskiego"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="start_date" v="2007-11-07"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-158375030" lat="52.55381" lon="21.76185" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Miasto Łochów"/>
+	<tag k="capacity" v="34"/>
+	<tag k="name" v="Samorządowy Dom Pomocy Społecznej „Pogodnej Starości”"/>
+	<tag k="addr:city" v="Ostrówek"/>
+	<tag k="addr:postcode" v="07-132"/>
+	<tag k="addr:street" v="Zaciszna"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="start_date" v="2008-10-13"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-1035154016" lat="51.9117053" lon="20.903011025614756" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Grójecki"/>
+	<tag k="capacity" v="110"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Pod Topolami”"/>
+	<tag k="addr:city" v="Lesznowola"/>
+	<tag k="addr:postcode" v="05-600"/>
+	<tag k="addr:street" v="Grójecka"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="start_date" v="2010-06-09"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-157761095" lat="52.2986333" lon="19.6736177" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Gostyniński"/>
+	<tag k="capacity" v="235"/>
+	<tag k="name" v="Powiatowy Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Czarnów"/>
+	<tag k="addr:postcode" v="09-541"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="start_date" v="2011-01-24"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-1035463712" lat="52.59162" lon="20.79878" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Nowodworski"/>
+	<tag k="capacity" v="100"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Jana Pawła II"/>
+	<tag k="addr:city" v="Nasielsk"/>
+	<tag k="addr:postcode" v="05-190"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="start_date" v="2006-01-04"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-562212748" lat="52.5731229" lon="21.5811259" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Matki Bożej Loretańskiej"/>
+	<tag k="capacity" v="54"/>
+	<tag k="name" v="Dom Pomocy Społecznej Charytatywne Dzieło Miłości Ks. Ignacego Kłopotowskiego"/>
+	<tag k="addr:city" v="Loretto"/>
+	<tag k="addr:postcode" v="07-202"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="phone" v="+48 29 596 66 31"/>
+	<tag k="start_date" v="2009-05-28"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-482960587" lat="52.1069205" lon="21.5063164" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Pan Jacek Pac"/>
+	<tag k="capacity" v="45"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Rudzienko”"/>
+	<tag k="addr:city" v="Kołbiel"/>
+	<tag k="addr:postcode" v="05-340"/>
+	<tag k="addr:street" v="Osiedlowa"/>
+	<tag k="addr:housenumber" v="28"/>
+	<tag k="start_date" v="2009-10-26"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-1011834756" lat="53.0460966" lon="20.2747793" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Fundacja Odzyskać Radość"/>
+	<tag k="capacity" v="50"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Zdrowa Jesień”"/>
+	<tag k="addr:city" v="Bogurzyn"/>
+	<tag k="addr:postcode" v="06-521"/>
+	<tag k="addr:housenumber" v="87"/>
+	<tag k="start_date" v="2010-03-22"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-486586113" lat="53.01315" lon="20.36728" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Samorząd Województwa Mazowieckiego"/>
+	<tag k="capacity" v="82"/>
+	<tag k="name" v="Krajowy Ośrodek Mieszkalno-Rehabilitacyjny dla Osób Chorych na Stwardnienie Rozsiane"/>
+	<tag k="addr:city" v="Dąbek"/>
+	<tag k="addr:postcode" v="06-561"/>
+	<tag k="addr:housenumber" v="129"/>
+	<tag k="start_date" v="2010-09-30"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-1054662604" lat="52.568373199999996" lon="19.657672578432425" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Pani Małgorzata Alabrudzińska Pan Andrzej Alabrudziński"/>
+	<tag k="capacity" v="54"/>
+	<tag k="name" v="Dom Pomocy Społecznej „MECENAT” s. c. M. Alabrudzińska, A. Alabrudziński"/>
+	<tag k="addr:city" v="Płock"/>
+	<tag k="addr:postcode" v="09-400"/>
+	<tag k="addr:street" v="Maszewska"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="start_date" v="2011-01-05"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-527605005" lat="52.0217251" lon="21.1301595" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Fundacja „Dom Muzyka Seniora”"/>
+	<tag k="capacity" v="50"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Dom Muzyka Seniora”"/>
+	<tag k="addr:city" v="Baniocha"/>
+	<tag k="addr:postcode" v="05-532"/>
+	<tag k="addr:street" v="Brzozowa"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="start_date" v="2013-01-18"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-441688553" lat="51.3711409" lon="20.5120813" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Pani Anna Sokół"/>
+	<tag k="capacity" v="78"/>
+	<tag k="name" v="Dom Pomocy Społecznej „NOWELA”"/>
+	<tag k="addr:city" v="Gałki"/>
+	<tag k="addr:postcode" v="26-434"/>
+	<tag k="addr:housenumber" v="70"/>
+	<tag k="start_date" v="2013-07-16"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-306421067" lat="52.1407575" lon="20.7387621" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Katolickie Stowarzyszenie Niepełnosprawnych Archidiecezji Warszawskiej"/>
+	<tag k="capacity" v="55"/>
+	<tag k="name" v="Dom Pomocy Społecznej Katolickiego Stowarzyszenia Niepełnosprawnych Archidiecezji Warszawskiej"/>
+	<tag k="addr:city" v="Brwinów"/>
+	<tag k="addr:postcode" v="05-840"/>
+	<tag k="addr:street" v="Wiosenna"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="start_date" v="2014-02-28"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-916538138" lat="52.79267" lon="21.58151" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Dom Pomocy Społecznej „ZACISZE” s. c. Jolanta Rostek, Robert Rostek"/>
+	<tag k="capacity" v="23"/>
+	<tag k="name" v="Dom Pomocy Społecznej „ZACISZE”"/>
+	<tag k="addr:city" v="Wólka Grochowa"/>
+	<tag k="addr:postcode" v="07-210"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="start_date" v="2014-06-17"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-505479625" lat="52.0166667" lon="21.7" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Pani Małgorzata Drzazga"/>
+	<tag k="capacity" v="24"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Pod Klonami”"/>
+	<tag k="addr:city" v="Transbór"/>
+	<tag k="addr:postcode" v="05-334"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="start_date" v="2015-04-14"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-266136014" lat="52.6930188" lon="22.3437236" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="„eMKaMED” Ośrodek usługi, handel, szkolenia sp. z o. o."/>
+	<tag k="capacity" v="30"/>
+	<tag k="name" v="Dom Pomocy Społecznej spółki „eMKaMED”"/>
+	<tag k="addr:city" v="Żebry Laskowiec"/>
+	<tag k="addr:postcode" v="07-322"/>
+	<tag k="addr:housenumber" v="70A"/>
+	<tag k="start_date" v="2015-05-11"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-1033582514" lat="52.824744" lon="21.84827465" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v=""Fundacja Dom z Sercem""/>
+	<tag k="capacity" v="50"/>
+	<tag k="name" v="Dom Pomocy Społecznej "Dom z Sercem""/>
+	<tag k="addr:city" v="Komorowo"/>
+	<tag k="addr:postcode" v="07-310"/>
+	<tag k="addr:street" v="Kościelna"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="start_date" v="2016-01-08"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-592604494" lat="52.692961" lon="21.1083872" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Pułtuski"/>
+	<tag k="capacity" v="96"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="addr:city" v="Pułtusk"/>
+	<tag k="addr:postcode" v="06-100"/>
+	<tag k="addr:street" v="Teofila Kwiatkowskiego"/>
+	<tag k="addr:housenumber" v="19A"/>
+	<tag k="start_date" v="2016-10-19"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-657500945" lat="51.2683372" lon="21.7412271" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Fundacja "Leopolda i Marii""/>
+	<tag k="capacity" v="19"/>
+	<tag k="name" v="Dom Pomocy Społecznej "Dom Seniora"/>
+	<tag k="addr:city" v="Kijanka"/>
+	<tag k="addr:postcode" v="27-312"/>
+	<tag k="addr:housenumber" v="31"/>
+	<tag k="start_date" v="2020-07-01"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="-477939082" lat="51.4766184" lon="21.128749512757736" version="1" timestamp="2024-05-14T16:49:28.260101Z" action="modify"   >
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Fundacja Dom Marzeń"/>
+	<tag k="capacity" v="49"/>
+	<tag k="name" v="Dom Pomocy Społecznej WSOLA"/>
+	<tag k="addr:city" v="Wsola"/>
+	<tag k="addr:postcode" v="26-660"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="start_date" v="2023-04-14"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node></osm>

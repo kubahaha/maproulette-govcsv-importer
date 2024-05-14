@@ -36,6 +36,37 @@ def get_operator_type(name, operator_name):
     return ''
 
 
+def parse_address(addrstring, pattern=r"^(?:(?P<CITY__2>[\w\d ęółśążźćń]+[a-zęółśążźćń]),? +)?(?:(?:(?:ul(?:\.|ica|))|(?:al(?:\.|eja|))|(?:pl(?:\.|ac|))) +(?P<STREET>[\w\d \.ęółśążźćń-]+[a-zęółśążźćń]) +)?(?:(?P<PLACE>[\w\d ęółśążźćń]+[a-zęółśążźćń]) +)?(?P<HOUSENUMBER>\d+[a-z]?)(?:(?:(?:\/)|(?:l\.)|(?:lok)|(?:m\.) *)(?P<DOOR>\w+))?,? *((?P<POSTCODE>\d{2}\-\d{3}) +)(?P<CITY__1>[\w\d \-ęółśążźćń]+)"):
+    m = re.match(pattern, addrstring, re.IGNORECASE + re.MULTILINE)
+    try:
+        address = m.groupdict()
+    except AttributeError:
+        print(f'ERROR!: {addrstring}')
+        raise
+    addr = {}
+
+    for key in ['CITY', 'PLACE', 'DOOR', 'HOUSENUMBER', 'POSTCODE', 'STREET']:
+        if address.get(key, False):
+            addr.update({key: address[key]})
+
+        for i in range(1, 64):
+            new_key = f'{key}__{i}'
+            if new_key in address.keys():
+                if address.get(new_key, False):
+                    addr.update({key: address[new_key]})
+            else:
+                break
+
+    return {
+        'addr:housenumber': addr.get('HOUSENUMBER', None),
+        'addr:door': addr.get('DOOR', None),
+        'addr:street': addr.get('STREET', None),
+        'addr:city': addr.get('CITY', None),
+        'addr:place': addr.get('PLACE', None),
+        'addr:postcode': addr.get('POSTCODE', None)
+    }
+
+
 def getaddr(addrstring, city=False, place=False, street=False, housenumber=False, door=False):
     if not addrstring:
         return {}
@@ -155,10 +186,13 @@ def query_nominatim(q=False, p=False):
         raise ValueError()
     # print(url)
     resp = requests.get(url)
-    resp_json = resp.json()
+    try:
+        resp_json = resp.json()
+    except requests.exceptions.JSONDecodeError:
+        print(f'ERROR! {resp.text}')
+        raise
 
     if resp_json:
-        # print(resp_json[0])
         return resp_json[0]
 
 

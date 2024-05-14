@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-03-06T21:03:07.904173Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-269504763" lat="52.77486626692414" lon="18.241068274789107" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-552576014" lat="52.80099304261455" lon="18.244516104380278" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-108533258" lat="52.7782334837909" lon="18.234163251693" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-595086750" lat="52.77806464010518" lon="18.26969061689857" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-862517493" lat="52.79256376083197" lon="18.266682859362884" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-405536496" lat="52.800970650971244" lon="18.268885109777862" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-681043321" lat="52.79674284486897" lon="18.24439459261942" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-413144032" lat="52.76497003734" lon="18.261222570603202" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-968782958" lat="52.777102597814626" lon="18.266541054645707" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-249810965" lat="52.78254882918103" lon="18.236762767317877" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-46898600" lat="52.78278154591944" lon="18.255803028005786" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-788577962" lat="52.78555245380538" lon="18.276000265860475" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-260349856" lat="52.77880046767047" lon="18.251392566213923" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-929145624" lat="52.78787798166228" lon="18.278641052660944" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-513863886" lat="52.78886555933819" lon="18.279183023351607" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-658417043" lat="52.778691358725084" lon="18.24532043828872" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-714821239" lat="52.77820272491456" lon="18.243758528775803" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-845416385" lat="52.786725414613414" lon="18.275730957345015" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-173498820" lat="52.78897681000173" lon="18.248435941232756" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-1028253253" lat="52.79819103339238" lon="18.27878989435793" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-842368961" lat="52.79493848972264" lon="18.27371828783217" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-1070165711" lat="52.793499628079445" lon="18.274300336807283" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-968435296" lat="52.75239051016633" lon="18.26188116042818" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-874597928" lat="52.7785114794751" lon="18.255711529734366" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-582232741" lat="52.77883700830103" lon="18.263795271858836" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-922287538" lat="52.80390525679508" lon="18.25966797070549" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-683136603" lat="52.798381857248145" lon="18.24798848527894" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-492771249" lat="52.789796267696325" lon="18.248871118488676" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-1025651959" lat="52.777106384179994" lon="18.25180041866314" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-147648572" lat="52.77308135918454" lon="18.25295606624059" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-747869037" lat="52.773454107257095" lon="18.25936053271909" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-1039311199" lat="52.76459324084584" lon="18.278958894034872" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-613416023" lat="52.79872248416196" lon="18.240519334522002" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-306945971" lat="52.81052408971572" lon="18.240155142562912" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-341194226" lat="52.81436487499108" lon="18.23737190195487" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-725023904" lat="52.80796388118665" lon="18.273788954961137" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-28926618" lat="52.80906804299316" lon="18.269078516109687" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-544353862" lat="52.80827272539657" lon="18.242947895222304" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-199062753" lat="52.767335160594904" lon="18.260359899247977" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-775890027" lat="52.78602189682593" lon="18.236662680588253" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-785751883" lat="52.78454210489759" lon="18.260287206901975" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-419538056" lat="52.806660468744035" lon="18.264574110751006" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-664543031" lat="52.801563818382924" lon="18.263339366674852" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-102738356" lat="52.75395072137377" lon="18.250498894015372" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-571974623" lat="52.79341506303724" lon="18.251152155638678" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-167122593" lat="52.811255107972826" lon="18.267946170653214" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-801849306" lat="52.79310523862624" lon="18.285693893028633" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-930555184" lat="52.811688995859406" lon="18.24328208998079" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-854590591" lat="52.79141198362862" lon="18.256004264898163" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-672634051" lat="52.76474983424504" lon="18.25684872247035" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-251318220" lat="52.75498593305067" lon="18.261136289635854" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-57063734" lat="52.75671803074835" lon="18.252393302769438" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-360204425" lat="52.780822240571524" lon="18.25001278417538" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-812432207" lat="52.78016030603856" lon="18.24694701924379" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-476379612" lat="52.80660511584355" lon="18.270273221466756" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-623618150" lat="52.80310694891527" lon="18.273922289493694" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-639283589" lat="52.7700158772603" lon="18.269794327144385" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-1028056120" lat="52.78195615131237" lon="18.252206477295783" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-559275907" lat="52.797484855470636" lon="18.287276490616478" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-937208935" lat="52.78751117584461" lon="18.25709571653973" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-20061356" lat="52.79173268974677" lon="18.2550004116089" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-284320138" lat="52.7791048810161" lon="18.23551531082735" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node>
+<node id="-651583948" lat="52.79352780132007" lon="18.253779984563113" version="1" timestamp="2024-03-06T21:03:05.968294Z" action="modify"   >
+	<tag k="amenity" v="waste_disposal"/>
+	<tag k="fee" v="no"/>
+	<tag k="name" v="Mini Pszok"/>
+	<tag k="operator" v="Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej w Inowrocławiu"/>
+	<tag k="operator:type" v="public"/>
+	<tag k="waste" v="organic"/>
+	<tag k="source:office" v="Wykaz lokalizacji kontenerów na odpady zielone - mini PSZOK-ów w Inowrocławiu na dzień 7.02.2024"/>
+</node></osm>

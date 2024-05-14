@@ -1,0 +1,31 @@
+LBN +
+PDK <p><strong>(.+)<\/strong><\/p>\n<p>(.+)<\/p>\n<p>(\d{2}\-\d{3} .+)<\/p>\n(<ol>\n)?<(li|p)>(.+)<\/(li|p)>
+ŚWI -
+MŁP ([\węółśążźćń \-]+) ([\węółśążźćń\-]+ [\węółśążźćń\-]+) (\d{3} \d{3} \d{3}) (.+), (\d{2}\-\d{3}) (.+)
+PDL -
+MAZ -
+WARM API https://wmzpn.pl/?page_id=2783
+[...document.querySelectorAll('.iksm-term--child')].map(it => console.log(it.children[0].children[0].children[2].innerHTML, it.children[0].children[0].href))
+ŚLĄ -
+ZACHPOM API https://zzpn.pl/index.php?option=com_clubs&task=clublist&letter=A
+
+
+
+
+
+
+
+
+
+
+
+for(i in l) {
+    if(it.classList.contains('iksm-term--has-children')) {
+        continue
+    }
+    it = l[i]
+    console.log(it)
+    name = it.querySelector('.iksm-term__text').innerHTML
+    url = it.querySelector('.iksm-term__link').href
+    console.log(name, url)
+}

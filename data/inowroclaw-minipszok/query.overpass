@@ -1,0 +1,13 @@
+[out:json];
+{{geocodeArea:Inowrocław}}->.searchArea;
+
+(
+    nw[amenity=waste_disposal](area.searchArea);
+    nw[amenity=waste_basket](area.searchArea);
+    nw[amenity=recycling](area.searchArea);
+    nw[amenity=waste_transfer_station](area.searchArea);
+);
+
+out meta;
+>;
+out meta;
