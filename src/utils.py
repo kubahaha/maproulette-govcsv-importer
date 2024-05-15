@@ -4,15 +4,9 @@ from src.engines.Nominatim import Nominatim
 
 import requests
 
-fieldnames = {
+FIELDS = {
     'addr': ['addr:postcode', 'addr:city', 'addr:place', 'addr:street', 'addr:housenumber', 'addr:door'],
     'tech': ['@lat', '@lon', '@id']
-}
-
-ADDR_FIELDS = {
-    'street': lambda x: f'{x.get("addr:street")} {x.get("addr:housenumber")}',
-    'city': lambda x: x.get('addr:city') or x.get('addr:place'),
-    'postalcode': lambda x: x.get('addr:postcode')
 }
 
 
@@ -148,6 +142,7 @@ def download_latlon(tags, engine=Nominatim):
 
     if found:
         return engine.result_2_latlon(found)
+    print(f'Warning: location not found\n{tags}')
     return {}
 
 

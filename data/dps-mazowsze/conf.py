@@ -47,7 +47,7 @@ matching = [
     ['official_name'],
     ['addr:housenumber', 'addr:street', 'addr:city'],
     ['addr:housenumber', 'addr:place'],
-    "location:300",
+    "location:750",
     ['addr:place', 'addr:postcode'],
     ['addr:street', 'addr:city'],
     ['addr:housenumber', 'addr:city', 'addr:postcode']

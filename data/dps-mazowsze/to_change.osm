@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-14T21:23:59.431070Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<meta osm_base="2024-05-14T22:24:50.587185Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
 <way id="698290946" version="4" timestamp="2023-01-10T14:31:09Z" action="modify" changeset="131109289" uid="3068531" user="pawel66031">
 	<tag k="addr:city" v="Maków Mazowiecki"/>
 	<tag k="addr:city:simc" v="0966300"/>
@@ -17,6 +17,7 @@
 	<tag k="social_facility:for" v="diseased"/>
 	<tag k="operator" v="Powiat Makowski"/>
 	<tag k="capacity" v="42"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Makowie Mazowieckim"/>
 	<tag k="start_date" v="2007-03-30"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="6557954290"/>
@@ -100,6 +101,7 @@
 	<tag k="source:addr" v="szczutowo.e-mapa.net"/>
 	<tag k="operator" v="Powiat Sierpecki"/>
 	<tag k="capacity" v="80"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im. Jana Pawła II w Szczutowie"/>
 	<tag k="addr:postcode" v="09-227"/>
 	<tag k="start_date" v="2007-05-25"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
@@ -165,6 +167,7 @@
 	<tag k="social_facility:for" v="mental_health"/>
 	<tag k="operator" v="Powiat Warszawski Zachodni"/>
 	<tag k="capacity" v="100"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Sadowej"/>
 	<tag k="start_date" v="2010-12-31"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="1468037397"/>
@@ -216,6 +219,7 @@
 	<tag k="website" v="https://www.dpsprzasnysz.pl/"/>
 	<tag k="operator" v="Powiat Przasnyski"/>
 	<tag k="capacity" v="189"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Przasnyszu"/>
 	<tag k="start_date" v="2010-03-24"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="1878626722"/>
@@ -281,6 +285,7 @@
 	<tag k="website" v="https://dpskaw.pl"/>
 	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
 	<tag k="capacity" v="106"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im Św. Brata Alberta"/>
 	<tag k="start_date" v="2008-01-23"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="2305533813"/>
@@ -340,6 +345,7 @@
 	<tag k="social_facility:for" v="senior"/>
 	<tag k="operator" v="Miasto Radom"/>
 	<tag k="capacity" v="185"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej Weterana Walki i Pracy"/>
 	<tag k="addr:postcode" v="26-600"/>
 	<tag k="start_date" v="2008-12-17"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
@@ -523,6 +529,7 @@
 	<tag k="social_facility:for" v="mental_health"/>
 	<tag k="operator" v="Powiat Piaseczyński"/>
 	<tag k="capacity" v="400"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im. Waleriana Łukasińskiego w Górze Kalwarii"/>
 	<tag k="start_date" v="2010-11-12"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="5695236666"/>
@@ -557,6 +564,7 @@
 	<tag k="social_facility:for" v="mental_health"/>
 	<tag k="operator" v="Zgromadzenie Sióstr Franciszkanek Rodziny Maryi"/>
 	<tag k="capacity" v="70"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej dla Dzieci i Młodzieży w Warszawie"/>
 	<tag k="start_date" v="2010-03-15"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 </node>
@@ -571,6 +579,7 @@
 	<tag k="social_facility:for" v="mental_health"/>
 	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
 	<tag k="capacity" v="200"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Leśny” w Warszawie"/>
 	<tag k="start_date" v="2009-08-31"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="9375807698"/>
@@ -665,6 +674,7 @@
 	<tag k="social_facility:for" v="senior"/>
 	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
 	<tag k="capacity" v="145"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Syrena” w Warszawie"/>
 	<tag k="start_date" v="2009-12-21"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="10601408436"/>
@@ -730,6 +740,7 @@
 	<tag k="website" v="https://dps.e-sochaczew.pl/"/>
 	<tag k="social_facility:for" v="diseased"/>
 	<tag k="capacity" v="99"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Młodzieszynie"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="6254471769"/>
 	<nd ref="6254470070"/>
@@ -1057,6 +1068,1344 @@
 <node id="6254471786" lat="52.3178266" lon="20.2028263" version="1" timestamp="2019-02-02T21:12:40Z"  changeset="66864977" uid="3214275" user="pio2_122">
 
 </node>
+<way id="176330250" version="4" timestamp="2019-11-04T22:55:49Z" action="modify" changeset="76616549" uid="2044927" user="Mariusz Staniszewski">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="building" v="yes"/>
+	<tag k="name" v="Dom Pomocy Społecznej Zgromadzenia Sióstr Miłosierdzia Św. Wincentego Paulo"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Miłosierdzia Św. Wincentego Paulo"/>
+	<tag k="capacity" v="93"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej Zgromadzenia Sióstr Miłosierdzia Św. Wincentego Paulo w Przasnyszu"/>
+	<tag k="addr:city" v="Przasnysz"/>
+	<tag k="addr:postcode" v="06-300"/>
+	<tag k="addr:street" v="Świerczewo"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="start_date" v="2007-06-04"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="1868687659"/>
+	<nd ref="1868687350"/>
+	<nd ref="1868687337"/>
+	<nd ref="1868687371"/>
+	<nd ref="1868687893"/>
+	<nd ref="1868687873"/>
+	<nd ref="1868687313"/>
+	<nd ref="1868687774"/>
+	<nd ref="1868687507"/>
+	<nd ref="1868687895"/>
+	<nd ref="1868687661"/>
+	<nd ref="1868687400"/>
+	<nd ref="1868687728"/>
+	<nd ref="1868687934"/>
+	<nd ref="1868687680"/>
+	<nd ref="1868687810"/>
+	<nd ref="1868687489"/>
+	<nd ref="1868687382"/>
+	<nd ref="1868687736"/>
+	<nd ref="1868687730"/>
+	<nd ref="1868687362"/>
+	<nd ref="1868687453"/>
+	<nd ref="1868687878"/>
+	<nd ref="1868687779"/>
+	<nd ref="1868687897"/>
+	<nd ref="1868687732"/>
+	<nd ref="1868687901"/>
+	<nd ref="1868687590"/>
+	<nd ref="1868687913"/>
+	<nd ref="1868687659"/>
+</way>
+<node id="1868687313" lat="53.0240575" lon="20.8828802" version="1" timestamp="2012-08-16T14:04:59Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687337" lat="53.0243939" lon="20.8826498" version="1" timestamp="2012-08-16T14:04:59Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687350" lat="53.024573" lon="20.8827722" version="1" timestamp="2012-08-16T14:04:59Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687362" lat="53.0239987" lon="20.8825932" version="1" timestamp="2012-08-16T14:05:00Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687371" lat="53.0244065" lon="20.8825987" version="1" timestamp="2012-08-16T14:05:00Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687382" lat="53.0239252" lon="20.8823009" version="1" timestamp="2012-08-16T14:05:00Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687400" lat="53.0238058" lon="20.8827354" version="1" timestamp="2012-08-16T14:05:00Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687453" lat="53.0241268" lon="20.8826844" version="1" timestamp="2012-08-16T14:05:01Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687489" lat="53.0239332" lon="20.8823652" version="1" timestamp="2012-08-16T14:05:02Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687507" lat="53.0240655" lon="20.8829392" version="1" timestamp="2012-08-16T14:05:03Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687590" lat="53.0244299" lon="20.8825045" version="1" timestamp="2012-08-16T14:05:04Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687659" lat="53.02462" lon="20.8825822" version="1" timestamp="2012-08-16T14:05:06Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687661" lat="53.0237929" lon="20.8828051" version="1" timestamp="2012-08-16T14:05:06Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687680" lat="53.0236945" lon="20.8824379" version="1" timestamp="2012-08-16T14:05:06Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687728" lat="53.0235815" lon="20.8825932" version="1" timestamp="2012-08-16T14:05:07Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687730" lat="53.0240413" lon="20.8824162" version="1" timestamp="2012-08-16T14:05:07Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687732" lat="53.0243721" lon="20.8824055" version="1" timestamp="2012-08-16T14:05:07Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687736" lat="53.024001" lon="20.8822553" version="1" timestamp="2012-08-16T14:05:07Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687774" lat="53.0240462" lon="20.882907" version="1" timestamp="2012-08-16T14:05:08Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687779" lat="53.0241704" lon="20.8823679" version="1" timestamp="2012-08-16T14:05:08Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687810" lat="53.0238835" lon="20.8825698" version="1" timestamp="2012-08-16T14:05:09Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687873" lat="53.0242254" lon="20.8830019" version="1" timestamp="2012-08-16T14:05:10Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687878" lat="53.0241994" lon="20.8823894" version="1" timestamp="2012-08-16T14:05:10Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687893" lat="53.0243454" lon="20.8825551" version="1" timestamp="2012-08-16T14:05:11Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687895" lat="53.02398" lon="20.8830841" version="1" timestamp="2012-08-16T14:05:11Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687897" lat="53.024193" lon="20.8822821" version="1" timestamp="2012-08-16T14:05:11Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687901" lat="53.0243592" lon="20.8824537" version="1" timestamp="2012-08-16T14:05:11Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687913" lat="53.024441" lon="20.8824599" version="1" timestamp="2012-08-16T14:05:11Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<node id="1868687934" lat="53.0236074" lon="20.8824162" version="1" timestamp="2012-08-16T14:05:12Z"  changeset="12751308" uid="792353" user="eshabe">
+
+</node>
+<way id="793255818" version="5" timestamp="2021-08-02T04:10:39Z" action="modify" changeset="108994811" uid="2300915" user="fkdoo">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Stanisława Broniewskiego „Orszy”"/>
+	<tag k="old_name" v="III Liceum Ogólnokształcące im. Stanisława Staszica;III LO;Staszic"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Fundacja Gniazdo Rodzinne"/>
+	<tag k="capacity" v="40"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im. Stanisława Broniewskiego „Orszy”"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="05-075"/>
+	<tag k="addr:street" v="Kilińskiego"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="start_date" v="2002-06-17"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="1517584455"/>
+	<nd ref="7439785188"/>
+	<nd ref="7439767284"/>
+	<nd ref="8973248843"/>
+	<nd ref="1517584445"/>
+	<nd ref="1517584372"/>
+	<nd ref="1517584455"/>
+</way>
+<node id="1517584372" lat="51.1010256" lon="20.8671474" version="2" timestamp="2020-04-23T22:28:21Z"  changeset="84025352" uid="1993471" user="Karol_S">
+
+</node>
+<node id="1517584445" lat="51.1002988" lon="20.8687775" version="4" timestamp="2020-04-23T22:28:21Z"  changeset="84025352" uid="1993471" user="Karol_S">
+
+</node>
+<node id="1517584455" lat="51.1019801" lon="20.8682061" version="2" timestamp="2020-04-23T22:28:21Z"  changeset="84025352" uid="1993471" user="Karol_S">
+
+</node>
+<node id="7439767284" lat="51.1012431" lon="20.8699052" version="1" timestamp="2020-04-23T22:28:21Z"  changeset="84025352" uid="1993471" user="Karol_S">
+
+</node>
+<node id="7439785188" lat="51.1016663" lon="20.868942" version="1" timestamp="2020-04-23T22:28:21Z"  changeset="84025352" uid="1993471" user="Karol_S">
+
+</node>
+<node id="8973248843" lat="51.1007834" lon="20.8693569" version="1" timestamp="2021-08-02T04:10:39Z"  changeset="108994811" uid="2300915" user="fkdoo">
+
+</node>
+<way id="180673165" version="5" timestamp="2020-05-27T21:07:23Z" action="modify" changeset="85852913" uid="3199858" user="Mateusz Konieczny - bot account">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="building" v="yes"/>
+	<tag k="castle_type" v="palace"/>
+	<tag k="historic" v="castle"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Kombatant”"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:geometry" v="geoportal.gov.pl, GPS"/>
+	<tag k="website" v="https://dps-podzamek.pl/"/>
+	<tag k="wikidata" v="Q11815014"/>
+	<tag k="wikipedia" v="pl:Pałac w Podzamku"/>
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Legionowski"/>
+	<tag k="capacity" v="94"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Kombatant” w Legionowie"/>
+	<tag k="addr:city" v="Legionowo"/>
+	<tag k="addr:postcode" v="05-120"/>
+	<tag k="addr:street" v="Jagiellońska"/>
+	<tag k="addr:housenumber" v="71"/>
+	<tag k="start_date" v="2002-07-01"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="3987343469"/>
+	<nd ref="3987343461"/>
+	<nd ref="3987343462"/>
+	<nd ref="3987343463"/>
+	<nd ref="3987343464"/>
+	<nd ref="3987343457"/>
+	<nd ref="3987343458"/>
+	<nd ref="3987343470"/>
+	<nd ref="4028468231"/>
+	<nd ref="4028468233"/>
+	<nd ref="4028468232"/>
+	<nd ref="4028468230"/>
+	<nd ref="3987343469"/>
+</way>
+<node id="3987343457" lat="50.4316787" lon="16.7338136" version="1" timestamp="2016-02-04T06:05:03Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="3987343458" lat="50.4316799" lon="16.7340403" version="1" timestamp="2016-02-04T06:05:04Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="3987343461" lat="50.431701" lon="16.7331197" version="1" timestamp="2016-02-04T06:05:04Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="3987343462" lat="50.431709" lon="16.733448" version="1" timestamp="2016-02-04T06:05:04Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="3987343463" lat="50.4317806" lon="16.7334445" version="1" timestamp="2016-02-04T06:05:04Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="3987343464" lat="50.4317908" lon="16.7338031" version="1" timestamp="2016-02-04T06:05:04Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="3987343469" lat="50.4318897" lon="16.7331158" version="1" timestamp="2016-02-04T06:05:04Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="3987343470" lat="50.4318913" lon="16.7340352" version="1" timestamp="2016-02-04T06:05:04Z"  changeset="36990623" uid="2445224" user="rowers2">
+
+</node>
+<node id="4028468230" lat="50.4318904" lon="16.7334926" version="1" timestamp="2016-02-26T16:57:40Z"  changeset="37465089" uid="2445224" user="rowers2">
+
+</node>
+<node id="4028468231" lat="50.4318906" lon="16.733613" version="1" timestamp="2016-02-26T16:57:40Z"  changeset="37465089" uid="2445224" user="rowers2">
+
+</node>
+<node id="4028468232" lat="50.4319374" lon="16.7334924" version="1" timestamp="2016-02-26T16:57:40Z"  changeset="37465089" uid="2445224" user="rowers2">
+
+</node>
+<node id="4028468233" lat="50.4319376" lon="16.7336128" version="1" timestamp="2016-02-26T16:57:40Z"  changeset="37465089" uid="2445224" user="rowers2">
+
+</node>
+<way id="1279202847" version="1" timestamp="2024-05-02T21:57:49Z" action="modify" changeset="150813251" uid="5060085" user="Piotr Strębski">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="email" v="dpsnm@data.pl"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Natalii Nitosławskiej"/>
+	<tag k="phone" v="+48 48 674 00 70"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://ogrodowanowemiasto.naszdps.pl/"/>
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Wspomożycielek Dusz Czyśćcowych"/>
+	<tag k="capacity" v="40"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im. Natalii Nitosławskiej w Nowym Mieście n/Pilicą"/>
+	<tag k="addr:city" v="Nowe Miasto"/>
+	<tag k="addr:postcode" v="26-420"/>
+	<tag k="addr:street" v="Bielińskiego"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="start_date" v="2006-12-29"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="1019594632"/>
+	<nd ref="11875079457"/>
+	<nd ref="11875079456"/>
+	<nd ref="11875079455"/>
+	<nd ref="11875079454"/>
+	<nd ref="11875079453"/>
+	<nd ref="11875079452"/>
+	<nd ref="11875079451"/>
+	<nd ref="11875079450"/>
+	<nd ref="11875079458"/>
+	<nd ref="1019586643"/>
+	<nd ref="1019594632"/>
+</way>
+<node id="1019586643" lat="51.6169287" lon="20.58903" version="3" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="1019594632" lat="51.6172502" lon="20.5890923" version="3" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079450" lat="51.6160908" lon="20.589537" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079451" lat="51.6159838" lon="20.5899665" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079452" lat="51.6160359" lon="20.5906394" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079453" lat="51.616211" lon="20.5911602" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079454" lat="51.6165447" lon="20.5911132" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079455" lat="51.6165699" lon="20.590303" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079456" lat="51.6171835" lon="20.5903297" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079457" lat="51.6171875" lon="20.5902329" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<node id="11875079458" lat="51.616452" lon="20.5890789" version="1" timestamp="2024-05-02T21:57:49Z"  changeset="150813251" uid="5060085" user="Piotr Strębski">
+
+</node>
+<way id="690059939" version="2" timestamp="2023-11-10T08:25:16Z" action="modify" changeset="143852361" uid="9451067" user="b-jazz-bot">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="email" v="dps@namyslow.pl"/>
+	<tag k="name" v="Dom Pomocy Społecznej - Hostel im. Jana Pawła II"/>
+	<tag k="operator" v="Polskie Stowarzyszenie na Rzecz Osób z Niepełnosprawnością Intelektualną Koło w Otwocku"/>
+	<tag k="phone" v="+48 77 410 03 58"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="website" v="https://bip.namyslow.pl/184/podstawowe-informacje-dotyczace-domu-pomocy-spolecznej.html"/>
+	<tag k="capacity" v="21"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej - Hostel im. Jana Pawła II w Otwocku"/>
+	<tag k="addr:city" v="Otwock"/>
+	<tag k="addr:postcode" v="05-400"/>
+	<tag k="addr:street" v="Moniuszki"/>
+	<tag k="addr:housenumber" v="41"/>
+	<tag k="start_date" v="2005-03-09"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="2501741032"/>
+	<nd ref="6473977663"/>
+	<nd ref="6473977662"/>
+	<nd ref="6473977661"/>
+	<nd ref="6473977660"/>
+	<nd ref="6473977659"/>
+	<nd ref="6473977658"/>
+	<nd ref="6473977657"/>
+	<nd ref="6473977656"/>
+	<nd ref="2501741027"/>
+	<nd ref="6473624795"/>
+	<nd ref="6473624796"/>
+	<nd ref="2501741032"/>
+</way>
+<node id="2501741027" lat="51.0748409" lon="17.7583071" version="2" timestamp="2019-05-14T18:35:05Z"  changeset="70248904" uid="813051" user="Mateusz210">
+
+</node>
+<node id="2501741032" lat="51.0745573" lon="17.7578697" version="3" timestamp="2019-05-14T21:35:14Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473624795" lat="51.0747156" lon="17.7582265" version="2" timestamp="2019-05-14T21:35:15Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473624796" lat="51.0746291" lon="17.7580909" version="2" timestamp="2019-05-14T21:35:15Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977656" lat="51.0747455" lon="17.7585194" version="1" timestamp="2019-05-14T21:35:06Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977657" lat="51.0746319" lon="17.7586906" version="1" timestamp="2019-05-14T21:35:06Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977658" lat="51.0744159" lon="17.7588588" version="1" timestamp="2019-05-14T21:35:07Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977659" lat="51.0742578" lon="17.7589915" version="1" timestamp="2019-05-14T21:35:07Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977660" lat="51.0738978" lon="17.7584798" version="1" timestamp="2019-05-14T21:35:07Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977661" lat="51.0736728" lon="17.757241" version="1" timestamp="2019-05-14T21:35:07Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977662" lat="51.0740008" lon="17.7575363" version="1" timestamp="2019-05-14T21:35:07Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<node id="6473977663" lat="51.0740376" lon="17.757422" version="1" timestamp="2019-05-14T21:35:07Z"  changeset="70253468" uid="813051" user="Mateusz210">
+
+</node>
+<way id="1134057375" version="2" timestamp="2023-11-06T23:55:55Z" action="modify" changeset="143713996" uid="9451067" user="b-jazz-bot">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://dpsobryte.pl/"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Pułtuski"/>
+	<tag k="capacity" v="290"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Obrytem"/>
+	<tag k="addr:city" v="Obryte"/>
+	<tag k="addr:postcode" v="07-215"/>
+	<tag k="addr:housenumber" v="188"/>
+	<tag k="start_date" v="2007-01-16"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="10572830573"/>
+	<nd ref="10572830572"/>
+	<nd ref="10572830571"/>
+	<nd ref="10572830570"/>
+	<nd ref="10572830569"/>
+	<nd ref="10572830568"/>
+	<nd ref="3052677147"/>
+	<nd ref="5808508937"/>
+	<nd ref="10572830578"/>
+	<nd ref="10572830577"/>
+	<nd ref="10572830576"/>
+	<nd ref="10572830575"/>
+	<nd ref="10572830574"/>
+	<nd ref="10572830573"/>
+</way>
+<node id="3052677147" lat="52.714193" lon="21.2376493" version="2" timestamp="2018-08-04T08:22:58Z"  changeset="61348548" uid="378154" user="rosomak">
+
+</node>
+<node id="5808508937" lat="52.7142184" lon="21.2393046" version="2" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830568" lat="52.7145798" lon="21.2375165" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830569" lat="52.7146822" lon="21.2376657" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830570" lat="52.7147813" lon="21.2376046" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830571" lat="52.7149871" lon="21.2383794" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830572" lat="52.7155763" lon="21.2383129" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830573" lat="52.7156667" lon="21.2400962" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830574" lat="52.7152953" lon="21.2401342" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830575" lat="52.7152953" lon="21.2404506" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830576" lat="52.7144502" lon="21.2405351" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830577" lat="52.7143718" lon="21.2402654" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="10572830578" lat="52.7142454" lon="21.2400676" version="1" timestamp="2023-01-21T15:46:23Z"  changeset="131545524" uid="1744629" user="voltairovicz">
+
+</node>
+<way id="128665470" version="3" timestamp="2020-09-29T14:19:13Z" action="modify" changeset="91713522" uid="9147405" user="adamsc">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="barrier" v="fence"/>
+	<tag k="leisure" v="garden"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Pruszkowski"/>
+	<tag k="capacity" v="100"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Czubinie"/>
+	<tag k="addr:city" v="Czubin"/>
+	<tag k="addr:postcode" v="05-840"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="start_date" v="2010-03-22"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="1421282466"/>
+	<nd ref="1421282464"/>
+	<nd ref="1421282467"/>
+	<nd ref="7954788201"/>
+	<nd ref="1421282469"/>
+	<nd ref="7954788564"/>
+	<nd ref="1421282520"/>
+	<nd ref="1421282533"/>
+	<nd ref="1421282529"/>
+	<nd ref="1421282530"/>
+	<nd ref="6736064766"/>
+	<nd ref="1421282532"/>
+	<nd ref="1421282526"/>
+	<nd ref="1421282503"/>
+	<nd ref="1421282502"/>
+	<nd ref="1421282466"/>
+</way>
+<node id="1421282464" lat="52.174868" lon="20.6674346" version="1" timestamp="2011-09-02T19:29:38Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282466" lat="52.1749227" lon="20.6670348" version="1" timestamp="2011-09-02T19:29:38Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282467" lat="52.1750519" lon="20.6705716" version="1" timestamp="2011-09-02T19:29:38Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282469" lat="52.1751998" lon="20.6707425" version="1" timestamp="2011-09-02T19:29:38Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282502" lat="52.176282" lon="20.6669381" version="1" timestamp="2011-09-02T19:29:39Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282503" lat="52.1763183" lon="20.6666777" version="1" timestamp="2011-09-02T19:29:39Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282520" lat="52.1766087" lon="20.6699211" version="1" timestamp="2011-09-02T19:29:40Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282526" lat="52.1772755" lon="20.6667697" version="2" timestamp="2019-08-22T16:14:45Z"  changeset="73632799" uid="9147405" user="adamsc">
+
+</node>
+<node id="1421282529" lat="52.1773661" lon="20.668911" version="1" timestamp="2011-09-02T19:29:40Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="1421282530" lat="52.1773478" lon="20.6683452" version="2" timestamp="2019-08-22T16:14:45Z"  changeset="73632799" uid="9147405" user="adamsc">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="1421282532" lat="52.1773628" lon="20.6670129" version="2" timestamp="2019-08-22T16:14:45Z"  changeset="73632799" uid="9147405" user="adamsc">
+
+</node>
+<node id="1421282533" lat="52.1774241" lon="20.6692582" version="1" timestamp="2011-09-02T19:29:40Z"  changeset="9195710" uid="98542" user="wajak">
+
+</node>
+<node id="6736064766" lat="52.1773431" lon="20.6682135" version="1" timestamp="2019-08-22T16:14:45Z"  changeset="73632799" uid="9147405" user="adamsc">
+
+</node>
+<node id="7954788201" lat="52.1751459" lon="20.6706802" version="1" timestamp="2020-09-29T14:19:13Z"  changeset="91713522" uid="9147405" user="adamsc">
+
+</node>
+<node id="7954788564" lat="52.1753258" lon="20.670669" version="1" timestamp="2020-09-29T14:19:13Z"  changeset="91713522" uid="9147405" user="adamsc">
+
+</node>
+<way id="986927498" version="1" timestamp="2021-09-25T14:01:05Z" action="modify" changeset="111689123" uid="7540619" user="MR-300">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="capacity" v="233"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Kardynała Stefana Wyszyńskiego, Prymasa Tysiąclecia"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im. Kardynała Stefana Wyszyńskiego, Prymasa Tysiąclecia w Ostrołęce"/>
+	<tag k="operator" v="Miasto Ostrołęka"/>
+	<tag k="short_name" v="DPS"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="addr:city" v="Ostrołęka"/>
+	<tag k="addr:postcode" v="07-410"/>
+	<tag k="addr:street" v="Rolna"/>
+	<tag k="addr:housenumber" v="27"/>
+	<tag k="start_date" v="2001-10-24"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="9117847044"/>
+	<nd ref="9122427472"/>
+	<nd ref="9122427471"/>
+	<nd ref="9122427470"/>
+	<nd ref="9122427469"/>
+	<nd ref="9122427468"/>
+	<nd ref="9122427467"/>
+	<nd ref="9122427466"/>
+	<nd ref="9122427424"/>
+	<nd ref="9122427465"/>
+	<nd ref="9122427464"/>
+	<nd ref="9122427463"/>
+	<nd ref="9122427462"/>
+	<nd ref="9122427461"/>
+	<nd ref="9122427460"/>
+	<nd ref="9122427459"/>
+	<nd ref="9117847130"/>
+	<nd ref="9117847129"/>
+	<nd ref="2457229362"/>
+	<nd ref="2457229364"/>
+	<nd ref="9117847050"/>
+	<nd ref="9117847049"/>
+	<nd ref="9117847048"/>
+	<nd ref="9117847047"/>
+	<nd ref="9117847046"/>
+	<nd ref="9117847045"/>
+	<nd ref="9117847044"/>
+</way>
+<node id="2457229362" lat="50.2849471" lon="21.4727751" version="3" timestamp="2021-09-23T16:50:02Z"  changeset="111606981" uid="7540619" user="MR-300">
+
+</node>
+<node id="2457229364" lat="50.2855416" lon="21.4721692" version="5" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847044" lat="50.2865136" lon="21.4717568" version="1" timestamp="2021-09-23T16:50:02Z"  changeset="111606981" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847045" lat="50.2864936" lon="21.4717427" version="1" timestamp="2021-09-23T16:50:02Z"  changeset="111606981" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847046" lat="50.2863385" lon="21.4716888" version="1" timestamp="2021-09-23T16:50:02Z"  changeset="111606981" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847047" lat="50.2862626" lon="21.4717671" version="1" timestamp="2021-09-23T16:50:02Z"  changeset="111606981" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847048" lat="50.2859706" lon="21.4718915" version="2" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847049" lat="50.2858276" lon="21.4719522" version="2" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847050" lat="50.28569" lon="21.4720405" version="2" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847129" lat="50.2850467" lon="21.4731078" version="2" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9117847130" lat="50.2852116" lon="21.4737062" version="1" timestamp="2021-09-23T16:50:02Z"  changeset="111606981" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427424" lat="50.2868894" lon="21.4728836" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427459" lat="50.2852434" lon="21.4738188" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427460" lat="50.285252" lon="21.4738145" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427461" lat="50.2858092" lon="21.47351" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427462" lat="50.2861183" lon="21.4733452" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427463" lat="50.2865565" lon="21.4731122" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427464" lat="50.2867874" lon="21.4729737" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427465" lat="50.2868454" lon="21.4729311" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427466" lat="50.2869318" lon="21.472836" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427467" lat="50.2869688" lon="21.4727986" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427468" lat="50.2869737" lon="21.4727255" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427469" lat="50.286886" lon="21.4724914" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427470" lat="50.2868885" lon="21.4724076" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427471" lat="50.2868068" lon="21.4722063" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="9122427472" lat="50.2866304" lon="21.471912" version="1" timestamp="2021-09-25T14:01:05Z"  changeset="111689123" uid="7540619" user="MR-300">
+
+</node>
+<node id="7427691401" lat="52.1423708" lon="21.6834978" version="3" timestamp="2023-11-09T06:57:28Z" action="modify" changeset="143808449" uid="9451067" user="b-jazz-bot">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Jedlina”"/>
+	<tag k="phone" v="+48 25 757 01 60"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://www.jedlina.dps.pl/"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Miński"/>
+	<tag k="capacity" v="105"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Jedlina” w Mieni"/>
+	<tag k="addr:city" v="Mienia"/>
+	<tag k="addr:postcode" v="05-319"/>
+	<tag k="addr:street" v="Jedlina"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="start_date" v="2009-03-02"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<way id="1108587926" version="2" timestamp="2023-07-08T14:09:33Z" action="modify" changeset="138265323" uid="1744629" user="voltairovicz">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="barrier" v="fence"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Zwoleński"/>
+	<tag k="capacity" v="77"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Gródku"/>
+	<tag k="addr:city" v="Gródek"/>
+	<tag k="addr:postcode" v="26-720"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="start_date" v="2009-03-19"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="7972735836"/>
+	<nd ref="11034211643"/>
+	<nd ref="11034211630"/>
+	<nd ref="11034211631"/>
+	<nd ref="10143207566"/>
+	<nd ref="7972735874"/>
+	<nd ref="7972735837"/>
+	<nd ref="7972735836"/>
+</way>
+<node id="7972735836" lat="51.460235" lon="21.6745197" version="3" timestamp="2023-07-08T14:09:33Z"  changeset="138265323" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="7972735837" lat="51.4597443" lon="21.673161" version="2" timestamp="2022-10-31T15:38:06Z"  changeset="128305311" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="7972735874" lat="51.4602178" lon="21.6726607" version="2" timestamp="2022-10-31T15:38:06Z"  changeset="128305311" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="10143207566" lat="51.460945" lon="21.6746859" version="1" timestamp="2022-10-31T15:38:06Z"  changeset="128305311" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="11034211630" lat="51.4604545" lon="21.675067" version="1" timestamp="2023-07-08T14:09:33Z"  changeset="138265323" uid="1744629" user="voltairovicz">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="11034211631" lat="51.4609126" lon="21.674711" version="1" timestamp="2023-07-08T14:09:33Z"  changeset="138265323" uid="1744629" user="voltairovicz">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="11034211643" lat="51.4604292" lon="21.6750866" version="1" timestamp="2023-07-08T14:09:33Z"  changeset="138265323" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="9770250127" lat="52.2075925" lon="20.5283308" version="1" timestamp="2022-05-25T16:43:29Z" action="modify" changeset="121484545" uid="12600095" user="Florek89">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Księdza Kardynała Józefa Glempa"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Warszawski Zachodni"/>
+	<tag k="capacity" v="160"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im. Księdza Kardynała Józefa Glempa w Bramkach"/>
+	<tag k="addr:city" v="Bramki"/>
+	<tag k="addr:postcode" v="05-870"/>
+	<tag k="addr:street" v="Północna"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="start_date" v="2009-12-30"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<node id="11878561098" lat="52.5072295" lon="15.7791822" version="1" timestamp="2024-05-04T10:16:54Z" action="modify" changeset="150872415" uid="17295082" user="Aim311_">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Dorosłych prowadzony przez Zgromadzenie Sióstr Albertynek"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Zgromadzenie SS. Albertynek Posługujących Ubogim"/>
+	<tag k="capacity" v="77"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej dla Dorosłych prowadzony przez Zgromadzenie Sióstr Albertynek w Życzynie"/>
+	<tag k="addr:city" v="Dębówka"/>
+	<tag k="addr:postcode" v="08-455"/>
+	<tag k="addr:housenumber" v="53"/>
+	<tag k="start_date" v="2010-12-31"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<way id="841287573" version="1" timestamp="2020-08-27T11:22:21Z" action="modify" changeset="90023775" uid="1744629" user="voltairovicz">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="email" v="dps_garbarska@wp.pl"/>
+	<tag k="name" v="Dom Pomocy Społecznej im. Kazimiery Gruszczyńskiej"/>
+	<tag k="phone" v="48 369 93 79"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://www.dpsgarbarska.radom.pl/"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Kozienicki"/>
+	<tag k="capacity" v="108"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej im. Kazimiery Gruszczyńskiej w Kozienicach"/>
+	<tag k="addr:city" v="Kozienice"/>
+	<tag k="addr:postcode" v="26-900"/>
+	<tag k="addr:street" v="Lubelska"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="start_date" v="2010-01-25"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="7849656721"/>
+	<nd ref="7849656717"/>
+	<nd ref="2143075947"/>
+	<nd ref="3662160739"/>
+	<nd ref="3662160728"/>
+	<nd ref="3662160727"/>
+	<nd ref="3662158717"/>
+	<nd ref="3662158713"/>
+	<nd ref="7849656735"/>
+	<nd ref="7849656697"/>
+	<nd ref="7849656698"/>
+	<nd ref="7849656731"/>
+	<nd ref="7849656723"/>
+	<nd ref="7849656722"/>
+	<nd ref="7849656721"/>
+</way>
+<node id="2143075947" lat="51.4022419" lon="21.1249166" version="4" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="3662158713" lat="51.4018237" lon="21.125409" version="2" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="3662158717" lat="51.4018903" lon="21.1254818" version="2" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="3662160727" lat="51.401959" lon="21.1255577" version="2" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="3662160728" lat="51.4019828" lon="21.1255023" version="2" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="3662160739" lat="51.4020833" lon="21.1252675" version="2" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="7849656697" lat="51.4017097" lon="21.1251204" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="7849656698" lat="51.4017188" lon="21.1250981" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="7849656717" lat="51.4021884" lon="21.1248194" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="7849656721" lat="51.4021636" lon="21.1247745" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="7849656722" lat="51.4021312" lon="21.1247157" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="7849656723" lat="51.4019829" lon="21.1245464" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="7849656731" lat="51.4019425" lon="21.1245511" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="7849656735" lat="51.4016596" lon="21.1252428" version="1" timestamp="2020-08-27T11:22:21Z"  changeset="90023775" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="1884450289" lat="52.5230392" lon="21.4090057" version="4" timestamp="2021-06-28T12:14:45Z" action="modify" changeset="107086861" uid="5060085" user="Piotr Strębski">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej dla Dzieci „Fiszor”"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://fiszor.blogspot.com/?m=0"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Benedyktynek Samarytanek Krzyża Chrystusowego"/>
+	<tag k="capacity" v="85"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej dla Dzieci „Fiszor” w Gaju"/>
+	<tag k="addr:city" v="Zabrodzie"/>
+	<tag k="addr:postcode" v="07-230"/>
+	<tag k="addr:street" v="Matki W. Jaroszewskiej"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="start_date" v="2007-06-26"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<way id="494120181" version="1" timestamp="2017-05-17T08:09:21Z" action="modify" changeset="48754938" uid="860123" user="Ciemek">
+	<tag k="alt_name" v="DPS"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej św. Józefa"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source" v="http://www.dpsmienia.pl/"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Miński"/>
+	<tag k="capacity" v="180"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej św. Józefa w Mieni"/>
+	<tag k="addr:city" v="Mienia"/>
+	<tag k="addr:postcode" v="05-319"/>
+	<tag k="addr:street" v="Księżnej Anny Mazowieckiej"/>
+	<tag k="addr:housenumber" v="138"/>
+	<tag k="start_date" v="2009-12-15"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="4859252409"/>
+	<nd ref="4859252413"/>
+	<nd ref="4859252412"/>
+	<nd ref="4859252411"/>
+	<nd ref="4859252410"/>
+	<nd ref="4859252409"/>
+</way>
+<node id="4859252409" lat="52.1560479" lon="21.6856465" version="1" timestamp="2017-05-17T08:08:35Z"  changeset="48754938" uid="860123" user="Ciemek">
+
+</node>
+<node id="4859252410" lat="52.1546541" lon="21.6852576" version="1" timestamp="2017-05-17T08:08:35Z"  changeset="48754938" uid="860123" user="Ciemek">
+
+</node>
+<node id="4859252411" lat="52.1544715" lon="21.6869983" version="1" timestamp="2017-05-17T08:08:35Z"  changeset="48754938" uid="860123" user="Ciemek">
+
+</node>
+<node id="4859252412" lat="52.1553667" lon="21.6872156" version="1" timestamp="2017-05-17T08:08:35Z"  changeset="48754938" uid="860123" user="Ciemek">
+
+</node>
+<node id="4859252413" lat="52.1559303" lon="21.687461" version="1" timestamp="2017-05-17T08:08:35Z"  changeset="48754938" uid="860123" user="Ciemek">
+
+</node>
+<way id="202763426" version="4" timestamp="2019-01-29T07:06:01Z" action="modify" changeset="66728290" uid="761348" user="pelekPL">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="barrier" v="fence"/>
+	<tag k="name" v="Dom Pomocy Społecznej Pensjonat „Różany”"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v=""Dom Pomocy Społecznej Pensjonat Różany" spółka z ograniczoną odpowiedzialnością"/>
+	<tag k="capacity" v="20"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej Pensjonat „Różany” w Pomiechówku"/>
+	<tag k="addr:city" v="Pomiechówek"/>
+	<tag k="addr:postcode" v="05-180"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="start_date" v="2005-12-06"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="2127053521"/>
+	<nd ref="2127053514"/>
+	<nd ref="4903447392"/>
+	<nd ref="2127053511"/>
+	<nd ref="2127053495"/>
+	<nd ref="6243670373"/>
+	<nd ref="2127053498"/>
+	<nd ref="2127053497"/>
+	<nd ref="2127053502"/>
+	<nd ref="2125891914"/>
+	<nd ref="2127053504"/>
+	<nd ref="4903447414"/>
+	<nd ref="2127053507"/>
+	<nd ref="2125891932"/>
+	<nd ref="6243677898"/>
+	<nd ref="2127053521"/>
+</way>
+<node id="2125891914" lat="50.3242953" lon="23.1882295" version="3" timestamp="2013-09-11T12:43:30Z"  changeset="17782371" uid="165509" user="koszatek">
+
+</node>
+<node id="2125891932" lat="50.3258631" lon="23.1872907" version="4" timestamp="2019-01-29T07:03:16Z"  changeset="66728225" uid="761348" user="pelekPL">
+
+</node>
+<node id="2127053495" lat="50.3238138" lon="23.1855044" version="2" timestamp="2013-09-11T12:43:32Z"  changeset="17782371" uid="165509" user="koszatek">
+
+</node>
+<node id="2127053497" lat="50.3239732" lon="23.1872602" version="3" timestamp="2019-01-29T07:06:01Z"  changeset="66728290" uid="761348" user="pelekPL">
+
+</node>
+<node id="2127053498" lat="50.3239718" lon="23.1862944" version="3" timestamp="2019-01-29T07:06:01Z"  changeset="66728290" uid="761348" user="pelekPL">
+
+</node>
+<node id="2127053502" lat="50.3242451" lon="23.1872833" version="2" timestamp="2013-09-11T12:43:32Z"  changeset="17782371" uid="165509" user="koszatek">
+
+</node>
+<node id="2127053504" lat="50.3248771" lon="23.188361" version="3" timestamp="2013-09-12T14:10:10Z"  changeset="17800387" uid="165509" user="koszatek">
+
+</node>
+<node id="2127053507" lat="50.3250624" lon="23.1873977" version="3" timestamp="2013-09-12T14:10:10Z"  changeset="17800387" uid="165509" user="koszatek">
+
+</node>
+<node id="2127053511" lat="50.3254774" lon="23.1855495" version="2" timestamp="2013-09-11T12:43:32Z"  changeset="17782371" uid="165509" user="koszatek">
+
+</node>
+<node id="2127053514" lat="50.3256311" lon="23.1864882" version="2" timestamp="2013-09-11T12:43:32Z"  changeset="17782371" uid="165509" user="koszatek">
+
+</node>
+<node id="2127053521" lat="50.3259485" lon="23.1865463" version="3" timestamp="2019-01-29T07:03:16Z"  changeset="66728225" uid="761348" user="pelekPL">
+
+</node>
+<node id="4903447392" lat="50.3255719" lon="23.1861265" version="1" timestamp="2017-06-08T08:36:43Z"  changeset="49359435" uid="4881152" user="ZsRudaRóżaniecka_KMJS">
+
+</node>
+<node id="4903447414" lat="50.3248879" lon="23.1883047" version="1" timestamp="2017-06-08T08:36:43Z"  changeset="49359435" uid="4881152" user="ZsRudaRóżaniecka_KMJS">
+
+</node>
+<node id="6243670373" lat="50.3239288" lon="23.1859605" version="1" timestamp="2019-01-29T07:06:01Z"  changeset="66728290" uid="761348" user="pelekPL">
+
+</node>
+<node id="6243677898" lat="50.3259432" lon="23.1865856" version="1" timestamp="2019-01-29T07:03:16Z"  changeset="66728225" uid="761348" user="pelekPL">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="8220125131" lat="52.4852472" lon="22.4436803" version="1" timestamp="2020-12-11T16:08:35Z" action="modify" changeset="95691401" uid="8341632" user="K4nciasty">
+	<tag k="addr:city" v="Jabłonna Średnia"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="08-304"/>
+	<tag k="addr:street" v="Długa"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej prowadzony przez Zgromadzenie Sióstr Albertynek Posługujących Ubogim"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="diseased"/>
+	<tag k="operator" v="Zgromadzenie Sióstr Albertynek Posługujących Ubogim"/>
+	<tag k="capacity" v="70"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej prowadzony przez Zgromadzenie Sióstr Albertynek Posługujących Ubogim w Jabłonnej Lackiej"/>
+	<tag k="start_date" v="2009-01-12"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
+<way id="309231577" version="4" timestamp="2020-06-30T21:14:15Z" action="modify" changeset="87366962" uid="5060085" user="Piotr Strębski">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="building" v="yes"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="phone" v="+48 25 799 19 07"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://www.katy.dps.pl/"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Powiat Miński"/>
+	<tag k="capacity" v="50"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Kątach"/>
+	<tag k="addr:city" v="Kąty"/>
+	<tag k="addr:postcode" v="05-332"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="start_date" v="2008-12-02"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="3145579221"/>
+	<nd ref="3145579211"/>
+	<nd ref="3145579212"/>
+	<nd ref="3145579207"/>
+	<nd ref="3145579208"/>
+	<nd ref="3145579215"/>
+	<nd ref="3145579214"/>
+	<nd ref="3145579216"/>
+	<nd ref="3145579219"/>
+	<nd ref="3145579222"/>
+	<nd ref="3145579223"/>
+	<nd ref="3145579220"/>
+	<nd ref="3145579218"/>
+	<nd ref="3145579227"/>
+	<nd ref="3145579221"/>
+</way>
+<node id="3145579207" lat="52.0658631" lon="21.6305641" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579208" lat="52.0658933" lon="21.6303186" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579211" lat="52.066032" lon="21.6309275" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579212" lat="52.0660671" lon="21.6306305" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579214" lat="52.0661429" lon="21.6304926" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579215" lat="52.0661539" lon="21.6304034" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579216" lat="52.0661661" lon="21.6305048" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579218" lat="52.06618" lon="21.6306066" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579219" lat="52.0661804" lon="21.6304965" version="1" timestamp="2014-10-23T14:07:48Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579220" lat="52.0661835" lon="21.6305613" version="1" timestamp="2014-10-23T14:07:49Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579221" lat="52.0661845" lon="21.6309752" version="1" timestamp="2014-10-23T14:07:49Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579222" lat="52.0661947" lon="21.6305115" version="1" timestamp="2014-10-23T14:07:49Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579223" lat="52.0661978" lon="21.6305347" version="1" timestamp="2014-10-23T14:07:49Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<node id="3145579227" lat="52.0662264" lon="21.6306212" version="1" timestamp="2014-10-23T14:07:49Z"  changeset="26278861" uid="99386" user="masti">
+
+</node>
+<way id="1188647070" version="1" timestamp="2023-07-10T12:57:44Z" action="modify" changeset="138337108" uid="1744629" user="voltairovicz">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Powiat Grójecki"/>
+	<tag k="capacity" v="90"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Tomczycach"/>
+	<tag k="addr:city" v="Tomczyce"/>
+	<tag k="addr:postcode" v="05-640"/>
+	<tag k="addr:housenumber" v="40"/>
+	<tag k="start_date" v="2010-02-09"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="11037309583"/>
+	<nd ref="11037309582"/>
+	<nd ref="11037309581"/>
+	<nd ref="11037309580"/>
+	<nd ref="11037309579"/>
+	<nd ref="11037309578"/>
+	<nd ref="11037309577"/>
+	<nd ref="11018120342"/>
+	<nd ref="11018120343"/>
+	<nd ref="11018120344"/>
+	<nd ref="11018120326"/>
+	<nd ref="11018120340"/>
+	<nd ref="11018120341"/>
+	<nd ref="11018120345"/>
+	<nd ref="11037309583"/>
+</way>
+<node id="11018120326" lat="51.6300338" lon="20.6933061" version="1" timestamp="2023-07-01T16:00:33Z"  changeset="137997754" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11018120340" lat="51.6299688" lon="20.6929908" version="1" timestamp="2023-07-01T16:00:33Z"  changeset="137997754" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11018120341" lat="51.6301563" lon="20.6928148" version="1" timestamp="2023-07-01T16:00:33Z"  changeset="137997754" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11018120342" lat="51.6289703" lon="20.6949737" version="1" timestamp="2023-07-01T16:00:33Z"  changeset="137997754" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11018120343" lat="51.6295719" lon="20.694254" version="1" timestamp="2023-07-01T16:00:33Z"  changeset="137997754" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11018120344" lat="51.6301852" lon="20.6940411" version="1" timestamp="2023-07-01T16:00:33Z"  changeset="137997754" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11018120345" lat="51.6302382" lon="20.6925971" version="1" timestamp="2023-07-01T16:00:33Z"  changeset="137997754" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11037309577" lat="51.6287862" lon="20.6951434" version="1" timestamp="2023-07-10T12:57:44Z"  changeset="138337108" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11037309578" lat="51.6288569" lon="20.6954795" version="1" timestamp="2023-07-10T12:57:44Z"  changeset="138337108" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11037309579" lat="51.6294097" lon="20.6955332" version="1" timestamp="2023-07-10T12:57:44Z"  changeset="138337108" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11037309580" lat="51.6300557" lon="20.6957638" version="1" timestamp="2023-07-10T12:57:44Z"  changeset="138337108" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11037309581" lat="51.6309614" lon="20.6956887" version="1" timestamp="2023-07-10T12:57:44Z"  changeset="138337108" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11037309582" lat="51.6308982" lon="20.6946427" version="1" timestamp="2023-07-10T12:57:44Z"  changeset="138337108" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="11037309583" lat="51.6305537" lon="20.6923859" version="1" timestamp="2023-07-10T12:57:44Z"  changeset="138337108" uid="1744629" user="voltairovicz">
+
+</node>
+<way id="1190470986" version="1" timestamp="2023-07-18T20:13:00Z" action="modify" changeset="138685984" uid="67255" user="Rogoyski">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej Towarzystwa Przytułku św. Franciszka Salezego"/>
+	<tag k="old_name" v="Dom Pomocy Społecznej im. św. Franciszka Salezego"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://przytuleksalezego.pl/"/>
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Towarzystwo Przytułku św. Franciszka Salezego"/>
+	<tag k="capacity" v="100"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej Towarzystwa Przytułku św. Franciszka Salezego w Warszawie"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="00-394"/>
+	<tag k="addr:street" v="Solec"/>
+	<tag k="addr:housenumber" v="36a"/>
+	<tag k="start_date" v="2010-03-15"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="9699155105"/>
+	<nd ref="9505157079"/>
+	<nd ref="4512836495"/>
+	<nd ref="979671640"/>
+	<nd ref="9699180350"/>
+	<nd ref="9699180305"/>
+	<nd ref="9699180335"/>
+	<nd ref="11053743751"/>
+	<nd ref="979671578"/>
+	<nd ref="8263877796"/>
+	<nd ref="8263877793"/>
+	<nd ref="11053743750"/>
+	<nd ref="11053743740"/>
+	<nd ref="1650273213"/>
+	<nd ref="1650273214"/>
+	<nd ref="9699155105"/>
+</way>
+<node id="979671578" lat="52.2356017" lon="21.0330466" version="2" timestamp="2022-04-27T21:56:12Z"  changeset="120278535" uid="6668641" user="syntex">
+
+</node>
+<node id="979671640" lat="52.2360543" lon="21.0331939" version="2" timestamp="2022-04-27T21:56:12Z"  changeset="120278535" uid="6668641" user="syntex">
+
+</node>
+<node id="1650273213" lat="52.235593" lon="21.0339581" version="3" timestamp="2022-04-27T21:56:12Z"  changeset="120278535" uid="6668641" user="syntex">
+
+</node>
+<node id="1650273214" lat="52.2356863" lon="21.034082" version="3" timestamp="2022-04-27T21:56:12Z"  changeset="120278535" uid="6668641" user="syntex">
+
+</node>
+<node id="4512836495" lat="52.2362539" lon="21.0334305" version="2" timestamp="2022-02-14T14:19:03Z"  changeset="117395640" uid="6668641" user="syntex">
+
+</node>
+<node id="8263877793" lat="52.2354061" lon="21.0334802" version="1" timestamp="2020-12-27T12:10:54Z"  changeset="96481713" uid="1875665" user="Andrzej3345">
+
+</node>
+<node id="8263877796" lat="52.2354393" lon="21.0334051" version="1" timestamp="2020-12-27T12:10:54Z"  changeset="96481713" uid="1875665" user="Andrzej3345">
+
+</node>
+<node id="9505157079" lat="52.2362477" lon="21.0334414" version="1" timestamp="2022-02-14T14:19:03Z"  changeset="117395640" uid="6668641" user="syntex">
+
+</node>
+<node id="9699155105" lat="52.2357226" lon="21.0341251" version="2" timestamp="2023-07-18T20:13:00Z"  changeset="138685984" uid="67255" user="Rogoyski">
+
+</node>
+<node id="9699180305" lat="52.2357829" lon="21.0328776" version="1" timestamp="2022-04-27T21:56:12Z"  changeset="120278535" uid="6668641" user="syntex">
+
+</node>
+<node id="9699180335" lat="52.2357123" lon="21.0328009" version="1" timestamp="2022-04-27T21:56:12Z"  changeset="120278535" uid="6668641" user="syntex">
+
+</node>
+<node id="9699180350" lat="52.2359132" lon="21.0330295" version="1" timestamp="2022-04-27T21:56:12Z"  changeset="120278535" uid="6668641" user="syntex">
+
+</node>
+<node id="11053743740" lat="52.2354268" lon="21.033763" version="1" timestamp="2023-07-18T20:13:00Z"  changeset="138685984" uid="67255" user="Rogoyski">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="11053743750" lat="52.2353308" lon="21.0336505" version="1" timestamp="2023-07-18T20:13:00Z"  changeset="138685984" uid="67255" user="Rogoyski">
+
+</node>
+<node id="11053743751" lat="52.2356785" lon="21.032876" version="1" timestamp="2023-07-18T20:13:00Z"  changeset="138685984" uid="67255" user="Rogoyski">
+
+</node>
+<way id="338686812" version="2" timestamp="2015-04-15T20:05:32Z" action="modify" changeset="30248442" uid="23168" user="adas">
+	<tag k="addr:city" v="Bydgoszcz"/>
+	<tag k="addr:street" v="Mińska"/>
+	<tag k="amenity" v="social_facility"/>
+	<tag k="barrier" v="fence"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Zdrowa Jesień”"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Fundacja Odzyskać Radość"/>
+	<tag k="capacity" v="50"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Zdrowa Jesień”"/>
+	<tag k="addr:postcode" v="06-521"/>
+	<tag k="addr:housenumber" v="87"/>
+	<tag k="start_date" v="2010-03-22"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="3458101256"/>
+	<nd ref="3458101257"/>
+	<nd ref="3458101258"/>
+	<nd ref="3458101259"/>
+	<nd ref="3458101260"/>
+	<nd ref="3458101261"/>
+	<nd ref="3458101266"/>
+	<nd ref="3458101264"/>
+	<nd ref="3458101265"/>
+	<nd ref="3458101262"/>
+	<nd ref="3458101263"/>
+	<nd ref="2277669881"/>
+	<nd ref="3458101256"/>
+</way>
+<node id="2277669881" lat="53.1355525" lon="17.9458367" version="2" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101256" lat="53.1359758" lon="17.9466103" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101257" lat="53.1359585" lon="17.9472277" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101258" lat="53.1359384" lon="17.9480988" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101259" lat="53.1356255" lon="17.9477527" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101260" lat="53.1352539" lon="17.9473055" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101261" lat="53.1349279" lon="17.9469293" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101262" lat="53.1352906" lon="17.9462809" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101263" lat="53.1353894" lon="17.9463633" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101264" lat="53.1350272" lon="17.9467192" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101265" lat="53.1351173" lon="17.9468015" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<node id="3458101266" lat="53.1349957" lon="17.9468134" version="1" timestamp="2015-04-15T20:04:08Z"  changeset="30248417" uid="23168" user="adas">
+
+</node>
+<way id="1133922323" version="1" timestamp="2023-01-20T22:02:29Z" action="modify" changeset="131524602" uid="6668641" user="syntex">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej „Na Bachusa”"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://www.dpsnabachusa.pl"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
+	<tag k="capacity" v="80"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Na Bachusa” w Warszawie"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:postcode" v="04-814"/>
+	<tag k="addr:street" v="Bachusa"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="start_date" v="2013-01-03"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="10571578948"/>
+	<nd ref="10571578950"/>
+	<nd ref="10571578949"/>
+	<nd ref="10571578947"/>
+	<nd ref="10571578946"/>
+	<nd ref="10571578948"/>
+</way>
+<node id="10571578946" lat="52.1899546" lon="21.2076513" version="1" timestamp="2023-01-20T22:02:29Z"  changeset="131524602" uid="6668641" user="syntex">
+
+</node>
+<node id="10571578947" lat="52.1899586" lon="21.2084346" version="1" timestamp="2023-01-20T22:02:29Z"  changeset="131524602" uid="6668641" user="syntex">
+
+</node>
+<node id="10571578948" lat="52.1899504" lon="21.2068269" version="1" timestamp="2023-01-20T22:02:29Z"  changeset="131524602" uid="6668641" user="syntex">
+
+</node>
+<node id="10571578949" lat="52.1894254" lon="21.2084448" version="1" timestamp="2023-01-20T22:02:29Z"  changeset="131524602" uid="6668641" user="syntex">
+
+</node>
+<node id="10571578950" lat="52.189413" lon="21.2068458" version="1" timestamp="2023-01-20T22:02:29Z"  changeset="131524602" uid="6668641" user="syntex">
+
+</node>
+<way id="1064377328" version="1" timestamp="2022-05-27T15:35:58Z" action="modify" changeset="121582673" uid="1744629" user="voltairovicz">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="name" v="Dom Pomocy Społecznej „NOWELA”"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="social_facility:for" v="mental_health"/>
+	<tag k="operator" v="Pani Anna Sokół"/>
+	<tag k="capacity" v="78"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „NOWELA”"/>
+	<tag k="addr:city" v="Gałki"/>
+	<tag k="addr:postcode" v="26-434"/>
+	<tag k="addr:housenumber" v="70"/>
+	<tag k="start_date" v="2013-07-16"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+	<nd ref="9775328643"/>
+	<nd ref="9775326589"/>
+	<nd ref="9775326588"/>
+	<nd ref="9775326587"/>
+	<nd ref="9775329121"/>
+	<nd ref="9775329120"/>
+	<nd ref="9775326586"/>
+	<nd ref="9775328643"/>
+</way>
+<node id="9775326586" lat="51.3699341" lon="20.5029513" version="1" timestamp="2022-05-27T15:35:58Z"  changeset="121582673" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="9775326587" lat="51.3709291" lon="20.5027291" version="1" timestamp="2022-05-27T15:35:58Z"  changeset="121582673" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="9775326588" lat="51.3708902" lon="20.5017752" version="1" timestamp="2022-05-27T15:35:58Z"  changeset="121582673" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="9775326589" lat="51.3699396" lon="20.5018996" version="1" timestamp="2022-05-27T15:35:58Z"  changeset="121582673" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="9775328643" lat="51.3699277" lon="20.50273" version="1" timestamp="2022-05-27T15:35:58Z"  changeset="121582673" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="9775329120" lat="51.3701114" lon="20.5029028" version="1" timestamp="2022-05-27T15:35:58Z"  changeset="121582673" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="9775329121" lat="51.3702131" lon="20.5028806" version="1" timestamp="2022-05-27T15:35:58Z"  changeset="121582673" uid="1744629" user="voltairovicz">
+
+</node>
+<node id="1826936974" lat="52.3331641" lon="16.6470643" version="3" timestamp="2020-01-18T17:19:33Z" action="modify" changeset="79736636" uid="9473159" user="dobry_login">
+	<tag k="amenity" v="social_facility"/>
+	<tag k="email" v="sekretariat@dpslisowki.pl"/>
+	<tag k="name" v="Dom Pomocy Społecznej „ZACISZE”"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „ZACISZE”"/>
+	<tag k="phone" v="+48 61 814 80 49"/>
+	<tag k="short_name" v="DPS Lisówki"/>
+	<tag k="social_facility" v="nursing_home"/>
+	<tag k="website" v="https://www.dpslisowki.powiat.poznan.pl/"/>
+	<tag k="social_facility:for" v="senior"/>
+	<tag k="operator" v="Dom Pomocy Społecznej „ZACISZE” s. c. Jolanta Rostek, Robert Rostek"/>
+	<tag k="capacity" v="23"/>
+	<tag k="addr:city" v="Wólka Grochowa"/>
+	<tag k="addr:postcode" v="07-210"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="start_date" v="2014-06-17"/>
+	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
+</node>
 <way id="557768846" version="5" timestamp="2020-05-04T09:11:59Z" action="modify" changeset="84611020" uid="78912" user="mrcn">
 	<tag k="addr:city" v="Karczew"/>
 	<tag k="addr:housenumber" v="2"/>
@@ -1073,6 +2422,7 @@
 	<tag k="operator" v="Powiat Otwocki"/>
 	<tag k="capacity" v="28"/>
 	<tag k="name" v="Dom Pomocy Społecznej „Anielin”"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Anielin” w Karczewie"/>
 	<tag k="start_date" v="2010-02-16"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="5379065867"/>
@@ -1199,6 +2549,7 @@
 	<tag k="year_of_construction" v="1902"/>
 	<tag k="operator" v="Powiat Wołomiński"/>
 	<tag k="capacity" v="67"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Zielonce"/>
 	<tag k="start_date" v="2008-11-27"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="4288731524"/>
@@ -1470,6 +2821,7 @@
 	<tag k="social_facility:for" v="mental_health"/>
 	<tag k="operator" v="Powiat Radomski"/>
 	<tag k="capacity" v="126"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Wierzbicy"/>
 	<tag k="start_date" v="2010-12-27"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 </node>
@@ -1488,6 +2840,7 @@
 	<tag k="website" v="https://dpschemik.pl"/>
 	<tag k="operator" v="Miasto Stołeczne Warszawa"/>
 	<tag k="capacity" v="100"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej „Chemik”"/>
 	<tag k="start_date" v="2008-04-03"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="408993446"/>
@@ -1544,6 +2897,7 @@
 	<tag k="source:addr" v="grodziskmazowiecki.e-mapa.net"/>
 	<tag k="operator" v="Powiat Grodziski"/>
 	<tag k="capacity" v="40"/>
+	<tag k="official_name" v="Dom Pomocy Społecznej w Izdebnie Kościelnym"/>
 	<tag k="start_date" v="2010-01-11"/>
 	<tag k="source:amenity" v="Rejestr domów pomocy społecznej województwa mazowieckiego stan na 10 maja 2024 r."/>
 	<nd ref="7756242560"/>

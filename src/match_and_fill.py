@@ -4,7 +4,7 @@ import copy
 from rich.console import Console
 
 from src.compare import compare, distance
-from src.utils import fieldnames
+from src.utils import FIELDS
 
 
 console = Console()
@@ -103,10 +103,9 @@ def update_with_gov(osm_tags, gov_tags, conf_name):
     tags_gov = copy.deepcopy(gov_tags)
 
     if not conf.rules['update_addr']:
-        for key in fieldnames['addr']:
-            if tags.get(key):
-                if tags_gov.get(key):
-                    del tags_gov[key]
+        for key in FIELDS['addr']:
+            if tags.get(key) and tags_gov.get(key):
+                del tags_gov[key]
 
     tags.update(tags_gov)
     return tags

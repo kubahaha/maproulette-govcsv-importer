@@ -12,15 +12,15 @@ class Komoot:
             print(f'ERROR! {resp.text}')
             raise
 
-        if resp_json:
+        if resp_json and resp_json.get('features'):
             try:
                 return resp_json['features'][0]
-            except KeyError:
-                print(f'ERROR! {resp_json}')
+            except (KeyError, IndexError):
+                print(f'ERROR! for URL: `{url}`\n\n{resp_json}')
                 raise
 
     def result_2_latlon(result):
         return {
-            'lat': result['geometry']['coordinates'][0],
-            'lon': result['geometry']['coordinates'][1]
+            'lat': result['geometry']['coordinates'][1],
+            'lon': result['geometry']['coordinates'][0]
         }
