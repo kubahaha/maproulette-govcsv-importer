@@ -1,0 +1,8 @@
+[out:json];
+/* {{geocodeAra:Polska}} -> .searchArea;*/
+area(id:3600049715) -> .searchArea;
+node["teryt:simc"](area.searchArea) -> .all;
+node["population:date"~"^(202[234].*)|(2021-07.*)"]["teryt:simc"](area.searchArea) -> .new;
+
+(.all; - .new;);
+out meta;

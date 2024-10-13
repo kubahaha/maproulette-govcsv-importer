@@ -1,0 +1,4 @@
+[out:json][timeout:25];
+area(id:3602777173)->.searchArea;
+node[highway=bus_stop](area.searchArea);
+out meta;

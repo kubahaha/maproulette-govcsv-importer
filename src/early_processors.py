@@ -1,5 +1,6 @@
 import csv
 import importlib.util
+import os
 import re
 
 import requests
@@ -34,7 +35,7 @@ def prepare_gov_data(name, console):
                 gov_key = list(value.keys())[0]
                 gov_val = row.get(gov_key, '').strip()
 
-                # print(f'new_row[{key}] = {value.get(gov_key).get(gov_val)} - {value}')
+                print(f'new_row[{key}] = {value.get(gov_key).get(gov_val)} - {value}')
                 new_row[key] = value.get(gov_key).get(gov_val, '')
             elif callable(value):
                 new_row[key] = (value(row) or '').strip()
@@ -45,7 +46,11 @@ def prepare_gov_data(name, console):
 
 
 def download_osm_data(name, console):
-    query = open(f'data/{name}/query.overpass', 'r').read()
+    overpass_path = f'data/{name}/query.overpass'
+    if os.path.isfile(overpass_path):
+        query = open(overpass_path, 'r').read()
+    elif os.path.isfile(f'{overpass_path}ql'):
+        query = open(f'{overpass_path}ql', 'r').read()
     data_out = open(f'data/{name}/data.osm', 'w')
 
     regex = re.compile(r'(\{\{geocodeArea: *([\w ]+) *\}\})')
@@ -53,7 +58,12 @@ def download_osm_data(name, console):
         matches = re.findall(regex, query)
         for repl_elem, name in matches:
             resp = requests.get(f'https://nominatim.openstreetmap.org/search?X-Requested-With=overpass-turbo&format=json&q={name}')
-            data = resp.json()
+            print(f'https://nominatim.openstreetmap.org/search?X-Requested-With=overpass-turbo&format=json&q={name}')
+            try:
+                data = resp.json()
+            except requests.exceptions.JSONDecodeError:
+                print(resp.text)
+                raise
             id = data[0].get('osm_id')
             query = query.replace(repl_elem, f'area(id:{3600000000 + int(id)})')
 

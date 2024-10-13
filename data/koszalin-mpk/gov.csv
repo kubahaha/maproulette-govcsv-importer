@@ -1,0 +1,327 @@
+Lp.,Nazwa ulicy / rejon,Numer,Nazwa przystanku,NOWY Numer,NOWA Nazwa przystanku,Dostępność
+1,1 Maja ,01, Andersa,01,1 Maja,ogólnodostępny
+2,1 Maja ,02, Bank,02,1 Maja,ogólnodostępny
+3,4 Marca,05, Gnieźnieńska ,01,Gnieźnieńska,ogólnodostępny
+4,4 Marca ,01,Jednostka Wojskowa,01,Jednostka Wojskowa,ogólnodostępny
+5,4 Marca ,02, Reymonta ,02,Jednostka Wojskowa,ogólnodostępny
+6,4 Marca ,04,Wojska Polskiego,02,Wojska Polskiego,ogólnodostępny
+7,4 Marca ,03,Wojska Polskiego,01,Wojska Polskiego,ogólnodostępny
+8,Armii Krajowej,03, Dworzec PKP pętla,03, Dworzec PKP pętla,ogólnodostępny
+9,Armii Krajowej,05, Dworzec PKP pętla,05, Dworzec PKP pętla,ogólnodostępny
+10,Armii Krajowej,07, Dworzec PKP pętla,07, Dworzec PKP pętla,ogólnodostępny
+11,Armii Krajowej,09, Dworzec PKP pętla,09, Dworzec PKP pętla,ogólnodostępny
+12,Armii Krajowej,01, Dworzec PKP ,01,Dworzec PKP,operator publicznego  transportu zbiorowego
+13,Armii Krajowej,04, Kolejowa ,02, Kolejowa ,ogólnodostępny
+14,Armii Krajowej,06,Kolejowa,04,Kolejowa,ogólnodostępny
+15,Armii Krajowej,08,Kolejowa,06,Kolejowa,ogólnodostępny
+16,Armii Krajowej,10,Kolejowa,08,Kolejowa,ogólnodostępny
+17,Armii Krajowej,12,Kolejowa,10,Kolejowa,ogólnodostępny
+18,Armii Krajowej,14,Kolejowa,12,Kolejowa,ogólnodostępny
+19,Armii Krajowej,16,Kolejowa,14,Kolejowa,ogólnodostępny
+20,Armii Krajowej,,NOWY PRZYSTANEK,01,Centrum przesiadkowe,ogólnodostępny
+21,Armii Krajowej,,NOWY PRZYSTANEK,02,Centrum przesiadkowe,ogólnodostępny
+22,Armii Krajowej,,NOWY PRZYSTANEK,03,Centrum przesiadkowe,ogólnodostępny
+23,Armii Krajowej,,NOWY PRZYSTANEK,04,Centrum przesiadkowe,ogólnodostępny
+24,Armii Krajowej,,NOWY PRZYSTANEK,05,Centrum przesiadkowe,ogólnodostępny
+25,Armii Krajowej ,02, Kosmos,05,LIKWIDACJA,LIKWIDACJA
+26,Armii Krajowej ,04, Bank,02,Dworzec PKP,operator publicznego transportu zbiorowego
+27,Armii Krajowej ,06, Niepodległości,02,Szpital Gruźliczy,operator publicznego transportu zbiorowego
+28,Armii Krajowej ,11, Kościół,01,Szpital Gruźliczy,operator publicznego transportu zbiorowego
+29,Bohaterów Warszawy,01, Morska,01,Bohaterów Warszawy,ogólnodostępny
+30,Bohaterów Warszawy,07,Syrenki,01,Syrenki,ogólnodostępny
+31,Bohaterów Warszawy,06,GIPO,02,Syrenki,ogólnodostępny
+32,Bohaterów Warszawy ,03,Mieszka I,01,Mieszka I,ogólnodostępny
+33,Bohaterów Warszawy ,02,Mieszka I,02,Mieszka I,ogólnodostępny
+34,Bohaterów Warszawy ,04,Brzozowa,02,Brzozowa,ogólnodostępny
+35,Bohaterów Warszawy ,05,Brzozowa,01,Brzozowa,ogólnodostępny
+36,Bowid,06, Przemysłówka,02,BoWiD Zakłady,ogólnodostępny
+37,Bowid,05, Kospel pętla,01,BoWiD,ogólnodostępny
+38,Bowid,02, Przemysłowa,02,BoWiD Mieszkalny,ogólnodostępny
+39,Bowid,01, Mieszka I,01,BoWiD Mieszkalny,ogólnodostępny
+40,Bowid,04, ZORD,04,ZORD,ogólnodostępny
+41,Bowid,03,Royal Greenland ,01,BoWiD Zakłady,ogólnodostępny
+42,Bowid,08, Kospel ,02,BoWiD,ogólnodostępny
+43,Bowid,01,Morska,03,Kresowian,ogólnodostępny
+44,Bukowa,02, Tradycji,02,Lelewela,operator publicznego transportu zbiorowego
+45,Bukowa,01, Staszica,01,Lelewela,operator publicznego transportu zbiorowego
+46,Bukowa,04, Staszica,02,Os. Bukowe,ogólnodostępny
+47,Bukowa,03, Oskara Lange pętla,01,Os. Bukowe,ogólnodostępny
+48,Duńska,02,Duńska,02,Os. Unii Europejskiej,ogólnodostępny
+49,Dzierżęcińska,01,Zagórzyno,01,Zagórzyno,ogólnodostępny
+50,Dzierżęcińska,02,Limbowa,02,Limbowa,ogólnodostępny
+51,Dzierżęcińska,03,Limbowa,01,Limbowa,ogólnodostępny
+52,Dzierżęcińska,04,Ptasia,02,Ptasia,ogólnodostępny
+53,Dzierżęcińska,05,Ptasia,01,Ptasia,ogólnodostępny
+54,Dzierżęcińska,06,Żurawia,02,Żurawia,ogólnodostępny
+55,Dzierżęcińska,07,Żurawia,01,Żurawia,ogólnodostępny
+56,Edmunda Dobrzyckiego,01,Połczyńska,01,Dobrzyckiego,ogólnodostępny
+57,Edmunda Dobrzyckiego,02,Gnieźnieńska,02,Gnieźnieńska,ogólnodostępny
+58,Energetyków ,02, Morska,04,Energetyków,ogólnodostępny
+59,Franciszkańska ,01, Energetyków ,01,Franciszkańska,ogólnodostępny
+60,Franciszkańska ,02, Energetyków,02,Franciszkańska,ogólnodostępny
+61,Franciszkańska ,04, Bosmańska,02,Os. Morskie,operator publicznego transportu zbiorowego
+62,Francuska ,02, Grecka,01,Francuska,ogólnodostępny
+63,Francuska ,04,Fińska,01,Fińska,ogólnodostępny
+64,Francuska ,01,Francuska,02,Francuska,ogólnodostępny
+65,Francuska ,03,Fińska,03,Fińska,ogólnodostępny
+66,Gdańska,02, Orląt Lwowskich,04,Politechnika,ogólnodostępny
+67,Gdańska,01, Oskara Lange,01,Gdańska,ogólnodostępny
+68,Gdańska,07, Stacja Paliw,01,Park Wodny,ogólnodostępny
+69,Gdańska,03,Kędzierzyn,01,Kędzierzyn,ogólnodostępny
+70,Gdańska,06,Kędzierzyn,02,Kędzierzyn,ogólnodostępny
+71,Gdańska ,04, Rolna,02,Park Wodny,ogólnodostępny
+72,Gdańska/Darłowska,05,Gorzebądź,01,Gorzebądź,ogólnodostępny
+73,Gdańska/Darłowska,08,Gorzebądź,02,Gorzebądź,ogólnodostępny
+74,Gnieźnieńska,04, Szkoła,02,Samochodówka,ogólnodostępny
+75,Gnieźnieńska,05, Paderewskiego,01,Cmentarz,operator publicznego transportu zbiorowego
+76,Gnieźnieńska,12, Cmentarz nowy,02,Cmentarz Nowy,ogólnodostępny
+77,Gnieźnieńska,11, Diamentowa,01,Wilkowo,ogólnodostępny
+78,Gnieźnieńska ,02, Połczyńska,02,Rondo Solidarności,ogólnodostępny
+79,Gnieźnieńska ,01, Modrzejewskiej,01,Samochodówka,ogólnodostępny
+80,Gnieźnieńska ,03, 4 Marca,01,Zajezdnia MZK,ogólnodostępny
+81,Gnieźnieńska ,06, Strażacka,04,Gnieźnieńska,ogólnodostępny
+82,Gnieźnieńska ,08, Kamieniarska pętla,02,Cmentarz,operator publicznego transportu zbiorowego
+83,Gnieźnieńska ,07, Cmentarz ,01,Cmentarz Stary,ogólnodostępny
+84,Gnieźnieńska ,10, Cmentarz ,02,Cmentarz Stary,ogólnodostępny
+85,Gnieźnieńska ,09, Kościół,01,Cmentarz Nowy,ogólnodostępny
+86,Gnieźnieńska ,14, Okrężna,02,Wilkowo,ogólnodostępny
+87,Grecka,01,Grecka,01,Grecka,ogólnodostępny
+88,Grecka,02,Grecka,02,Grecka,ogólnodostępny
+89,Holenderska,01,Orlik,01,Holenderska Orlik,ogólnodostępny
+90,Holenderska,03,KTBS,01,Holenderska KTBS,ogólnodostępny
+91,Holenderska ,04, Brytyjska,02,Holenderska KTBS,ogólnodostępny
+92,Holenderska  ,02, Maltańska ,02,Holenderska Orlik,ogólnodostępny
+93,Ignacego Łukasiewicza,02, Romex,02,Łukasiewicza,ogólnodostępny
+94,Ignacego Łukasiewicza ,01, Romex,01,Łukasiewicza,ogólnodostępny
+95,Ignacego Łukasiewicza ,03, Nord Glass,01,Strefa Ekonomiczna,ogólnodostępny
+96,Ignacego Paderewskiego,01, Sybiraków,01,Wodna Dolina,ogólnodostępny
+97,Jamneńska ,01, Północna,01,Jamno,ogólnodostępny
+98,Jamneńska ,02, Północna,02,Jamno,ogólnodostępny
+99,Jamneńska ,03, Szkoła pętla,01,Zagroda Jamneńska,ogólnodostępny
+100,Jamneńska ,04, Szkoła pętla,02,Zagroda Jamneńska,ogólnodostępny
+101,Jamneńska ,05,Wichrowa,01,Wichrowa,ogólnodostępny
+102,Jamneńska ,06,Wichrowa,02,Wichrowa,ogólnodostępny
+103,Jamneńska ,08, Filtrowa ,02,Oczyszczalnia,ogólnodostępny
+104,Jana Pawła II,05, Władysława IV,01,Jana Pawła II,operator publicznego transportu zbiorowego
+105,Jana Pawła II ,02, Politechnika,02,Politechnika,ogólnodostępny
+106,Jana Pawła II ,01, Fałata,01,Politechnika,operator publicznego transportu zbiorowego
+107,Jana Pawła II ,03, Jagoszewskiego,01,Staszica,ogólnodostępny
+108,Jana Pawła II ,04,Staszica,02,Staszica,ogólnodostępny
+109,Janka Stawisińskiego,02, Połczyńska,04,Rondo Solidarności,ogólnodostępny
+110,Janka Stawisińskiego,01, Racławicka,01,Plastyk,ogólnodostępny
+111,Janka Stawisińskiego,04, Politechnika,02,Plastyk,ogólnodostępny
+112,Janka Stawisińskiego,03, Andersa,01,Urząd Pracy,ogólnodostępny
+113,Jedności,02,Basen,02,Basen,ogólnodostępny
+114,Juliana Fałata,03, Jana Pawła II,03,Politechnika,ogólnodostępny
+115,Juliana Fałata ,02, Szkoła,02,ZUS,ogólnodostępny
+116,Juliana Fałata ,01, Wańkowicza,01,ZUS,ogólnodostępny
+117,Koszalińska ,02,Ariadna,02,Ariadna,ogólnodostępny
+118,Koszalińska ,01,Ariadna,01,Ariadna,ogólnodostępny
+119,Koszalińska ,04,Żyzna,02,Żyzna,ogólnodostępny
+120,Koszalińska ,03,Żyzna,01,Żyzna,ogólnodostępny
+121,Koszalińska ,05,Kwiatowa,01,Kwiatowa,ogólnodostępny
+122,Koszalińska ,06,Kwiatowa,02,Kwiatowa,ogólnodostępny
+123,Kościuszki ,02, Piłsudskiego,02,Kościuszki,ogólnodostępny
+124,Kościuszki ,,NOWY PRZYSTANEK,01,Kościuszki,ogólnodostępny
+125,Krakusa i Wandy,01, Lechicka,01,Krakusa i Wandy,operator publicznego transportu zbiorowego
+126,Krakusa i Wandy,04, Drzymały,02,Drzymały,operator publicznego transportu zbiorowego
+127,Krakusa i Wandy ,02, Połczyńska,06,Rondo Solidarności,operator publicznego transportu zbiorowego
+128,Krakusa i Wandy ,03, Zwycięstwa,01,Dworzec PKS,operator publicznego transportu zbiorowego
+129,Krańcowa ,01, Franciszkańska,01,Krańcowa,ogólnodostępny
+130,Kresowian,02,Morska,04,Kresowian,ogólnodostępny
+131,Kresowian,03,Franciszkańska,01,DPS,ogólnodostępny
+132,Lechicka,02, Kolejowa,02,Łużycka,ogólnodostępny
+133,Lechicka,05, Działki,01,Lechicka Działki,ogólnodostępny
+134,Lechicka ,01, Łużycka,01,Łużycka,ogólnodostępny
+135,Lechicka ,03, Bumar ,01,Lechicka,ogólnodostępny
+136,Lechicka ,04, Bumar ,02,Lechicka,ogólnodostępny
+137,Lechicka ,07,Ogrodnictwo,01,Ogrodnictwo,ogólnodostępny
+138,Lechicka ,06,Ogrodnictwo,02,Ogrodnictwo,ogólnodostępny
+139,Lubiatowska,05, Łąkowa ,01,Dzierżęcino,ogólnodostępny
+140,Lubiatowska,07,Żurawinowa,01,Żurawinowa,ogólnodostępny
+141,Lubiatowska,09,Zielone Wzgórze,01,Zielone Wzgórze,ogólnodostępny
+142,Lubiatowska,11, Jeziorna ,01,Jeziorna,ogólnodostępny
+143,Lubiatowska ,02, Chełmoniewo,02,Lubiatowska,ogólnodostępny
+144,Lubiatowska ,01, Chełmoniewo,01,Lubiatowska,ogólnodostępny
+145,Lubiatowska ,03, Krawiecka,01,Krawiecka,ogólnodostępny
+146,Lubiatowska ,04, Łąkowa ,02,Dzierżęcino,ogólnodostępny
+147,Lubiatowska ,06,Żurawinowa,02,Żurawinowa,ogólnodostępny
+148,Lubiatowska ,08,Zielone Wzgórze,02,Zielone Wzgórze,ogólnodostępny
+149,Lubiatowska ,10, Wioska Indiańska,02,Wioska Indiańska,ogólnodostępny
+150,Lubiatowska ,,NOWY PRZYSTANEK,01,Wioska Indiańska,ogólnodostępny
+151,Lubiatowska ,12,Jeziorna,02,Jeziorna,ogólnodostępny
+152,Lubiatowska ,13, Jeziorna pętla,01,Lubiatowo,ogólnodostępny
+153,Ludwika Waryńskiego,02, Matejki,02,Sąd Okręgowy,operator publicznego transportu zbiorowego
+154,Ludwika Waryńskiego,01, Szymanowskiego,01,Sąd Okręgowy,operator publicznego transportu zbiorowego
+155,Lutyków ,02, Lechicka,02,Lutyków,ogólnodostępny
+156,Lutyków ,01, Skargi,01,Lutyków,ogólnodostępny
+157,Łabusz ,02, Starowiejska pętla,02,Łabusz,ogólnodostępny
+158,Marszałka Józefa Piłsudskiego,02, Waryńskiego,02,Radio,ogólnodostępny
+159,Marszałka Józefa Piłsudskiego,04, Moniuszki,02,Biblioteka Pedagogiczna,ogólnodostępny
+160,Marszałka Józefa Piłsudskiego,01,Orląt Lwowskich,01,Orląt Lwowskich,ogólnodostępny
+161,Marszałka Józefa Piłsudskiego,06, Traugutta,02,Orląt Lwowskich,ogólnodostępny
+162,Marszałka Józefa Piłsudskiego,03, Zubrzyckiego,01,Piłsudskiego,ogólnodostępny
+163,Mieszka I,01, Szczecińska,01,Żwirki i Wigury,ogólnodostępny
+164,Mieszka I,07,ZORD,01,ZORD,ogólnodostępny
+165,Mieszka I,08,ZORD,02,ZORD,ogólnodostępny
+166,Mieszka I ,02, Bohaterów Warszawy,02,Żwirki i Wigury,ogólnodostępny
+167,Mieszka I ,03,Miła,01,Miła,ogólnodostępny
+168,Mieszka I ,04, Zacisze,02,Miła,ogólnodostępny
+169,Mieszka I ,05, BoWiD ,01,Mieszka I Wiadukt,ogólnodostępny
+170,Mieszka I ,06, BoWiD,02,Mieszka I Wiadukt ,ogólnodostępny
+171,Młyńska,02, Asnyka,02,Urząd Miejski,ogólnodostępny
+172,Młyńska ,01,Urząd Miejski,01,Urząd Miejski,ogólnodostępny
+173,Młyńska ,03, Plac Kilińskiego,01,Plac Kilińskiego,ogólnodostępny
+174,Młyńska ,04, Monte Cassino,02,Bilbioteka,ogólnodostępny
+175,Monte Cassino,01, Młyńska,01,Bilbioteka,ogólnodostępny
+176,Monte Cassino ,02, Fałata,04,Bilbioteka,ogólnodostępny
+177,Monte Cassino ,03, Podgórna,01,Podgórna,operator publicznego transportu zbiorowego
+178,Monte Cassino ,04, Bałtycka,02,Podgórna,operator publicznego transportu zbiorowego
+179,Morska ,02, Bohaterów Warszawy,02,Energetyka,operator publicznego transportu zbiorowego
+180,Morska ,04,Energetyków,02,Energetyków,ogólnodostępny
+181,Morska ,01, Kazel,01,Energetyków,ogólnodostępny
+182,Morska ,03, Przemysłowa,01,Urząd Skarbowy,operator publicznego transportu zbiorowego
+183,Morska ,06, Sienkiewicza,02,Urząd Skarbowy,ogólnodostępny
+184,Morska ,05, Krańcowa,01,Kresowian,ogólnodostępny
+185,Morska ,08, Krańcowa,02,Kresowian,ogólnodostępny
+186,Morska ,10,Leśniczówka,02,Leśniczówka,ogólnodostępny
+187,Morska ,07,Leśniczówka,01,Leśniczówka,ogólnodostępny
+188,Na Skwierzynkę,,NOWY PRZYSTANEK,01,Na Skwierzynkę,ogólnodostępny
+189,Na Skwierzynkę,,NOWY PRZYSTANEK,02,Na Skwierzynkę,ogólnodostępny
+190,Orląt Lwowskich ,02, Hanki Sawickiej,02,Budowlanka,operator publicznego transportu zbiorowego
+191,Paproci ,01, Łubinów,01,Goździków,ogólnodostępny
+192,Paproci ,02,Goździków,02,Goździków,ogólnodostępny
+193,Paproci ,03, Kaczeńców,01,Słoneczników,ogólnodostępny
+194,Paproci ,04,Słoneczników,02,Słoneczników,ogólnodostępny
+195,Paproci ,05, Bratków,01,Bratków,ogólnodostępny
+196,Paproci ,06, Nasturcji,02,Bratków,ogólnodostępny
+197,Połczyńska,05, Szkoła,01,Połczyńska Szkoła,ogólnodostępny
+198,Połczyńska,,NOWY PRZYSTANEK,02,Żytnia,ogólnodostępny
+199,Połczyńska,,NOWY PRZYSTANEK,01,Żytnia,ogólnodostępny
+200,Połczyńska,,NOWY PRZYSTANEK,04,Seminaryjna,ogólnodostępny
+201,Połczyńska ,02, Poprzeczna,02,Gazownia,ogólnodostępny
+202,Połczyńska ,01,Gazownia,01,Gazownia,ogólnodostępny
+203,Połczyńska ,03, 4 Marca,01,Połczyńska,ogólnodostępny
+204,Połczyńska ,04, Słowiańska,02,Połczyńska,ogólnodostępny
+205,Połczyńska ,06, Działkowa,02,Połczyńska Szkoła,ogólnodostępny
+206,Połczyńska ,08,Sarzyno,02,Sarzyno,ogólnodostępny
+207,Połczyńska ,07,Sarzyno,01,Sarzyno,ogólnodostępny
+208,Połczyńska ,09,Seminaryjna,01,Seminaryjna,ogólnodostępny
+209,Powstańców Wielkopolskich ,01, Szkoła,01,Powstańców Wielkopolskich ,ogólnodostępny
+210,Północna ,01,Torfowa,01,Torfowa,ogólnodostępny
+211,Północna ,02,Torfowa,02,Torfowa,ogólnodostępny
+212,Północna ,04, Starowiejska ,02,Starowiejska,ogólnodostępny
+213,Północna ,03, Starowiejska ,01,Starowiejska,ogólnodostępny
+214,Promowa,,NOWY PRZYSTANEK,01,Promowa,ogólnodostępny
+215,Promowa,,NOWY PRZYSTANEK,02,Promowa,ogólnodostępny
+216,Promowa,,NOWY PRZYSTANEK,01,Kogucia,ogólnodostępny
+217,Promowa,,NOWY PRZYSTANEK,02,Kogucia,ogólnodostępny
+218,Promykowa,,NOWY PRZYSTANEK,01,Ruszczyca,ogólnodostępny
+219,Promykowa,,NOWY PRZYSTANEK,02,Ruszczyca,ogólnodostępny
+220,Przemysłowa ,02, Morska,04,Urząd Skarbowy,ogólnodostępny
+221,Przemysłowa ,01, Urząd Skarbowy,01,Przemysłowa,ogólnodostępny
+222,Przemysłowa ,04,Urząd Celny,02,Urząd Celny,ogólnodostępny
+223,Przemysłowa ,03, Janex,01,Urząd Celny,ogólnodostępny
+224,Rolna,02,Giełda,04 ,Park Wodny,ogólnodostępny
+225,Romualda Traugutta ,04, Piłsudskiego,02,Orląt Lwowskich,operator publicznego transportu zbiorowego
+226,Romualda Traugutta ,02, Zgody,02,Traugutta,operator publicznego transportu zbiorowego
+227,Romualda Traugutta ,01, Nowowiejskiego,01,Traugutta,operator publicznego transportu zbiorowego
+228,Rotmistrza Witolda Pileckiego,02, Piłsudskiego,02,Pileckiego,ogólnodostępny
+229,Seminaryjna ,02, Połczyńska,02,Seminaryjna,ogólnodostępny
+230,Seminaryjna ,04,Seminarium,02,Seminarium,ogólnodostępny
+231,Sianowska,01, Zdobywców Wału Pomorskiego,01,Sianowska,ogólnodostępny
+232,Słowiańska ,01, Lechicka,01,Słowiańska,ogólnodostępny
+233,Słowiańska ,02, Lechicka,02,Słowiańska,ogólnodostępny
+234,Słowiańska ,04,MEC,02,MEC,ogólnodostępny
+235,Słowiańska ,03, Połczyńska,02,Dobrzyckiego,ogólnodostępny
+236,Słupska ,01, Sanktuarium,01,Sanktuarium,ogólnodostępny
+237,Spokojna ,02, Franciszkańska,02,Spokojna,ogólnodostępny
+238,Starowiejska ,01,Farmerska,01,Farmerska,ogólnodostępny
+239,Starowiejska ,02,Farmerska,02,Farmerska,ogólnodostępny
+240,Starowiejska ,03, Wilków Morskich,01,Wilków Morskich,ogólnodostępny
+241,Starowiejska ,04, Wilków Morskich,02,Wilków Morskich,ogólnodostępny
+242,Strefowa ,01,Elfa,01,Strefowa,ogólnodostępny
+243,Strefowa ,02, Elfa,02,Strefowa,ogólnodostępny
+244,Strefowa ,03,Zakład Karny,01,Zakład Karny,ogólnodostępny
+245,Strefowa ,04,Zakład Karny,02,Zakład Karny,ogólnodostępny
+246,Sybiraków ,02, Paderewskiego,02,Wodna Dolina,ogólnodostępny
+247,Sybiraków ,01, Działki,01,Sybiraków,ogólnodostępny
+248,Sybiraków ,04,4 Marca,02,4 Marca,ogólnodostępny
+249,Syrenki,01,Bohaterów Warszawy,01,Syrenki,ogólnodostępny
+250,Syrenki,02,Szczecińska,04,Szczecińska Rondo,ogólnodostępny
+251,Szczecińska,06, Syrenki,02,Szczecińska Rondo,ogólnodostępny
+252,Szczecińska,09, Szczecińska pętla,03,Szczecińska ,ogólnodostępny
+253,Szczecińska ,02, Mieszka I,02,Jasna,ogólnodostępny
+254,Szczecińska ,01,Jasna,01,Jasna,ogólnodostępny
+255,Szczecińska ,04, Brzozowa,02,ZZDW,ogólnodostępny
+256,Szczecińska ,03, ZDW,01,ZZDW,ogólnodostępny
+257,Szczecińska ,05, Sklep meblowy,01,Szczecińska Usługi,ogólnodostępny
+258,Szczecińska ,08, Zakłady Usługowe,02,Szczecińska Usługi,ogólnodostępny
+259,Szczecińska ,10, Stare Bielice,02,Szczecińska ,ogólnodostępny
+260,Szczecińska ,07, Stare Bielice,01,Szczecińska ,ogólnodostępny
+261,Śniadeckich,06, Oskara Lange,02,Śniadeckich,operator publicznego transportu zbiorowego
+262,Śniadeckich ,02, Politechnika,02,Śniadeckich Politechnika,ogólnodostępny
+263,Śniadeckich ,01, Jana Pawła II,01,Śniadeckich Politechnika,ogólnodostępny
+264,Śniadeckich ,04, Kołłątaja,02,Śniadeckich Hala,operator publicznego transportu zbiorowego
+265,Śniadeckich ,03, Oskara Lange,01,Śniadeckich,operator publicznego transportu zbiorowego
+266,Św. Wojciecha,03, Ogrodnictwo,01,Gerberowa,ogólnodostępny
+267,Św. Wojciecha,06, Wojska Polskiego,02,Gerberowa,ogólnodostępny
+268,Św. Wojciecha ,02, Kościół,04,Św. Wojciecha,ogólnodostępny
+269,Św. Wojciecha ,04,Jabłoniowa,02,Jabłoniowa,ogólnodostępny
+270,Św. Wojciecha ,01, Cedrowa,01,Jabłoniowa,ogólnodostępny
+271,Tadeusza Mazowieckiego,04,Franciszkańska,02,DPS,ogólnodostępny
+272,Tadeusza Mazowieckiego,05,Władysława IV,01,Rondo Gen. Maczka,ogólnodostępny
+273,Tytusa Chałubińskiego,,NOWY PRZYSTANEK,02,Chałubińskiego,ogólnodostępny
+274,Tytusa Chałubińskiego,,NOWY PRZYSTANEK,04,Chałubińskiego,ogólnodostępny
+275,Tytusa Chałubińskiego ,02,Szpital,02,Szpital,ogólnodostępny
+276,Tytusa Chałubińskiego ,01,Szpital,01,Szpital,ogólnodostępny
+277,Tytusa Chałubińskiego ,04, Leśna,02,PWSZ,ogólnodostępny
+278,Tytusa Chałubińskiego ,03, Centrum Edukacji,01,Chałubińskiego,ogólnodostępny
+279,Wenedów ,02, Osiedle,02,Wenedów,ogólnodostępny
+280,Wenedów ,01, Słowiańska,01,Wenedów,ogólnodostępny
+281,Westerplatte ,02, Wrześniowa,02,Wrześniowa,ogólnodostępny
+282,Władysława IV,05, Kwiatkowskiego,01,Kwiatkowskiego,operator publicznego transportu zbiorowego
+283,Władysława IV,07,RING,01,Rondo Gen. Maczka,ogólnodostępny
+284,Władysława IV,09, Holenderska,01,Holenderska  ,ogólnodostępny
+285,Władysława IV,10, Francuska,02,Francuska Działki,ogólnodostępny
+286,Władysława IV,12, Duńska,02,Duńska Działki,ogólnodostępny
+287,Władysława IV,14, Działki,02,Władysława IV Ogrody,ogólnodostępny
+288,Władysława IV,,NOWY PRZYSTANEK,01,Wąwozowa,ogólnodostępny
+289,Władysława IV ,02, Wańkowicza,02,Wańkowicza,ogólnodostępny
+290,Władysława IV ,01, Kutrzeby,01,Wańkowicza,ogólnodostępny
+291,Władysława IV ,03, Sikorskiego,01,Sikorskiego,operator publicznego transportu zbiorowego
+292,Władysława IV ,04, Akademicka,02,Kwiatkowskiego,operator publicznego transportu zbiorowego
+293,Władysława IV ,06, Wiadukt,06, Wiadukt,ogólnodostępny
+294,Władysława IV ,08, Holenderska,02,Rondo Gen. Maczka,ogólnodostępny
+295,Władysława IV ,11, Francuska,01,Francuska Działki,ogólnodostępny
+296,Władysława IV ,13, Duńska,01,Duńska Działki,ogólnodostępny
+297,Władysława IV ,15, Działki ,01,Władysława IV Ogrody,ogólnodostępny
+298,Władysława IV ,16, Działki ,02,Władysława IV Działki,ogólnodostępny
+299,Władysława IV ,17, Działki ,01,Władysława IV Działki,ogólnodostępny
+300,Władysława IV ,19, Działki pętla,01,Węzeł Wschód,ogólnodostępny
+301,Wojska Polskiego ,01, Szkoła ,01,Czaplówka,ogólnodostępny
+302,Wojska Polskiego ,02, Szkoła,02,Czaplówka,ogólnodostępny
+303,Wrzosów ,02, Połczyńska,02,Wrzosów,ogólnodostępny
+304,Wrzosów ,01, Połczyńska ,01,Wrzosów,ogólnodostępny
+305,Zagórzyno ,02, Zagórzyno pętla,02,Zagórzyno,ogólnodostępny
+306,Zdobywców Wału Pomorskiego ,02,Wiśniowa,02,Wiśniowa,ogólnodostępny
+307,Zdobywców Wału Pomorskiego ,01,Westerplatte,01,Westerplatte,ogólnodostępny
+308,Zdobywców Wału Pomorskiego ,03,Westerplatte,02,Westerplatte,ogólnodostępny
+309,Zwycięstwa ,01,Dworzec PKS,01,Dworzec PKS,operator publicznego transportu zbiorowego
+310,Zwycięstwa ,02, Krakusa i Wandy,02,Dworzec PKS,operator publicznego transportu zbiorowego
+311,Zwycięstwa ,03,Rynek Staromiejski,01,Rynek Staromiejski,operator publicznego transportu zbiorowego
+312,Zwycięstwa ,04, Słowackiego,02,Rynek Staromiejski,operator publicznego transportu zbiorowego
+313,Zwycięstwa ,06, Plac Wolności,02,CK 105,ogólnodostępny
+314,Zwycięstwa ,08, Clausiusa,02,Clausiusa,operator publicznego transportu zbiorowego
+315,Zwycięstwa ,05, Piłsudskiego,01,Clausiusa,operator publicznego transportu zbiorowego
+316,Zwycięstwa ,07, Waryńskiego,01,Grottgera,operator publicznego transportu zbiorowego
+317,Zwycięstwa ,10,Grottgera,02,Grottgera,operator publicznego transportu zbiorowego
+318,Zwycięstwa ,09,Moniuszki,01,Moniuszki,ogólnodostępny
+319,Zwycięstwa ,12, Tetmajera,02,Moniuszki,operator publicznego transportu zbiorowego
+320,Zwycięstwa ,14, 4 Marca,02,Kaplica Wojskowa,ogólnodostępny
+321,Zwycięstwa ,16,Zielona,02,Zielona,ogólnodostępny
+322,Zwycięstwa ,11, Ruszczyca,01,Zielona,ogólnodostępny
+323,Zwycięstwa ,18,Św. Wojciecha,02,Św. Wojciecha,ogólnodostępny
+324,Zwycięstwa ,13, Artylerzystów,01,Św. Wojciecha,ogólnodostępny
+325,Zwycięstwa ,15, Chełmoniewo pętla,01,Chełmoniewo,ogólnodostępny
+326,Zwycięstwa ,20, Zdobywców Wału Pomorskiego,02,Chełmoniewo,ogólnodostępny

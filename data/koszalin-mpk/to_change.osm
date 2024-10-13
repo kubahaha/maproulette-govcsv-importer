@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-06-01T19:48:59.046999Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="1519942927" lat="54.1801817" lon="15.5655385" version="10" timestamp="2022-04-28T11:37:35Z" action="modify" changeset="120301629" uid="657596" user="taxi301">
+	<tag k="bench" v="yes"/>
+	<tag k="bin" v="yes"/>
+	<tag k="highway" v="bus_stop"/>
+	<tag k="lit" v="yes"/>
+	<tag k="shelter" v="no"/>
+	<tag k="tactile_paving" v="no"/>
+	<tag k="old_name" v="Wojska Polskiego"/>
+	<tag k="name" v="Wojska Polskiego"/>
+</node></osm>

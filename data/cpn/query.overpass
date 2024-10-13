@@ -1,0 +1,7 @@
+[out:json][timeout:999];
+{{geocodeArea:Polska}}->.searchArea;
+nw[amenity=fuel](area.searchArea);
+
+out meta;
+>;
+out meta;

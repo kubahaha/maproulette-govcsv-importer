@@ -35,6 +35,12 @@ def match(gov, osm, name, engine='nominatim'):
 
                 def comp(x, y):
                     return distance(x.loc, y.loc) <= dist
+            elif rule.split(':')[0] == 'teryt':
+                def check(_):
+                    return True
+
+                def comp(x, y):
+                    pass
             else:
                 raise NotImplementedError()
 
@@ -88,6 +94,12 @@ def fill(conf_name, osm, gov):
     ready_tags = delete_add_tags_conf(ready_tags, conf_name)
     ready_tags = replace_tags_conf(ready_tags, conf_name)
 
+    if conf.rules.get('rewrite_tags', False):
+        print('rewrite')
+        print(ready_tags)
+        ready_tags = rewrite_tags(ready_tags, conf_name)
+        print(ready_tags)
+
     if ready_tags != gov.tags:
         ready.modify = True
         ready_tags.update(conf.tags_source)
@@ -135,3 +147,16 @@ def replace_tags_conf(tags_to_mod, conf_name):
             tags[key] = fn(tags[key])
 
     return tags
+
+
+def rewrite_tags(tags_to_mod, conf_name):
+    conf = importlib.import_module(f'data.{conf_name}.conf')
+    old_tags = copy.deepcopy(tags_to_mod)
+    new_tags = copy.deepcopy(tags_to_mod)
+
+    for old_key, new_key in conf.rules['rewrite_tags'].items():
+        if old_tags.get(old_key):
+            new_tags[new_key] = old_tags[old_key]
+            del new_tags[old_key]
+
+    return new_tags

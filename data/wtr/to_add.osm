@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-06-09T21:15:18.780067Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-534560849" lat="51.116822" lon="17.051845" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15053"/>
+	<tag k="name" v="Sienkiewicza / Wyszyńskiego"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-372473822" lat="51.112387" lon="16.993157" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15076"/>
+	<tag k="name" v="Robotnicza / Fabryczna"/>
+	<tag k="capacity" v="4"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-677708776" lat="51.048391" lon="16.961699" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15253"/>
+	<tag k="name" v="Aleja Bielany"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-91016926" lat="51.1253" lon="16.997218" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15123"/>
+	<tag k="name" v="Popowicka / Niedźwiedzia"/>
+	<tag k="capacity" v="5"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-196923592" lat="51.120068" lon="17.077684" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15128"/>
+	<tag k="name" v="al. Kochanowskiego / Śniadeckich"/>
+	<tag k="capacity" v="6"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-172858303" lat="51.127192" lon="16.991832" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15172"/>
+	<tag k="name" v="Popowicka / Rysia"/>
+	<tag k="capacity" v="4"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-128498579" lat="51.14382" lon="16.98789" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15182"/>
+	<tag k="name" v="Osobowicka / Ostrowska"/>
+	<tag k="capacity" v="3"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-256562159" lat="51.118185" lon="16.946011" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15264"/>
+	<tag k="name" v="Sukielicka / Rogowska"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-236408574" lat="51.034956" lon="16.950763" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15274"/>
+	<tag k="name" v="Amazon WRO2"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-705020697" lat="51.196906" lon="16.974741" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15275"/>
+	<tag k="name" v="Dalimira/Pęgowska"/>
+	<tag k="capacity" v="7"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-316038344" lat="51.114538" lon="16.966035" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15276"/>
+	<tag k="name" v="Nowodworska/Strzegomska"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-713591963" lat="51.161667" lon="17.027766" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15282"/>
+	<tag k="name" v="Lekarska/Żmigrodzka"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-518468720" lat="51.095298" lon="16.971707" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15284"/>
+	<tag k="name" v="Ostrowskiego"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-384148859" lat="51.122409" lon="17.012313" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15288"/>
+	<tag k="name" v="Gnieźnieńska / Długa"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-676437895" lat="51.153259" lon="16.939513" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15291"/>
+	<tag k="name" v="Maślicka / Brodnicka"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-554570080" lat="51.153669" lon="16.944094" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15293"/>
+	<tag k="name" v="Bogatyńska / Turoszowska"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-694494214" lat="51.03795" lon="16.976374" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15302"/>
+	<tag k="name" v="Bielany Wrocławskie Kolejowa P&R"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-243493848" lat="51.052835" lon="17.003956" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15303"/>
+	<tag k="name" v="Wysoka Nastrojowa"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-821277403" lat="51.078886" lon="16.908149" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15304"/>
+	<tag k="name" v="Mokronos Górny PKP"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-785601702" lat="51.087048" lon="16.911286" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15305"/>
+	<tag k="name" v="Smolec"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node>
+<node id="-227893480" lat="51.182349" lon="17.026957" version="1" timestamp="2024-06-09T21:15:18.466204Z" action="modify"   >
+	<tag k="ref" v="15306"/>
+	<tag k="name" v="Psary"/>
+	<tag k="capacity" v="10"/>
+	<tag k="amenity" v="bicycle_rental"/>
+	<tag k="email" v="ck@wroclawskirower.pl"/>
+	<tag k="website" v="https://wroclawskirower.pl"/>
+	<tag k="operator" v="NextBike"/>
+	<tag k="operator:wikidata" v="Q2351279"/>
+	<tag k="network" v="Wrocławski Rower Miejski"/>
+	<tag k="network:wikidata" v="Q24941606"/>
+	<tag k="network:short" v="WRM"/>
+	<tag k="source:position" v="https://wroclawskirower.pl/mapa-stacji"/>
+</node></osm>

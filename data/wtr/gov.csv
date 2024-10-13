@@ -1,0 +1,239 @@
+Numer stacji;Nazwa stacji;Współrzędne1;Współrzędne2;Liczba stojaków
+15001;Plac Dominikański (Galeria Dominikańska);51.108004;17.039528;16
+15002;Dworzec Główny, południe;51.097108;17.03611;12
+15003;Rynek;51.109782;17.030175;16
+15004;Dworzec Główny;51.09975;17.036228;16
+15005;Nowowiejska / Jedności Narodowej;51.124879;17.045844;10
+15006;Legnicka / Wejherowska;51.125276;16.984447;10
+15007;Rondo Reagana;51.112154;17.060451;16
+15008;Pereca / Grabiszyńska;51.100862;17.008224;10
+15009;Powstańcow Śląskich / Aleja Hallera;51.086689;17.01248;14
+15010;Grabiszyńska / Aleja Hallera;51.094413;16.980911;16
+15011;Szczęśliwa (Sky Tower);51.094521;17.020876;16
+15012;Śrubowa / Strzegomska;51.112911;17.00136;10
+15013;Na Grobli (PWr - Geocentrum);51.105207;17.053675;16
+15014;Lotnicza / Na Ostatnim Groszu;51.126907;16.978759;16
+15015;Dyrekcyjna / Borowska (Wroclavia);51.095322;17.033388;14
+15016;Kamienna / Borowska (Aquapark);51.088908;17.034051;16
+15017;Wyszyńskiego / Szczytnicka;51.113562;17.050674;16
+15018;Chałubińskiego / Mikulicza-Radeckiego;51.111356;17.067636;4
+15019;Borowska (Uniw. Szpital Kliniczny);51.074868;17.032457;12
+15020;Legnicka (Park Magnolia);51.121059;16.993088;16
+15022;Jagiełły / Dmowskiego;51.116596;17.023879;4
+15023;Plac Powstańców Śląskich;51.091457;17.017405;10
+15024;Wróblewskiego (ZOO);51.10592;17.075857;10
+15025;Ślężna / Aleja Wiśniowa;51.084239;17.02439;10
+15026;Tyrmanda / Mińska;51.103216;16.9461;10
+15027;Janiszewskiego (PWr);51.109332;17.060511;16
+15028;Norwida / Wyspiańskiego (PWr);51.107235;17.060715;16
+15029;Plac Świętego Macieja / Trzebnicka;51.120474;17.036641;10
+15030;Mińska / Stanisławowska;51.099401;16.941016;6
+15031;Otyńska / Traktatowa;51.112322;16.973556;10
+15032;Wita Stwosza / Szewska;51.110274;17.034912;16
+15033;Plac Kościuszki (Renoma);51.103354;17.030704;16
+15034;Plac Jana Pawła II (Akademia Muzyczna);51.111489;17.020981;10
+15035;Plac Uniwersytecki (UWr);51.113871;17.034484;14
+15036;Fabryczna / Wagonowa;51.112726;16.988762;10
+15037;Plac Legionów;51.104413;17.022536;10
+15038;Świdnicka / Piłsudskiego (Hotel Scandic);51.101319;17.028535;11
+15039;Kościuszki / Pułaskiego;51.1004;17.045083;6
+15040;Plac Powstańców Warszawy (Muzeum Narodowe);51.110001;17.047736;10
+15041;Kościuszki / Komuny Paryskiej / Zgodna;51.098959;17.051519;10
+15042;Traugutta / Pułaskiego;51.104571;17.048102;10
+15043;Stacyjna (Dworzec Mikołajów);51.115354;16.998732;10
+15044;Plac Strzegomski / Poznańska;51.113703;17.006287;10
+15045;Zachodnia / Poznańska;51.117668;17.007137;10
+15046;Drobnera / Dubois;51.117032;17.033499;16
+15047;Poniatowskiego / Oleśnicka;51.121308;17.043077;10
+15048;Nowowiejska / Wyszyńskiego;51.122424;17.052013;10
+15049;Żeromskiego / Daszyńskiego;51.12566;17.050463;6
+15050;Żeromskiego / Kluczborska;51.122313;17.047515;6
+15051;Joliot-Curie (Uwr);51.110662;17.052712;16
+15052;Sienkiewicza / Piastowska;51.115564;17.060704;10
+15053;Sienkiewicza / Wyszyńskiego;51.116822;17.051845;10
+15054;Plac Grunwaldzki / Polaka;51.110415;17.055591;16
+15055;Wróblewskiego (Teki);51.10411;17.084711;16
+15056;Komandorska / Sanocka;51.094653;17.026775;10
+15057;Ślężna / Kamienna (Uniw. Ekonomiczny);51.089842;17.028225;10
+15058;Oporów (pętla tramwajowa);51.08451;16.97223;8
+15059;Zaporoska / Gajowicka;51.097209;17.013967;10
+15060;Traugutta / Kościuszki;51.097147;17.056251;10
+15061;Nowowiejska / Górnickiego;51.119311;17.056784;10
+15062;Plac Grunwaldzki (DS Ołówek);51.113912;17.067207;16
+15063;Zaporoska / Grabiszyńska;51.102117;17.013683;10
+15064;Grabiszyńska / Stalowa;51.099354;17.000697;10
+15065;Krucza / Mielecka / Stalowa;51.093426;17.002893;10
+15066;Aleja Hallera / Mielecka;51.089315;17.001501;10
+15067;Grochowa / Jemiołowa;51.095597;17.008045;6
+15069;Legnicka / Młodych Techników;51.113141;17.012175;10
+15070;Żelazna / Pereca;51.098027;17.006977;10
+15072;Szewska / Kazimierza Wielkiego ;51.107494;17.033344;16
+15073;Na Ostatnim Groszu;51.122636;16.975708;10
+15074;Grabiszyńska / Magazynierska (Corte Verona);51.096659;16.988566;6
+15075;Legnicka / Zachodnia ;51.117155;17.000368;10
+15076;Robotnicza / Fabryczna;51.112387;16.993157;4
+15077;Fosa Miejska ;51.104163;17.031115;10
+15078;Łukasiewicza / Smoluchowskiego (PWr);51.108288;17.064884;28
+15079;Kazimierza Wielkiego (Helios);51.110342;17.02601;16
+15080;Drobnera / Plac Bema;51.117557;17.040967;10
+15081;Krzywoustego - Rynek Psie Pole;51.147339;17.11452;10
+15082;Pilczycka / Kozanowska;51.13699;16.966199;10
+15083;Aleja Kromera;51.132259;17.065453;10
+15084;Leśnica - pętla tramwajowa;51.14502;16.872364;10
+15085;Krzycka / Aleja Karkonoska (Park Południowy);51.074992;17.007058;10
+15086;Mościckiego (stacja kolejowa);51.063834;17.083366;10
+15094;Żmigrodzka / Broniewskiego;51.136111;17.036262;10
+15087;Zwycięska / Ołtaszyńska;51.059458;17.006542;10
+15088;Strzegomska / Estońska;51.111874;16.960692;10
+15089;Świeradowska (Ferio Gaj );51.07692;17.041439;10
+15090;Wałbrzyska - pętla tramwajowa;51.065777;16.988575;10
+15091;Buforowa - Vivaldiego;51.051546;17.059094;6
+15092;Pilczycka (Stadion Miejski);51.143633;16.950712;10
+15093;Bardzka / Piękna;51.085034;17.04932;10
+15095;Tyrmanda / Trawowa;51.100211;16.951602;6
+15096;Zatorska / Królewska - pętla MPK;51.160332;17.133683;6
+15097;Marca Polo (Olimpia Port);51.110299;17.117854;8
+15098;Osobowicka - pętla tramwajowa;51.137856;16.994273;10
+15099;Waniliowa / Cynamonowa;51.17592;16.998482;6
+15100;Żernicka;51.123237;16.924321;6
+15251;Promenady Wrocławskie;51.128876;17.044998;6
+15252;Centrum Handlowe Auchan Bielany;51.052723;16.968801;10
+15253;Aleja Bielany;51.048391;16.961699;10
+15101;Obornicka / Bałtycka;51.136786;17.030368;14
+15102;Berenta / Kasprowicza;51.138463;17.059804;8
+15103;Kraszewskiego / Trzebnicka;51.12843;17.0363;6
+15104;Grota-Roweckiego / Parafialna;51.06277;17.0321;10
+15105;Świeradowska / Krynicka;51.077147;17.046785;8
+15106;Krzywoustego / Korona;51.14035;17.08494;10
+15107;Rogowska / Zemska;51.11869;16.95336;10
+15108;Hermanowska / Kołobrzeska;51.12353;16.95059;10
+15109;Solskiego / al. Piastów;51.0775;16.96396;10
+15110;Czekoladowa / Wałbrzyska;51.06404;16.97753;6
+15111;Tarnogajska / Klimasa;51.08015;17.06228;10
+15112;Opolska / pętla tramwajowa;51.07748;17.08405;10
+15113;Graniczna / Strzegomska;51.10702;16.94971;10
+15114;Żmigrodzka / Marino;51.15013;17.02903;10
+15115;Kutrzeby / Hubala;51.056727;17.022121;10
+15116;Zwycięska / Agrestowa;51.0586;17.01411;10
+15117;al. Karkonoska / Jeździecka;51.061472;16.997531;6
+15119;Strzegomska / Rogowska;51.11059;16.95514;10
+15120;Karwińska / Opolska;51.08149;17.07693;10
+15121;Reymonta / Kleczkowska;51.12695;17.02804;7
+15122;Młodych Techników;51.118899;17.013477;10
+15123;Popowicka / Niedźwiedzia;51.1253;16.997218;5
+15124;Lotnicza / Metalowców;51.13258;16.95697;10
+15125;Zaporoska / Wielka / Krucza;51.09431;17.01479;6
+15126;Maślicka / Stodolna;51.15755;16.92781;6
+15127;Bystrzycka / Idzikowskiego;51.12658;16.95499;6
+15128;al. Kochanowskiego / Śniadeckich ;51.120068;17.077684;6
+15129;al. Brücknera / Kwidzyńska;51.13198;17.07945;10
+15130;Kozanowska / Pilczycka;51.13252;16.97377;10
+15131;Pilczycka / Koszykarska;51.140713;16.958199;10
+15132;al. Jana III Sobieskiego / stacja kolejowa;51.150227;17.118549;10
+15133;Kamieńskiego / Jutrosińska;51.147082;17.042321;10
+15134;Semaforowa;51.05927;17.07877;6
+15135;Olszewskiego / Spółdzielcza;51.10209;17.10168;10
+15136;Olszewskiego, pętla tramwajowa;51.101428;17.108523;6
+15137;Bacciarellego;51.105578;17.111316;10
+15138;al. Kochanowskiego / Kopernika;51.11514;17.07436;10
+15139;Bałtycka / Żmigrodzka;51.13959;17.03216;10
+15140;Bezpieczna / Obornicka;51.14156;17.02587;10
+15141;Drzewieckiego / Dedala;51.125652;16.968627;20
+15142;Ślężna / pętla tramwajowa;51.072302;17.012384;10
+15143;Mościckiego / Chińska ;51.05909;17.08687;10
+15144;Krakowska / Leroy Merlin;51.09053;17.06373;6
+15145;Koszarowa / UWr;51.14128;17.06613;16
+15146;Sołtysowicka / Redycka;51.14905;17.07565;4
+15147;al. Poprzeczna / stacja kolejowa;51.142596;17.081411;6
+15148;Przyjaźni / Karkonoska;51.06841;17.00399;6
+15149;Przyjaźni;51.06667;16.99435;10
+15150;Konduktorska;51.06628;17.05825;4
+15151;Jerzmanowska;51.120913;16.876257;4
+15152;Nyska / Piękna;51.084782;17.053103;10
+15153;pl. Powstańców Wielkopolskich;51.12469;17.03488;8
+15155;Jedności Narodowej / Wyszyńskiego;51.12814;17.05477;10
+15156;Mickiewicza / pętla tramwajowa;51.11397;17.10395;6
+15157;al. Armii Krajowej / Borowska;51.08361;17.03523;10
+15158;Gliniana / Gajowa;51.09152;17.04033;10
+15159;Kamienna / Tomaszowska;51.087764;17.039318;10
+15160;al. Armii Krajowej / Bardzka;51.08283;17.04824;10
+15161;Hallera / Odkrywców;51.09126;16.98581;8
+15162;Skarbowców / Wietrzna;51.07329;16.99485;6
+15163;Racławicka / Rymarska;51.08022;16.99467;10
+15164;Lotnicza / Bajana;51.13004;16.96605;6
+15165;Strachocińska / Wieśniacza;51.10666;17.14298;4
+15166;Księgarska / Dekarska / Zduńska;51.17759;17.01588;6
+15168;Nyska / Jesionowa;51.08729;17.05115;6
+15169;al. Armii Krajowej / Tarnogajska;51.083551;17.060519;6
+15170;Prochowicka / Dolnobrzeska;51.15127;16.86564;6
+15171;Boguszowska / Kosmonautów;51.14395;16.89012;10
+15172;Popowicka / Rysia;51.127192;16.991832;4
+15173;Kosmonautów / Glinianki / WUWA2;51.13884;16.93191;10
+15174;Wilanowska;51.15509;17.13249;6
+15175;Okulickiego;51.160517;17.12231;10
+15176;Poleska / Litewska;51.142323;17.127246;10
+15177;Bacciarellego / pętla autobusowa;51.10224;17.11645;6
+15178;Średzka / Dolnobrzeska;51.14597;16.86692;10
+15179;Miłoszycka / Swojczycka;51.11464;17.13042;6
+15180;Stabłowicka / Główna;51.16322;16.89648;6
+15181;Wojanowska / Arbuzowa;51.15435;16.89888;10
+15182;Osobowicka / Ostrowska;51.14382;16.98789;3
+15183;Kiełczowska;51.14574;17.13493;6
+15184;Gorlicka / Litewska;51.141797;17.123711;6
+15185;Kasprowicza / Syrokomli;51.137247;17.048546;6
+15186;Paprotna / Obornicka, zajezdnia MPK;51.148528;17.020477;6
+15187;Kosmonautów / Fieldorfa, szpital wojewódzki;51.14221;16.90591;6
+15188;Stabłowicka;51.171074;16.902364;6
+15189;Mrągowska / Rolna;51.149606;16.938033;6
+15190;Partyzantów / Okrzei;51.109457;17.097924;6
+15191;Hubska / Prudnicka;51.089572;17.045321;10
+15192;Jagodzińska / Buforowa;51.058564;17.056696;4
+15193;Kołłątaja / Podwale;51.103854;17.03678;10
+15194;Opolska / Siemianowicka;51.071275;17.090906;10
+15195;Piaskowa / św. Ducha;51.11289;17.03971;9
+15196;Klecińska / Duńska;51.109433;16.969097;10
+15197;pl. Orląt Lwowskich;51.10823;17.02138;17
+15198;Komandorska / Kamienna;51.09009;17.0235;10
+15199;Wrocław Stadion, stacja kolejowa;51.13707;16.94095;6
+15200;Wrocław Leśnica, stacja kolejowa;51.14323;16.86627;10
+15167;Stadion Olimpijski;51.118031;17.095563;10
+15254;Kozanowska Pilczyce;51.129565;16.989853;
+15255;Grota-Roweckiego/Iwaszkiewicza;51.05687;17.03236;6
+15256;Kowalska/Lechitów;51.13197;17.11071;6
+15257;Kamieńskiego;51.15472;17.04376;6
+15258;Lubelska/Łukowska;51.165419;16.920266;6
+15259;Kwidzyńska pętla;51.12776;17.10254;6
+15260;Rakowiecka;51.09761;17.06855;6
+15261;Powstańców Śląskich/Orla;51.08;17.00773;6
+15263;Klecińska (Wrocław Grabiszyn);51.09724;16.97512;6
+15264;Sukielicka / Rogowska;51.118185;16.946011;
+15265;Kozanowska/Pałucka;51.13863;16.97735;6
+15266;Piławska;51.07236;17.04294;6
+15267;Gorlicka/Stanety;51.14518;17.11679;6
+15268;3M;51.1277;17.11456;10
+15269;Gazowa / Międzyleska;51.07814;17.07026;6
+15270;Bezpieczna/Jugosławiańska;51.13894;17.02028;6
+15271;Piłsudskiego 13 od Jump Hall;51.1052;17.02123;6
+15273;Otyńska;51.11251;16.978385;10
+15274;Amazon WRO2;51.034956;16.950763;10
+15201;Gajowicka;51.085656;17.00453;10
+15275;Dalimira/Pęgowska;51.196906;16.974741;7
+15276;Nowodworska/Strzegomska;51.114538;16.966035;10
+15278;Kopycińskiego/Drabika;51.058262;17.052487;16
+15280;Czarnuszkowa/Waniliowa;51.18079;16.999845;10
+15281;Bierutowska;51.152216;17.13217;10
+15279;Ziemniaczana/Boiskowa;51.047299;17.091358;5
+15282;Lekarska/Żmigrodzka;51.161667;17.027766;10
+15283;Starodębowa (Wrocław Pawłowice);51.168502;17.109124;10
+15284;Ostrowskiego;51.095298;16.971707;10
+15288;Gnieźnieńska / Długa;51.122409;17.012313;
+15291;Maślicka / Brodnicka;51.153259;16.939513;
+15293;Bogatyńska / Turoszowska;51.153669;16.944094;
+15294;Ibn Siny Awicenny (Wrocław Zachodni);51.090573;16.950684;
+15295;Grapowa;51.061535;17.065717;
+15296;Wrocław Osobowice;51.166775;16.997604;5
+15302;Bielany Wrocławskie Kolejowa P&R;51.03795;16.976374;10
+15303;Wysoka Nastrojowa;51.052835;17.003956;10
+15304;Mokronos Górny PKP;51.078886;16.908149;10
+15305;Smolec;51.087048;16.911286;10
+15306;Psary;51.182349;17.026957;10
