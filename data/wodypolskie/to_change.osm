@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-11-27T19:21:23.734751Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="12328766669" lat="53.8428484" lon="22.9927039" version="1" timestamp="2024-11-10T14:52:25Z" action="modify" changeset="158970577" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Augustowie"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="16-300"/>
+	<tag k="phone" v="+48 87 643 28 07"/>
+	<tag k="email" v="zz-augustow@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12324823677" lat="53.1169084" lon="23.1160418" version="1" timestamp="2024-11-09T00:59:27Z" action="modify" changeset="158916749" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Białymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="15-399"/>
+	<tag k="phone" v="+48 85 748 12 00"/>
+	<tag k="email" v="zz-bialystok@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328735393" lat="53.781809" lon="20.4815059" version="1" timestamp="2024-11-10T15:01:20Z" action="modify" changeset="158970983" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Olsztynie"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="10-526"/>
+	<tag k="phone" v="+48 89 521 71 00"/>
+	<tag k="email" v="zz-olsztyn@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328735380" lat="53.0751852" lon="21.5702338" version="1" timestamp="2024-11-10T15:01:20Z" action="modify" changeset="158970983" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Ostrołęce"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="07-409"/>
+	<tag k="phone" v="+48 29 760 32 26"/>
+	<tag k="email" v="zz-ostroleka@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="9173197175" lat="53.845264" lon="22.9941031" version="1" timestamp="2021-10-14T20:15:16Z" action="modify" changeset="112519190" uid="13889611" user="cytryn">
+	<tag k="addr:city" v="Augustów"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="addr:postcode" v="16-300"/>
+	<tag k="addr:street" v="Portowa"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Nadzór Wodny w Augustowie"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="phone" v="+48 87 643 28 96"/>
+	<tag k="email" v="nw-augustow@wody.gov.pl"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="211037619" version="4" timestamp="2023-11-29T15:42:58Z" action="modify" changeset="144593481" uid="594456" user="Michoo">
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="addr:street" v="Pułkowa"/>
+	<tag k="alt_name" v="Wody Polskie"/>
+	<tag k="building" v="yes"/>
+	<tag k="building:levels" v="5"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Białymstoku"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00; PH off"/>
+	<tag k="short_name" v="RZGW w Białymstoku"/>
+	<tag k="website" v="https://bialystok.wody.gov.pl/"/>
+	<tag k="addr:postcode" v="15-143"/>
+	<tag k="phone" v="+48 85 733 03 20"/>
+	<tag k="email" v="bialystok@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="2210461797"/>
+	<nd ref="2210461852"/>
+	<nd ref="2210461832"/>
+	<nd ref="2210461895"/>
+	<nd ref="2210461797"/>
+</way>
+<node id="2210461797" lat="53.1440518" lon="23.1856552" version="5" timestamp="2024-07-21T14:18:26Z"  changeset="154221681" uid="594456" user="Michoo">
+
+</node>
+<node id="2210461832" lat="53.1443859" lon="23.185457" version="5" timestamp="2024-07-21T14:18:26Z"  changeset="154221681" uid="594456" user="Michoo">
+
+</node>
+<node id="2210461852" lat="53.144387" lon="23.1856515" version="5" timestamp="2024-07-21T14:18:26Z"  changeset="154221681" uid="594456" user="Michoo">
+
+</node>
+<node id="2210461895" lat="53.1440517" lon="23.1854642" version="5" timestamp="2024-07-21T14:18:26Z"  changeset="154221681" uid="594456" user="Michoo">
+
+</node>
+<way id="153787788" version="6" timestamp="2024-11-08T23:31:26Z" action="modify" changeset="158915278" uid="12914377" user="Patryk2710">
+	<tag k="addr:city" v="Bydgoszcz"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="addr:street" v="Aleja Adama Mickiewicza"/>
+	<tag k="building" v="yes"/>
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Bydgoszczy"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="85-071"/>
+	<tag k="phone" v="+48 52 339 11 00"/>
+	<tag k="email" v="bydgoszcz@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Bydgoszczy"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="1664268957"/>
+	<nd ref="3976642422"/>
+	<nd ref="3976642446"/>
+	<nd ref="3976642443"/>
+	<nd ref="3976642423"/>
+	<nd ref="3976642421"/>
+	<nd ref="1664269235"/>
+	<nd ref="3976642420"/>
+	<nd ref="1664269270"/>
+	<nd ref="1664268957"/>
+</way>
+<node id="1664268957" lat="53.1310518" lon="18.013264" version="2" timestamp="2016-01-29T19:41:06Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="1664269235" lat="53.1312627" lon="18.0132474" version="2" timestamp="2016-01-29T19:41:06Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="1664269270" lat="53.1311105" lon="18.0130957" version="2" timestamp="2016-01-29T19:41:06Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="3976642420" lat="53.1311349" lon="18.0131202" version="1" timestamp="2016-01-29T19:41:04Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="3976642421" lat="53.1312551" lon="18.013272" version="1" timestamp="2016-01-29T19:41:04Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="3976642422" lat="53.1311354" lon="18.0133483" version="1" timestamp="2016-01-29T19:41:04Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="3976642423" lat="53.131298" lon="18.013314" version="1" timestamp="2016-01-29T19:41:04Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="3976642443" lat="53.1312388" lon="18.0134933" version="1" timestamp="2016-01-29T19:41:05Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="3976642446" lat="53.1311241" lon="18.0133823" version="1" timestamp="2016-01-29T19:41:05Z"  changeset="36886277" uid="23168" user="adas">
+
+</node>
+<node id="12324711254" lat="52.7964912" lon="18.2585447" version="1" timestamp="2024-11-08T23:31:26Z" action="modify" changeset="158915278" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Inowrocławiu"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="88-100"/>
+	<tag k="phone" v="+48 52 356 57 50"/>
+	<tag k="email" v="zz-inowroclaw@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="6355612142" lat="53.3558494" lon="17.4854429" version="4" timestamp="2021-04-12T11:23:21Z" action="modify" changeset="102799350" uid="1250896" user="YacoobPL">
+	<tag k="addr:city" v="Więcbork"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="addr:postcode" v="89-410"/>
+	<tag k="addr:street" v="Aleja 600-lecia"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Nadzór Wodny w Więcborku"/>
+	<tag k="office" v="government"/>
+	<tag k="phone" v="+48 52 389 70 40"/>
+	<tag k="email" v="nw-wiecbork@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="972224379" version="6" timestamp="2024-03-16T10:19:57Z" action="modify" changeset="148724509" uid="4851745" user="qaz789">
+	<tag k="alt_name" v="RZGW Wrocław"/>
+	<tag k="check_date:opening_hours" v="2022-09-04"/>
+	<tag k="government" v="water"/>
+	<tag k="landuse" v="commercial"/>
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej we Wrocławiu"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours:signed" v="no"/>
+	<tag k="addr:postcode" v="50-950"/>
+	<tag k="phone" v="+48 71 337 88 00"/>
+	<tag k="short_name" v="RZGW we Wrocławiu"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="1168074009"/>
+	<nd ref="1168083346"/>
+	<nd ref="1167998321"/>
+	<nd ref="8998259059"/>
+	<nd ref="10024536117"/>
+	<nd ref="10024536118"/>
+	<nd ref="10024536119"/>
+	<nd ref="11736496763"/>
+	<nd ref="10024536120"/>
+	<nd ref="10024536121"/>
+	<nd ref="10080241137"/>
+	<nd ref="10080241133"/>
+	<nd ref="10024536122"/>
+	<nd ref="10024536123"/>
+	<nd ref="1168258533"/>
+	<nd ref="1168061393"/>
+	<nd ref="1168053560"/>
+	<nd ref="6080805626"/>
+	<nd ref="6080805627"/>
+	<nd ref="6080805628"/>
+	<nd ref="6080805629"/>
+	<nd ref="6080805621"/>
+	<nd ref="6080805620"/>
+	<nd ref="6080805619"/>
+	<nd ref="6080805635"/>
+	<nd ref="1168182080"/>
+	<nd ref="1168159668"/>
+	<nd ref="1168259387"/>
+	<nd ref="1168074009"/>
+</way>
+<node id="1167998321" lat="51.1108369" lon="17.0629951" version="3" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="1168053560" lat="51.1113984" lon="17.0632441" version="2" timestamp="2018-11-21T21:21:55Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="1168061393" lat="51.111395" lon="17.0632533" version="2" timestamp="2018-11-21T21:21:55Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="1168074009" lat="51.1109608" lon="17.0626099" version="2" timestamp="2018-11-21T21:21:55Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="1168083346" lat="51.1108863" lon="17.0628422" version="2" timestamp="2018-11-21T21:25:25Z"  changeset="64755953" uid="2098272" user="maraf24">
+
+</node>
+<node id="1168159668" lat="51.1110099" lon="17.0625407" version="2" timestamp="2018-11-21T21:21:55Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="1168182080" lat="51.1111359" lon="17.062645" version="2" timestamp="2018-11-21T21:21:55Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="1168258533" lat="51.1113409" lon="17.0634182" version="2" timestamp="2018-11-21T21:21:56Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="1168259387" lat="51.1109892" lon="17.0625237" version="2" timestamp="2018-11-21T21:21:56Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="6080805619" lat="51.1112161" lon="17.0626945" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="6080805620" lat="51.1112434" lon="17.0626086" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="6080805621" lat="51.1113086" lon="17.0624561" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="6080805626" lat="51.1115034" lon="17.0629278" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="6080805627" lat="51.111558" lon="17.0627628" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="6080805628" lat="51.1114019" lon="17.0624684" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="6080805629" lat="51.1113269" lon="17.0624588" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+	<tag k="barrier" v="gate"/>
+</node>
+<node id="6080805635" lat="51.1111398" lon="17.062634" version="1" timestamp="2018-11-21T21:21:54Z"  changeset="64755889" uid="2098272" user="maraf24">
+
+</node>
+<node id="8998259059" lat="51.110849" lon="17.0630051" version="2" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10024536117" lat="51.1108632" lon="17.0630169" version="1" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10024536118" lat="51.1109589" lon="17.0630961" version="1" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10024536119" lat="51.1109574" lon="17.0631009" version="1" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10024536120" lat="51.1110129" lon="17.0631471" version="1" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10024536121" lat="51.1110141" lon="17.0631437" version="1" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10024536122" lat="51.1113074" lon="17.0633808" version="1" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10024536123" lat="51.1113051" lon="17.0633882" version="1" timestamp="2022-09-14T13:39:47Z"  changeset="126183425" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10080241133" lat="51.111249" lon="17.0633336" version="1" timestamp="2022-10-06T15:44:27Z"  changeset="127108797" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10080241137" lat="51.1112384" lon="17.063325" version="1" timestamp="2022-10-06T15:44:27Z"  changeset="127108797" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="11736496763" lat="51.1109847" lon="17.0631236" version="1" timestamp="2024-03-16T10:19:57Z"  changeset="148724509" uid="4851745" user="qaz789">
+	<tag k="entrance" v="main"/>
+</node>
+<way id="1101449698" version="1" timestamp="2022-10-06T10:21:19Z" action="modify" changeset="127094189" uid="8826419" user="Mordechai23">
+	<tag k="landuse" v="commercial"/>
+	<tag k="name" v="Zarząd Zlewni we Wrocławiu"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="addr:postcode" v="50-370"/>
+	<tag k="phone" v="+48 71 757 20 64"/>
+	<tag k="email" v="zz-wroclaw@wody.gov.pl"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="10079716295"/>
+	<nd ref="1167353545"/>
+	<nd ref="1167453857"/>
+	<nd ref="10079716286"/>
+	<nd ref="10079716298"/>
+	<nd ref="10079716297"/>
+	<nd ref="10079716296"/>
+	<nd ref="10079716287"/>
+	<nd ref="3596250820"/>
+	<nd ref="3596250823"/>
+	<nd ref="3596250822"/>
+	<nd ref="3596250825"/>
+	<nd ref="3596250827"/>
+	<nd ref="3596250826"/>
+	<nd ref="3530245219"/>
+	<nd ref="3596250830"/>
+	<nd ref="3596250832"/>
+	<nd ref="6370957591"/>
+	<nd ref="1167460100"/>
+	<nd ref="1167368625"/>
+	<nd ref="10076683369"/>
+	<nd ref="1167453903"/>
+	<nd ref="10076683397"/>
+	<nd ref="10076786293"/>
+	<nd ref="10076786290"/>
+	<nd ref="10076683398"/>
+	<nd ref="10076786291"/>
+	<nd ref="10076786294"/>
+	<nd ref="1167558638"/>
+	<nd ref="10076655906"/>
+	<nd ref="1167501422"/>
+	<nd ref="10079716295"/>
+</way>
+<node id="1167353545" lat="51.1065965" lon="17.0649776" version="2" timestamp="2015-06-15T12:04:35Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="1167368625" lat="51.1068071" lon="17.0653337" version="3" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="1167453857" lat="51.1065988" lon="17.0650938" version="2" timestamp="2015-06-15T12:04:35Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="1167453903" lat="51.106767" lon="17.0652625" version="3" timestamp="2022-10-05T10:28:17Z"  changeset="127040213" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="1167460100" lat="51.1068064" lon="17.065416" version="3" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="1167501422" lat="51.1066649" lon="17.0648715" version="3" timestamp="2022-10-05T10:28:17Z"  changeset="127040213" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="1167558638" lat="51.1067769" lon="17.0648794" version="3" timestamp="2022-10-05T10:28:17Z"  changeset="127040213" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="3530245219" lat="51.1067392" lon="17.0655651" version="3" timestamp="2022-10-05T10:28:17Z"  changeset="127040213" uid="8826419" user="Mordechai23">
+	<tag k="access" v="private"/>
+	<tag k="barrier" v="gate"/>
+	<tag k="description" v="Wstęp wzbroniony."/>
+</node>
+<node id="3596250820" lat="51.106673" lon="17.0654877" version="1" timestamp="2015-06-15T12:04:32Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="3596250822" lat="51.1067058" lon="17.0655065" version="1" timestamp="2015-06-15T12:04:32Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="3596250823" lat="51.1066909" lon="17.0654959" version="1" timestamp="2015-06-15T12:04:32Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="3596250825" lat="51.106714" lon="17.065522" version="1" timestamp="2015-06-15T12:04:32Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="3596250826" lat="51.1067263" lon="17.065566" version="1" timestamp="2015-06-15T12:04:32Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="3596250827" lat="51.1067227" lon="17.065544" version="1" timestamp="2015-06-15T12:04:32Z"  changeset="31982214" uid="2098272" user="maraf24">
+
+</node>
+<node id="3596250830" lat="51.1068144" lon="17.0655598" version="2" timestamp="2022-10-05T10:28:17Z"  changeset="127040213" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="3596250832" lat="51.1068182" lon="17.0654402" version="2" timestamp="2019-03-29T19:47:35Z"  changeset="68677410" uid="2098272" user="maraf24">
+
+</node>
+<node id="6370957591" lat="51.1068011" lon="17.0654159" version="2" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076655906" lat="51.1067423" lon="17.064877" version="1" timestamp="2022-10-05T10:28:17Z"  changeset="127040213" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076683369" lat="51.1067648" lon="17.0653327" version="2" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076683397" lat="51.1067742" lon="17.0649825" version="1" timestamp="2022-10-05T10:28:17Z"  changeset="127040213" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076683398" lat="51.1067919" lon="17.0649333" version="2" timestamp="2022-10-05T11:17:07Z"  changeset="127041968" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076786290" lat="51.1067912" lon="17.0649597" version="1" timestamp="2022-10-05T11:17:07Z"  changeset="127041968" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076786291" lat="51.1067922" lon="17.0649196" version="1" timestamp="2022-10-05T11:17:07Z"  changeset="127041968" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076786293" lat="51.1067905" lon="17.0649837" version="1" timestamp="2022-10-05T11:17:07Z"  changeset="127041968" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10076786294" lat="51.1067759" lon="17.0649185" version="1" timestamp="2022-10-05T11:17:07Z"  changeset="127041968" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10079716286" lat="51.1065924" lon="17.0650944" version="1" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10079716287" lat="51.1066614" lon="17.0654877" version="1" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10079716295" lat="51.1066245" lon="17.0648697" version="1" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10079716296" lat="51.1066594" lon="17.0654465" version="1" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10079716297" lat="51.1065999" lon="17.0654509" version="1" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="10079716298" lat="51.1065966" lon="17.0653569" version="1" timestamp="2022-10-06T10:21:19Z"  changeset="127094189" uid="8826419" user="Mordechai23">
+
+</node>
+<node id="6879965468" lat="51.807343" lon="16.3242246" version="1" timestamp="2019-10-14T22:51:09Z" action="modify" changeset="75690817" uid="3610826" user="km2bp">
+	<tag k="name" v="Nadzór Wodny we Wschowie"/>
+	<tag k="office" v="government"/>
+	<tag k="phone" v="+48 65 511 45 15"/>
+	<tag k="website" v="https://wschowa.info/nadzor-wodny-we-wschowie-slawie/"/>
+	<tag k="addr:postcode" v="67-400"/>
+	<tag k="email" v="nw-wschowa@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328844505" lat="54.1555476" lon="19.400318" version="1" timestamp="2024-11-10T15:41:46Z" action="modify" changeset="158972655" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Elblągu"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="82-300"/>
+	<tag k="phone" v="+48 55 232 57 25"/>
+	<tag k="email" v="zz-elblag@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328844508" lat="54.0704323" lon="18.7778275" version="1" timestamp="2024-11-10T15:41:46Z" action="modify" changeset="158972655" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Tczewie"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="83-110"/>
+	<tag k="phone" v="+48 58 531 36 47"/>
+	<tag k="email" v="zz-tczew@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="6677413937" lat="54.392383" lon="18.6449055" version="1" timestamp="2019-08-02T18:26:06Z" action="modify" changeset="72952598" uid="2757838" user="kukułka">
+	<tag k="addr:city" v="Gdańsk"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="addr:postcode" v="80-531"/>
+	<tag k="addr:street" v="Sucha"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Nadzór Wodny w Gdańsku"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-15:00"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="phone" v="+48 58 559 92 28"/>
+	<tag k="email" v="nw-gdansk@wody.gov.pl"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12324666847" lat="49.6271057" lon="20.7050176" version="1" timestamp="2024-11-08T22:57:46Z" action="modify" changeset="158914591" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Nowym Sączu"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="33-300"/>
+	<tag k="phone" v="+48 18 441 37 89"/>
+	<tag k="email" v="zz-nowysacz@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12324666845" lat="50.679026" lon="21.7508333" version="1" timestamp="2024-11-08T22:57:46Z" action="modify" changeset="158914591" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Sandomierzu"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="27-600"/>
+	<tag k="phone" v="+48 12 628 42 42"/>
+	<tag k="email" v="zz-sandomierz@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12324666849" lat="49.6842338" lon="19.1865888" version="1" timestamp="2024-11-08T22:57:46Z" action="modify" changeset="158914591" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Żywcu"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="34-300"/>
+	<tag k="phone" v="+48 12 628 41 32"/>
+	<tag k="email" v="zz-zywiec@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="54362940" version="9" timestamp="2024-11-07T22:51:23Z" action="modify" changeset="158874759" uid="12914377" user="Patryk2710">
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="addr:postcode" v="20-610"/>
+	<tag k="addr:street" v="Leszka Czarnego"/>
+	<tag k="building" v="office"/>
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Lublinie"/>
+	<tag k="office" v="government"/>
+	<tag k="source" v="MPZP"/>
+	<tag k="source:addr" v="EMUiA (emuia.geoportal.gov.pl)"/>
+	<tag k="phone" v="+48 81 531 03 00"/>
+	<tag k="email" v="lublin@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Lublinie"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="4659340125"/>
+	<nd ref="4659340126"/>
+	<nd ref="6211817085"/>
+	<nd ref="4659340124"/>
+	<nd ref="4659340122"/>
+	<nd ref="4659340121"/>
+	<nd ref="4659340123"/>
+	<nd ref="6211815869"/>
+	<nd ref="6211817099"/>
+	<nd ref="4659340125"/>
+</way>
+<node id="4659340121" lat="51.2402309" lon="22.5327351" version="1" timestamp="2017-02-03T11:35:31Z"  changeset="45775757" uid="2300915" user="fkdoo">
+
+</node>
+<node id="4659340122" lat="51.24023" lon="22.5325566" version="1" timestamp="2017-02-03T11:35:31Z"  changeset="45775757" uid="2300915" user="fkdoo">
+
+</node>
+<node id="4659340123" lat="51.2403427" lon="22.5327333" version="1" timestamp="2017-02-03T11:35:31Z"  changeset="45775757" uid="2300915" user="fkdoo">
+
+</node>
+<node id="4659340124" lat="51.2403418" lon="22.5325551" version="1" timestamp="2017-02-03T11:35:31Z"  changeset="45775757" uid="2300915" user="fkdoo">
+
+</node>
+<node id="4659340125" lat="51.2406698" lon="22.5325736" version="2" timestamp="2019-01-15T23:07:42Z"  changeset="66347152" uid="175746" user="RafalR">
+
+</node>
+<node id="4659340126" lat="51.2406701" lon="22.5325326" version="2" timestamp="2019-01-15T23:07:42Z"  changeset="66347152" uid="175746" user="RafalR">
+
+</node>
+<node id="6211815869" lat="51.2403429" lon="22.5327525" version="1" timestamp="2019-01-15T23:07:13Z"  changeset="66347152" uid="175746" user="RafalR">
+
+</node>
+<node id="6211817085" lat="51.2403417" lon="22.5325369" version="1" timestamp="2019-01-15T23:07:10Z"  changeset="66347152" uid="175746" user="RafalR">
+
+</node>
+<node id="6211817099" lat="51.2406704" lon="22.5327476" version="1" timestamp="2019-01-15T23:07:11Z"  changeset="66347152" uid="175746" user="RafalR">
+
+</node>
+<node id="12321488175" lat="52.396771" lon="22.2681974" version="1" timestamp="2024-11-07T22:51:23Z" action="modify" changeset="158874759" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Sokołowie Podlaskim"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
+	<tag k="addr:postcode" v="08-300"/>
+	<tag k="phone" v="+48 25 781 28 58"/>
+	<tag k="email" v="zz-sokolowpodlaski@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12321488177" lat="50.7051147" lon="23.2754966" version="1" timestamp="2024-11-07T22:51:23Z" action="modify" changeset="158874759" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Zamościu"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
+	<tag k="addr:postcode" v="22-400"/>
+	<tag k="phone" v="+48 84 677 59 70"/>
+	<tag k="email" v="zz-zamosc@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12321528745" lat="52.4090156" lon="16.9361216" version="1" timestamp="2024-11-07T22:40:32Z" action="modify" changeset="158874498" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="61-760"/>
+	<tag k="phone" v="+48 61 850 84 00"/>
+	<tag k="email" v="zz-poznan@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12321528750" lat="51.5939554" lon="18.7353142" version="1" timestamp="2024-11-07T22:40:32Z" action="modify" changeset="158874498" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Sieradzu"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="98-200"/>
+	<tag k="phone" v="+48 43 655 41 00"/>
+	<tag k="email" v="zz-sieradz@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12321528737" lat="51.7733015" lon="18.1003438" version="1" timestamp="2024-11-07T22:40:32Z" action="modify" changeset="158874498" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Kaliszu"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="62-800"/>
+	<tag k="phone" v="+48 62 600 60 00"/>
+	<tag k="email" v="zz-kalisz@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12324555335" lat="50.5913125" lon="22.0439515" version="1" timestamp="2024-11-08T21:30:16Z" action="modify" changeset="158912347" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Stalowej Woli"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="37-464"/>
+	<tag k="phone" v="+48 15 842 89 82"/>
+	<tag k="email" v="zz-stalowawola@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12321365579" lat="53.4073054" lon="14.5072197" version="1" timestamp="2024-11-07T20:49:54Z" action="modify" changeset="158871582" uid="12914377" user="Patryk2710">
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
+	<tag k="addr:postcode" v="71-011"/>
+	<tag k="phone" v="+48 91 440 51 00"/>
+	<tag k="email" v="zz-szczecin@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="779669687" version="6" timestamp="2023-02-24T12:02:43Z" action="modify" changeset="132964466" uid="3214275" user="pio2_122">
+	<tag k="email" v="nw-szczecin@wody.gov.pl"/>
+	<tag k="government" v="water"/>
+	<tag k="landuse" v="commercial"/>
+	<tag k="name" v="Nadzór Wodny w Szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="phone" v="+48 91 460 84 94"/>
+	<tag k="website" v="https://szczecin.wody.gov.pl/"/>
+	<tag k="addr:postcode" v="70-746"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="7251614026"/>
+	<nd ref="10690553227"/>
+	<nd ref="10690553228"/>
+	<nd ref="10690553225"/>
+	<nd ref="10690553224"/>
+	<nd ref="10690553223"/>
+	<nd ref="10690553222"/>
+	<nd ref="10690553221"/>
+	<nd ref="10690553220"/>
+	<nd ref="10690553219"/>
+	<nd ref="10690553218"/>
+	<nd ref="10690553217"/>
+	<nd ref="10690553216"/>
+	<nd ref="10690553226"/>
+	<nd ref="7251614026"/>
+</way>
+<node id="7251614026" lat="53.3685751" lon="14.5935119" version="2" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553216" lat="53.3690087" lon="14.592567" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553217" lat="53.3689812" lon="14.5926356" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553218" lat="53.3691572" lon="14.5928332" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553219" lat="53.3694835" lon="14.5931994" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553220" lat="53.3696136" lon="14.5933467" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553221" lat="53.3696314" lon="14.5936497" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553222" lat="53.3696297" lon="14.5937144" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553223" lat="53.3696646" lon="14.5938097" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553224" lat="53.3697378" lon="14.5938359" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553225" lat="53.3698925" lon="14.5939204" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553226" lat="53.3689655" lon="14.5925153" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553227" lat="53.3695843" lon="14.5947637" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="10690553228" lat="53.3699143" lon="14.5939768" version="1" timestamp="2023-02-24T12:02:43Z"  changeset="132964466" uid="3214275" user="pio2_122">
+
+</node>
+<node id="8761442352" lat="52.2973298" lon="20.9883539" version="1" timestamp="2021-05-24T13:57:07Z" action="modify" changeset="105231788" uid="6668641" user="syntex">
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:housenumber" v="13B"/>
+	<tag k="addr:postcode" v="03-194"/>
+	<tag k="addr:street" v="Zarzecze"/>
+	<tag k="alt_name" v="RZGW Warszawa"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="phone" v="+48 22 587 02 11"/>
+	<tag k="email" v="warszawa@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Warszawie"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328887172" lat="52.8795396" lon="20.6030335" version="1" timestamp="2024-11-10T16:19:04Z" action="modify" changeset="158974210" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Ciechanowie"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="06-400"/>
+	<tag k="phone" v="+48 23 674 24 50"/>
+	<tag k="email" v="zz-ciechanow@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328887170" lat="52.4869266" lon="20.9264698" version="1" timestamp="2024-11-10T16:19:04Z" action="modify" changeset="158974210" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Dębem"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="05-140"/>
+	<tag k="phone" v="+48 22 782 30 00"/>
+	<tag k="email" v="zz-debe@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328887175" lat="51.4081485" lon="19.6898813" version="1" timestamp="2024-11-10T16:19:04Z" action="modify" changeset="158974210" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni w Piotrkowie Trybunalskim"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
+	<tag k="addr:postcode" v="97-300"/>
+	<tag k="phone" v="+48 50 997 57 77"/>
+	<tag k="email" v="zz-piotrkowtrybunalski@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="6373040738" lat="52.2941655" lon="21.0036074" version="3" timestamp="2023-05-03T13:04:15Z" action="modify" changeset="135660059" uid="67255" user="Rogoyski">
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="03-219"/>
+	<tag k="addr:street" v="Elektronowa"/>
+	<tag k="check_date" v="2023-05-03"/>
+	<tag k="contact:email" v="zz-warszawa@wody.gov.pl"/>
+	<tag k="contact:phone" v="+48 22 112 38 53"/>
+	<tag k="contact:website" v="http://www.wody.gov.pl/"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Warszawie"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="phone" v="+48 22 112 38 53"/>
+	<tag k="email" v="zz-warszawa@wody.gov.pl"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12328887164" lat="52.6566477" lon="19.0600033" version="1" timestamp="2024-11-10T16:19:04Z" action="modify" changeset="158974210" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Zarząd Zlewni we Włocławku"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="87-800"/>
+	<tag k="phone" v="+48 54 230 20 34"/>
+	<tag k="email" v="zz-wloclawek@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="1154520050" version="2" timestamp="2023-03-15T15:04:33Z" action="modify" changeset="133714056" uid="5060085" user="Piotr Strębski">
+	<tag k="email" v="nw-gorakalwaria@wody.gov.pl"/>
+	<tag k="government" v="water"/>
+	<tag k="landuse" v="commercial"/>
+	<tag k="name" v="Nadzór Wodny w Górze Kalwarii"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="phone" v="+48 22 727 35 14"/>
+	<tag k="addr:postcode" v="05-530"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="10737171355"/>
+	<nd ref="10737291577"/>
+	<nd ref="10737171356"/>
+	<nd ref="10737171357"/>
+	<nd ref="10737171358"/>
+	<nd ref="10737171355"/>
+</way>
+<node id="10737171355" lat="51.9939271" lon="21.2103178" version="1" timestamp="2023-03-15T14:11:49Z"  changeset="133711988" uid="14165189" user="pomocnysztab">
+
+</node>
+<node id="10737171356" lat="51.993799" lon="21.210498" version="1" timestamp="2023-03-15T14:11:49Z"  changeset="133711988" uid="14165189" user="pomocnysztab">
+
+</node>
+<node id="10737171357" lat="51.9942693" lon="21.2118863" version="1" timestamp="2023-03-15T14:11:49Z"  changeset="133711988" uid="14165189" user="pomocnysztab">
+
+</node>
+<node id="10737171358" lat="51.9945706" lon="21.2114121" version="1" timestamp="2023-03-15T14:11:49Z"  changeset="133711988" uid="14165189" user="pomocnysztab">
+
+</node>
+<node id="10737291577" lat="51.9938759" lon="21.2103908" version="1" timestamp="2023-03-15T15:04:33Z"  changeset="133714056" uid="5060085" user="Piotr Strębski">
+
+</node>
+<way id="254298837" version="5" timestamp="2024-11-10T15:01:20Z" action="modify" changeset="158970983" uid="12914377" user="Patryk2710">
+	<tag k="addr:city" v="Giżycko"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="addr:postcode" v="11-500"/>
+	<tag k="addr:street" v="Wodna"/>
+	<tag k="building" v="yes"/>
+	<tag k="building:levels" v="3"/>
+	<tag k="name" v="Zarząd Zlewni w Giżycku"/>
+	<tag k="office" v="government"/>
+	<tag k="phone" v="+48 87 428 39 92"/>
+	<tag k="email" v="zz-gizycko@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="2600858560"/>
+	<nd ref="2600858570"/>
+	<nd ref="2600858568"/>
+	<nd ref="2600858556"/>
+	<nd ref="2600858560"/>
+</way>
+<node id="2600858556" lat="54.0346097" lon="21.7642416" version="2" timestamp="2014-01-29T17:00:28Z"  changeset="20268752" uid="536107" user="RoboD">
+
+</node>
+<node id="2600858560" lat="54.0346363" lon="21.7640711" version="2" timestamp="2014-01-29T17:00:28Z"  changeset="20268752" uid="536107" user="RoboD">
+
+</node>
+<node id="2600858568" lat="54.0348368" lon="21.7643443" version="2" timestamp="2014-01-29T17:00:28Z"  changeset="20268752" uid="536107" user="RoboD">
+
+</node>
+<node id="2600858570" lat="54.0348634" lon="21.7641739" version="2" timestamp="2014-01-29T17:00:28Z"  changeset="20268752" uid="536107" user="RoboD">
+
+</node>
+<node id="7129367988" lat="53.1303865" lon="16.7583545" version="1" timestamp="2020-01-13T21:14:29Z" action="modify" changeset="79533493" uid="9519352" user="Ravko29">
+	<tag k="addr:city" v="Piła"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="addr:postcode" v="64-920"/>
+	<tag k="addr:street" v="Motylewska"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Pile"/>
+	<tag k="name:pl" v="PGW WP Zarząd Zlewni w Pile"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="phone" v="+48 67 212 32 44"/>
+	<tag k="email" v="zz-pila@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="194256167" version="13" timestamp="2023-05-24T15:09:53Z" action="modify" changeset="136505252" uid="17366680" user="Yankowsky">
+	<tag k="addr:city" v="Lwówek Śląski"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="addr:postcode" v="59-600"/>
+	<tag k="addr:street" v="Jakuba Jaśkiewicza"/>
+	<tag k="building" v="government"/>
+	<tag k="building:colour" v="yellowgreen"/>
+	<tag k="building:levels" v="2"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Lwówku Śląskim"/>
+	<tag k="name:full" v="Państwowe Gospodarstwo Wodne Wody Polskie - RZGW Wrocław Zarząd Zlewni w Lwówku Śląskim"/>
+	<tag k="office" v="government"/>
+	<tag k="roof:colour" v="red"/>
+	<tag k="roof:levels" v="1"/>
+	<tag k="roof:shape" v="mansard"/>
+	<tag k="source:geometry" v="geoportal.gov.pl:ortofoto"/>
+	<tag k="phone" v="+48 75 782 46 02"/>
+	<tag k="email" v="zz-lwowekslaski@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="6003214978"/>
+	<nd ref="2047762427"/>
+	<nd ref="2047762419"/>
+	<nd ref="2047762425"/>
+	<nd ref="2047762414"/>
+	<nd ref="2047762417"/>
+	<nd ref="2047762407"/>
+	<nd ref="3128175496"/>
+	<nd ref="2047762401"/>
+	<nd ref="3128175493"/>
+	<nd ref="2047762393"/>
+	<nd ref="3128175488"/>
+	<nd ref="2047762383"/>
+	<nd ref="3128175489"/>
+	<nd ref="2047762389"/>
+	<nd ref="3128175486"/>
+	<nd ref="3128175487"/>
+	<nd ref="2047762378"/>
+	<nd ref="2047762385"/>
+	<nd ref="3128175490"/>
+	<nd ref="3128175491"/>
+	<nd ref="2047762387"/>
+	<nd ref="2047762391"/>
+	<nd ref="3128175492"/>
+	<nd ref="2047762395"/>
+	<nd ref="3128175494"/>
+	<nd ref="2047762399"/>
+	<nd ref="3128175495"/>
+	<nd ref="2047762405"/>
+	<nd ref="2047762412"/>
+	<nd ref="2047762413"/>
+	<nd ref="6003214978"/>
+</way>
+<node id="2047762378" lat="51.1056652" lon="15.5940569" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762383" lat="51.1057048" lon="15.594152" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762385" lat="51.1057104" lon="15.5940063" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762387" lat="51.1057092" lon="15.5939469" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762389" lat="51.1056842" lon="15.5941354" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762391" lat="51.1057152" lon="15.5939356" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762393" lat="51.105713" lon="15.5942472" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762395" lat="51.1057354" lon="15.5939237" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762399" lat="51.1057552" lon="15.5939279" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762401" lat="51.1057391" lon="15.5942269" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762405" lat="51.1057649" lon="15.5939469" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762407" lat="51.1057959" lon="15.5941938" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762412" lat="51.1058097" lon="15.5938999" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762413" lat="51.1058186" lon="15.5939177" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762414" lat="51.1058441" lon="15.5941096" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762417" lat="51.1058534" lon="15.5941292" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762419" lat="51.1058574" lon="15.5940055" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762425" lat="51.105886" lon="15.5940641" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="2047762427" lat="51.1058826" lon="15.5939768" version="3" timestamp="2014-10-13T17:51:18Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175486" lat="51.1056693" lon="15.5941039" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175487" lat="51.1056756" lon="15.5940819" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175488" lat="51.1056835" lon="15.5941776" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175489" lat="51.105698" lon="15.594136" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175490" lat="51.1057055" lon="15.5939849" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175491" lat="51.105707" lon="15.5939641" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175492" lat="51.1057231" lon="15.593929" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175493" lat="51.1057354" lon="15.594221" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175494" lat="51.1057458" lon="15.5939243" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175495" lat="51.1057608" lon="15.593938" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="3128175496" lat="51.1057847" lon="15.5941681" version="1" timestamp="2014-10-13T17:51:13Z"  changeset="26054612" uid="328526" user="zVID">
+
+</node>
+<node id="6003214978" lat="51.1058451" lon="15.5938919" version="1" timestamp="2018-10-21T17:25:01Z"  changeset="63733310" uid="8977320" user="Rakowice_Wielkie">
+
+</node>
+<node id="5594643921" lat="54.3488457" lon="18.6406519" version="2" timestamp="2018-05-14T16:05:38Z" action="modify" changeset="58957541" uid="2757838" user="kukułka">
+	<tag k="addr:city" v="Gdańsk"/>
+	<tag k="addr:housenumber" v="9/19"/>
+	<tag k="addr:postcode" v="80-804"/>
+	<tag k="addr:street" v="Księdza Franciszka Rogaczewskiego"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Gdańsku"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-15:00"/>
+	<tag k="website" v="https://www.rzgw.gda.pl/"/>
+	<tag k="phone" v="+48 58 326 18 88"/>
+	<tag k="email" v="gdansk@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Gdańsku"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="5605459086" lat="53.6861825" lon="17.5713989" version="3" timestamp="2018-05-08T22:58:15Z" action="modify" changeset="58803007" uid="4732840" user="Jerry_W2k">
+	<tag k="addr:city" v="Chojnice"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="addr:postcode" v="89-600"/>
+	<tag k="addr:street" v="Łużycka"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Chojnicach"/>
+	<tag k="office" v="government"/>
+	<tag k="phone" v="+48 52 397 52 02"/>
+	<tag k="email" v="zz-chojnice@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="10002944994" lat="54.3852241" lon="18.593439" version="3" timestamp="2024-11-10T15:41:46Z" action="modify" changeset="158972655" uid="12914377" user="Patryk2710">
+	<tag k="description" v="Państwowe Gospodarstwo Wodne. Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Gdańsku"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="addr:postcode" v="80-266"/>
+	<tag k="phone" v="+48 58 559 92 16"/>
+	<tag k="email" v="zz-gdansk@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="5605494299" lat="53.4009596" lon="18.4058739" version="3" timestamp="2022-01-27T12:35:04Z" action="modify" changeset="116664882" uid="10284193" user="szydzio-imports">
+	<tag k="addr:city" v="Świecie"/>
+	<tag k="addr:city:simc" v="0929664"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="86-105"/>
+	<tag k="addr:street" v="Fabryczna"/>
+	<tag k="description" v="Nadzór Wodny Świecie RZGW Gdańsk PGW Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Nadzór Wodny w Świeciu"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-15:00"/>
+	<tag k="phone" v="+48 57 234 26 45"/>
+	<tag k="email" v="nw-swiecie@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="143916313" version="8" timestamp="2023-07-06T18:41:23Z" action="modify" changeset="138198625" uid="11239973" user="uprkos">
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:country" v="PL"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="addr:postcode" v="31-109"/>
+	<tag k="addr:street" v="Marszałka Józefa Piłsudskiego"/>
+	<tag k="building" v="yes"/>
+	<tag k="building:levels" v="4"/>
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Krakowie"/>
+	<tag k="office" v="government"/>
+	<tag k="official_name" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="old_alt_name" v="RZGW Kraków"/>
+	<tag k="old_name" v="Regionalny Zarząd Gospodarki Wodnej w Krakowie"/>
+	<tag k="opening_hours" v="Mo-Fr 07:30-15:30"/>
+	<tag k="source" v="bing"/>
+	<tag k="phone" v="+48 12 628 41 06"/>
+	<tag k="email" v="krakow@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Krakowie"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="4146767956"/>
+	<nd ref="4146767928"/>
+	<nd ref="4146767776"/>
+	<nd ref="4146767762"/>
+	<nd ref="4146767753"/>
+	<nd ref="4146767754"/>
+	<nd ref="4146767755"/>
+	<nd ref="4146767927"/>
+	<nd ref="4146767937"/>
+	<nd ref="4146767963"/>
+	<nd ref="4146768133"/>
+	<nd ref="4146767956"/>
+</way>
+<node id="4146767753" lat="50.0596711" lon="19.9284887" version="1" timestamp="2016-04-25T13:01:10Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767754" lat="50.0596716" lon="19.9284926" version="1" timestamp="2016-04-25T13:01:10Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767755" lat="50.0596725" lon="19.9284923" version="1" timestamp="2016-04-25T13:01:10Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767762" lat="50.059678" lon="19.9284861" version="1" timestamp="2016-04-25T13:01:10Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767776" lat="50.0596881" lon="19.9283495" version="1" timestamp="2016-04-25T13:01:10Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767927" lat="50.0597498" lon="19.9290236" version="1" timestamp="2016-04-25T13:01:11Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767928" lat="50.059753" lon="19.9282867" version="1" timestamp="2016-04-25T13:01:11Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767937" lat="50.0597646" lon="19.9291345" version="1" timestamp="2016-04-25T13:01:11Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767956" lat="50.0597823" lon="19.9282782" version="1" timestamp="2016-04-25T13:01:11Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146767963" lat="50.0597885" lon="19.9293033" version="1" timestamp="2016-04-25T13:01:11Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<node id="4146768133" lat="50.0599226" lon="19.9292592" version="1" timestamp="2016-04-25T13:01:12Z"  changeset="38856291" uid="231392" user="slodki">
+
+</node>
+<way id="352106484" version="2" timestamp="2020-01-16T14:26:12Z" action="modify" changeset="79654681" uid="9958347" user="John_Pavulon">
+	<tag k="building" v="yes"/>
+	<tag k="name" v="Nadzór Wodny w Jędrzejowie"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="28-300"/>
+	<tag k="phone" v="+48 53 203 31 40"/>
+	<tag k="email" v="nwjedrzejow@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="3578704570"/>
+	<nd ref="3578704572"/>
+	<nd ref="3578704330"/>
+	<nd ref="3578704327"/>
+	<nd ref="3578704303"/>
+	<nd ref="3578704142"/>
+	<nd ref="3578704146"/>
+	<nd ref="3578704151"/>
+	<nd ref="3578704216"/>
+	<nd ref="3578704210"/>
+	<nd ref="3578704514"/>
+	<nd ref="3578704524"/>
+	<nd ref="3578704555"/>
+	<nd ref="3578704552"/>
+	<nd ref="3578704557"/>
+	<nd ref="3578704584"/>
+	<nd ref="3578704570"/>
+</way>
+<node id="3578704142" lat="50.6396243" lon="20.2971349" version="1" timestamp="2015-06-07T16:01:23Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704146" lat="50.6396318" lon="20.297142" version="1" timestamp="2015-06-07T16:01:25Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704151" lat="50.6396359" lon="20.2971316" version="1" timestamp="2015-06-07T16:01:27Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704210" lat="50.6396541" lon="20.2971703" version="1" timestamp="2015-06-07T16:01:30Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704216" lat="50.63966" lon="20.2971554" version="1" timestamp="2015-06-07T16:01:33Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704303" lat="50.6396657" lon="20.2970273" version="1" timestamp="2015-06-07T16:01:34Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704327" lat="50.6396977" lon="20.2970577" version="1" timestamp="2015-06-07T16:01:44Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704330" lat="50.6397025" lon="20.2970454" version="1" timestamp="2015-06-07T16:01:45Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704514" lat="50.6397285" lon="20.2972361" version="1" timestamp="2015-06-07T16:01:53Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704524" lat="50.6397341" lon="20.2972203" version="1" timestamp="2015-06-07T16:01:54Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704552" lat="50.6397549" lon="20.2972561" version="1" timestamp="2015-06-07T16:01:59Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704555" lat="50.6397599" lon="20.2972431" version="1" timestamp="2015-06-07T16:02:00Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704557" lat="50.6397616" lon="20.2972623" version="1" timestamp="2015-06-07T16:02:00Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704570" lat="50.6397704" lon="20.2971185" version="1" timestamp="2015-06-07T16:02:03Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704572" lat="50.6397737" lon="20.2971088" version="1" timestamp="2015-06-07T16:02:04Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="3578704584" lat="50.6398049" lon="20.2971489" version="1" timestamp="2015-06-07T16:02:12Z"  changeset="31792960" uid="693154" user="Władysław Komorek">
+
+</node>
+<node id="6780949820" lat="49.8835729" lon="19.2221863" version="1" timestamp="2019-09-08T15:16:38Z" action="modify" changeset="74229183" uid="1745828" user="VA00">
+	<tag k="government" v="water"/>
+	<tag k="name" v="Nadzór Wodny w Kętach"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="addr:postcode" v="32-650"/>
+	<tag k="phone" v="+48 60 918 93 23"/>
+	<tag k="email" v="nwkety@wody.gov.pl"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="11849760118" lat="50.2691724" lon="19.0212264" version="1" timestamp="2024-04-26T08:46:29Z" action="modify" changeset="150527273" uid="7965463" user="Bezi_">
+	<tag k="addr:housenumber" v="8-10"/>
+	<tag k="addr:street" v="Plac Grunwaldzki"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Katowicach"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="40-127"/>
+	<tag k="phone" v="+48 32 250 41 27"/>
+	<tag k="email" v="zz-katowice@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="207020181" version="4" timestamp="2024-02-11T20:44:08Z" action="modify" changeset="147343300" uid="2319082" user="jacek_zwik">
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="addr:postcode" v="45-089"/>
+	<tag k="addr:street" v="Odrowążów"/>
+	<tag k="building" v="commercial"/>
+	<tag k="building:levels" v="3"/>
+	<tag k="contact:email" v="zz-opole@wody.gov.pl"/>
+	<tag k="contact:phone" v="+48 (77) 407 47 05"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Opolu"/>
+	<tag k="office" v="government"/>
+	<tag k="source" v="UM Opole"/>
+	<tag k="phone" v="+48 77 407 47 05"/>
+	<tag k="email" v="zz-opole@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="2171352425"/>
+	<nd ref="2171352666"/>
+	<nd ref="2171352879"/>
+	<nd ref="2171352947"/>
+	<nd ref="2171353005"/>
+	<nd ref="2171352603"/>
+	<nd ref="2171352599"/>
+	<nd ref="2171351139"/>
+	<nd ref="2171350933"/>
+	<nd ref="2171350806"/>
+	<nd ref="2171350649"/>
+	<nd ref="2171350597"/>
+	<nd ref="2171350604"/>
+	<nd ref="2171350677"/>
+	<nd ref="2171350775"/>
+	<nd ref="2171350709"/>
+	<nd ref="2171351740"/>
+	<nd ref="2171351642"/>
+	<nd ref="2171352418"/>
+	<nd ref="2171352435"/>
+	<nd ref="2171352393"/>
+	<nd ref="2171352425"/>
+</way>
+<node id="2171350597" lat="50.6627978" lon="17.916275" version="1" timestamp="2013-02-24T13:58:20Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171350604" lat="50.6627991" lon="17.9162665" version="1" timestamp="2013-02-24T13:58:20Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171350649" lat="50.6628065" lon="17.91628" version="1" timestamp="2013-02-24T13:58:21Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171350677" lat="50.6628076" lon="17.9162731" version="1" timestamp="2013-02-24T13:58:22Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171350709" lat="50.6628114" lon="17.9162236" version="1" timestamp="2013-02-24T13:58:22Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171350775" lat="50.6628228" lon="17.9162594" version="1" timestamp="2013-02-24T13:58:24Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171350806" lat="50.6628275" lon="17.9163488" version="1" timestamp="2013-02-24T13:58:24Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171350933" lat="50.6628466" lon="17.9163349" version="1" timestamp="2013-02-24T13:58:26Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171351139" lat="50.6628669" lon="17.9164017" version="1" timestamp="2013-02-24T13:58:28Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171351642" lat="50.6629096" lon="17.9161139" version="1" timestamp="2013-02-24T13:58:33Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171351740" lat="50.6629185" lon="17.916143" version="1" timestamp="2013-02-24T13:58:34Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352393" lat="50.6629684" lon="17.9160812" version="1" timestamp="2013-02-24T13:58:43Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352418" lat="50.6629729" lon="17.9160661" version="1" timestamp="2013-02-24T13:58:43Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352425" lat="50.6629733" lon="17.9160974" version="1" timestamp="2013-02-24T13:58:43Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352435" lat="50.6629758" lon="17.9160757" version="1" timestamp="2013-02-24T13:58:43Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352599" lat="50.663004" lon="17.9162986" version="1" timestamp="2013-02-24T13:58:46Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352603" lat="50.6630051" lon="17.9163024" version="1" timestamp="2013-02-24T13:58:46Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352666" lat="50.6630163" lon="17.9160651" version="1" timestamp="2013-02-24T13:58:47Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352879" lat="50.6630583" lon="17.916203" version="1" timestamp="2013-02-24T13:58:52Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171352947" lat="50.6630737" lon="17.9161913" version="1" timestamp="2013-02-24T13:58:53Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="2171353005" lat="50.6630881" lon="17.9162378" version="1" timestamp="2013-02-24T13:58:54Z"  changeset="15148374" uid="1228094" user="Yarl (import)">
+
+</node>
+<node id="11708596472" lat="52.0400171" lon="23.1078114" version="1" timestamp="2024-03-09T14:51:23Z" action="modify" changeset="148426328" uid="14118843" user="MaciekMma">
+	<tag k="addr:city" v="Biała Podlaska"/>
+	<tag k="addr:city:simc" v="0922018"/>
+	<tag k="addr:housenumber" v="71"/>
+	<tag k="addr:postcode" v="21-500"/>
+	<tag k="addr:street" v="Sitnicka"/>
+	<tag k="addr:street:sym_ul" v="19941"/>
+	<tag k="email" v="zz-bialapodlaska@wody.gov.pl"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Białej Podlaskiej"/>
+	<tag k="office" v="government"/>
+	<tag k="official_name" v="Państwowe Gospodarstwo Wodne Wody Polskie Nadzór Wodny w Białej Podlaskiej"/>
+	<tag k="phone" v="+48 83 342 70 50"/>
+	<tag k="source:addr" v="mbialapodlaska.e-mapa.net"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12321528734" lat="52.4155564" lon="16.9609979" version="1" timestamp="2024-11-07T22:40:32Z" action="modify" changeset="158874498" uid="12914377" user="Patryk2710">
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Poznaniu"/>
+	<tag k="office" v="government"/>
+	<tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
+	<tag k="website" v="https://poznan.wody.gov.pl/"/>
+	<tag k="addr:postcode" v="61-003"/>
+	<tag k="phone" v="+48 61 856 77 00"/>
+	<tag k="email" v="poznan@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Poznaniu"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="7996995889" lat="52.7479844" lon="15.2561792" version="1" timestamp="2020-10-11T11:58:05Z" action="modify" changeset="92299537" uid="2298842" user="train_01">
+	<tag k="name" v="Zarząd Zlewni w Gorzowie Wielkopolskim"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="66-400"/>
+	<tag k="phone" v="+48 95 725 61 53"/>
+	<tag k="email" v="zz-gorzowwielkopolski@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="353773798" version="5" timestamp="2022-11-13T20:42:24Z" action="modify" changeset="128862277" uid="16345719" user="blxght">
+	<tag k="addr:city" v="Koło"/>
+	<tag k="addr:city:simc" v="0949052"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="addr:postcode" v="62-600"/>
+	<tag k="addr:street" v="Bolesława Prusa"/>
+	<tag k="addr:street:sym_ul" v="17577"/>
+	<tag k="building" v="office"/>
+	<tag k="building:levels" v="2"/>
+	<tag k="government" v="water"/>
+	<tag k="name" v="Zarząd Zlewni w Kole"/>
+	<tag k="office" v="government"/>
+	<tag k="source" v="www.geoportal.gov.pl"/>
+	<tag k="source:addr" v="mkolo.e-mapa.net"/>
+	<tag k="phone" v="+48 63 288 01 70"/>
+	<tag k="email" v="zz-kolo@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="3595857585"/>
+	<nd ref="3595857586"/>
+	<nd ref="9991712013"/>
+	<nd ref="9991712012"/>
+	<nd ref="9991712011"/>
+	<nd ref="9991712010"/>
+	<nd ref="3595857587"/>
+	<nd ref="3595857588"/>
+	<nd ref="3595857585"/>
+</way>
+<node id="3595857585" lat="52.201105" lon="18.6385482" version="3" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="3595857586" lat="52.2011439" lon="18.6387174" version="3" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="3595857587" lat="52.2007926" lon="18.6389315" version="3" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="3595857588" lat="52.2007536" lon="18.6387623" version="3" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="9991712010" lat="52.2008834" lon="18.6388761" version="1" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="9991712011" lat="52.2008867" lon="18.6388904" version="1" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="9991712012" lat="52.2009659" lon="18.6388422" version="1" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="9991712013" lat="52.2009625" lon="18.6388279" version="1" timestamp="2022-08-31T22:56:04Z"  changeset="125631593" uid="16345719" user="blxght">
+
+</node>
+<node id="12362364423" lat="52.3193854" lon="16.1491333" version="1" timestamp="2024-11-21T18:06:01Z" action="modify" changeset="159427964" uid="17295082" user="Aim311_">
+	<tag k="name" v="Nadzór Wodny w Nowym Tomyślu"/>
+	<tag k="note" v="Tabliczka umieszczona na budynku"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="64-300"/>
+	<tag k="phone" v="+48 60 088 51 55"/>
+	<tag k="email" v="nw-nowytomysl@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="12277018155" lat="52.6063906" lon="16.582694" version="1" timestamp="2024-10-21T17:45:26Z" action="modify" changeset="158181175" uid="17295082" user="Aim311_">
+	<tag k="name" v="Nadzór Wodny w Szamotułach"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="64-500"/>
+	<tag k="phone" v="+48 57 390 16 78"/>
+	<tag k="email" v="nw-szamotuly@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="10884259495" lat="49.6790356" lon="21.7761913" version="1" timestamp="2023-05-10T17:31:19Z" action="modify" changeset="135946014" uid="6203794" user="k2101">
+	<tag k="name" v="Zarząd Zlewni w Krośnie"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="38-400"/>
+	<tag k="phone" v="+48 60 917 06 88"/>
+	<tag k="email" v="zz-krosno@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<way id="238653512" version="9" timestamp="2021-10-16T17:58:57Z" action="modify" changeset="112588718" uid="7666585" user="bdzik">
+	<tag k="addr:city" v="Przemyśl"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="addr:postcode" v="37-700"/>
+	<tag k="addr:street" v="Wybrzeże Ojca Świętego Jana Pawła II"/>
+	<tag k="building" v="yes"/>
+	<tag k="building:levels" v="3"/>
+	<tag k="name" v="Zarząd Zlewni w Przemyślu"/>
+	<tag k="office" v="government"/>
+	<tag k="roof:levels" v="1"/>
+	<tag k="roof:shape" v="hipped"/>
+	<tag k="phone" v="+48 16 670 38 08"/>
+	<tag k="email" v="zz-przemysl@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+	<nd ref="2464562958"/>
+	<nd ref="2464562928"/>
+	<nd ref="9010837959"/>
+	<nd ref="9010837960"/>
+	<nd ref="2464562917"/>
+	<nd ref="2464562915"/>
+	<nd ref="9176823896"/>
+	<nd ref="2464562920"/>
+	<nd ref="2464562958"/>
+</way>
+<node id="2464562915" lat="49.7841113" lon="22.7636135" version="6" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="2464562917" lat="49.7840388" lon="22.7636916" version="6" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="2464562920" lat="49.7841358" lon="22.7635837" version="6" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="2464562928" lat="49.7839501" lon="22.763484" version="6" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="2464562958" lat="49.7840404" lon="22.7633816" version="6" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="9010837959" lat="49.7840262" lon="22.7636428" version="2" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="9010837960" lat="49.7840198" lon="22.7636501" version="2" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="9176823896" lat="49.7841103" lon="22.763611" version="1" timestamp="2021-10-16T17:58:57Z"  changeset="112588718" uid="7666585" user="bdzik">
+
+</node>
+<node id="11029870150" lat="53.5688731" lon="14.8277566" version="1" timestamp="2023-07-06T11:08:35Z" action="modify" changeset="138183486" uid="813385" user="grelus">
+	<tag k="government" v="water"/>
+	<tag k="name" v="Nadzór Wodny w Goleniowie"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="72-100"/>
+	<tag k="phone" v="+48 91 418 28 12"/>
+	<tag k="email" v="nw-goleniow@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="6251067283" lat="51.9598101" lon="20.1447797" version="1" timestamp="2019-02-01T07:25:53Z" action="modify" changeset="66824624" uid="3183432" user="Think of Home">
+	<tag k="government" v="water"/>
+	<tag k="name" v="Nadzór Wodny w Skierniewicach"/>
+	<tag k="office" v="government"/>
+	<tag k="addr:postcode" v="96-100"/>
+	<tag k="phone" v="+48 46 833 39 01"/>
+	<tag k="email" v="nw-skierniewice@wody.gov.pl"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node></osm>

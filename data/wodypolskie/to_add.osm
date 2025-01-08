@@ -1,0 +1,3186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-11-27T19:21:23.733284Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-668153426" lat="53.8325714" lon="22.3414351" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ełku"/>
+	<tag k="addr:postcode" v="19-300"/>
+	<tag k="phone" v="+48 87 610 03 07"/>
+	<tag k="email" v="nw-elk@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-457195900" lat="53.6487973" lon="22.455845" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Grajewie"/>
+	<tag k="addr:postcode" v="19-200"/>
+	<tag k="phone" v="+48 86 272 26 49"/>
+	<tag k="email" v="nw-grajewo@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-780478384" lat="54.0387372" lon="22.4965043" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Olecku"/>
+	<tag k="addr:postcode" v="19-400"/>
+	<tag k="phone" v="+48 87 523 30 11"/>
+	<tag k="email" v="nw-olecko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1073358841" lat="54.086069" lon="22.9351968" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Suwałkach"/>
+	<tag k="addr:postcode" v="16-400"/>
+	<tag k="phone" v="+48 87 566 32 21"/>
+	<tag k="email" v="nw-suwalki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-328730916" lat="53.1168692" lon="23.1163378" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Białymstoku"/>
+	<tag k="addr:postcode" v="15-399"/>
+	<tag k="phone" v="+48 85 748 12 05"/>
+	<tag k="email" v="nw-bialystok@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-395968723" lat="52.774682" lon="23.191203" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bielsku Podlaskim"/>
+	<tag k="addr:postcode" v="17-100"/>
+	<tag k="phone" v="+48 85 655 05 93"/>
+	<tag k="email" v="nw-bielskpodlaski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-659686482" lat="52.991749" lon="22.8806851" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łapach"/>
+	<tag k="addr:postcode" v="18-100"/>
+	<tag k="phone" v="+48 85 733 03 51"/>
+	<tag k="email" v="nw-lapy@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-65210615" lat="53.4028797" lon="22.8073969" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Mońkach"/>
+	<tag k="addr:postcode" v="19-100"/>
+	<tag k="phone" v="+48 85 733 03 52"/>
+	<tag k="email" v="nw-monki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-918217808" lat="53.4028409" lon="23.517094" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sokółce"/>
+	<tag k="addr:postcode" v="16-100"/>
+	<tag k="phone" v="+48 85 711 29 45"/>
+	<tag k="email" v="nw-sokolka@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-432412854" lat="54.0346672" lon="21.7642586" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Giżycku"/>
+	<tag k="addr:postcode" v="11-500"/>
+	<tag k="phone" v="+48 87 444 06 30"/>
+	<tag k="email" v="nw-gizycko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1059293034" lat="54.3094091" lon="22.3013872" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gołdapi"/>
+	<tag k="addr:postcode" v="19-500"/>
+	<tag k="phone" v="+48 87 615 10 46"/>
+	<tag k="email" v="nw-goldap@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-473296492" lat="53.409238" lon="21.9286514" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kolnie"/>
+	<tag k="addr:postcode" v="18-500"/>
+	<tag k="phone" v="+48 86 444 23 01"/>
+	<tag k="email" v="nw-kolno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-43365259" lat="53.8013588" lon="21.5666234" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Mikołajkach"/>
+	<tag k="addr:postcode" v="11-730"/>
+	<tag k="phone" v="+48 87 444 06 32"/>
+	<tag k="email" v="nw-mikolajki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-450720327" lat="53.6241275" lon="21.8138977" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Piszu"/>
+	<tag k="addr:postcode" v="12-200"/>
+	<tag k="phone" v="+48 87 423 31 92"/>
+	<tag k="email" v="nw-pisz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-48679464" lat="54.2118401" lon="21.7397036" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Węgorzewie"/>
+	<tag k="addr:postcode" v="11-600"/>
+	<tag k="phone" v="+48 87 444 06 31"/>
+	<tag k="email" v="nw-wegorzewo@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-278530141" lat="54.2508736" lon="20.8153653" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bartoszycach"/>
+	<tag k="addr:postcode" v="11-200"/>
+	<tag k="phone" v="+48 89 762 24 63"/>
+	<tag k="email" v="nw-bartoszyce@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-852556148" lat="54.0780068" lon="21.3729557" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kętrzynie"/>
+	<tag k="addr:postcode" v="11-400"/>
+	<tag k="phone" v="+48 89 650 05 30"/>
+	<tag k="email" v="nw-ketrzyn@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-984286208" lat="54.1255347" lon="20.588659" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lidzbarku Warmińskim"/>
+	<tag k="addr:postcode" v="11-100"/>
+	<tag k="phone" v="+48 89 650 05 31"/>
+	<tag k="email" v="nw-lidzbarkwarminski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-274993032" lat="53.8804593" lon="21.2977566" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Mrągowie"/>
+	<tag k="addr:postcode" v="11-700"/>
+	<tag k="phone" v="+48 89 741 36 12"/>
+	<tag k="email" v="nw-mragowo@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-754073500" lat="53.7818313" lon="20.481544" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Olsztynie"/>
+	<tag k="addr:postcode" v="10-526"/>
+	<tag k="phone" v="+48 89 521 71 15"/>
+	<tag k="email" v="nw-olsztyn@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-805648323" lat="53.1680051" lon="22.0542191" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łomży"/>
+	<tag k="addr:postcode" v="18-400"/>
+	<tag k="phone" v="+48 86 218 54 81"/>
+	<tag k="email" v="nw-lomza@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-333210159" lat="53.0825186" lon="21.5640936" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ostrołęce"/>
+	<tag k="addr:postcode" v="07-400"/>
+	<tag k="phone" v="+48 29 764 20 96"/>
+	<tag k="email" v="nw-ostroleka@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-993419237" lat="53.5542769" lon="20.9827298" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Szczytnie"/>
+	<tag k="addr:postcode" v="12-100"/>
+	<tag k="phone" v="+48 89 624 30 92"/>
+	<tag k="email" v="nw-szczytno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-615750213" lat="52.9870235" lon="22.2428448" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zambrowie"/>
+	<tag k="addr:postcode" v="18-300"/>
+	<tag k="phone" v="+48 86 444 23 00"/>
+	<tag k="email" v="nw-zambrow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-756545434" lat="53.1279188" lon="18.1276627" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bydgoszczy"/>
+	<tag k="addr:postcode" v="85-776"/>
+	<tag k="phone" v="+48 52 365 21 90"/>
+	<tag k="email" v="nw-gd-bydgoszcz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-766813331" lat="53.1272461" lon="17.9970451" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bydgoszczy"/>
+	<tag k="addr:postcode" v="85-066"/>
+	<tag k="phone" v="+48 60 677 41 25"/>
+	<tag k="email" v="nw-bydgoszcz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-613231394" lat="53.0280135" lon="16.8830236" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Chodzieży"/>
+	<tag k="addr:postcode" v="64-800"/>
+	<tag k="phone" v="+48 67 348 66 60"/>
+	<tag k="email" v="nw-chodziez@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1062180578" lat="52.7990291" lon="18.2609034" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Inowrocławiu"/>
+	<tag k="addr:postcode" v="88-100"/>
+	<tag k="phone" v="+48 52 357 40 66"/>
+	<tag k="email" v="nw-inowroclaw@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1069597056" lat="52.66162" lon="17.9516012" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Mogilnie"/>
+	<tag k="addr:postcode" v="88-300"/>
+	<tag k="email" v="nw-mogilno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-507892304" lat="53.1332338" lon="17.5996129" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nakle nad Notecią"/>
+	<tag k="addr:postcode" v="89-100"/>
+	<tag k="phone" v="+48 52 385 22 86"/>
+	<tag k="email" v="nw-naklonadnotecia@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-385423716" lat="52.6245767" lon="18.5267105" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Radziejowie"/>
+	<tag k="addr:postcode" v="88-200"/>
+	<tag k="phone" v="+48 54 230 35 76"/>
+	<tag k="email" v="nw-radziejow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-416539764" lat="52.8460255" lon="17.7229213" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Żninie"/>
+	<tag k="addr:postcode" v="88-400"/>
+	<tag k="phone" v="+48 60 449 23 40"/>
+	<tag k="email" v="nw-znin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-832867106" lat="53.5302471" lon="15.7986364" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Drawsku Pomorskim"/>
+	<tag k="addr:postcode" v="78-500"/>
+	<tag k="phone" v="+48 94 363 07 53"/>
+	<tag k="email" v="nw-drawskopomorskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-643978280" lat="52.8527034" lon="15.8437363" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Drezdenku"/>
+	<tag k="addr:postcode" v="66-530"/>
+	<tag k="phone" v="+48 95 762 01 55"/>
+	<tag k="email" v="nw-drezdenko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-166520911" lat="53.1304089" lon="16.7587852" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pile"/>
+	<tag k="addr:postcode" v="64-920"/>
+	<tag k="phone" v="+48 60 677 41 22"/>
+	<tag k="email" v="nw-pila@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-548122465" lat="52.8731288" lon="15.5226229" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Strzelcach Krajeńskich"/>
+	<tag k="addr:postcode" v="66-500"/>
+	<tag k="phone" v="+48 95 763 22 59"/>
+	<tag k="email" v="nw-strzelcekrajenskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-86619585" lat="53.7068936" lon="16.6930979" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Szczecinku"/>
+	<tag k="addr:postcode" v="78-400"/>
+	<tag k="phone" v="+48 94 374 09 71"/>
+	<tag k="email" v="nw-szczecinek@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1036500298" lat="53.039447" lon="16.4510555" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Trzciance"/>
+	<tag k="addr:postcode" v="64-980"/>
+	<tag k="phone" v="+48 67 210 19 32"/>
+	<tag k="email" v="nw-trzcianka@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-754804999" lat="53.1946943" lon="16.1564144" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Tucznie"/>
+	<tag k="addr:postcode" v="78-640"/>
+	<tag k="phone" v="+48 67 250 81 84"/>
+	<tag k="email" v="nw-tuczno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-587703017" lat="52.896735" lon="16.1698751" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wieleniu"/>
+	<tag k="addr:postcode" v="64-730"/>
+	<tag k="phone" v="+48 88 206 29 04"/>
+	<tag k="email" v="nw-wielen@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-875941805" lat="53.3541807" lon="17.0509252" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Złotowie"/>
+	<tag k="addr:postcode" v="77-400"/>
+	<tag k="phone" v="+48 67 263 27 48"/>
+	<tag k="email" v="nw-zlotow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-247202974" lat="51.2017229" lon="16.1512816" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Legnicy"/>
+	<tag k="addr:postcode" v="59-220"/>
+	<tag k="phone" v="+48 76 862 70 08"/>
+	<tag k="email" v="zz-legnica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-457127126" lat="51.8341238" lon="16.5740555" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Lesznie"/>
+	<tag k="addr:postcode" v="64-100"/>
+	<tag k="phone" v="+48 65 547 61 30"/>
+	<tag k="email" v="zz-leszno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-443776512" lat="50.4788114" lon="17.3357552" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Nysie"/>
+	<tag k="addr:postcode" v="48-300"/>
+	<tag k="phone" v="+48 77 431 51 72"/>
+	<tag k="email" v="zz-nysa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-103316609" lat="51.1585657" lon="15.0143936" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Zgorzelcu"/>
+	<tag k="addr:postcode" v="59-900"/>
+	<tag k="phone" v="+48 65 547 61 70"/>
+	<tag k="email" v="zz-zgorzelec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-865187212" lat="50.7273418" lon="16.6532629" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Dzierżoniowie"/>
+	<tag k="addr:postcode" v="58-200"/>
+	<tag k="phone" v="+48 74 810 39 41"/>
+	<tag k="email" v="nw-dzierzoniow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-82615011" lat="51.0568815" lon="16.1999781" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Jaworze"/>
+	<tag k="addr:postcode" v="59-400"/>
+	<tag k="phone" v="+48 76 818 00 68"/>
+	<tag k="email" v="nw-jawor@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-649554745" lat="51.2016355" lon="16.151067" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Legnicy"/>
+	<tag k="addr:postcode" v="59-220"/>
+	<tag k="phone" v="+48 76 862 44 60"/>
+	<tag k="email" v="nw-legnica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-318603821" lat="50.8350368" lon="16.5088578" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Świdnicy"/>
+	<tag k="addr:postcode" v="58-100"/>
+	<tag k="phone" v="+48 74 852 30 58"/>
+	<tag k="email" v="nw-swidnica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-551817988" lat="50.7678259" lon="16.2802675" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wałbrzychu"/>
+	<tag k="addr:postcode" v="58-300"/>
+	<tag k="phone" v="+48 74 842 12 77"/>
+	<tag k="email" v="nw-walbrzych@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-540877827" lat="51.1247437" lon="15.9150633" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Złotoryi"/>
+	<tag k="addr:postcode" v="59-500"/>
+	<tag k="phone" v="+48 76 818 00 67"/>
+	<tag k="email" v="nw-zlotoryja@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-433950550" lat="51.6637398" lon="16.5368869" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Górze"/>
+	<tag k="addr:postcode" v="56-200"/>
+	<tag k="phone" v="+48 60 552 22 44"/>
+	<tag k="email" v="nw-gora@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-336489871" lat="51.6954301" lon="17.4361952" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Krotoszynie"/>
+	<tag k="addr:postcode" v="63-700"/>
+	<tag k="phone" v="+48 69 123 45 09"/>
+	<tag k="email" v="nw-krotoszyn@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-892232790" lat="51.7975914" lon="16.6552957" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lesznie"/>
+	<tag k="addr:postcode" v="64-130"/>
+	<tag k="phone" v="+48 69 123 22 14"/>
+	<tag k="email" v="nw-leszno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-964642237" lat="51.5292383" lon="17.2746034" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Miliczu"/>
+	<tag k="addr:postcode" v="56-300"/>
+	<tag k="phone" v="+48 65 547 61 37"/>
+	<tag k="email" v="nw-milicz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-677143420" lat="51.4277863" lon="17.9284179" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ostrzeszowie"/>
+	<tag k="addr:postcode" v="63-500"/>
+	<tag k="phone" v="+48 65 547 61 48"/>
+	<tag k="email" v="nw-ostrzeszow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-882078336" lat="51.6123231" lon="16.8667636" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Rawiczu"/>
+	<tag k="addr:postcode" v="63-900"/>
+	<tag k="phone" v="+48 60 552 22 44"/>
+	<tag k="email" v="nw-rawicz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-903983288" lat="51.3148279" lon="17.0669889" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Trzebnicy"/>
+	<tag k="addr:postcode" v="55-100"/>
+	<tag k="phone" v="+48 71 312 04 01"/>
+	<tag k="email" v="nw-trzebnica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-735015647" lat="51.2620234" lon="15.5702473" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bolesławcu"/>
+	<tag k="addr:postcode" v="59-700"/>
+	<tag k="phone" v="+48 60 397 47 98"/>
+	<tag k="email" v="nw-boleslawiec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-554782247" lat="50.8231474" lon="15.6921502" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Jeleniej Górze"/>
+	<tag k="addr:postcode" v="58-562"/>
+	<tag k="phone" v="+48 75 752 85 60"/>
+	<tag k="email" v="nw-jeleniagora@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-507307986" lat="50.7818378" lon="16.0282908" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kamiennej Górze"/>
+	<tag k="addr:postcode" v="58-400"/>
+	<tag k="phone" v="+48 60 324 83 93"/>
+	<tag k="email" v="nw-kamiennagora@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-354882739" lat="51.1227768" lon="15.3024563" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lubaniu"/>
+	<tag k="addr:postcode" v="59-800"/>
+	<tag k="phone" v="+48 50 972 51 42"/>
+	<tag k="email" v="nw-luban@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-38871333" lat="51.1055756" lon="15.5940444" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lwówku Śląski"/>
+	<tag k="addr:postcode" v="59-600"/>
+	<tag k="phone" v="+48 75 782 46 02"/>
+	<tag k="email" v="NadzorWodny.LwowekSlaski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-966161897" lat="51.5025459" lon="16.0677178" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Polkowicach"/>
+	<tag k="addr:postcode" v="59-100"/>
+	<tag k="phone" v="+48 60 542 11 70"/>
+	<tag k="email" v="nw-polkowice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-427672966" lat="51.5658611" lon="15.5386457" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Szprotawie"/>
+	<tag k="addr:postcode" v="67-300"/>
+	<tag k="phone" v="+48 68 352 47 20"/>
+	<tag k="email" v="nw-szprotawa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-988624054" lat="51.6123669" lon="15.3213233" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Żaganiu"/>
+	<tag k="addr:postcode" v="68-100"/>
+	<tag k="phone" v="+48 68 478 55 58"/>
+	<tag k="email" v="nw-zagan@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-111364716" lat="50.4694299" lon="17.2986349" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Otmuchowie"/>
+	<tag k="addr:postcode" v="48-304"/>
+	<tag k="phone" v="+48 77 551 66 00"/>
+	<tag k="email" v="nw-otmuchow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-520389956" lat="50.4364481" lon="16.648207" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kłodzku"/>
+	<tag k="addr:postcode" v="57-300"/>
+	<tag k="phone" v="+48 74 867 44 94"/>
+	<tag k="email" v="nw-klodzko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1000819957" lat="50.5888504" lon="16.8111702" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ząbkowicach Śląskich"/>
+	<tag k="addr:postcode" v="57-200"/>
+	<tag k="phone" v="+48 74 810 39 49"/>
+	<tag k="email" v="nw-zabkowiceslaskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-905883655" lat="50.855067" lon="17.4719505" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Brzegu"/>
+	<tag k="addr:postcode" v="49-300"/>
+	<tag k="phone" v="+48 77 402 63 41"/>
+	<tag k="email" v="nw-brzeg@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1009588234" lat="51.6676781" lon="16.0835755" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Głogowie"/>
+	<tag k="addr:postcode" v="67-200"/>
+	<tag k="phone" v="+48 76 831 31 57"/>
+	<tag k="email" v="nw-glogow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-344470476" lat="51.4015368" lon="16.2100246" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lubinie"/>
+	<tag k="addr:postcode" v="59-300"/>
+	<tag k="phone" v="+48 76 840 31 66"/>
+	<tag k="email" v="nw-lubin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-531165743" lat="51.0739326" lon="17.7208313" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Namysłowie"/>
+	<tag k="addr:postcode" v="46-100"/>
+	<tag k="phone" v="+48 77 402 63 85"/>
+	<tag k="email" v="nw-namyslow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-297958582" lat="51.2038362" lon="17.3714017" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Oleśnicy"/>
+	<tag k="addr:postcode" v="56-400"/>
+	<tag k="phone" v="+48 71 314 39 14"/>
+	<tag k="email" v="nw-olesnica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-623369289" lat="50.9456185" lon="17.2961999" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Oławie"/>
+	<tag k="addr:postcode" v="55-200"/>
+	<tag k="phone" v="+48 53 203 28 88"/>
+	<tag k="email" v="nw-olawa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1017445772" lat="50.7797592" lon="17.0600074" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Strzelinie"/>
+	<tag k="addr:postcode" v="57-100"/>
+	<tag k="phone" v="+48 71 392 07 16"/>
+	<tag k="email" v="nw-strzelin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-777451004" lat="51.1630014" lon="16.6070581" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Środzie Śląskiej"/>
+	<tag k="addr:postcode" v="55-300"/>
+	<tag k="phone" v="+48 71 317 34 62"/>
+	<tag k="email" v="nw-srodaslaska@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-415419326" lat="51.3390474" lon="16.6254031" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wołowie"/>
+	<tag k="addr:postcode" v="56-100"/>
+	<tag k="phone" v="+48 71 389 13 88"/>
+	<tag k="email" v="nw-wolow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-956052" lat="51.1015103" lon="17.1234238" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny we Wrocławiu"/>
+	<tag k="addr:postcode" v="51-640"/>
+	<tag k="phone" v="+48 71 347 76 38"/>
+	<tag k="email" v="nw-wroclaw@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-104151400" lat="51.7851668" lon="14.9722451" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lubsku"/>
+	<tag k="addr:postcode" v="68-300"/>
+	<tag k="phone" v="+48 68 457 21 91"/>
+	<tag k="email" v="nw-lubsko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1061829568" lat="51.14565" lon="15.0114609" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zgorzelcu"/>
+	<tag k="addr:postcode" v="59-900"/>
+	<tag k="phone" v="+48 75 775 20 18"/>
+	<tag k="email" v="nw-zgorzelec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-781217726" lat="52.0472503" lon="15.0988381" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Krosno Odrzańskie"/>
+	<tag k="addr:postcode" v="66-600"/>
+	<tag k="phone" v="+48 68 383 52 58"/>
+	<tag k="email" v="nw-krosnoodrzanskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-351693810" lat="51.8025643" lon="15.7184542" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nowej Soli"/>
+	<tag k="addr:postcode" v="67-100"/>
+	<tag k="phone" v="+48 68 352 41 55"/>
+	<tag k="email" v="nw-nowasol@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-821234788" lat="51.8860711" lon="16.0683882" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sławie"/>
+	<tag k="addr:postcode" v="67-410"/>
+	<tag k="phone" v="+48 68 352 46 14"/>
+	<tag k="email" v="nw-slawa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1017766480" lat="52.3443158" lon="14.5836522" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Słubicach"/>
+	<tag k="addr:postcode" v="69-100"/>
+	<tag k="phone" v="+48 95 758 27 22"/>
+	<tag k="email" v="nw-slubice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-277505637" lat="52.0872395" lon="15.6109893" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sulechowie"/>
+	<tag k="addr:postcode" v="66-100"/>
+	<tag k="phone" v="+48 68 320 18 36"/>
+	<tag k="email" v="nw-sulechow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-386222548" lat="51.9292205" lon="15.4966051" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zielonej Górze"/>
+	<tag k="addr:postcode" v="65-514"/>
+	<tag k="phone" v="+48 68 453 72 22"/>
+	<tag k="email" v="nw-zielonagora@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-356815427" lat="51.9293578" lon="15.4968344" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Zielonej Górze"/>
+	<tag k="addr:postcode" v="65-514"/>
+	<tag k="phone" v="+48 68 452 76 00"/>
+	<tag k="email" v="zz-zielonagora@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-638632156" lat="53.0075847" lon="18.5929639" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Toruniu"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="phone" v="+48 56 657 78 41"/>
+	<tag k="email" v="zz-torun@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-631231477" lat="53.6862609" lon="17.5709776" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Chojnicach"/>
+	<tag k="addr:postcode" v="89-600"/>
+	<tag k="phone" v="+48 52 336 03 23"/>
+	<tag k="email" v="nw-chojnice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-372125352" lat="53.6687312" lon="17.360678" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Człuchowie"/>
+	<tag k="addr:postcode" v="77-300"/>
+	<tag k="phone" v="+48 59 834 33 84"/>
+	<tag k="email" v="nw-czluchow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-727117874" lat="53.5768362" lon="17.8803331" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Tucholi"/>
+	<tag k="addr:postcode" v="89-500"/>
+	<tag k="phone" v="+48 57 234 26 41"/>
+	<tag k="email" v="nw-tuchola@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-545039439" lat="54.3877564" lon="19.828822" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Braniewie"/>
+	<tag k="addr:postcode" v="14-500"/>
+	<tag k="phone" v="+48 55 243 28 73"/>
+	<tag k="email" v="nw-braniewo@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-659188968" lat="54.146536" lon="19.3984171" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Elblągu"/>
+	<tag k="addr:postcode" v="82-300"/>
+	<tag k="phone" v="+48 55 232 44 65"/>
+	<tag k="email" v="nw-elblag@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-820249769" lat="54.0395904" lon="19.0735204" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Malborku"/>
+	<tag k="addr:postcode" v="82-200"/>
+	<tag k="phone" v="+48 55 272 34 25"/>
+	<tag k="email" v="nw-malbork@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-294036177" lat="54.2153496" lon="19.116242" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nowym Dworze Gdańskim"/>
+	<tag k="addr:postcode" v="82-100"/>
+	<tag k="phone" v="+48 55 246 26 49"/>
+	<tag k="email" v="nw-nowydworgdanski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-196558717" lat="53.5865772" lon="20.2900811" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Olsztynku"/>
+	<tag k="addr:postcode" v="11-015"/>
+	<tag k="phone" v="+48 89 519 56 24"/>
+	<tag k="email" v="nw-olsztynek@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1011115067" lat="54.1868679" lon="17.4897236" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bytowie"/>
+	<tag k="addr:postcode" v="77-100"/>
+	<tag k="phone" v="+48 59 822 13 60"/>
+	<tag k="email" v="nw-bytow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-615138153" lat="54.5203437" lon="18.5251433" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gdyni"/>
+	<tag k="addr:postcode" v="81-332"/>
+	<tag k="phone" v="+48 58 735 63 54"/>
+	<tag k="email" v="nw-gdynia@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-561343780" lat="54.3324721" lon="18.2028173" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kartuzach"/>
+	<tag k="addr:postcode" v="83-300"/>
+	<tag k="phone" v="+48 58 681 00 16"/>
+	<tag k="email" v="nw-kartuzy@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-981336028" lat="54.5343595" lon="17.7561137" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lęborku"/>
+	<tag k="addr:postcode" v="84-300"/>
+	<tag k="phone" v="+48 59 862 13 00"/>
+	<tag k="email" v="nw-lebork@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-500381188" lat="54.2505559" lon="18.639742" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pruszczu Gdańskim"/>
+	<tag k="addr:postcode" v="83-000"/>
+	<tag k="phone" v="+48 60 183 08 28"/>
+	<tag k="email" v="nw-pruszczgdanski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-62832595" lat="54.7202914" lon="18.4114135" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pucku"/>
+	<tag k="addr:postcode" v="84-100"/>
+	<tag k="phone" v="+48 58 673 29 11"/>
+	<tag k="email" v="nw-puck@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-308942734" lat="54.6102628" lon="18.3631231" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Redzie"/>
+	<tag k="addr:postcode" v="84-240"/>
+	<tag k="phone" v="+48 58 678 64 07"/>
+	<tag k="email" v="nw-reda@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-311937365" lat="54.4660964" lon="17.0337326" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Słupsku"/>
+	<tag k="addr:postcode" v="76-200"/>
+	<tag k="phone" v="+48 59 840 07 90"/>
+	<tag k="email" v="nw-slupsk@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-641544894" lat="53.489409" lon="18.7522534" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Grudziądzu"/>
+	<tag k="addr:postcode" v="86-300"/>
+	<tag k="phone" v="+48 56 461 30 02"/>
+	<tag k="email" v="nw-grudziadz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-917070553" lat="53.5842758" lon="19.5782927" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Iławie"/>
+	<tag k="addr:postcode" v="14-200"/>
+	<tag k="phone" v="+48 89 644 86 06"/>
+	<tag k="email" v="nw-ilawa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-926022724" lat="54.1231385" lon="17.9986956" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kościerzynie"/>
+	<tag k="addr:postcode" v="83-400"/>
+	<tag k="phone" v="+48 58 686 37 93"/>
+	<tag k="email" v="nw-koscierzyna@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-962178553" lat="53.7291152" lon="18.9242256" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kwidzynie"/>
+	<tag k="addr:postcode" v="82-500"/>
+	<tag k="phone" v="+48 55 279 25 62"/>
+	<tag k="email" v="nw-kwidzyn@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-381275972" lat="53.9692049" lon="18.5302325" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Starogardzie"/>
+	<tag k="addr:postcode" v="83-200"/>
+	<tag k="phone" v="+48 58 562 23 32"/>
+	<tag k="email" v="nw-starogardgdanski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-675233740" lat="54.0703858" lon="18.7781788" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Tczewie"/>
+	<tag k="addr:postcode" v="83-110"/>
+	<tag k="phone" v="+48 58 530 41 20"/>
+	<tag k="email" v="nw-tczew@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-255197143" lat="53.2756354" lon="18.9460189" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wąbrzeźnie"/>
+	<tag k="addr:postcode" v="87-200"/>
+	<tag k="phone" v="+48 56 688 24 50"/>
+	<tag k="email" v="nw-wabrzezno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-615075935" lat="53.2580539" lon="19.4067753" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Brodnicy"/>
+	<tag k="addr:postcode" v="87-300"/>
+	<tag k="phone" v="+48 56 649 82 57"/>
+	<tag k="email" v="nw-brodnica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-955336520" lat="53.379185" lon="18.4743351" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Chełmnie"/>
+	<tag k="addr:postcode" v="86-200"/>
+	<tag k="phone" v="+48 56 676 19 71"/>
+	<tag k="email" v="nw-chelmno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-910938293" lat="53.1042812" lon="19.0634996" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Golubiu-Dobrzyniu"/>
+	<tag k="addr:postcode" v="87-400"/>
+	<tag k="phone" v="+48 57 233 86 75"/>
+	<tag k="email" v="nw-golubdobrzyn@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-822351813" lat="52.849244" lon="19.1966347" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lipnie"/>
+	<tag k="addr:postcode" v="87-600"/>
+	<tag k="phone" v="+48 54 233 13 76"/>
+	<tag k="email" v="nw-lipno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-161826819" lat="53.4275393" lon="19.588111" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nowym Mieście Lubawskim"/>
+	<tag k="addr:postcode" v="13-300"/>
+	<tag k="phone" v="+48 57 233 83 65"/>
+	<tag k="email" v="nw-nowemiastolubawskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-999944201" lat="53.7085951" lon="19.9582169" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ostródzie"/>
+	<tag k="addr:postcode" v="14-100"/>
+	<tag k="phone" v="+48 89 646 25 23"/>
+	<tag k="email" v="nw-ostroda@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-871382662" lat="53.0650926" lon="19.4193869" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Rypinie"/>
+	<tag k="addr:postcode" v="87-500"/>
+	<tag k="phone" v="+48 54 230 50 33"/>
+	<tag k="email" v="nw-rypin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-816643422" lat="53.0076121" lon="18.5935057" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Toruniu"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="phone" v="+48 51 527 50 65"/>
+	<tag k="email" v="nw-torun@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-441323232" lat="50.886793" lon="20.6248944" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Kielcach"/>
+	<tag k="addr:postcode" v="25-662"/>
+	<tag k="phone" v="+48 41 334 00 98"/>
+	<tag k="email" v="zz-kielce@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-10306255" lat="50.0557059" lon="19.925373" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Krakowie"/>
+	<tag k="addr:postcode" v="30-102"/>
+	<tag k="phone" v="+48 12 629 06 00"/>
+	<tag k="email" v="zz-krakow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1449729" lat="50.4627475" lon="20.7190889" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Busku Zdroju"/>
+	<tag k="addr:postcode" v="28-100"/>
+	<tag k="phone" v="+48 53 203 33 07"/>
+	<tag k="email" v="nwbusko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-722379037" lat="50.8861484" lon="20.6245651" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kielcach"/>
+	<tag k="addr:postcode" v="25-662"/>
+	<tag k="phone" v="+48 41 342 52 24"/>
+	<tag k="email" v="nwkielce@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-96674753" lat="50.2681785" lon="20.4829459" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kazimierzy Wielkiej"/>
+	<tag k="addr:postcode" v="28-500"/>
+	<tag k="phone" v="+48 52 303 31 38"/>
+	<tag k="email" v="nw-kazimierza@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-877822107" lat="49.9853707" lon="20.4290965" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bochni"/>
+	<tag k="addr:postcode" v="32-700"/>
+	<tag k="phone" v="+48 69 183 18 38"/>
+	<tag k="email" v="nwbochnia@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-195249961" lat="49.9696205" lon="20.6018501" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Brzesku"/>
+	<tag k="addr:postcode" v="32-800"/>
+	<tag k="phone" v="+48 14 663 10 02"/>
+	<tag k="email" v="nw-brzesko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-255696313" lat="50.045879" lon="19.798774" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Krakowie"/>
+	<tag k="addr:postcode" v="32-060"/>
+	<tag k="phone" v="+48 12 629 06 80"/>
+	<tag k="email" v="nwkrakow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-747659845" lat="49.8326024" lon="19.9550363" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Myślenicach"/>
+	<tag k="addr:postcode" v="32-400"/>
+	<tag k="phone" v="+48 12 628 41 60"/>
+	<tag k="email" v="nwmyslenice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-306760976" lat="50.0441985" lon="19.2131796" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Oświęcimiu"/>
+	<tag k="addr:postcode" v="32-600"/>
+	<tag k="phone" v="+48 60 759 45 15"/>
+	<tag k="email" v="nw-oswiecim@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-987460128" lat="50.1976526" lon="20.3002922" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Proszowicach"/>
+	<tag k="addr:postcode" v="32-100"/>
+	<tag k="phone" v="+48 69 325 52 54"/>
+	<tag k="email" v="nw-proszowice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1058865266" lat="49.627024" lon="20.9526859" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Grybowie"/>
+	<tag k="addr:postcode" v="33-330"/>
+	<tag k="phone" v="+48 66 762 36 30"/>
+	<tag k="email" v="nwgrybow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-111152134" lat="49.6995625" lon="20.4172785" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Limanowej"/>
+	<tag k="addr:postcode" v="34-600"/>
+	<tag k="phone" v="+48 57 344 38 83"/>
+	<tag k="email" v="nwlimanowa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-129015874" lat="49.3563459" lon="20.8977774" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Muszynie"/>
+	<tag k="addr:postcode" v="33-370"/>
+	<tag k="phone" v="+48 66 764 36 42"/>
+	<tag k="email" v="nwmuszyna@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-880942198" lat="49.4684105" lon="20.0010489" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nowym Targu"/>
+	<tag k="addr:postcode" v="34-400"/>
+	<tag k="phone" v="+48 57 344 38 79"/>
+	<tag k="email" v="nwnowytarg@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-506442463" lat="49.9994318" lon="20.9881461" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Tarnowie"/>
+	<tag k="addr:postcode" v="33-100"/>
+	<tag k="phone" v="+48 57 344 38 85"/>
+	<tag k="email" v="nwtarnow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-793555817" lat="50.1769427" lon="20.9777055" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Dąbrowie Tarnowskiej"/>
+	<tag k="addr:postcode" v="33-200"/>
+	<tag k="phone" v="+48 60 926 32 69"/>
+	<tag k="email" v="nw-dabrowatarnowska@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-90817117" lat="50.7987372" lon="21.4327422" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Opatowie"/>
+	<tag k="addr:postcode" v="27-500"/>
+	<tag k="phone" v="+48 60 924 52 41"/>
+	<tag k="email" v="nwopatow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-780723950" lat="50.4267081" lon="21.2800721" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Połańcu"/>
+	<tag k="addr:postcode" v="28-230"/>
+	<tag k="phone" v="+48 60 829 21 85"/>
+	<tag k="email" v="nwpolaniec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-146416244" lat="50.6796861" lon="21.7384659" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sandomierzu"/>
+	<tag k="addr:postcode" v="27-600"/>
+	<tag k="phone" v="+48 15 833 40 41"/>
+	<tag k="email" v="nwsandomierz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-568035215" lat="50.5660724" lon="21.1704635" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Staszowie"/>
+	<tag k="addr:postcode" v="28-200"/>
+	<tag k="phone" v="+48 60 962 56 20"/>
+	<tag k="email" v="nwstaszow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-54926695" lat="49.7383335" lon="19.5869962" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Suchej Beskidzkiej"/>
+	<tag k="addr:postcode" v="34-200"/>
+	<tag k="phone" v="+48 33 843 61 95"/>
+	<tag k="email" v="nwsuchabeskidzka@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-571279915" lat="49.8817184" lon="19.4910781" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wadowicach"/>
+	<tag k="addr:postcode" v="34-100"/>
+	<tag k="phone" v="+48 60 740 81 44"/>
+	<tag k="email" v="nwwadowice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-830083212" lat="49.6864484" lon="19.191169" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Żywcu"/>
+	<tag k="addr:postcode" v="34-300"/>
+	<tag k="phone" v="+48 66 565 65 59"/>
+	<tag k="email" v="nwzywiec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-602885901" lat="50.3026555" lon="18.6680199" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Gliwicach"/>
+	<tag k="addr:postcode" v="44-100"/>
+	<tag k="phone" v="+48 32 777 49 50"/>
+	<tag k="email" v="gliwice@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Gliwicach"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-557616878" lat="50.2917863" lon="18.6884863" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Gliwicach"/>
+	<tag k="addr:postcode" v="44-100"/>
+	<tag k="phone" v="+48 69 322 21 55"/>
+	<tag k="email" v="zz-gliwice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-982404800" lat="49.7495268" lon="18.6427088" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Cieszynie"/>
+	<tag k="addr:postcode" v="43-400"/>
+	<tag k="phone" v="+48 33 851 00 56"/>
+	<tag k="email" v="nw-cieszyn@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-279976242" lat="50.3183881" lon="18.6633146" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gliwicach"/>
+	<tag k="addr:postcode" v="44-100"/>
+	<tag k="phone" v="+48 69 710 21 63"/>
+	<tag k="email" v="nw-gliwice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-680862747" lat="50.1995746" lon="17.8247515" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Głubczycach"/>
+	<tag k="addr:postcode" v="48-100"/>
+	<tag k="phone" v="+48 69 710 22 61"/>
+	<tag k="email" v="nw-glubczyce@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-967354859" lat="50.35248" lon="18.1517246" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kędzierzynie-Koźlu"/>
+	<tag k="addr:postcode" v="47-220"/>
+	<tag k="phone" v="+48 77 482 04 05"/>
+	<tag k="email" v="nw-kedzierzyn-kozle@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1014317472" lat="50.0963822" lon="18.5473664" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Rybniku"/>
+	<tag k="addr:postcode" v="44-200"/>
+	<tag k="phone" v="+48 69 710 22 43"/>
+	<tag k="email" v="nw-rybnik@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-171448257" lat="49.8555638" lon="19.0352644" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bielsku-Białej"/>
+	<tag k="addr:postcode" v="43-346"/>
+	<tag k="phone" v="+48 33 821 64 64"/>
+	<tag k="email" v="nw-bielsko-biala@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-390355178" lat="50.0797892" lon="19.1564964" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bieruniu"/>
+	<tag k="addr:postcode" v="43-155"/>
+	<tag k="phone" v="+48 69 710 19 23"/>
+	<tag k="email" v="nw-bierun@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-513780855" lat="50.2701093" lon="19.0210797" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Katowicach"/>
+	<tag k="addr:postcode" v="42-460"/>
+	<tag k="phone" v="+48 32 380 65 87"/>
+	<tag k="email" v="nw-katowice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-655916232" lat="50.2779268" lon="19.5581841" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Olkuszu"/>
+	<tag k="addr:postcode" v="32-300"/>
+	<tag k="phone" v="+48 32 210 90 41"/>
+	<tag k="email" v="nw-olkusz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-27360201" lat="49.9768862" lon="18.9505798" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pszczynie"/>
+	<tag k="addr:postcode" v="43-200"/>
+	<tag k="phone" v="+48 69 710 14 91"/>
+	<tag k="email" v="nw-pszczyna@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-406362641" lat="49.7899125" lon="18.7988685" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Skoczowie"/>
+	<tag k="addr:postcode" v="43-430"/>
+	<tag k="phone" v="+48 33 853 33 08"/>
+	<tag k="email" v="nw-skoczow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-742646728" lat="50.9731398" lon="18.2166683" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kluczborku"/>
+	<tag k="addr:postcode" v="46-200"/>
+	<tag k="phone" v="+48 66 122 16 57"/>
+	<tag k="email" v="nw-kluczbork@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-124640704" lat="50.4765624" lon="17.967538" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Krapkowicach"/>
+	<tag k="addr:postcode" v="47-300"/>
+	<tag k="phone" v="+48 66 122 15 62"/>
+	<tag k="email" v="nw-krapkowice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-341912847" lat="50.6593967" lon="17.92413" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Opolu"/>
+	<tag k="addr:postcode" v="45-094"/>
+	<tag k="phone" v="+48 66 122 16 54"/>
+	<tag k="email" v="nw-opole@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-841885476" lat="50.3212764" lon="17.5815561" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Prudniku"/>
+	<tag k="addr:postcode" v="48-200"/>
+	<tag k="phone" v="+48 66 122 18 13"/>
+	<tag k="email" v="nw-prudnik@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-939061373" lat="50.5244815" lon="18.2888026" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Strzelcach Opolskich"/>
+	<tag k="addr:postcode" v="47-100"/>
+	<tag k="phone" v="+48 69 322 06 38"/>
+	<tag k="email" v="nw-strzelceopolskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-408891762" lat="50.4435633" lon="18.8576822" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Tarnowskich Górach"/>
+	<tag k="addr:postcode" v="42-600"/>
+	<tag k="phone" v="+48 66 122 13 25"/>
+	<tag k="email" v="nw-tarnowskiegory@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-726196597" lat="52.0402957" lon="23.1081552" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Białej Podlaskiej"/>
+	<tag k="addr:postcode" v="21-500"/>
+	<tag k="phone" v="+48 83 342 70 64"/>
+	<tag k="email" v="nw-bialapodlaska@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-443954804" lat="51.1332687" lon="23.4942545" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Chełmie"/>
+	<tag k="addr:postcode" v="22-100"/>
+	<tag k="phone" v="+48 82 565 64 66"/>
+	<tag k="email" v="nw-chelm@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-863911278" lat="50.8047375" lon="23.8910197" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Hrubieszowie"/>
+	<tag k="addr:postcode" v="22-500"/>
+	<tag k="phone" v="+48 84 696 42 58"/>
+	<tag k="email" v="nw-hrubieszow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-413547864" lat="51.9259914" lon="22.3753655" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łukowie"/>
+	<tag k="addr:postcode" v="21-400"/>
+	<tag k="phone" v="+48 25 798 21 71"/>
+	<tag k="email" v="nw-lukow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-401083498" lat="50.4471447" lon="23.4145765" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Tomaszowie Lubelskim"/>
+	<tag k="addr:postcode" v="22-600"/>
+	<tag k="phone" v="+48 84 665 97 82"/>
+	<tag k="email" v="nw-tomaszowlubelski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-262252336" lat="51.5474318" lon="23.5492358" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny we Włodawie"/>
+	<tag k="addr:postcode" v="22-200"/>
+	<tag k="phone" v="+48 82 572 14 01"/>
+	<tag k="email" v="nw-wlodawa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-641112296" lat="52.6796469" lon="22.5043643" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ciechanowcu"/>
+	<tag k="addr:postcode" v="18-230"/>
+	<tag k="email" v="nw-ciechanowiec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-686260189" lat="52.2209827" lon="22.7093502" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łosicach"/>
+	<tag k="addr:postcode" v="08-200"/>
+	<tag k="phone" v="+48 83 357 37 24"/>
+	<tag k="email" v="nw-losice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-922834392" lat="52.8030651" lon="21.8881731" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ostrowi Mazowieckiej"/>
+	<tag k="addr:postcode" v="07-300"/>
+	<tag k="phone" v="+48 29 745 40 42"/>
+	<tag k="email" v="nw-ostrowmazowiecka@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-778355362" lat="52.1681699" lon="22.2742808" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Siedlcach"/>
+	<tag k="addr:postcode" v="08-110"/>
+	<tag k="phone" v="+48 25 631 05 33"/>
+	<tag k="email" v="nw-siedlce@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-511167909" lat="52.4247298" lon="22.8593158" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Siemiatyczach"/>
+	<tag k="addr:postcode" v="17-300"/>
+	<tag k="phone" v="+48 85 655 04 86"/>
+	<tag k="email" v="nw-siemiatycze@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-366425226" lat="52.3967961" lon="22.2680481" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sokołowie Podlaskim"/>
+	<tag k="addr:postcode" v="08-300"/>
+	<tag k="phone" v="+48 25 781 28 58"/>
+	<tag k="email" v="nw-sokolowpodlaski@wody."/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-236426669" lat="52.3970693" lon="22.0106133" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Węgrowie"/>
+	<tag k="addr:postcode" v="07-100"/>
+	<tag k="phone" v="+48 25 792 30 58"/>
+	<tag k="email" v="nw-wegrow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-424394077" lat="52.918863" lon="22.5224792" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wysokiem Mazowieckiem"/>
+	<tag k="addr:postcode" v="18-200"/>
+	<tag k="phone" v="+48 86 270 90 05"/>
+	<tag k="email" v="nw-wysokiemazowieckie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-599601655" lat="50.981842" lon="23.1679582" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Krasnymstawie"/>
+	<tag k="addr:postcode" v="22-300"/>
+	<tag k="phone" v="+48 82 576 20 75"/>
+	<tag k="email" v="nw-krasnystaw@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-386388310" lat="51.4677423" lon="22.6066023" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lubartowie"/>
+	<tag k="addr:postcode" v="21-100"/>
+	<tag k="phone" v="+48 81 855 28 93"/>
+	<tag k="email" v="nw-lubartow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-714373945" lat="51.2403579" lon="22.5326512" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lublinie"/>
+	<tag k="addr:postcode" v="20-610"/>
+	<tag k="phone" v="+48 81 531 03 37"/>
+	<tag k="email" v="nw-lublinie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-143206601" lat="51.2885247" lon="22.877426" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łęcznej"/>
+	<tag k="addr:postcode" v="21-010"/>
+	<tag k="phone" v="+48 81 884 35 03"/>
+	<tag k="email" v="nw-leczna@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-353466022" lat="51.6458251" lon="22.9106702" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Parczewie"/>
+	<tag k="addr:postcode" v="21-200"/>
+	<tag k="phone" v="+48 83 355 07 78"/>
+	<tag k="email" v="nw-parczew@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-862438768" lat="51.7830754" lon="22.6151509" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Radzyniu Podlaskim"/>
+	<tag k="addr:postcode" v="21-300"/>
+	<tag k="phone" v="+48 83 378 31 73"/>
+	<tag k="email" v="nw-radzynpodlaski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-981645981" lat="51.6261504" lon="21.9305479" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Rykach"/>
+	<tag k="addr:postcode" v="08-500"/>
+	<tag k="phone" v="+48 81 865 23 59"/>
+	<tag k="email" v="nw-ryki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1042657071" lat="50.7051819" lon="23.2755747" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zamościu"/>
+	<tag k="addr:postcode" v="22-400"/>
+	<tag k="phone" v="+48 84 677 59 70"/>
+	<tag k="email" v="nw-zamosc@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-45155294" lat="52.7213013" lon="15.2480666" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gorzowie Wielkopolskim"/>
+	<tag k="addr:postcode" v="66-400"/>
+	<tag k="phone" v="+48 95 725 61 63"/>
+	<tag k="email" v="nw-gorzowwielkopolski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-739447097" lat="52.2244268" lon="16.3667368" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Grodzisku Wielkopolskim"/>
+	<tag k="addr:postcode" v="62-065"/>
+	<tag k="phone" v="+48 57 390 16 87"/>
+	<tag k="email" v="nw-grodziskwielkopolski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-934699638" lat="52.5815451" lon="14.6337356" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kostrzynie nad Odrą"/>
+	<tag k="addr:postcode" v="66-470"/>
+	<tag k="phone" v="+48 57 390 16 88"/>
+	<tag k="email" v="nw-kostrzynnadodra@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-295274057" lat="52.6035723" lon="15.8855961" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Międzychodzie"/>
+	<tag k="addr:postcode" v="64-400"/>
+	<tag k="phone" v="+48 95 748 28 24"/>
+	<tag k="email" v="nw-miedzychod@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-559853987" lat="52.4508443" lon="15.5813749" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Międzyrzeczu"/>
+	<tag k="addr:postcode" v="66-300"/>
+	<tag k="phone" v="+48 95 741 25 60"/>
+	<tag k="email" v="nw-miedzyrzecz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-132657515" lat="52.4381582" lon="15.1176463" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sulęcinie"/>
+	<tag k="addr:postcode" v="69-200"/>
+	<tag k="phone" v="+48 95 755 30 42"/>
+	<tag k="email" v="nw-sulecin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-60732824" lat="52.1139109" lon="16.1078442" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wolsztynie"/>
+	<tag k="addr:postcode" v="64-200"/>
+	<tag k="phone" v="+48 68 384 56 45"/>
+	<tag k="email" v="nw-wolsztyn@wody.gov.p"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-114460772" lat="51.9714811" lon="17.4952925" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Jarocinie"/>
+	<tag k="addr:postcode" v="63-200"/>
+	<tag k="phone" v="+48 62 600 60 42"/>
+	<tag k="email" v="nw-jarocin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-910642487" lat="51.767657" lon="18.0894903" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kaliszu"/>
+	<tag k="addr:postcode" v="62-800"/>
+	<tag k="phone" v="+48 62 501 84 84"/>
+	<tag k="email" v="nw-kalisz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-763758926" lat="51.2851108" lon="17.99516" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kępnie"/>
+	<tag k="addr:postcode" v="63-600"/>
+	<tag k="phone" v="+48 62 782 28 93"/>
+	<tag k="email" v="nw-kepno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-685751908" lat="51.6516523" lon="17.812881" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ostrowie Wielkopolskim"/>
+	<tag k="addr:postcode" v="63-400"/>
+	<tag k="phone" v="+48 62 736 28 02"/>
+	<tag k="email" v="nw-ostrowielkopolski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-316636617" lat="51.2964512" lon="18.159216" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wieruszowie"/>
+	<tag k="addr:postcode" v="98-400"/>
+	<tag k="phone" v="+48 60 858 65 04"/>
+	<tag k="email" v="nw-wieruszow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-772906651" lat="51.8971848" lon="17.7735857" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pleszewie"/>
+	<tag k="addr:postcode" v="63-300"/>
+	<tag k="phone" v="+48 62 742 96 07"/>
+	<tag k="email" v="nw-pleszew@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-708686029" lat="52.2026065" lon="18.6275473" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kole"/>
+	<tag k="addr:postcode" v="62-600"/>
+	<tag k="phone" v="+48 63 272 01 84"/>
+	<tag k="email" v="nw-kolo@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-572867179" lat="52.2355487" lon="18.2823246" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Koninie"/>
+	<tag k="addr:postcode" v="62-510"/>
+	<tag k="phone" v="+48 63 242 10 75"/>
+	<tag k="email" v="nw-konin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-751453134" lat="52.3010822" lon="17.878847" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Słupcy"/>
+	<tag k="addr:postcode" v="62-400"/>
+	<tag k="phone" v="+48 63 275 11 93"/>
+	<tag k="email" v="nw-slupca@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-815144627" lat="52.228418" lon="17.2760308" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Środzie Wielkopolskiej"/>
+	<tag k="addr:postcode" v="63-000"/>
+	<tag k="phone" v="+48 57 390 16 85"/>
+	<tag k="email" v="nw-srodawielkopolska@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-495581939" lat="52.0144024" lon="18.4928415" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Turku"/>
+	<tag k="addr:postcode" v="62-700"/>
+	<tag k="phone" v="+48 63 289 30 01"/>
+	<tag k="email" v="nw-turek@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-429033451" lat="52.3374388" lon="17.5544873" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny we Wrześni"/>
+	<tag k="addr:postcode" v="62-300"/>
+	<tag k="phone" v="+48 61 436 18 02"/>
+	<tag k="email" v="nw-wrzesnia@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-2210436" lat="52.5416008" lon="17.6091608" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gnieźnie"/>
+	<tag k="addr:postcode" v="62-200"/>
+	<tag k="phone" v="+48 61 426 10 24"/>
+	<tag k="email" v="nw-gniezno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-355000735" lat="51.8810432" lon="17.0108927" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gostyniu"/>
+	<tag k="addr:postcode" v="63-800"/>
+	<tag k="phone" v="+48 57 390 16 75"/>
+	<tag k="email" v="nw-gostyn@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-633481714" lat="52.0806464" lon="16.6242664" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kościanie"/>
+	<tag k="addr:postcode" v="64-000"/>
+	<tag k="phone" v="+48 57 390 16 76"/>
+	<tag k="email" v="nw-koscian@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-943033097" lat="52.6436583" lon="16.8301607" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Obornikach"/>
+	<tag k="addr:postcode" v="64-600"/>
+	<tag k="phone" v="+48 57 390 16 77"/>
+	<tag k="email" v="nw-oborniki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-222805157" lat="52.4269652" lon="16.9525652" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Poznaniu"/>
+	<tag k="addr:postcode" v="61-623"/>
+	<tag k="phone" v="+48 61 820 14 81"/>
+	<tag k="email" v="nw-poznan@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-411797399" lat="52.0985543" lon="17.0161824" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Śremie"/>
+	<tag k="addr:postcode" v="63-300"/>
+	<tag k="phone" v="+48 61 283 08 31"/>
+	<tag k="email" v="nw-srem@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-607136775" lat="52.8049003" lon="17.2290996" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wągrowcu"/>
+	<tag k="addr:postcode" v="62-100"/>
+	<tag k="phone" v="+48 67 262 70 47"/>
+	<tag k="email" v="nw-wagrowiec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-670462556" lat="51.3606685" lon="19.3664426" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Bełchatowie"/>
+	<tag k="addr:postcode" v="97-400"/>
+	<tag k="phone" v="+48 57 390 16 79"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-256059409" lat="50.8208458" lon="19.0817591" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Częstochowie"/>
+	<tag k="addr:postcode" v="42-200"/>
+	<tag k="phone" v="+48 57 390 16 80"/>
+	<tag k="email" v="nw-czestochowa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-247638163" lat="50.9018136" lon="18.9341793" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kłobucku"/>
+	<tag k="addr:postcode" v="42-100"/>
+	<tag k="phone" v="+48 34 317 36 33"/>
+	<tag k="email" v="nw-klobuck@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-187717775" lat="51.5899381" lon="19.1403002" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łasku"/>
+	<tag k="addr:postcode" v="98-100"/>
+	<tag k="phone" v="+48 43 655 41 41"/>
+	<tag k="email" v="nw-lask@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-569982415" lat="51.7790964" lon="19.4589261" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łodzi"/>
+	<tag k="addr:postcode" v="91-420"/>
+	<tag k="phone" v="+48 57 390 16 94"/>
+	<tag k="email" v="nw-lodz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-477383883" lat="50.0290595" lon="21.9788335" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Rzeszowie"/>
+	<tag k="addr:postcode" v="35-103"/>
+	<tag k="phone" v="+48 17 853 74 00"/>
+	<tag k="email" v="rzeszow@wody.gov.pl"/>
+	<tag k="short_name" v="RZGW w Rzeszowie"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-973545958" lat="49.748744" lon="21.4742087" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Jaśle"/>
+	<tag k="addr:postcode" v="38-200"/>
+	<tag k="phone" v="+48 13 446 33 11"/>
+	<tag k="email" v="zz-jaslo@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-131063262" lat="50.0192384" lon="22.0036795" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Rzeszów"/>
+	<tag k="addr:postcode" v="35-311"/>
+	<tag k="phone" v="+48 17 854 19 18"/>
+	<tag k="email" v="nw-rzeszow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-929356526" lat="50.0531128" lon="22.4917887" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Przeworsk"/>
+	<tag k="addr:postcode" v="37-200"/>
+	<tag k="phone" v="+48 16 648 16 04"/>
+	<tag k="email" v="nw-przeworsk@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-942896938" lat="50.080249" lon="22.2238983" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Łańcut"/>
+	<tag k="addr:postcode" v="37-100"/>
+	<tag k="phone" v="+48 17 225 20 40"/>
+	<tag k="email" v="nw-lancut@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-237006856" lat="49.6993131" lon="21.7665385" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Krosno"/>
+	<tag k="addr:postcode" v="38-400"/>
+	<tag k="phone" v="+48 13 432 17 88"/>
+	<tag k="email" v="nw-krosno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-831527044" lat="49.7059165" lon="22.0247935" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Brzozów"/>
+	<tag k="addr:postcode" v="36-200"/>
+	<tag k="phone" v="+48 13 420 27 80"/>
+	<tag k="email" v="nw-brzozow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-102905392" lat="49.8699299" lon="21.7894283" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Strzyżów"/>
+	<tag k="addr:postcode" v="38-100"/>
+	<tag k="phone" v="+48 17 221 20 65"/>
+	<tag k="email" v="nw-strzyzow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-369660745" lat="49.7487301" lon="21.4741673" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Jasło"/>
+	<tag k="addr:postcode" v="38-200"/>
+	<tag k="phone" v="+48 13 446 40 34"/>
+	<tag k="email" v="nw-jaslo@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-374287586" lat="50.0589668" lon="21.3998531" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Dębica"/>
+	<tag k="addr:postcode" v="39-200"/>
+	<tag k="phone" v="+48 14 670 68 91"/>
+	<tag k="email" v="nw-debica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-514991956" lat="50.2841628" lon="21.4417537" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Mielec"/>
+	<tag k="addr:postcode" v="39-300"/>
+	<tag k="phone" v="+48 17 586 41 30"/>
+	<tag k="email" v="nw-mielec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-725414083" lat="50.7050535" lon="22.4165258" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Janów Lubelski"/>
+	<tag k="addr:postcode" v="23-300"/>
+	<tag k="phone" v="+48 15 810 41 99"/>
+	<tag k="email" v="nw-janowlubelski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-90679450" lat="50.5306708" lon="22.7242001" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Biłgoraj"/>
+	<tag k="addr:postcode" v="23-400"/>
+	<tag k="phone" v="+48 84 611 24 76"/>
+	<tag k="email" v="nw-bilgoraj@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-360925653" lat="50.2637893" lon="22.4160134" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Leżajsk"/>
+	<tag k="addr:postcode" v="37-300"/>
+	<tag k="phone" v="+48 17 242 02 46"/>
+	<tag k="email" v="nw-lezajsk@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-340445212" lat="50.5705894" lon="21.693459" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Tarnobrzeg"/>
+	<tag k="addr:postcode" v="39-400"/>
+	<tag k="phone" v="+48 15 822 51 01"/>
+	<tag k="email" v="nw-tarnobrzeg@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-892022362" lat="50.2444951" lon="21.7699723" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Kolbuszowa"/>
+	<tag k="addr:postcode" v="36-100"/>
+	<tag k="phone" v="+48 17 747 90 20"/>
+	<tag k="email" v="nw-kolbuszowa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-452232551" lat="49.7840436" lon="22.7636285" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Przemyśl"/>
+	<tag k="addr:postcode" v="37-700"/>
+	<tag k="phone" v="+48 16 670 47 80"/>
+	<tag k="email" v="nw-przemysl@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-853350593" lat="50.1620283" lon="23.125333" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Lubaczów"/>
+	<tag k="addr:postcode" v="37-600"/>
+	<tag k="phone" v="+48 16 632 13 34"/>
+	<tag k="email" v="nw-lubaczow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-660147389" lat="50.0083995" lon="22.6738098" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Jarosław"/>
+	<tag k="addr:postcode" v="37-500"/>
+	<tag k="phone" v="+48 16 623 63 28"/>
+	<tag k="email" v="nw-jaroslaw@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-204386360" lat="49.8038755" lon="22.2365019" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Dynów"/>
+	<tag k="addr:postcode" v="36-065"/>
+	<tag k="phone" v="+48 16 652 10 06"/>
+	<tag k="email" v="nw-dynow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-738946729" lat="49.4736865" lon="22.3255198" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Lesko"/>
+	<tag k="addr:postcode" v="38-600"/>
+	<tag k="phone" v="+48 13 469 63 27"/>
+	<tag k="email" v="nw-lesko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-960573447" lat="49.5611584" lon="22.2040613" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny Sanok"/>
+	<tag k="addr:postcode" v="38-500"/>
+	<tag k="phone" v="+48 13 464 18 76"/>
+	<tag k="email" v="nw-sanok@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-305187920" lat="53.406409" lon="14.5391838" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Regionalny Zarząd Gospodarki Wodnej w Szczecinie"/>
+	<tag k="addr:postcode" v="70-030"/>
+	<tag k="phone" v="+48 91 441 12 00"/>
+	<tag k="email" v="sekretariat@szczecin.rzgw.gov.pl"/>
+	<tag k="short_name" v="RZGW w Szczecinie"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-539499499" lat="53.9283565" lon="15.1938302" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Gryficach"/>
+	<tag k="addr:postcode" v="72-300"/>
+	<tag k="phone" v="+48 50 902 57 97"/>
+	<tag k="email" v="zz-gryfice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-553193250" lat="54.1904036" lon="16.1907833" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Koszalinie"/>
+	<tag k="addr:postcode" v="75-601"/>
+	<tag k="phone" v="+48 51 505 34 60"/>
+	<tag k="email" v="zz-koszalin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1024483985" lat="53.3462717" lon="15.0624551" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Stargardzie"/>
+	<tag k="addr:postcode" v="73-110"/>
+	<tag k="phone" v="+48 50 270 15 39"/>
+	<tag k="email" v="zz-stargard@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-237445065" lat="53.9097516" lon="15.1943093" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gryficach"/>
+	<tag k="addr:postcode" v="72-300"/>
+	<tag k="phone" v="+48 91 384 26 24"/>
+	<tag k="email" v="nw-gryfice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-746150888" lat="53.9726286" lon="14.7692337" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kamieniu Pomorskim"/>
+	<tag k="addr:postcode" v="72-400"/>
+	<tag k="phone" v="+48 91 382 12 04"/>
+	<tag k="email" v="nw-kamienpomorski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-319215675" lat="53.634761" lon="15.6195586" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łobzie"/>
+	<tag k="addr:postcode" v="37-150"/>
+	<tag k="email" v="nw-lobez@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-863093598" lat="53.6641049" lon="15.1469671" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nowogardzie"/>
+	<tag k="addr:postcode" v="72-200"/>
+	<tag k="phone" v="+48 91 577 71 95"/>
+	<tag k="email" v="nw-nowogard@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-422637044" lat="53.7814582" lon="15.7755283" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Świdwinie"/>
+	<tag k="addr:postcode" v="78-300"/>
+	<tag k="phone" v="+48 94 365 26 08"/>
+	<tag k="email" v="nw-swidwin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-693564812" lat="54.0081299" lon="15.9823097" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Białogardzie"/>
+	<tag k="addr:postcode" v="78-200"/>
+	<tag k="phone" v="+48 51 612 67 03"/>
+	<tag k="email" v="nw-bialogard@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-941400572" lat="54.1801514" lon="15.5708005" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kołobrzegu"/>
+	<tag k="addr:postcode" v="78-100"/>
+	<tag k="phone" v="+48 94 354 90 83"/>
+	<tag k="email" v="nw-kolobrzeg@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-864062818" lat="54.1903581" lon="16.1906304" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Koszalinie"/>
+	<tag k="addr:postcode" v="75-601"/>
+	<tag k="phone" v="+48 79 889 48 70"/>
+	<tag k="email" v="nw-koszalin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-124598849" lat="53.9992999" lon="16.9744018" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Miastku"/>
+	<tag k="addr:postcode" v="77-200"/>
+	<tag k="phone" v="+48 59 822 12 65"/>
+	<tag k="email" v="nw-miastko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-231206923" lat="54.3497839" lon="16.683137" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sławnie"/>
+	<tag k="addr:postcode" v="76-100"/>
+	<tag k="phone" v="+48 59 810 20 82"/>
+	<tag k="email" v="nw-slawno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-548484440" lat="53.1687769" lon="15.4157618" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Choszcznie"/>
+	<tag k="addr:postcode" v="73-200"/>
+	<tag k="phone" v="+48 51 505 34 59"/>
+	<tag k="email" v="nw-choszczno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1000702944" lat="53.3428257" lon="15.0521149" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Stargardzie"/>
+	<tag k="addr:postcode" v="73-100"/>
+	<tag k="email" v="nw-stargard@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-258048892" lat="53.2569184" lon="14.4892022" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gryfinie"/>
+	<tag k="addr:postcode" v="74-100"/>
+	<tag k="phone" v="+48 91 416 30 21"/>
+	<tag k="email" v="nw-gryfino@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-297856715" lat="52.9606524" lon="14.4386305" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Chojnie"/>
+	<tag k="addr:postcode" v="74-500"/>
+	<tag k="email" v="nw-chojna@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-947183539" lat="52.927674" lon="14.8751169" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Myśliborzu"/>
+	<tag k="addr:postcode" v="74-300"/>
+	<tag k="email" v="nw-mysliborz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-198550622" lat="53.9019744" lon="14.2606942" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Świnoujściu"/>
+	<tag k="addr:postcode" v="72-600"/>
+	<tag k="email" v="nw-swinoujscie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-956008412" lat="52.2338467" lon="20.9910973" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Krajowy Zarząd Gospodarki Wodnej w Warszawie"/>
+	<tag k="addr:postcode" v="00-848"/>
+	<tag k="phone" v="+48 22 372 02 60"/>
+	<tag k="email" v="kzgw@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-372745485" lat="52.103578" lon="19.9443887" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Zarząd Zlewni w Łowiczu"/>
+	<tag k="addr:postcode" v="99-400"/>
+	<tag k="phone" v="+48 66 983 36 33"/>
+	<tag k="email" v="zz-lowicz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-355770121" lat="52.8795752" lon="20.6029548" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ciechanowie"/>
+	<tag k="addr:postcode" v="06-400"/>
+	<tag k="phone" v="+48 23 674 24 36"/>
+	<tag k="email" v="nw-ciechanow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-609060393" lat="53.1166025" lon="20.3667385" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Mławie"/>
+	<tag k="addr:postcode" v="06-500"/>
+	<tag k="phone" v="+48 23 654 32 09"/>
+	<tag k="email" v="nw-mlawa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-764545247" lat="53.3689041" lon="20.404646" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nidzicy"/>
+	<tag k="addr:postcode" v="13-100"/>
+	<tag k="phone" v="+48 89 625 28 98"/>
+	<tag k="email" v="nw-nidzica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-639739003" lat="52.6195435" lon="20.3854667" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Płońsku"/>
+	<tag k="addr:postcode" v="09-100"/>
+	<tag k="phone" v="+48 23 662 26 02"/>
+	<tag k="email" v="nw-plonsk@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-789245788" lat="53.063245" lon="19.9141372" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Żurominie"/>
+	<tag k="addr:postcode" v="09-300"/>
+	<tag k="phone" v="+48 23 657 38 58"/>
+	<tag k="email" v="nw-zuromin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-258944289" lat="52.4872291" lon="20.9254841" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Dębem"/>
+	<tag k="addr:postcode" v="05-140"/>
+	<tag k="phone" v="+48 22 782 31 26"/>
+	<tag k="email" v="nw-debe@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-162968158" lat="52.8676031" lon="21.1104004" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Makowie Mazowieckim"/>
+	<tag k="addr:postcode" v="06-200"/>
+	<tag k="phone" v="+48 29 717 14 00"/>
+	<tag k="email" v="nw-makowmazowiecki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-750539882" lat="52.4331739" lon="20.7187644" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nowym Dworze Mazowieckim"/>
+	<tag k="addr:postcode" v="05-100"/>
+	<tag k="phone" v="+48 22 775 28 34"/>
+	<tag k="email" v="nw-nowydwormazowiecki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-719284477" lat="53.0206331" lon="20.8803838" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Przasnyszu"/>
+	<tag k="addr:postcode" v="06-300"/>
+	<tag k="phone" v="+48 29 752 27 39"/>
+	<tag k="email" v="nw-przasnysz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-259757614" lat="52.7058709" lon="21.0930944" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pułtusku"/>
+	<tag k="addr:postcode" v="06-100"/>
+	<tag k="phone" v="+48 23 692 34 35"/>
+	<tag k="email" v="nw-pultusk@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-414553807" lat="52.3426927" lon="21.2253118" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wołominie"/>
+	<tag k="addr:postcode" v="05-200"/>
+	<tag k="phone" v="+48 22 763 96 10"/>
+	<tag k="email" v="nw-wolomin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-839175269" lat="52.5892237" lon="21.4324455" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wyszkowie"/>
+	<tag k="addr:postcode" v="07-200"/>
+	<tag k="phone" v="+48 29 742 41 18"/>
+	<tag k="email" v="nw-wyszkow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-518173971" lat="52.11221" lon="20.6215383" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Grodzisku Mazowieckim"/>
+	<tag k="addr:postcode" v="05-852"/>
+	<tag k="phone" v="+48 22 755 50 56"/>
+	<tag k="email" v="nw-grodziskmazowiecki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-898316698" lat="52.2334222" lon="19.3568789" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kutnie"/>
+	<tag k="addr:postcode" v="99-300"/>
+	<tag k="phone" v="+48 24 357 41 16"/>
+	<tag k="email" v="nw-kutno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-501869421" lat="52.0584899" lon="19.2049214" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łęczycy"/>
+	<tag k="addr:postcode" v="99-100"/>
+	<tag k="email" v="nw-leczyca@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-277876346" lat="52.1035342" lon="19.9446071" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łowiczu"/>
+	<tag k="addr:postcode" v="99-400"/>
+	<tag k="phone" v="+48 66 983 36 33"/>
+	<tag k="email" v="nw-lowicz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-57399832" lat="51.7788444" lon="19.4593485" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Łodzi Wschód"/>
+	<tag k="addr:postcode" v="91-423"/>
+	<tag k="email" v="nw-lodz2@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-446028182" lat="51.7647565" lon="20.2511879" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Rawie Mazowieckiej"/>
+	<tag k="addr:postcode" v="96-200"/>
+	<tag k="email" v="nw-rawamazowiecka@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-515378055" lat="52.2196644" lon="20.2395805" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sochaczewie"/>
+	<tag k="addr:postcode" v="96-500"/>
+	<tag k="phone" v="+48 46 862 21 16"/>
+	<tag k="email" v="nw-sochaczew@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-602732442" lat="51.8633182" lon="19.3979157" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zgierzu"/>
+	<tag k="addr:postcode" v="95-100"/>
+	<tag k="phone" v="+48 46 832 30 10"/>
+	<tag k="email" v="nw-zgierz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-729987820" lat="51.2984568" lon="20.2951754" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Białaczowie"/>
+	<tag k="addr:postcode" v="26-307"/>
+	<tag k="phone" v="+48 44 758 11 00"/>
+	<tag k="email" v="nw-bialaczow@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-428052731" lat="51.6451428" lon="20.9489063" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Białobrzegach"/>
+	<tag k="addr:postcode" v="26-800"/>
+	<tag k="email" v="nw-bialobrzegi@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-678907405" lat="50.7734799" lon="19.6823234" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Koniecpolu"/>
+	<tag k="addr:postcode" v="42-230"/>
+	<tag k="phone" v="+48 34 355 18 81"/>
+	<tag k="email" v="nw-koniecpol@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-806797685" lat="51.1873113" lon="20.415305" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Końskich"/>
+	<tag k="addr:postcode" v="26-200"/>
+	<tag k="phone" v="+48 41 252 40 24"/>
+	<tag k="email" v="nw-konskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-815486195" lat="51.618257" lon="20.5770458" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Nowym Mieście nad Pilicą"/>
+	<tag k="addr:postcode" v="26-420"/>
+	<tag k="email" v="nw-nowemiastonadpilica@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-393864195" lat="51.4087395" lon="19.6832628" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Piotrkowie Trybunalskim"/>
+	<tag k="addr:postcode" v="97-300"/>
+	<tag k="phone" v="+48 51 196 51 62"/>
+	<tag k="email" v="nw-piotrkowtrybunalski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-751099545" lat="51.472294" lon="20.0133039" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Smardzewicach"/>
+	<tag k="addr:postcode" v="97-213"/>
+	<tag k="phone" v="+48 44 724 50 85"/>
+	<tag k="email" v="nw-smardzewice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-860823992" lat="50.8515977" lon="19.9696564" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny we Włoszczowie"/>
+	<tag k="addr:postcode" v="29-100"/>
+	<tag k="email" v="nw-wloszczowa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-899727872" lat="50.8852487" lon="21.8565334" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Annopolu"/>
+	<tag k="addr:postcode" v="23-235"/>
+	<tag k="phone" v="+48 15 861 31 60"/>
+	<tag k="email" v="nw-annopol@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-528068405" lat="51.157487" lon="21.2345043" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Iłży"/>
+	<tag k="addr:postcode" v="27-100"/>
+	<tag k="email" v="nw-ilza@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-913297872" lat="51.5857823" lon="21.5486554" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kozienicach"/>
+	<tag k="addr:postcode" v="26-900"/>
+	<tag k="email" v="nw-kozienice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-312561324" lat="50.9196497" lon="22.2168954" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Kraśniku"/>
+	<tag k="addr:postcode" v="23-200"/>
+	<tag k="phone" v="+48 81 825 24 33"/>
+	<tag k="email" v="nw-krasnik@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-606810215" lat="51.1580017" lon="21.6508511" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Lipsku"/>
+	<tag k="addr:postcode" v="27-300"/>
+	<tag k="phone" v="+48 78 325 59 55"/>
+	<tag k="email" v="nw-lipsko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-518476750" lat="51.1397292" lon="21.9783687" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Opolu Lubelskim"/>
+	<tag k="addr:postcode" v="24-300"/>
+	<tag k="phone" v="+48 51 086 74 85"/>
+	<tag k="email" v="nw-opolelubelskie@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-403207289" lat="50.9437069" lon="21.3783616" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Ostrowcu"/>
+	<tag k="addr:postcode" v="27-400"/>
+	<tag k="phone" v="+48 41 263 36 83"/>
+	<tag k="email" v="nw-ostrowiecswietokrzyski@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-109019041" lat="51.358448" lon="20.6312394" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Przysusze"/>
+	<tag k="addr:postcode" v="26-400"/>
+	<tag k="email" v="nw-przysucha@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-755129234" lat="51.4163196" lon="21.9522197" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Puławach"/>
+	<tag k="addr:postcode" v="24-100"/>
+	<tag k="phone" v="+48 81 470 82 01"/>
+	<tag k="email" v="nw-pulawy@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-375649795" lat="51.4069903" lon="21.1490813" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Radomiu"/>
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="email" v="nw-radom@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-582682066" lat="51.1179594" lon="20.865767" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Skarżysku-Kamiennej"/>
+	<tag k="addr:postcode" v="26-110"/>
+	<tag k="phone" v="+48 41 252 49 06"/>
+	<tag k="email" v="nw-skarzyskokamienna@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-212036554" lat="51.0432368" lon="21.091796" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Starachowicach"/>
+	<tag k="addr:postcode" v="27-200"/>
+	<tag k="phone" v="+48 41 274 52 94"/>
+	<tag k="email" v="nw-starachowice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-639105169" lat="51.2331202" lon="20.8639196" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Szydłowcu"/>
+	<tag k="addr:postcode" v="26-500"/>
+	<tag k="email" v="nw-szydlowiec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1057433510" lat="51.3591385" lon="21.5739405" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zwoleniu"/>
+	<tag k="addr:postcode" v="26-700"/>
+	<tag k="email" v="nw-zwolen@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-457607854" lat="51.8985271" lon="21.6111498" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Garwolinie"/>
+	<tag k="addr:postcode" v="08-400"/>
+	<tag k="phone" v="+48 87 643 28 96"/>
+	<tag k="email" v="nw-garwolin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-664343184" lat="51.8652127" lon="20.8796235" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Grójcu"/>
+	<tag k="addr:postcode" v="05-600"/>
+	<tag k="email" v="nw-grojec@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-647186766" lat="52.1862357" lon="21.5866066" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Mińsku Mazowieckim"/>
+	<tag k="addr:postcode" v="05-300"/>
+	<tag k="phone" v="+48 25 758 59 64"/>
+	<tag k="email" v="nw-minskmazowiecki@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-517749526" lat="52.0716205" lon="21.0269061" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Piasecznie"/>
+	<tag k="addr:postcode" v="05-500"/>
+	<tag k="phone" v="+48 22 756 73 04"/>
+	<tag k="email" v="nw-piaseczno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-200866754" lat="52.2986118" lon="20.9881982" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Warszawa"/>
+	<tag k="addr:postcode" v="03-194"/>
+	<tag k="phone" v="+48 22 587 04 70"/>
+	<tag k="email" v="nw-warszawa@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-147074965" lat="52.440878" lon="19.4585845" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Gostyninie"/>
+	<tag k="addr:postcode" v="09-500"/>
+	<tag k="phone" v="+48 24 235 34 92"/>
+	<tag k="email" v="nw-gostynin@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-823589009" lat="52.5459267" lon="19.6957763" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Płocku"/>
+	<tag k="addr:postcode" v="09-402"/>
+	<tag k="phone" v="+48 24 269 79 95"/>
+	<tag k="email" v="nw-plock@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-853206191" lat="52.8458771" lon="19.6626505" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sierpcu"/>
+	<tag k="addr:postcode" v="09-200"/>
+	<tag k="phone" v="+48 24 275 23 02"/>
+	<tag k="email" v="nw-sierpc@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-1002731799" lat="52.6528669" lon="19.1339632" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny we Włocławku"/>
+	<tag k="addr:postcode" v="87-800"/>
+	<tag k="phone" v="+48 54 233 93 95"/>
+	<tag k="email" v="nw-wloclawek@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-213334815" lat="52.3910009" lon="20.1908918" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wyszogrodzie"/>
+	<tag k="addr:postcode" v="09-450"/>
+	<tag k="phone" v="+48 24 362 03 10"/>
+	<tag k="email" v="nw-wyszogrod@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-864420894" lat="51.6638909" lon="19.3566557" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pabianice"/>
+	<tag k="addr:postcode" v="95-200"/>
+	<tag k="phone" v="+48 57 390 16 82"/>
+	<tag k="email" v="nw-pabianice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-367088402" lat="51.1469719" lon="18.9918897" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Pajęcznie"/>
+	<tag k="addr:postcode" v="98-300"/>
+	<tag k="phone" v="+48 34 311 11 43"/>
+	<tag k="email" v="nw-pajeczno@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-327817466" lat="51.8850647" lon="18.959498" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Poddębicach"/>
+	<tag k="addr:postcode" v="99-200"/>
+	<tag k="phone" v="+48 57 390 16 96"/>
+	<tag k="email" v="nw-poddebice@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-719364093" lat="51.07288" lon="19.4388395" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Radomsku"/>
+	<tag k="addr:postcode" v="97-500"/>
+	<tag k="phone" v="+48 57 390 16 81"/>
+	<tag k="email" v="nw-radomsko@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-158284154" lat="51.5728394" lon="18.7180868" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Sieradzu"/>
+	<tag k="addr:postcode" v="98-200"/>
+	<tag k="phone" v="+48 57 390 16 95"/>
+	<tag k="email" v="nw-sieradz@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-942242011" lat="51.2276412" lon="18.5836698" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Wieluniu"/>
+	<tag k="addr:postcode" v="98-300"/>
+	<tag k="phone" v="+48 57 390 16 97"/>
+	<tag k="email" v="nw-wielun@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-309630242" lat="50.4820754" lon="19.4238184" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zawierciu"/>
+	<tag k="addr:postcode" v="42-400"/>
+	<tag k="phone" v="+48 57 390 16 98"/>
+	<tag k="email" v="nw-zawiercie@wody.gov.p"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node>
+<node id="-433783135" lat="51.5971626" lon="18.9445762" version="1" timestamp="2024-11-27T19:21:23.494378Z" action="modify"   >
+	<tag k="name" v="Nadzór Wodny w Zduńskiej Woli"/>
+	<tag k="addr:postcode" v="98-220"/>
+	<tag k="phone" v="+48 57 390 16 84"/>
+	<tag k="email" v="nw-zdunskawola@wody.gov.pl"/>
+	<tag k="office" v="government"/>
+	<tag k="operator" v="Państwowe Gospodarstwo Wodne Wody Polskie"/>
+	<tag k="government" v="water"/>
+	<tag k="source:office" v="Państwowe Gospodarstwo Wodne Wody Polskie - dane kontaktowe na dzień 27.11.2024"/>
+</node></osm>

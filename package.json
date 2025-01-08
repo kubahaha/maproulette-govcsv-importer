@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@maproulette/mr-cli": "^0.0.5"
+  }
+}

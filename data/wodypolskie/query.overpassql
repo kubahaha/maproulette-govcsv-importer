@@ -1,0 +1,1 @@
+/home/kuba/JOSM/maproulette/maproulette-govcsv-importer/data/wodypolskie/query.overpass

@@ -1,0 +1,390 @@
+X,Y,Name,adres,telefon,email
+22.9921467,53.8430234,Zarząd Zlewni w Augustowie,ul. 29 listopada 5 16-300 Augustów,+48 (87) 643 28 07,zz-augustow@wody.gov.pl
+23.119253,53.1175059,Zarząd Zlewni w Białymstoku,ul. Handlowa 6 15-399 Białystok,+48 (85) 748 12 00,zz-bialystok@wody.gov.pl
+21.7642157,54.0347491,Zarząd Zlewni w Giżycku,ul. Wodna 4 11-500 Giżycko,+48 (87) 428 39 92,zz-gizycko@wody.gov.pl
+20.4811136,53.7818147,Zarząd Zlewni w Olsztynie,ul. Partyzantów 1/2 10-526 Olsztyn,+48 (89) 521 71 00,zz-olsztyn@wody.gov.pl
+21.5701952,53.0752243,Zarząd Zlewni w Ostrołęce,ul. Poznańska 19 07-409 Ostrołęka,+48 (29) 760 32 26,zz-ostroleka@wody.gov.pl
+22.9942494,53.8452007,Nadzór Wodny w Augustowie,ul. Portowa 12 16-300 Augustów,87 643 28 96,nw-augustow@wody.gov.pl
+22.3414351,53.8325714,Nadzór Wodny w Ełku,ul. Kajki 10 19-300 Ełk,87 610 03 07,nw-elk@wody.gov.pl
+22.455845,53.6487973,Nadzór Wodny w Grajewie,ul. Ełcka 7 19-200 Grajewo,86 272 26 49,nw-grajewo@wody.gov.pl
+22.4965043,54.0387372,Nadzór Wodny w Olecku,ul. Wojska Polskiego 5 19-400 Olecko,87 523 30 11,nw-olecko@wody.gov.pl
+22.9351968,54.086069,Nadzór Wodny w Suwałkach,ul. Sportowa 22 16-400 Suwałki,87 566 32 21,nw-suwalki@wody.gov.pl
+23.1163378,53.1168692,Nadzór Wodny w Białymstoku,ul. Handlowa6 15-399 Białystok,85 748 12 05,nw-bialystok@wody.gov.pl
+23.191203,52.774682,Nadzór Wodny w Bielsku Podlaskim,ul. Żwirki i Wigury 15 17-100 Bielsk Podlaski,85 655 05 93,nw-bielskpodlaski@wody.gov.pl
+22.8806851,52.991749,Nadzór Wodny w Łapach,ul. Armii Krajowej 1 18-100 Łapy,85 733 03 51,nw-lapy@wody.gov.pl
+22.8073969,53.4028797,Nadzór Wodny w Mońkach,ul. Tysiąclecia 23 B 19-100 Mońki,85 733 03 52,nw-monki@wody.gov.pl
+23.517094,53.4028409,Nadzór Wodny w Sokółce,ul. Wodna 7 16-100 Sokółka,85 711 29 45,nw-sokolka@wody.gov.pl
+21.7642586,54.0346672,Nadzór Wodny w Giżycku,ul. Wodna 4 11-500 Giżycko,87 444 06 30,nw-gizycko@wody.gov.pl
+22.3013872,54.3094091,Nadzór Wodny w Gołdapi,ul. Żeromskiego 8 A 19-500 Gołdap,87 615 10 46,nw-goldap@wody.gov.pl
+21.9286514,53.409238,Nadzór Wodny w Kolnie,ul. Dąbrowskiej 4 18-500 Kolno,86 444 23 01,nw-kolno@wody.gov.pl
+21.5666234,53.8013588,Nadzór Wodny w Mikołajkach,ul. Mrągowska 10 11-730 Mikołajki,87 444 06 32,nw-mikolajki@wody.gov.pl
+21.8138977,53.6241275,Nadzór Wodny w Piszu,ul. Warszawska 21 12-200 Pisz,87 423 31 92,nw-pisz@wody.gov.pl
+21.7397036,54.2118401,Nadzór Wodny w Węgorzewie,ul. Plac Wolności 7 11-600 Węgorzewo,87 444 06 31,nw-wegorzewo@wody.gov.pl
+20.8153653,54.2508736,Nadzór Wodny w Bartoszycach,ul. Grota Roweckiego 1 11-200 Bartoszyce,89 762 24 63,nw-bartoszyce@wody.gov.pl
+21.3729557,54.0780068,Nadzór Wodny w Kętrzynie,Pl. Marszałka Józefa Piłsudskiego 1 11-400 Kętrzyn,89 650-05-30,nw-ketrzyn@wody.gov.pl
+20.588659,54.1255347,Nadzór Wodny w Lidzbarku Warmińskim,ul. Stefana Wyszyńskiego 37 11-100 Lidzbark Warmiński,89 650 05 31,nw-lidzbarkwarminski@wody.gov.pl
+21.2977566,53.8804593,Nadzór Wodny w Mrągowie,ul. Widok 7 11-700 Mrągowo,89 741 36 12,nw-mragowo@wody.gov.pl
+20.481544,53.7818313,Nadzór Wodny w Olsztynie,ul. Partyzantów 1/2 10-526 Olsztyn,89 52 17 115,nw-olsztyn@wody.gov.pl
+22.0542191,53.1680051,Nadzór Wodny w Łomży,ul. Al. J. Piłsudskiego 70 18-400 Łomża,86 218 54 81,nw-lomza@wody.gov.pl
+21.5640936,53.0825186,Nadzór Wodny w Ostrołęce,ul. Nadnarwiańska 2  07-400 Ostrołęka,29 764 20 96,nw-ostroleka@wody.gov.pl
+20.9827298,53.5542769,Nadzór Wodny w Szczytnie,ul. Sobieszczańskiego 24  12-100 Szczytno,89 624 30 92,nw-szczytno@wody.gov.pl
+22.2428448,52.9870235,Nadzór Wodny w Zambrowie,ul. RTM Witolda Pileckiego 5 18-300 Zambrów,86 444 23 00,nw-zambrow@wody.gov.pl
+18.1276627,53.1279188,"Nadzór Wodny w Bydgoszczy",ul. Łowicka 82 85-776 Bydgoszcz,+48 (52) 365 2190,nw-gd-bydgoszcz@wody.gov.pl
+23.185635,53.1440787,Regionalny Zarząd Gospodarki Wodnej w Białymstoku,ul. Pułkowa 11 15-143 Białystok,+48 (85) 733 03 20,bialystok@wody.gov.pl
+18.0129887,53.1312722,Regionalny Zarząd Gospodarki Wodnej w Bydgoszczy,Al. Adama Mickiewicza 15 85-071 Bydgoszcz,+48 (52) 33 91 100,bydgoszcz@wody.gov.pl
+18.2583507,52.7963722,Zarząd Zlewni w Inowrocławiu,ul. Królowej Jadwigi 20 88-100 Inowrocław,+48 (52) 356-57-50,zz-inowroclaw@wody.gov.pl
+16.7582381,53.1303509,Zarząd Zlewni w Pile,ul. Motylewska 7 64-920 Piła,+48 672 123 244,zz-pila@wody.gov.pl
+17.9970451,53.1272461,Nadzór Wodny w Bydgoszczy,ul. Konarskiego 1-3  85-066 Bydgoszcz,606 774 125,nw-bydgoszcz@wody.gov.pl
+16.8830236,53.0280135,Nadzór Wodny w Chodzieży,Milcz 4B 64-800 Milcz,67 348 66 60,nw-chodziez@wody.gov.pl
+18.2609034,52.7990291,Nadzór Wodny w Inowrocławiu,ul. Toruńska 25 88-100 Inowrocław,52 357 40 66,nw-inowroclaw@wody.gov.pl
+17.9516012,52.66162,Nadzór Wodny w Mogilnie,ul. Ogrodowa 10 88-300 Mogilno,,nw-mogilno@wody.gov.pl
+17.5996129,53.1332338,"Nadzór Wodny w Nakle nad Notecią",ul. Hallera 23a 89-100 Nakło nad Notecią,52 385 22 86,nw-naklonadnotecia@wody.gov.pl
+18.5267105,52.6245767,Nadzór Wodny w Radziejowie,ul. Rynek 1 88-200 Radziejów,+48 54 230 35 76,nw-radziejow@wody.gov.pl
+17.4869623,53.3563018,Nadzór Wodny w Więcborku,Al. 600-lecia 9 89-410 Więcbork,52 389 70 40,nw-wiecbork@wody.gov.pl
+17.7229213,52.8460255,Nadzór Wodny w Żninie,Plac Wolności 21 88-400 Żnin,+48 604 492 340,nw-znin@wody.gov.pl
+15.7986364,53.5302471,"Nadzór Wodny w Drawsku Pomorskim",ul. Marynarska 9 78-500 Drawsko Pomorskie,+48 94 363 07 53,nw-drawskopomorskie@wody.gov.pl
+15.8437363,52.8527034,Nadzór Wodny w Drezdenku,ul. Portowa 21 66-530 Drezdenko,+48 95 762 01 55,nw-drezdenko@wody.gov.pl
+16.7587852,53.1304089,"Nadzór Wodny w Pile",ul. Motylewska 7 64-920 Piła,+48 606 774 122,nw-pila@wody.gov.pl
+15.5226229,52.8731288,"Nadzór Wodny w Strzelcach Krajeńskich",ul. Gorzowska 15 66-500 Strzelce Krajeńskie,+48 95 763 22 59,nw-strzelcekrajenskie@wody.gov.pl
+16.6930979,53.7068936,"Nadzór Wodny w Szczecinku",ul. Mickiewicza 2 78-400 Szczecinek,+48 94 374 09 71,nw-szczecinek@wody.gov.pl
+16.4510555,53.039447,Nadzór Wodny w Trzciance,ul. Wieleńska 1 64-980 Trzcianka,+48 67 210 19 32,nw-trzcianka@wody.gov.pl
+16.1564144,53.1946943,Nadzór Wodny w Tucznie,ul. Wolności 6 78-640 Tuczno,+48 67 250 81 84,nw-tuczno@wody.gov.pl
+16.4878003,53.2777798,"Nadzór Wodny w Wałczu","ul. Wojska Polskiego 2-6,lok. 102L 78-600 Wałcz",+48 532 032 654,nw-walcz@wody.gov.pl
+16.1698751,52.896735,Nadzór Wodny w Wieleniu,ul. Błonie 29 64-730 Wieleń,+48 882 062 904,nw-wielen@wody.gov.pl
+17.0509252,53.3541807,Nadzór Wodny w Złotowie,ul. Za Dworcem 9 77-400 Złotów,+48 67 263 27 48,nw-zlotow@wody.gov.pl
+17.0631103,51.1110965,Regionalny Zarząd Gospodarki Wodnej we Wrocławiu,ul. Norwida 34 50-950 Wrocław,71 337 88 00,
+16.1512816,51.2017229,Zarząd Zlewni w Legnicy,ul. Macieja Rataja 32 59-220 Legnica,+48 76 862 70 08,zz-legnica@wody.gov.pl
+16.5740555,51.8341238,Zarząd Zlewni w Lesznie,ul. Chociszewskiego 12 64-100 Leszno,+48 65 547 61 30,zz-leszno@wody.gov.pl
+15.5939049,51.1057844,Zarząd Zlewni w Lwówku Śląskim,ul. Jaśkiewicza 24 59-600 Lwówek Śląski,+48 75 782 46 02,zz-lwowekslaski@wody.gov.pl
+17.3357552,50.4788114,Zarząd Zlewni w Nysie,ul. Ogrodowa 4 48-300 Nysa,+48 77 431 51 72,zz-nysa@wody.gov.pl
+17.0653579,51.1071202,Zarząd Zlewni we Wrocławiu,ul. Wybrzeże Wyspiańskiego 39 50-370 Wrocław,+48 71 757 20 64,zz-wroclaw@wody.gov.pl
+15.0143936,51.1585657,Zarząd Zlewni w Zgorzelcu,ul. Lubańska 9a 59-900 Zgorzelec,+48 65 547 61 70,zz-zgorzelec@wody.gov.pl
+16.6532629,50.7273418,Nadzór Wodny w Dzierżoniowie,ul. Ząbkowicka 26 58-200 Dzierżoniów,74 810 39 41,nw-dzierzoniow@wody.gov.pl
+16.1999781,51.0568815,Nadzór Wodny w Jaworze,ul. Kuziennicza 13 59-400 Jawor,76 818 00 68,nw-jawor@wody.gov.pl
+16.151067,51.2016355,Nadzór Wodny w Legnicy,ul. M. Rataja 32 59-220 Legnica,76 862 44 60,nw-legnica@wody.gov.pl
+16.5088578,50.8350368,Nadzór Wodny w Świdnicy,ul. Towarowa 12-14 58-100 Świdnica,74 852 30 58,nw-swidnica@wody.gov.pl
+16.2802675,50.7678259,"Nadzór Wodny w Wałbrzychu",ul. Słowackiego 23 a 58-300 Wałbrzych,74 842 12 77,nw-walbrzych@wody.gov.pl
+15.9150633,51.1247437,Nadzór Wodny w Złotoryi,ul. Szkolna 8C/1 59-500 Złotoryja,76 818 00 67,nw-zlotoryja@wody.gov.pl
+16.5368869,51.6637398,"Nadzór Wodny w Górze",ul. Armii Polskiej 15 56-200 Góra,605 522 244,nw-gora@wody.gov.pl
+17.4361952,51.6954301,"Nadzór Wodny w Krotoszynie",ul. Rynek 1/12 63-700 Krotoszyn,691 234 509,nw-krotoszyn@wody.gov.pl
+16.6552957,51.7975914,Nadzór Wodny w Lesznie,ul. Nad Zalewem 20  64-130 Dąbcze,691 232 214,nw-leszno@wody.gov.pl
+17.2746034,51.5292383,"Nadzór Wodny w Miliczu",ul. 1 Maja 1A 56-300 Milicz,65 547 61 37,nw-milicz@wody.gov.pl
+17.9284179,51.4277863,"Nadzór Wodny w Ostrzeszowie",ul. Zamkowa 16a 63-500 Ostrzeszów,65 547 61 48,nw-ostrzeszow@wody.gov.pl
+16.8667636,51.6123231,Nadzór Wodny w Rawiczu,ul. Sarnowska 2 63-900 Rawicz,605 522 244,nw-rawicz@wody.gov.pl
+17.0669889,51.3148279,Nadzór Wodny w Trzebnicy,ul. Milicka 23 55-100 Trzebnica,71 312 04 01,nw-trzebnica@wody.gov.pl
+15.5702473,51.2620234,Nadzór Wodny w Bolesławcu,ul. M.J. Piłsudskiego 1 59-700 Bolesławiec,603 974 798,nw-boleslawiec@wody.gov.pl
+15.6921502,50.8231474,Nadzór Wodny w Jeleniej Górze,ul. Nowa 6b 58-562 Podgórzyn,75 752 85 60,nw-jeleniagora@wody.gov.pl
+16.0282908,50.7818378,Nadzór Wodny w Kamiennej Górze,ul. Sienkiewicza 6a 58-400 Kamienna Góra,603 248 393,nw-kamiennagora@wody.gov.pl
+15.3024563,51.1227768,"Nadzór Wodny w Lubaniu",ul. Dolna 8 59-800 Lubań,509 725 142,nw-luban@wody.gov.pl
+15.5940444,51.1055756,Nadzór Wodny w Lwówku Śląski,ul. Jaśkiewicza 24 59-600 Lwówek Śląski,75 782 46 02,NadzorWodny.LwowekSlaski@wody.gov.pl
+16.0677178,51.5025459,"Nadzór Wodny w Polkowicach",ul. Górna 6 59-100 Polkowice,605 421 170,nw-polkowice@wody.gov.pl
+15.5386457,51.5658611,Nadzór Wodny w Szprotawie,ul. Odrodzenia 8  67-300 Szprotawa,+48 (68) 352 47 20,nw-szprotawa@wody.gov.pl
+15.3213233,51.6123669,Nadzór Wodny w Żaganiu,ul. Rybacka 38 68-100 Żagań,68 478 55 58,nw-zagan@wody.gov.pl
+17.2986349,50.4694299,Nadzór Wodny w Otmuchowie,ul. Słoneczna 1a 48-304 Nysa,77 551 66 00,nw-otmuchow@wody.gov.pl
+16.648207,50.4364481,Nadzór Wodny w Kłodzku,ul. Kościuszki 1 57-300 Kłodzko,74 867 44 94,nw-klodzko@wody.gov.pl
+16.8111702,50.5888504,"Nadzór Wodny w Ząbkowicach Śląskich",ul. Kolejowa 1 57-200 Ząbkowice Śląskie,74 810 39 49,nw-zabkowiceslaskie@wody.gov.pl
+17.4719505,50.855067,Nadzór Wodny w Brzegu,ul. Trzech Kotwic 6 49-300 Brzeg,77 402 63 41,nw-brzeg@wody.gov.pl
+16.0835755,51.6676781,Nadzór Wodny w Głogowie,ul. Poczdamska 1 67-200 Głogów,76 831 31 57,nw-glogow@wody.gov.pl
+16.2100246,51.4015368,Nadzór Wodny w Lubinie,ul. Księcia Ludwika I 3 59-300 Lubin,76 840 31 66,nw-lubin@wody.gov.pl
+17.7208313,51.0739326,Nadzór Wodny w Namysłowie,pl. Wolności 12 46-100 Namysłów,+48 (77) 402 63 85,nw-namyslow@wody.gov.pl
+17.3714017,51.2038362,Nadzór Wodny w Oleśnicy,ul. Wiejska 2 56-400 Oleśnica,71 314 39 14,nw-olesnica@wody.gov.pl
+17.2961999,50.9456185,"Nadzór Wodny w Oławie",ul. 11 Listopada 23C 55-200 Oława,532-032-888,nw-olawa@wody.gov.pl
+17.0600074,50.7797592,Nadzór Wodny w Strzelinie,ul. Kamienna 10  57-100 Strzelin,71 392 07 16,nw-strzelin@wody.gov.pl
+16.6070581,51.1630014,Nadzór Wodny w Środzie Śląskiej,ul. Wrocławska 44 55-300 Środa Śląska,71 317 34 62,nw-srodaslaska@wody.gov.pl
+16.6254031,51.3390474,Nadzór Wodny w Wołowie,ul. Ścinawska 24 56-100 Wołów,71 389 13 88,nw-wolow@wody.gov.pl
+17.1234238,51.1015103,Nadzór Wodny we Wrocławiu,ul. Braci Gierymskich 149A 51-640 Wrocław,71 347 76 38,nw-wroclaw@wody.gov.pl
+14.9722451,51.7851668,Nadzór Wodny w Lubsku,ul. Niepodległości 1 68-300 Lubsko,68 457 21 91,nw-lubsko@wody.gov.pl
+15.0114609,51.14565,Nadzór Wodny w Zgorzelcu,ul. Maratońska 1 59-900 Zgorzelec,75 775 20 18,nw-zgorzelec@wody.gov.pl
+15.0988381,52.0472503,"Nadzór Wodny w Krosno Odrzańskie",ul. Zamkowa 1 66-600 Krosno Odrzańskie,68 383 52 58,nw-krosnoodrzanskie@wody.gov.pl
+15.7184542,51.8025643,"Nadzór Wodny w Nowej Soli",ul. Pocztowa 9 67-100 Nowa Sól,68 352 41 55,nw-nowasol@wody.gov.pl
+16.0683882,51.8860711,Nadzór Wodny w Sławie,ul. Ogrodowa 1 67-410 Sława,68 352 46 14,nw-slawa@wody.gov.pl
+14.5836522,52.3443158,"Nadzór Wodny w Słubicach",ul. 1 Maja 35  69-100 Słubice,95 758 27 22,nw-slubice@wody.gov.pl
+15.6109893,52.0872395,"Nadzór Wodny w Sulechowie",ul. Prosta 8 66-100 Sulechów,68 320 18 36,nw-sulechow@wody.gov.pl
+16.3245706,51.8071695,Nadzór Wodny we Wschowie,Pl. Kosynierów 1 67-400 Wschowa,65 511 45 15,nw-wschowa@wody.gov.pl
+15.4966051,51.9292205,"Nadzór Wodny w Zielonej Górze",ul. Ptasia 2a 65-514 Zielona Góra,68 453 72 22,nw-zielonagora@wody.gov.pl
+15.4968344,51.9293578,Zarząd Zlewni w Zielonej Górze,ul. Ptasia 2B 65-514 Zielona Góra,+48 (68) 452 76 00,zz-zielonagora@wody.gov.pl
+18.6399216,54.3492919,Regionalny Zarząd Gospodarki Wodnej w Gdańsku,ul. ks. Franciszka Rogaczewskiego 9/19 80-804 Gdańsk,+48 58 3261 888,gdansk@wody.gov.pl
+17.5711009,53.6863244,Zarząd Zlewni w Chojnicach,ul. Łużycka 1A 89-600 Chojnice,+48 52 397 52 02,zz-chojnice@wody.gov.pl
+19.3986639,54.1463946,Zarząd Zlewni w Elblągu,ul. Junaków 3 82-300 Elbląg,+48 55 232 57 25,zz-elblag@wody.gov.pl
+18.5936752,54.3847687,Zarząd Zlewni w Gdańsku,al. Grunwaldzka 184  80-266 Gdańsk,+48 58 55 99 216,zz-gdansk@wody.gov.pl
+18.7779965,54.0703008,Zarząd Zlewni w Tczewie,ul. 30 Stycznia 50 83 - 110 Tczew,+48 58 531 36 47,zz-tczew@wody.gov.pl
+18.5929639,53.0075847,Zarząd Zlewni w Toruniu,ul. Popiełuszki 3 87- 100 Toruń,+48 56 657 78 41,zz-torun@wody.gov.pl
+17.5709776,53.6862609,Nadzór Wodny w Chojnicach,ul. Łużycka 1A 89-600 Chojnice,+48 52 336 03 23,nw-chojnice@wody.gov.pl
+17.360678,53.6687312,Nadzór Wodny w Człuchowie,ul. Wojska Polskiego 5 77-300 Człuchów,59 83 43 384,nw-czluchow@wody.gov.pl
+18.405794,53.4008987,Nadzór Wodny w Świeciu,ul. Fabryczna 2 86-105 Świecie,+48 572 342 645,nw-swiecie@wody.gov.pl
+17.8803331,53.5768362,"Nadzór Wodny w Tucholi",ul. Świecka 95 89-500 Tuchola,+48 572 342 641,nw-tuchola@wody.gov.pl
+19.828822,54.3877564,Nadzór Wodny w Braniewie,ul. 9 Maja 38 14-500 Braniewo,+48 (55) 243 28 73,nw-braniewo@wody.gov.pl
+19.3984171,54.146536,Nadzór Wodny w Elblągu,ul. Warszawska 129 82-300 Elbląg,55 232 44 65,nw-elblag@wody.gov.pl
+19.0735204,54.0395904,Nadzór Wodny w Malborku,ul. Zieleniecka 27 82-200 Malbork,+48 (55) 272 34 25,nw-malbork@wody.gov.pl
+19.116242,54.2153496,"Nadzór Wodny w Nowym Dworze Gdańskim",ul. Podmiejska 3 82-100 Nowy Dwór Gdański,+48 55 246 26 49,nw-nowydworgdanski@wody.gov.pl
+20.2900811,53.5865772,Nadzór Wodny w Olsztynku,ul. Mrongowiusza 30 11-015 Olsztynek,+48 89 519 56 24,nw-olsztynek@wody.gov.pl
+20.1351315,54.1167167,Nadzór Wodny w Ornecie,"ul. Mickiewicza 4 11-130 Orneta",55 230 43 46,nw-orneta@wody.gov.pl
+17.4897236,54.1868679,Nadzór Wodny w Bytowie,ul.Wybickiego 2 77-100 Bytów,+48 (59) 822 13 60,nw-bytow@wody.gov.pl
+18.6450234,54.3922061,Nadzór Wodny w Gdańsku,Al. Grunwaldzka 184 80-266 Gdańsk,+48 58 55 99 228,nw-gdansk@wody.gov.pl
+18.5251433,54.5203437,Nadzór Wodny w Gdyni,ul. Kołłątaja 1 81-332 Gdynia,58 735-63-54,nw-gdynia@wody.gov.pl
+18.2028173,54.3324721,Nadzór Wodny w Kartuzach,ul. Kościuszki 12 83-300 Kartuzy,58 681-00-16,nw-kartuzy@wody.gov.pl
+17.7561137,54.5343595,Nadzór Wodny w Lęborku,ul. Bolesława Krzywoustego 1 84-300 Lębork,59 862-13-00,nw-lebork@wody.gov.pl
+18.639742,54.2505559,"Nadzór Wodny w Pruszczu Gdańskim",ul. Nowowiejskiego 22 A 83-000 Pruszcz Gdański,601 830 828,nw-pruszczgdanski@wody.gov.pl
+18.4114135,54.7202914,Nadzór Wodny w Pucku,ul. Stary Rynek 1 84-100 Puck,58 673-29-11,nw-puck@wody.gov.pl
+18.3631231,54.6102628,Nadzór Wodny w Redzie,ul. Kazimierska 55 84-240 Reda,58 678-64-07,nw-reda@wody.gov.pl
+17.0337326,54.4660964,Nadzór Wodny w Słupsku,ul. F. Nullo 6 76-200 Słupsk,59 840 07 90,nw-slupsk@wody.gov.pl
+18.7522534,53.489409,Nadzór Wodny w Grudziądzu,ul. Curie-Skłodowskiej 10 86-300 Grudziądz,+48 56 461 30 02,nw-grudziadz@wody.gov.pl
+19.5782927,53.5842758,Nadzór Wodny w Iławie,ul. Lubawska 3 14-200 Iława,+48 89 644 86 06,nw-ilawa@wody.gov.pl
+17.9986956,54.1231385,Nadzór Wodny w Kościerzynie,ul. Przemysłowa 7F 83-400 Kościerzyna,58 686 37 93,nw-koscierzyna@wody.gov.pl
+18.9242256,53.7291152,Nadzór Wodny w Kwidzynie,ul. 11 Listopada 18a 82-500 Kwidzyn,+48 55 279 25 62,nw-kwidzyn@wody.gov.pl
+18.5302325,53.9692049,"Nadzór Wodny w Starogardzie",ul. Hallera 13 83-200 Starogard Gdański,+48 58 562 23 32,nw-starogardgdanski@wody.gov.pl
+18.7781788,54.0703858,Nadzór Wodny w Tczewie,ul. 30 Stycznia 50 83-110 Tczew,+48 (58) 530 41 20,nw-tczew@wody.gov.pl
+18.9460189,53.2756354,Nadzór Wodny w Wąbrzeźnie,ul. Wolności 44 87-200 Wąbrzeźno,+48 (56) 688 24 50,nw-wabrzezno@wody.gov.pl
+18.6958685,52.8821352,"Nadzór Wodny w Aleksandrowie Kujawskim","ul. Wyspiańskiego 4,87-700 Aleksandrów Kujawski",+48 54 233 06 87,nw-aleksandrowkujawski@wody.gov.pl
+19.4067753,53.2580539,Nadzór Wodny w Brodnicy,ul. Aleja Leśna 2 87-300 Brodnica,56 649 82 57,nw-brodnica@wody.gov.pl
+18.4743351,53.379185,Nadzór Wodny w Chełmnie,Nowe Dobra 99a 86-200 Chełmno,+48 56 676 19 71,nw-chelmno@wody.gov.pl
+19.0634996,53.1042812,"Nadzór Wodny w Golubiu-Dobrzyniu",ul. Sokołowska 11 87-400 Golub Dobrzyń,572 338 675,nw-golubdobrzyn@wody.gov.pl
+19.1966347,52.849244,"Nadzór Wodny w Lipnie",ul. Skępska 25a 87- 600 Lipno,+48 54 233 13 76,nw-lipno@wody.gov.pl
+19.588111,53.4275393,"Nadzór Wodny w Nowym Mieście Lubawskim",ul. Grunwaldzka 3 13-300 Nowe Miasto Lubawskie,+48 572 338 365,nw-nowemiastolubawskie@wody.gov.pl
+19.9582169,53.7085951,Nadzór Wodny w Ostródzie,ul. Mickiewicza 42 14-100 Ostróda,+48 89 646 2523,nw-ostroda@wody.gov.pl
+19.4193869,53.0650926,Nadzór Wodny w Rypinie,ul. Ks. Lissowskiego 9 87-500 Rypin,+48 54 230 50 33,nw-rypin@wody.gov.pl
+18.5935057,53.0076121,Nadzór Wodny w Toruniu,ul. Popiełuszki 3 87-100 Toruń,515 275 065,nw-torun@wody.gov.pl
+19.9285488,50.0598233,Regionalny Zarząd Gospodarki Wodnej w Krakowie,ul. Marszałka J. Piłsudskiego 22 31-109 Kraków,+48 12 62-84-106,krakow@wody.gov.pl
+20.6248944,50.886793,Zarząd Zlewni w Kielcach,ul. Robotnicza 5 25-662 Kielce,+48 (41) 334 00 98,zz-kielce@wody.gov.pl
+19.925373,50.0557059,Zarząd Zlewni w Krakowie,ul. Morawskiego 5 30-102 Kraków,(12) 62-90-600,zz-krakow@wody.gov.pl
+20.7050933,49.6271241,Zarząd Zlewni w Nowym Sączu,ul. Naściszowska 31 33-300 Nowy Sącz,+48 (18) 441 37 89,zz-nowysacz@wody.gov.pl
+21.7507975,50.6791282,Zarząd Zlewni w Sandomierzu,ul. Długosza 4a 27-600 Sandomierz,+48 (12) 62 84 242,zz-sandomierz@wody.gov.pl
+19.1967678,49.6908651,Zarząd Zlewni w Żywcu,ul. Armii Krajowej 10 34-300 Żywiec,+48 (12) 628 41 32,zz-zywiec@wody.gov.pl
+20.7190889,50.4627475,Nadzór Wodny w Busku Zdroju,ul. Kopernika 6 28-100 Busko Zdrój,+48 532 033 307,nwbusko@wody.gov.pl
+20.2971119,50.6396694,Nadzór Wodny w Jędrzejowie,ul. Przypkowskiego 28a 28-300 Jędrzejów,+48 532 033 140,nwjedrzejow@wody.gov.pl
+20.6245651,50.8861484,Nadzór Wodny w Kielcach,ul. Robotnicza 5  25-662 Kielce,+48 (41) 342 52 24,nwkielce@wody.gov.pl
+20.4829459,50.2681785,"Nadzór Wodny w Kazimierzy Wielkiej",ul. Partyzantów 29 28-500 Kazimierza Wielka,+48 523 033 138,nw-kazimierza@wody.gov.pl
+20.4290965,49.9853707,Nadzór Wodny w Bochni,ul. Proszowska 72 32-700 Bochnia,+48 691 831 838,nwbochnia@wody.gov.pl
+20.6018501,49.9696205,Nadzór Wodny w Brzesku,ul. Kościuszki 33 32-800 Brzesko,+48 (14) 663 10 02,nw-brzesko@wody.gov.pl
+19.798774,50.045879,Nadzór Wodny w Krakowie,ul. Kryspinów 278 32-060 Liszki,+48 (12) 62 90 680,nwkrakow@wody.gov.pl
+19.9550363,49.8326024,Nadzór Wodny w Myślenicach,ul. Drogowców 6 32-400 Myślenice,+48 (12) 62 84 160,nwmyslenice@wody.gov.pl
+19.2131796,50.0441985,Nadzór Wodny w Oświęcimiu,ul. Strzelecka 10 32-600 Oświęcim,+48 607 594 515,nw-oswiecim@wody.gov.pl
+20.3002922,50.1976526,Nadzór Wodny w Proszowicach,ul. Brodzińskiego 28 32-100 Proszowice,+48 693 255 254,nw-proszowice@wody.gov.pl
+20.9526859,49.627024,Nadzór Wodny w Grybowie,ul. Armii Krajowej 21 33-330 Grybów,+48 667 623 630,nwgrybow@wody.gov.pl
+20.4172785,49.6995625,Nadzór Wodny w Limanowej,ul. Żwirki i Wigury 1  34-600 Limanowa,+48 573 443 883,nwlimanowa@wody.gov.pl
+20.8977774,49.3563459,"Nadzór Wodny w Muszynie",ul. Rynek 14 33-370 Muszyna,667 643 642,nwmuszyna@wody.gov.pl
+20.695121,49.6336171,Nadzór Wodny w Nowym Sączu,"ul. Głowackiego 34 a 33-300 Nowy Sącz",+48 667 643 640;,nw-nowysacz@wody.gov.pl
+20.0010489,49.4684105,Nadzór Wodny w Nowym Targu,ul. Ludźmierska 34 34-400 Nowy Targ,+48 573 443 879,nwnowytarg@wody.gov.pl
+20.9881461,49.9994318,"Nadzór Wodny w Tarnowie",ul. Ostrogskich 5 33-100 Tarnów,+48 573 443 885,nwtarnow@wody.gov.pl
+19.9645328,49.3056048,Nadzór Wodny w Zakopanem,"ul. Szymony 17 a 34-500 Zakopane",+48 609 272 279,nwzakopane@wody.gov.pl
+20.9777055,50.1769427,Nadzór Wodny w Dąbrowie Tarnowskiej,ul. Szpitalna 1 33-200 Dąbrowa Tarnowska,+48 609 263-269,nw-dabrowatarnowska@wody.gov.pl
+21.4327422,50.7987372,Nadzór Wodny w Opatowie,ul. Sienkiewicza 38 27-500 Opatów,+48 609 245 241,nwopatow@wody.gov.pl
+21.2800721,50.4267081,Nadzór Wodny w Połańcu,ul. Stefana Czarneckiego 2 28-230 Połaniec,608 292 185,nwpolaniec@wody.gov.pl
+21.7384659,50.6796861,Nadzór Wodny w Sandomierzu,ul. Staromiejska 14 27-600 Sandomierz,+48 (15) 833 40 41,nwsandomierz@wody.gov.pl
+21.1704635,50.5660724,Nadzór Wodny w Staszowie,ul. Wschodnia 13 28-200 Staszów,+48 609 625 620,nwstaszow@wody.gov.pl
+19.2222711,49.883513,Nadzór Wodny w Kętach,ul. Rynek 11 32-650 Kęty,+48 609 189 323,nwkety@wody.gov.pl
+19.5869962,49.7383335,Nadzór Wodny w Suchej Beskidzkiej,ul. Nad Stawami 73 34-200 Sucha Beskidzka,+48 33 843 61 95,nwsuchabeskidzka@wody.gov.pl
+19.4910781,49.8817184,Nadzór Wodny w Wadowicach,ul. Polna 12 34-100 Wadowice,+48 607 408 144,nwwadowice@wody.gov.pl
+19.191169,49.6864484,Nadzór Wodny w Żywcu,ul. Za Wodą 18 34-300 Żywiec,+48 665 656 559,nwzywiec@wody.gov.pl
+18.6680199,50.3026555,Regionalny Zarząd Gospodarki Wodnej w Gliwicach,ul. H. Sienkiewicza 2 44-100 Gliwice,+48 32 777 49 50,gliwice@wody.gov.pl
+18.6884863,50.2917863,"Zarząd Zlewni w Gliwicach",ul. Robotnicza 2 44-100 Gliwice,+48 693 222 155,zz-gliwice@wody.gov.pl
+19.0219058,50.2689435,Zarząd Zlewni w Katowicach,ul. Plac Grunwaldzki 8-10 40-127 Katowice,+48 (32) 250 41 27,zz-katowice@wody.gov.pl
+17.916353,50.6628189,Zarząd Zlewni w Opolu,ul. Odrowążów 2 45-089 Opole,+48 (77) 407 47 05,zz-opole@wody.gov.pl
+18.6427088,49.7495268,"Nadzór Wodny w Cieszynie",ul. Korfantego 32  43-400 Cieszyn,+48 (33) 851 00 56,nw-cieszyn@wody.gov.pl
+18.6633146,50.3183881,Nadzór Wodny w Gliwicach,ul. Toszecka 101 44-100 Gliwice,+48 697 102 163,nw-gliwice@wody.gov.pl
+17.8247515,50.1995746,"Nadzór Wodny w Głubczycach",ul. Kościuszki 8 48-100 Głubczyce,+48 697 102 261,nw-glubczyce@wody.gov.pl
+18.1517246,50.35248,"Nadzór Wodny w Kędzierzynie-Koźlu",ul. Chełmońskiego 1 47-220 Kędzierzyn-Koźle,+48 (77) 482 04 05,nw-kedzierzyn-kozle@wody.gov.pl
+18.2135375,50.0981537,"Nadzór Wodny w Raciborzu","ul. Tow. Gimnastycznego ""Sokół"" 18  47-400 Racibórz",+48 (32) 415 46 71,nw-raciborz@wody.gov.pl
+18.5473664,50.0963822,"Nadzór Wodny w Rybniku",ul. Białych 5 44-200 Rybnik,+48 697 102 243,nw-rybnik@wody.gov.pl
+19.0352644,49.8555638,"Nadzór Wodny w Bielsku-Białej",ul. Katowicka 63 43-346 Bielsko-Biała,+48 (33) 821 64 64,nw-bielsko-biala@wody.gov.pl
+19.1564964,50.0797892,"Nadzór Wodny w Bieruniu",ul. Warszawska 168 43-155 Bieruń Nowy,+48 697 101 923,nw-bierun@wody.gov.pl
+19.0210797,50.2701093,"Nadzór Wodny w Katowicach",ul. 21 stycznia 127 A 42-460 Przeczyce,+48 (32) 380 65 87,nw-katowice@wody.gov.pl
+19.5581841,50.2779268,"Nadzór Wodny w Olkuszu",ul. Szpitalna 16 32-300 Olkusz,(32) 210 90 41,nw-olkusz@wody.gov.pl
+18.9505798,49.9768862,"Nadzór Wodny w Pszczynie",ul. 3 Maja 4a 43-200 Pszczyna,+48 697 101 491,nw-pszczyna@wody.gov.pl
+18.7988685,49.7899125,"Nadzór Wodny w Skoczowie",ul. Wiślańska 5 43-430 Skoczów,+48 (33) 853 33 08,nw-skoczow@wody.gov.pl
+18.2166683,50.9731398,"Nadzór Wodny w Kluczborku",ul. Zamkowa 6 46-200 Kluczbork,+48 661 221 657,nw-kluczbork@wody.gov.pl
+17.967538,50.4765624,"Nadzór Wodny w Krapkowicach",ul. Drzymały 8 47-300 Krapkowice,+48 661 221 562,nw-krapkowice@wody.gov.pl
+17.92413,50.6593967,"Nadzór Wodny w Opolu",ul. Kochanowskiego 9 45-094 Opole,+48 661 221 654,nw-opole@wody.gov.pl
+17.5815561,50.3212764,"Nadzór Wodny w Prudniku",ul. Tkacka 1 48-200 Prudnik,+48 661 221 813,nw-prudnik@wody.gov.pl
+18.2888026,50.5244815,"Nadzór Wodny w Strzelcach Opolskich ",ul. 1 Maja 59 47-100 Strzelce Opolskie,+48 693 220 638,nw-strzelceopolskie@wody.gov.pl
+18.8576822,50.4435633,"Nadzór Wodny w Tarnowskich Górach",ul. Piastowska 8 42-600 Tarnowskie Góry,+48 661 221 325,nw-tarnowskiegory@wody.gov.pl
+22.5326418,51.2405845,"Regionalny Zarząd Gospodarki Wodnej w Lublinie",ul. Leszka Czarnego 3 20-610 Lublin,+48 (81) 531 03 00,lublin@wody.gov.pl
+23.1080588,52.0401837,Zarząd Zlewni w Białej Podlaskiej,ul. Sitnicka 71 21-500 Biała Podlaska,(83) 342 70 50,zz-bialapodlaska@wody.gov.pl
+22.2682841,52.3968223,Zarząd Zlewni w Sokołowie Podlaskim,ul. Repkowska 49 08-300 Sokołów Podlaski,+48 (25) 781 28 58,zz-sokolowpodlaski@wody.gov.pl
+23.2755747,50.7051479,Zarząd Zlewni w Zamościu,ul. Młyńska 27 22-400 Zamość,+48 (84) 677 59 70,zz-zamosc@wody.gov.pl
+23.1081552,52.0402957,Nadzór Wodny w Białej Podlaskiej,ul. Sitnicka 71 21-500 Biała Podlaska,(83) 342 70 64,nw-bialapodlaska@wody.gov.pl
+23.4942545,51.1332687,Nadzór Wodny w Chełmie,Plac Niepodległości 1 22-100 Chełm,+48 (82) 565 64 66,nw-chelm@wody.gov.pl
+23.8910197,50.8047375,Nadzór Wodny w Hrubieszowie,Pl. Wolności 15 22-500 Hrubieszów,+48 (84) 696 42 58,nw-hrubieszow@wody.gov.pl
+22.3753655,51.9259914,Nadzór Wodny w Łukowie,ul. Piłsudskiego 29 21-400 Łuków,+48 (25) 798 21 71,nw-lukow@wody.gov.pl
+23.4145765,50.4471447,Nadzór Wodny w Tomaszowie Lubelskim,ul. Żwirki i Wigury 2 22-600 Tomaszów Lubelski,+48 (84) 66 597 82,nw-tomaszowlubelski@wody.gov.pl
+23.5492358,51.5474318,Nadzór Wodny we Włodawie,ul. Przechodnia 22 22-200 Włodawa,+48 (82) 572 14 01,nw-wlodawa@wody.gov.pl
+22.5043643,52.6796469,Nadzór Wodny w Ciechanowcu,ul. Mickiewicza 1 18-230 Ciechanowiec,,nw-ciechanowiec@wody.gov.pl
+22.7093502,52.2209827,Nadzór Wodny w Łosicach,ul. Kopernika 10 08-200 Łosice,+48 (83) 357 37 24,nw-losice@wody.gov.pl
+21.8881731,52.8030651,Nadzór Wodny w Ostrowi Mazowieckiej,ul. Sielska 19 07-300 Ostrów Mazowiecka,+48 (29) 745 40 42,nw-ostrowmazowiecka@wody.gov.pl
+22.2742808,52.1681699,Nadzór Wodny w Siedlcach,ul. Piłsudskiego 54 08-110 Siedlce,+48 (25) 631 05 33,nw-siedlce@wody.gov.pl
+22.8593158,52.4247298,Nadzór Wodny w Siemiatyczach,ul. Kilińskiego 32 17-300 Siemiatycze,+48 (85) 655 04 86,nw-siemiatycze@wody.gov.pl
+22.2680481,52.3967961,Nadzór Wodny w Sokołowie Podlaskim,ul. Repkowska 49 08-300 Sokołów Podlaski,+48 (25) 781 28 58,nw-sokolowpodlaski@wody.
+22.0106133,52.3970693,Nadzór Wodny w Węgrowie,ul. Podlaska 2 07-100 Węgrów,+48 (25) 792 30 58,nw-wegrow@wody.gov.pl
+22.5224792,52.918863,Nadzór Wodny w Wysokiem Mazowieckiem,ul. Plac Odrodzenia 5 18-200 Wysokie Mazowieckie,+48 (86) 270 90 05,nw-wysokiemazowieckie@wody.gov.pl
+23.1679582,50.981842,Nadzór Wodny w Krasnymstawie,ul. Piłsudskiego 11 22-300 Krasnystaw,+48 (82) 576 20 75,nw-krasnystaw@wody.gov.pl
+22.6066023,51.4677423,Nadzór Wodny w Lubartowie,ul. Słowackiego 21 21-100 Lubartów,+48 (81) 855 28 93,nw-lubartow@wody.gov.pl
+22.5326512,51.2403579,Nadzór Wodny w Lublinie,ul. Leszka Czarnego 3 20-610 Lublin,+48 (81) 531 03 37,nw-lublinie@wody.gov.pl
+22.877426,51.2885247,Nadzór Wodny w Łęcznej,ul. Krasnostawska 54 21-010 Łęczna,+48 (81) 884 35 03,nw-leczna@wody.gov.pl
+22.9106702,51.6458251,Nadzór Wodny w Parczewie,ul. Lubartowska 4 21-200 Parczew,+48 (83) 355 07 78,nw-parczew@wody.gov.pl
+22.6151509,51.7830754,Nadzór Wodny w Radzyniu Podlaskim,ul. Ostrowiecka 17-21 21-300 Radzyń Podlaski,+48 (83) 378 31 73,nw-radzynpodlaski@wody.gov.pl
+21.9305479,51.6261504,Nadzór Wodny w Rykach,ul. Spacerowa 2a 08-500 Ryki,+48 (81) 865 23 59,nw-ryki@wody.gov.pl
+23.2755747,50.7051819,Nadzór Wodny w Zamościu,ul. Młyńska 27 22-400 Zamość,+48 (84) 677 59 70,nw-zamosc@wody.gov.pl
+16.9609237,52.4155884,Regionalny Zarząd Gospodarki Wodnej w Poznaniu,ul. Chlebowa 4/8 61-003 Poznań,+48 61 8567 700,poznan@wody.gov.pl
+15.2564141,52.7475903,Zarząd Zlewni w Gorzowie Wielkopolskim,ul. Walczaka 25A  66-400 Gorzów Wielkopolski,+48 (95) 725 61 53,zz-gorzowwielkopolski@wody.gov.pl
+18.6392899,52.2016716,Zarząd Zlewni w Kole,ul. Prusa 3 62-600 Koło,+48 (63) 288 01 70,zz-kolo@wody.gov.pl
+16.9359745,52.4089087,"Zarząd Zlewni w Poznaniu",ul. Szewska 1 61-760 Poznań,+48 (61) 850 84 00,zz-poznan@wody.gov.pl
+18.7350739,51.593755,Zarząd Zlewni w Sieradzu,ul. Plac Wojewódzki 1 98-200 Sieradz,+48 (43) 655-41-00,zz-sieradz@wody.gov.pl
+15.2480666,52.7213013,"Nadzór Wodny w Gorzowie Wielkopolskim",ul. Walczaka 25A 66-400 Gorzów Wielkopolski,+48 95 725 61 63,nw-gorzowwielkopolski@wody.gov.pl
+16.3667368,52.2244268,"Nadzór Wodny w Grodzisku Wielkopolskim",ul. Wawrzyniaka 6/3 62-065 Grodzisk Wielkopolski,+48 573 901 687,nw-grodziskwielkopolski@wody.gov.pl
+14.6337356,52.5815451,"Nadzór Wodny w Kostrzynie nad Odrą ",ul. Graniczna 4 66-470 Kostrzyn nad Odrą,+48 573 901 688,nw-kostrzynnadodra@wody.gov.pl
+15.8855961,52.6035723,Nadzór Wodny w Międzychodzie,ul. Wały Jana Kazimierza 4 64-400 Międzychód,+48 (95) 748 28 24,nw-miedzychod@wody.gov.pl
+15.5813749,52.4508443,Nadzór Wodny w Międzyrzeczu,ul. Reymonta 5 66-300 Międzyrzecz,+48 (95) 741 25 60,nw-miedzyrzecz@wody.gov.pl
+16.1493142,52.3191314,Nadzór Wodny w Nowym Tomyślu,ul. Półwiejska 15 64-300 Nowy Tomyśl,+48 600 885 155,nw-nowytomysl@wody.gov.pl
+15.1176463,52.4381582,Nadzór Wodny w Sulęcinie,ul. M. Dudka 2 69-200 Sulęcin,+48 (95) 755 30 42,nw-sulecin@wody.gov.pl
+16.1078442,52.1139109,Nadzór Wodny w Wolsztynie,ul. 5 stycznia 5 64-200 Wolsztyn,+48 (68) 384 56 45,nw-wolsztyn@wody.gov.p
+17.4952925,51.9714811,Nadzór Wodny w Jarocinie,ul. Sienkiewicza 7 63-200 Jarocin,+48 (62) 600 60 42,nw-jarocin@wody.gov.pl
+18.0894903,51.767657,"Nadzór Wodny w Kaliszu",Al. Wojska Polskiego 185/51 62-800 Kalisz,+48 (62) 501 84 84,nw-kalisz@wody.gov.pl
+17.99516,51.2851108,Nadzór Wodny w Kępnie,ul. Wieluńska 9A 63-600 Kępno,+48 (62) 782 28 93,nw-kepno@wody.gov.pl
+17.812881,51.6516523,"Nadzór Wodny w Ostrowie Wielkopolskim",ul. Dąbrowskiego 9 63-400 Ostrów Wielkopolski,+48 (62) 736 28 02,nw-ostrowielkopolski@wody.gov.pl
+18.159216,51.2964512,Nadzór Wodny w Wieruszowie,ul. Waryńskiego 14 98-400 Wieruszów,+48 608 586 504,nw-wieruszow@wody.gov.pl
+17.7735857,51.8971848,Nadzór Wodny w Pleszewie,ul. Poznańska 79 63-300 Pleszew,+48 (62) 742 96 07,nw-pleszew@wody.gov.pl
+18.6275473,52.2026065,Nadzór Wodny w Kole,ul. Toruńska 80 62-600 Koło,+48 (63) 272 01 84,nw-kolo@wody.gov.pl
+18.2823246,52.2355487,Nadzór Wodny w Koninie,ul. Okólna 59 62-510 Konin,+48 (63) 242 10 75,nw-konin@wody.gov.pl
+17.878847,52.3010822,Nadzór Wodny w Słupcy,ul. Traugutta 80 62-400 Słupca,+48 (63) 275 11 93,nw-slupca@wody.gov.pl
+17.2760308,52.228418,"Nadzór Wodny w Środzie Wielkopolskiej",Plan Kościelny 4 63-000 Środa Wielkopolska,+48 573 901 685,nw-srodawielkopolska@wody.gov.pl
+18.4928415,52.0144024,Nadzór Wodny w Turku,ul. Kaliska 59 62-700 Turek,+48 (63) 289 30 01,nw-turek@wody.gov.pl
+17.5544873,52.3374388,Nadzór Wodny we Wrześni,ul. Czerniejewska 7 62-300 Września,+48 (61) 436 18 02,nw-wrzesnia@wody.gov.pl
+17.6091608,52.5416008,Nadzór Wodny w Gnieźnie,ul. Chudoby 16 62-200 Gniezno,+48 614 261 024,nw-gniezno@wody.gov.pl
+17.0108927,51.8810432,Nadzór Wodny w Gostyniu,ul. Wiosny Ludów 5 63-800 Gostyń,+48 573 901 675,nw-gostyn@wody.gov.pl
+16.6242664,52.0806464,Nadzór Wodny w Kościanie,ul. Wielichowska 68A 64-000 Kościan,+48 573 901 676,nw-koscian@wody.gov.pl
+16.8301607,52.6436583,Nadzór Wodny w Obornikach,ul. Łukowska 16 64-600 Oborniki,+48 573 901 677,nw-oborniki@wody.gov.pl
+16.9525652,52.4269652,Nadzór Wodny w Poznaniu,ul. Czapla 4 61-623 Poznań,+48 618 201 481,nw-poznan@wody.gov.pl
+16.5825854,52.6064319,Nadzór Wodny w Szamotułach,ul. Dworcowa 28/3 64-500 Szamotuły,+48 573 901 678,nw-szamotuly@wody.gov.pl
+17.0161824,52.0985543,Nadzór Wodny w Śremie,ul. Ogrodowa 39 63-300 Śrem,+48 612 830 831,nw-srem@wody.gov.pl
+17.2290996,52.8049003,Nadzór Wodny w Wągrowcu,ul. Janowiecka 98 62-100 Wągrowiec,+48 672 627 047,nw-wagrowiec@wody.gov.pl
+19.3664426,51.3606685,Nadzór Wodny w Bełchatowie,ul. Wojska Polskiego 13 97-400 Bełchatów,573 901 679,
+19.0817591,50.8208458,Nadzór Wodny w Częstochowie,ul. Wręczycka 11a 42-200 Częstochowa,+48 573 901 680,nw-czestochowa@wody.gov.pl
+18.9341793,50.9018136,Nadzór Wodny w Kłobucku,ul. Wieluńska 11 42-100 Kłobuck,+48 (34) 317 36 33,nw-klobuck@wody.gov.pl
+19.1403002,51.5899381,"Nadzór Wodny w Łasku",ul. Stefana Batorego 31 98-100 Łask,+48 (43) 655 41 41,nw-lask@wody.gov.pl
+19.4589261,51.7790964,Nadzór Wodny w Łodzi,ul. Północna 27/29 91-420 Łódź,+48 573 901 694,nw-lodz@wody.gov.pl
+18.1009729,51.7728996,Zarząd Zlewni w Kaliszu,ul. Skarszewska 42A  62-800 Kalisz,+48 (62) 600 60 00,zz-kalisz@wody.gov.pl
+21.9788335,50.0290595,Regionalny Zarząd Gospodarki Wodnej w Rzeszowie,ul. Hanasiewicza 17B 35-103 Rzeszów,17 853 74 00,rzeszow@wody.gov.pl
+21.7762477,49.6791572,"Zarząd Zlewni w Krośnie",ul. Bieszczadzka 5 38-400 Krosno,609 170 688,zz-krosno@wody.gov.pl
+21.4742087,49.748744,"Zarząd Zlewni w Jaśle",ul. Modrzejewskiego 12 38-200 Jasło,(13) 446 33 11,zz-jaslo@wody.gov.pl
+22.0438233,50.5913872,"Zarząd Zlewni w Stalowej Woli",ul. Jagiellońska 17 37-464 Stalowa Wola,(15) 842 89 82,zz-stalowawola@wody.gov.pl
+22.7634783,49.7840246,"Zarząd Zlewni w Przemyślu",ul. Wybrzeże Ojca Św. Jana Pawła II 6 37-700 Przemyśl,(16) 670 38 08,zz-przemysl@wody.gov.pl
+22.0036795,50.0192384,Nadzór Wodny Rzeszów,ul. Kwiatkowskiego 2 35-311 Rzeszów,(17) 854-19-18,nw-rzeszow@wody.gov.pl
+22.4917887,50.0531128,"Nadzór Wodny Przeworsk",ul. Słowackiego 30 37-200 Przeworsk,(16) 648 16 04,nw-przeworsk@wody.gov.pl
+22.2238983,50.080249,"Nadzór Wodny Łańcut",ul. Kolejowa 2A 37-100 Łańcut,(17) 225 20 40,nw-lancut@wody.gov.pl
+21.7665385,49.6993131,"Nadzór Wodny Krosno",ul. Żółkiewskiego 10 38-400 Krosno,(13) 432 17 88,nw-krosno@wody.gov.pl
+22.0247935,49.7059165,"Nadzór Wodny Brzozów",ul. Witosa 4 36-200 Brzozów,(13) 420 27 80,nw-brzozow@wody.gov.pl
+21.7894283,49.8699299,"Nadzór Wodny Strzyżów",ul. Parkowa 7 38-100 Strzyżów,(17) 221 20 65,nw-strzyzow@wody.gov.pl
+21.4741673,49.7487301,"Nadzór Wodny Jasło",ul. Modrzejewskiego 12 38-200 Jasło,(13) 446 40 34,nw-jaslo@wody.gov.pl
+21.3998531,50.0589668,"Nadzór Wodny Dębica",ul. Piłsudskiego 19 39-200 Dębica,(14) 670 68 91,nw-debica@wody.gov.pl
+21.4417537,50.2841628,"Nadzór Wodny Mielec",ul. Korczaka 4 39-300 Mielec,(17) 586 41 30,nw-mielec@wody.gov.pl
+21.6163976,50.0521604,"Nadzór Wodny Ropczyce","ul. Konopnickiej 5 39-100 Ropczyce",(17) 221 84 12,nw-ropczyce@wody.gov.pl
+21.1572997,49.6530151,"Nadzór Wodny Gorlice","ul. Kościuszki 30 38-300 Gorlice",(18) 351 16 06,nw-gorlice@wody.gov.pl
+22.0439789,50.5913582,"Nadzór Wodny Stalowa Wola","ul. Jagiellońska 17 37-464 Stalowa Wola",(15) 842 89 84,nw-stalowawola@wody.gov.pl
+22.4165258,50.7050535,"Nadzór Wodny Janów Lubelski",ul. Jana Pawła II 1 23-300 Janów Lubelski,(15) 810 41 99,nw-janowlubelski@wody.gov.pl
+22.7242001,50.5306708,"Nadzór Wodny Biłgoraj",ul. Konopnickiej 7 23-400 Biłgoraj,(84) 611 24 76,nw-bilgoraj@wody.gov.pl
+22.4160134,50.2637893,"Nadzór Wodny Leżajsk",ul. Mickiewicza 79 37-300 Leżajsk,(17) 242 02 46,nw-lezajsk@wody.gov.pl
+21.693459,50.5705894,"Nadzór Wodny Tarnobrzeg",ul. Sienkiewicza 86 39-400 Tarnobrzeg,(15) 822 51 01,nw-tarnobrzeg@wody.gov.pl
+21.7699723,50.2444951,"Nadzór Wodny Kolbuszowa",ul. Jana Pawła II 8 36-100 Kolbuszowa,(17) 747 90 20,nw-kolbuszowa@wody.gov.pl
+22.7636285,49.7840436,"Nadzór Wodny Przemyśl",ul. Wybrzeże Ojca Św. Jana Pawła II 6 37-700 Przemyśl,(16) 670 47 80,nw-przemysl@wody.gov.pl
+23.125333,50.1620283,"Nadzór Wodny Lubaczów",ul. Słowackiego 13 37-600 Lubaczów,(16) 632 13 34,nw-lubaczow@wody.gov.pl
+22.6738098,50.0083995,"Nadzór Wodny Jarosław",ul. Traugutta 9 37-500 Jarosław,(16) 623 63 28,nw-jaroslaw@wody.gov.pl
+22.2365019,49.8038755,"Nadzór Wodny Dynów",ul. Jaklów 1 36-065 Dynów,(16) 652 10 06,nw-dynow@wody.gov.pl
+22.3255198,49.4736865,"Nadzór Wodny Lesko",ul. Piłsudskiego 44 38-600 Lesko,(13) 469 63 27,nw-lesko@wody.gov.pl
+22.2040613,49.5611584,"Nadzór Wodny Sanok",ul. Piłsudskiego 10 38-500 Sanok,(13) 464 18 76,nw-sanok@wody.gov.pl
+22.5973413,49.4304072,"Nadzór Wodny Ustrzyki Dolne","ul. 29 listopada 26 38-700 Ustrzyki Dolne",(13) 461 37 98,nw-ustrzykidolne@wody.gov.pl
+14.5391838,53.406409,Regionalny Zarząd Gospodarki Wodnej w Szczecinie,ul. Tama Pomorzańska 13A 70-030 Szczecin,(91) 4411200,sekretariat@szczecin.rzgw.gov.pl
+15.1938302,53.9283565,Zarząd Zlewni w Gryficach,ul. Niekładzka 9 72-300 Gryfice,509 025 797,zz-gryfice@wody.gov.pl
+16.1907833,54.1904036,Zarząd Zlewni w Koszalinie,ul. Zwycięstwa 111  75-601 Koszalin,+48 515 053 460,zz-koszalin@wody.gov.pl
+15.0624551,53.3462717,Zarząd Zlewni w Stargardzie,ul. Gdańska 4 73-110 Stargard,+48 502 701 539,zz-stargard@wody.gov.pl
+14.5753863,53.43887,Zarząd Zlewni w Szczecinie,ul. Mieszka I 33 71-011 Szczecin,91 44 05 100,zz-szczecin@wody.gov.pl
+15.1943093,53.9097516,Nadzór Wodny w Gryficach,ul. Trzygłowska 33 72-300 Gryfice,91 384 26 24,nw-gryfice@wody.gov.pl
+14.7692337,53.9726286,Nadzór Wodny w Kamieniu Pomorskim,ul. Strzelecka 1 72-400 Kamień Pomorski,91 382 12 04,nw-kamienpomorski@wody.gov.pl
+15.6195586,53.634761,Nadzór Wodny w Łobzie,ul. Kościuszki 26 37-150 Łobez,,nw-lobez@wody.gov.pl
+15.1469671,53.6641049,Nadzór Wodny w Nowogardzie,ul. Boh. Warszawy 35 72-200 Nowogard,91 577 71 95,nw-nowogard@wody.gov.pl
+15.7755283,53.7814582,Nadzór Wodny w Świdwinie,ul. Kołobrzeska 43 78-300 Świdwin,94 365 26 08,nw-swidwin@wody.gov.pl
+15.9823097,54.0081299,Nadzór Wodny w Białogardzie,ul. Sikorskiego 25 B 78-200 Białogard,516 126 703,nw-bialogard@wody.gov.pl
+15.5708005,54.1801514,"Nadzór Wodny w Kołobrzegu",ul. Piastowska 9 78-100 Kołobrzeg,94 354 90 83,nw-kolobrzeg@wody.gov.pl
+16.1906304,54.1903581,Nadzór Wodny w Koszalinie,ul. Zwycięstwa 111  75-601 Koszalin,798 894 870,nw-koszalin@wody.gov.pl
+16.9744018,53.9992999,Nadzór Wodny w Miastku,ul. Grunwaldzka 1 77-200 Miastko,59 822 12 65,nw-miastko@wody.gov.pl
+16.683137,54.3497839,Nadzór Wodny w Sławnie,ul. Polanowska 45c 76-100 Sławno,59 810 20 82,nw-slawno@wody.gov.pl
+15.4157618,53.1687769,"Nadzór Wodny w Choszcznie ",ul. Lipcowa 9 73-200 Choszczno,+48 515 053 459,nw-choszczno@wody.gov.pl
+14.8276797,53.5687795,Nadzór Wodny w Goleniowie,ul. Mikołajczyka 42 72-100 Goleniów,91 418 28 12,nw-goleniow@wody.gov.pl
+14.8843536,53.144898,"Nadzór Wodny w Pyrzycach","ul. Kościuszki 26 (III piętro,pok. 28 i 29) 74-200 Pyrzyce",91 57 77 263,nw-pyrzyce@wody.gov.pl
+15.0521149,53.3428257,Nadzór Wodny w Stargardzie,ul. Gdańska 4 73-100 Stargard,,nw-stargard@wody.gov.pl
+14.4892022,53.2569184,"Nadzór Wodny w Gryfinie",ul. Grunwaldzka 1 74-100 Gryfino,91 416 30 21,nw-gryfino@wody.gov.pl
+14.4386305,52.9606524,Nadzór Wodny w Chojnie,ul. Jagiellońska 19 74-500 Chojna,,nw-chojna@wody.gov.pl
+14.8751169,52.927674,Nadzór Wodny w Myśliborzu,ul. Spokojna 22 74-300 Myslibórz,,nw-mysliborz@wody.gov.pl
+14.5933899,53.3690142,"Nadzór Wodny w Szczecinie",ul. Szlamowa 4a 70-746 Szczecin,91 4608494,nw-szczecin@wody.gov.pl
+14.2606942,53.9019744,Nadzór Wodny w Świnoujściu,ul. Dworcowa 4 72-600 Świnoujście,,nw-swinoujscie@wody.gov.pl
+20.9910973,52.2338467,Krajowy Zarząd Gospodarki Wodnej w Warszawie,ul. Żelazna 59A 00-848 Warszawa,+48 (22) 37 20 260,kzgw@wody.gov.pl
+20.9867056,52.2981917,Regionalny Zarząd Gospodarki Wodnej w Warszawie,ul. Zarzecze 13 B 03-194 Warszawa,+48 22 58 70 211,warszawa@wody.gov.pl
+20.6029853,52.8795759,Zarząd Zlewni w Ciechanowie,ul. Powstańców Warszawskich 11 06-400 Ciechanów,+48 23 674 24 50,zz-ciechanow@wody.gov.pl
+20.927238,52.4869689,Zarząd Zlewni w Dębem,Dębe  05-140 Serock,+48 22 782 30 00,zz-debe@wody.gov.pl
+19.9443887,52.103578,Zarząd Zlewni w Łowiczu,ul. Ekonomiczna 6 99-400 Łowicz,+48 669 833 633,zz-lowicz@wody.gov.pl
+19.6832977,51.4086893,Zarząd Zlewni w Piotrkowie Trybunalskim,ul. Młynarska 2 97-300 Piotrków Trybunalski,+48 509 975 777,zz-piotrkowtrybunalski@wody.gov.pl
+21.1492979,51.4069445,Zarząd Zlewni w Radomiu,ul. Wernera 4a,+48 48 362 61 38,zz-radom@wody.gov.pl
+21.0028692,52.2939397,Zarząd Zlewni w Warszawie,ul. Elektronowa 2 03-219 Warszawa,+48 22 112 38 53,zz-warszawa@wody.gov.pl
+19.0591569,52.6567606,Zarząd Zlewni we Włocławku,ul. Okrzei 74a 87- 800 Włocławek,+48 54 230 20 34,zz-wloclawek@wody.gov.pl
+20.6029548,52.8795752,Nadzór Wodny w Ciechanowie,ul. Powstańców Warszawskich 11 06-400 Ciechanów,23 674 24 36,nw-ciechanow@wody.gov.pl
+20.3667385,53.1166025,Nadzór Wodny w Mławie,ul. Zuzanny Morawskiej 32A 06-500 Mława,23 654 32 09,nw-mlawa@wody.gov.pl
+20.404646,53.3689041,Nadzór Wodny w Nidzicy,ul. Olsztyńska 28 13-100 Nidzica,89 625 28 98,nw-nidzica@wody.gov.pl
+20.3854667,52.6195435,Nadzór Wodny w Płońsku,ul. Zajazd 6 09-100 Płońsk,23 662 26 02,nw-plonsk@wody.gov.pl
+19.9141372,53.063245,Nadzór Wodny w Żurominie,ul. Olszewska 7 09-300 Żuromin,23 657 38 58,nw-zuromin@wody.gov.pl
+20.9254841,52.4872291,Nadzór Wodny w Dębem,Dębe 05-140 Serock,22 782 31 26,nw-debe@wody.gov.pl
+21.1104004,52.8676031,Nadzór Wodny w Makowie Mazowieckim,ul. Mazowiecka 3 06-200 Maków Mazowiecki,29 717 14 00,nw-makowmazowiecki@wody.gov.pl
+20.7187644,52.4331739,Nadzór Wodny w Nowym Dworze Mazowieckim,ul. Sukienna 13 05-100 Nowy Dwór Mazowiecki,22 775 28 34,nw-nowydwormazowiecki@wody.gov.pl
+20.8803838,53.0206331,Nadzór Wodny w Przasnyszu,ul. św. St. Kostki 3 06-300 Przasnysz,29 752 27 39,nw-przasnysz@wody.gov.pl
+21.0930944,52.7058709,Nadzór Wodny w Pułtusku,ul. Szkolna 3 06-100 Pułtusk,23 692 34 35,nw-pultusk@wody.gov.pl
+21.2253118,52.3426927,Nadzór Wodny w Wołominie,ul. Wileńska 51a 05-200 Wołomin,22 763 96 10,nw-wolomin@wody.gov.pl
+21.4324455,52.5892237,Nadzór Wodny w Wyszkowie,ul. Serocka 34 07-200 Wyszków,29 742 41 18,nw-wyszkow@wody.gov.pl
+19.7541051,51.7987157,Nadzór Wodny w Brzezinach,"ul. Reformacka 3 95-060,Brzeziny",46 874 25 48,nw-brzeziny@wody.gov.pl
+20.6215383,52.11221,Nadzór Wodny w Grodzisku Mazowieckim,ul. Traugutta 4a 05-852 Grodzisk Mazowiecki,22 755 50 56,nw-grodziskmazowiecki@wody.gov.pl
+19.3568789,52.2334222,Nadzór Wodny w Kutnie,ul. Witosa 1 99-300 Kutno,24 357 41 16,nw-kutno@wody.gov.pl
+19.2049214,52.0584899,Nadzór Wodny w Łęczycy,ul. Sienkiewicza 31 99-100 Łęczyca,,nw-leczyca@wody.gov.pl
+19.9446071,52.1035342,Nadzór Wodny w Łowiczu,ul. Ekonomiczna 6 99-400 Łowicz,+48 669 833 633,nw-lowicz@wody.gov.pl
+19.4593485,51.7788444,Nadzór Wodny w Łodzi Wschód,ul. Solna 14 91-423 Łódź,,nw-lodz2@wody.gov.pl
+20.2511879,51.7647565,Nadzór Wodny w Rawie Mazowieckiej,ul. Armii Krajowej 2 96-200 Rawa Mazowiecka,,nw-rawamazowiecka@wody.gov.pl
+20.1448318,51.959886,Nadzór Wodny w Skierniewicach,ul. Jagiellońska 29 96-100 Skierniewice,46 833 39 01,nw-skierniewice@wody.gov.pl
+20.2395805,52.2196644,Nadzór Wodny w Sochaczewie,ul. Piłsudskiego 69 96-500 Sochaczew,46 862 21 16,nw-sochaczew@wody.gov.pl
+19.3979157,51.8633182,Nadzór Wodny w Zgierzu,ul. Bazylijska 39L 95-100 Zgierz,46 832 30 10,nw-zgierz@wody.gov.pl
+20.2951754,51.2984568,Nadzór Wodny w Białaczowie,26-307 Białaczów,(44) 758 11 00,nw-bialaczow@wody.gov.pl
+20.9489063,51.6451428,Nadzór Wodny w Białobrzegach,ul. 11 Listopada 29 26-800 Białobrzegi,48 613 26 67,nw-bialobrzegi@wody.gov.pl
+19.6823234,50.7734799,Nadzór Wodny w Koniecpolu,ul. Chrząstowska 6a 42-230 Koniecpol,34 355 18 81,nw-koniecpol@wody.gov.pl
+20.415305,51.1873113,Nadzór Wodny w Końskich,ul. Partyzantów 1 26-200 Końskie,41 252 40 24,nw-konskie@wody.gov.pl
+20.5770458,51.618257,Nadzór Wodny w Nowym Mieście nad Pilicą,Pl. O.H. Koźmińskiego 1/2 26-420 Nowe Miasto nad Pilicą,,nw-nowemiastonadpilica@wody.gov.pl
+19.6832628,51.4087395,Nadzór Wodny w Piotrkowie Trybunalskim,ul. Gabriela Narutowicza 9/13 97-300 Piotrków Trybunalski,511 965 162,nw-piotrkowtrybunalski@wody.gov.pl
+20.0133039,51.472294,Nadzór Wodny w Smardzewicach,os. Przystopniowe 1 97-213 Smardzewice,44 724 50 85,nw-smardzewice@wody.gov.pl
+19.9696564,50.8515977,Nadzór Wodny we Włoszczowie,ul. Partyzantów 14 29-100 Włoszczowa,,nw-wloszczowa@wody.gov.pl
+21.8565334,50.8852487,Nadzór Wodny w Annopolu,ul. Szkolna 6 23-235 Annopol,15 861 31 60,nw-annopol@wody.gov.pl
+21.2345043,51.157487,Nadzór Wodny w Iłży,Os. Staszica 13 27-100 Iłża,48 616 28 77,nw-ilza@wody.gov.pl
+21.5486554,51.5857823,Nadzór Wodny w Kozienicach,ul. Kochanowskiego 27 26-900 Kozienice,48 614 25 89,nw-kozienice@wody.gov.pl
+22.2168954,50.9196497,Nadzór Wodny w Kraśniku,ul. Lubelska 115 23-200 Kraśnik,81 825 24 33,nw-krasnik@wody.gov.pl
+21.6508511,51.1580017,Nadzór Wodny w Lipsku,ul. Solecka 2 27-300 Lipsko,783 255 955,nw-lipsko@wody.gov.pl
+21.9783687,51.1397292,Nadzór Wodny w Opolu Lubelskim,ul. Przemysłowa 31a 24-300 Opole Lubelskie,510 867 485,nw-opolelubelskie@wody.gov.pl
+21.3783616,50.9437069,Nadzór Wodny w Ostrowcu,ul. Sienkiewicza 57 27-400 Ostrowiec Świetokrzyski,41 26 33 683,nw-ostrowiecswietokrzyski@wody.gov.pl
+20.6312394,51.358448,Nadzór Wodny w Przysusze,Al. Jana Pawła II 5 26-400 Przysucha,48 675 26 02,nw-przysucha@wody.gov.pl
+21.9522197,51.4163196,Nadzór Wodny w Puławach,ul. 6 Sierpnia 5a  24-100 Puławy,81 470 82 01,nw-pulawy@wody.gov.pl
+21.1490813,51.4069903,Nadzór Wodny w Radomiu,ul. Wernera 4a 26-600 Radom,48 362 61 38,nw-radom@wody.gov.pl
+20.865767,51.1179594,Nadzór Wodny w Skarżysku-Kamiennej,Pl. Floriański 1 26-110 Skarzysko-Kamienna,41 252 49 06,nw-skarzyskokamienna@wody.gov.pl
+21.091796,51.0432368,"Nadzór Wodny w Starachowicach",ul. Kościelna 30 27-200 Starachowice,41 274 52 94,nw-starachowice@wody.gov.pl
+20.8639196,51.2331202,Nadzór Wodny w Szydłowcu,ul. Targowa 4 26-500 Szydłowiec,48 617 03 14,nw-szydlowiec@wody.gov.pl
+21.5739405,51.3591385,Nadzór Wodny w Zwoleniu,ul. Sikorskiego 15 26-700 Zwoleń,48 676 22 78,nw-zwolen@wody.gov.pl
+21.6111498,51.8985271,Nadzór Wodny w Garwolinie,ul. Jana Pawła II 10 08-400 Garwolin,87 643 28 96,nw-garwolin@wody.gov.pl
+21.2108143,51.9940074,Nadzór Wodny w Górze Kalwarii,ul. Wyszyńskiego 28 05-530 Góra Kalwaria,22 727 35 14,nw-gorakalwaria@wody.gov.pl
+20.8796235,51.8652127,Nadzór Wodny w Grójcu,ul. Laskowa 8 05-600 Grójec,48 664 74 62,nw-grojec@wody.gov.pl
+21.5866066,52.1862357,Nadzór Wodny w Mińsku Mazowieckim,ul. Huberta 37 05-300 Mińsk Mazowiecki,25 758 59 64,nw-minskmazowiecki@wody.gov.pl
+21.0269061,52.0716205,Nadzór Wodny w Piasecznie,ul. Kościuszki 22 05-500 Piaseczno,22 756 73 04,nw-piaseczno@wody.gov.pl
+20.9881982,52.2986118,Nadzór Wodny w Warszawa,ul. Zarzecze 13b 03-194 Warszawa,22 587 04 70,nw-warszawa@wody.gov.pl
+19.4585845,52.440878,Nadzór Wodny w Gostyninie,ul. Ziejkowa 4a 09-500 Gostynin,24 235 34 92,nw-gostynin@wody.gov.pl
+19.6957763,52.5459267,Nadzór Wodny w Płocku,ul. 1 Maja 7C 09-402 Płock,24 269 79 95,nw-plock@wody.gov.pl
+19.6626505,52.8458771,Nadzór Wodny w Sierpcu,ul. Fredry 10 09-200 Sierpc,24 275 23 02,nw-sierpc@wody.gov.pl
+19.1339632,52.6528669,Nadzór Wodny we Włocławku,ul. Płocka 171 87-800 Włocławek,54 233 93 95,nw-wloclawek@wody.gov.pl
+20.1908918,52.3910009,Nadzór Wodny w Wyszogrodzie,ul. Rębowska 60 09-450 Wyszogród,24 362 03 10,nw-wyszogrod@wody.gov.pl
+19.3566557,51.6638909,Nadzór Wodny w Pabianice,ul. Zamkowa 6 95-200 Pabianice,+48 573 901 682,nw-pabianice@wody.gov.pl
+18.9918897,51.1469719,Nadzór Wodny w Pajęcznie,ul. Kościuszki 99 98-300 Pajęczno,+48 (34) 311 11 43,nw-pajeczno@wody.gov.pl
+18.959498,51.8850647,Nadzór Wodny w Poddębicach,ul. Targowa 10 99-200 Poddębice,+48 573 901 696,nw-poddebice@wody.gov.pl
+19.4388395,51.07288,Nadzór Wodny w Radomsku,ul. Reymonta 62 97-500 Radomsko,+48 573 901 681,nw-radomsko@wody.gov.pl
+18.7180868,51.5728394,"Nadzór Wodny w Sieradzu",ul. Warneńczyka 1 98-200 Sieradz,+48 573 901 695,nw-sieradz@wody.gov.pl
+18.5836698,51.2276412,Nadzór Wodny w Wieluniu,ul. Fabryczna 4 98-300 Wieluń,+48 573 901 697,nw-wielun@wody.gov.pl
+19.4238184,50.4820754,Nadzór Wodny w Zawierciu,ul. 3 Maja 33 42-400 Zawiercie,+48 573 901 698,nw-zawiercie@wody.gov.p
+18.9445762,51.5971626,Nadzór Wodny w Zduńskiej Woli,ul. Łaska 61a 98-220 Zduńska Wola,+48 573 901 684,nw-zdunskawola@wody.gov.pl

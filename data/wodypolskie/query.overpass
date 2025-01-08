@@ -1,0 +1,13 @@
+[out:json][timeout:999];
+area(id:162547781) -> .searchArea;
+
+(
+    nw[office=government]["name"~".*wody polskie.*", i](area.searchArea);
+    nw[office=government]["name"~"Zarząd Zlewni.*", i](area.searchArea);
+    nw[office=government]["name"~"Nadzór Wodny.*", i](area.searchArea);
+    nw[office=government]["name"~".*Zarząd Gospodarki Wodnej.*", i](area.searchArea);
+);
+
+out meta;
+>;
+out meta;
