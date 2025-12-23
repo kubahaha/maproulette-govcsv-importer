@@ -1,0 +1,15 @@
+[out:json][timeout:60];
+{{geocodeArea:Polska}}->.searchArea;
+(
+  nw[office=government][government=social_security](area.searchArea);
+  nw[office=government][government=social_insurance](area.searchArea);
+  nw[office=government][government=pension_fund](area.searchArea);
+  nw[office=government]["name"~"ZUS.+"](area.searchArea);
+  nw[office=government]["name"~"Zakład.+"](area.searchArea);
+  nw[office=government]["short_name"~"ZUS.+"](area.searchArea);
+  nw[office=government]["official_name"~"Zakład Ubezpieczeń Społecznych.+"](area.searchArea);
+);
+
+out meta;
+>;
+out meta;

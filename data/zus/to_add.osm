@@ -1,0 +1,3469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-12-17T22:16:01.460075Z" areas="datetime.utcnow().isoformat() + 'Z'"/>
+<node id="-971989418" lat="53.1264218" lon="23.1465131" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Białymstoku"/>
+	<tag k="name" v="ZUS Oddział w Białymstoku"/>
+	<tag k="addr:postcode" v="15-404"/>
+	<tag k="addr:city" v="Białystok"/>
+	<tag k="addr:street" v="Młynowa"/>
+	<tag k="addr:housenumber" v="29"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-181929978" lat="53.8424474" lon="22.9861417" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Augustowie"/>
+	<tag k="name" v="ZUS Inspektorat w Augustowie"/>
+	<tag k="addr:postcode" v="16-300"/>
+	<tag k="addr:city" v="Augustów"/>
+	<tag k="addr:street" v="Hoża"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-447359892" lat="52.774771" lon="23.1993041" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Bielsku Podlaskim"/>
+	<tag k="name" v="ZUS Inspektorat w Bielsku Podlaskim"/>
+	<tag k="addr:postcode" v="17-100"/>
+	<tag k="addr:city" v="Bielsk Podlaski"/>
+	<tag k="addr:street" v="Widowska"/>
+	<tag k="addr:housenumber" v="10A"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-243743629" lat="52.7343084" lon="23.5942" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Hajnówce"/>
+	<tag k="name" v="ZUS Inspektorat w Hajnówce"/>
+	<tag k="addr:postcode" v="17-200"/>
+	<tag k="addr:city" v="Hajnówka"/>
+	<tag k="addr:street" v="Armii Krajowej"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-510385988" lat="53.1724502" lon="22.0826352" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Łomży"/>
+	<tag k="name" v="ZUS Inspektorat w Łomży"/>
+	<tag k="addr:postcode" v="18-400"/>
+	<tag k="addr:city" v="Łomża"/>
+	<tag k="addr:street" v="Szosa Zambrowska"/>
+	<tag k="addr:housenumber" v="29"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-405194218" lat="52.4249562" lon="22.8595619" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Siemiatyczach"/>
+	<tag k="name" v="ZUS Inspektorat w Siemiatyczach"/>
+	<tag k="addr:postcode" v="17-300"/>
+	<tag k="addr:city" v="Siemiatycze"/>
+	<tag k="addr:street" v="Ogrodowa"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-208071074" lat="53.4049183" lon="23.4995562" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sokółce"/>
+	<tag k="name" v="ZUS Inspektorat w Sokółce"/>
+	<tag k="addr:postcode" v="16-100"/>
+	<tag k="addr:city" v="Sokółka"/>
+	<tag k="addr:street" v="Gen. Wł. Sikorskiego"/>
+	<tag k="addr:housenumber" v="38c"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-729574274" lat="54.0973382" lon="22.9369893" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Suwałkach"/>
+	<tag k="name" v="ZUS Inspektorat w Suwałkach"/>
+	<tag k="addr:postcode" v="16-400"/>
+	<tag k="addr:city" v="Suwałki"/>
+	<tag k="addr:street" v="1 Maja"/>
+	<tag k="addr:housenumber" v="33"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-657661386" lat="52.9167386" lon="22.5164735" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wysokiem Mazowieckiem"/>
+	<tag k="name" v="ZUS Inspektorat w Wysokiem Mazowieckiem"/>
+	<tag k="addr:postcode" v="18-200"/>
+	<tag k="addr:city" v="Wysokie Mazowieckie"/>
+	<tag k="addr:street" v="Mystkowska"/>
+	<tag k="addr:housenumber" v="43"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1062945888" lat="52.9755706" lon="22.246682" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Zambrowie"/>
+	<tag k="name" v="ZUS Inspektorat w Zambrowie"/>
+	<tag k="addr:postcode" v="18-300"/>
+	<tag k="addr:city" v="Zambrów"/>
+	<tag k="addr:street" v="Fabryczna"/>
+	<tag k="addr:housenumber" v="3a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1051079105" lat="53.4111243" lon="21.9253011" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Kolnie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Kolnie"/>
+	<tag k="addr:postcode" v="18-500"/>
+	<tag k="addr:city" v="Kolno"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="67"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-981773054" lat="49.8276981" lon="19.0410641" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Bielsku-Białej"/>
+	<tag k="name" v="ZUS Oddział w Bielsku-Białej"/>
+	<tag k="addr:postcode" v="43-350"/>
+	<tag k="addr:city" v="Bielsko-Biała"/>
+	<tag k="addr:street" v="Krasińskiego"/>
+	<tag k="addr:housenumber" v="34-36"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-551995635" lat="49.7481215" lon="18.6421202" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Cieszynie"/>
+	<tag k="name" v="ZUS Inspektorat w Cieszynie"/>
+	<tag k="addr:postcode" v="43-400"/>
+	<tag k="addr:city" v="Cieszyn"/>
+	<tag k="addr:street" v="Bielska"/>
+	<tag k="addr:housenumber" v="29"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-150228312" lat="49.6861465" lon="19.1960197" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Żywcu"/>
+	<tag k="name" v="ZUS Inspektorat w Żywcu"/>
+	<tag k="addr:postcode" v="34-300"/>
+	<tag k="addr:city" v="Żywiec"/>
+	<tag k="addr:street" v="Piernikarska"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-798136443" lat="50.5298995" lon="22.7165959" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Biłgoraju"/>
+	<tag k="name" v="ZUS Oddział w Biłgoraju"/>
+	<tag k="addr:postcode" v="23-400"/>
+	<tag k="addr:city" v="Biłgoraj"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="103"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-4508724" lat="51.1286504" lon="23.4786534" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Chełmie"/>
+	<tag k="name" v="ZUS Inspektorat w Chełmie"/>
+	<tag k="addr:postcode" v="22-100"/>
+	<tag k="addr:city" v="Chełm"/>
+	<tag k="addr:street" v="Aleja Żołnierzy I Armii Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-804844488" lat="50.8047363" lon="23.8873816" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Hrubieszowie"/>
+	<tag k="name" v="ZUS Inspektorat w Hrubieszowie"/>
+	<tag k="addr:postcode" v="22-500"/>
+	<tag k="addr:city" v="Hrubieszów"/>
+	<tag k="addr:street" v="3-go Maja"/>
+	<tag k="addr:housenumber" v="8a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-618635504" lat="50.4472947" lon="23.4137893" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Tomaszowie Lubelskim"/>
+	<tag k="name" v="ZUS Inspektorat w Tomaszowie Lubelskim"/>
+	<tag k="addr:postcode" v="22-600"/>
+	<tag k="addr:city" v="Tomaszów Lubelski"/>
+	<tag k="addr:street" v="Jana Pawła II"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-748250359" lat="50.7139641" lon="23.2657463" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Zamościu"/>
+	<tag k="name" v="ZUS Inspektorat w Zamościu"/>
+	<tag k="addr:postcode" v="22-400"/>
+	<tag k="addr:city" v="Zamość"/>
+	<tag k="addr:street" v="Kiepury"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-627701789" lat="50.7038118" lon="22.4153647" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Janowie Lubelskim"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Janowie Lubelskim"/>
+	<tag k="addr:postcode" v="23-300"/>
+	<tag k="addr:city" v="Janów Lubelski"/>
+	<tag k="addr:street" v="Zamoyskiego"/>
+	<tag k="addr:housenumber" v="52"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-758851089" lat="50.9844287" lon="23.1668764" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Krasnymstawie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Krasnymstawie"/>
+	<tag k="addr:postcode" v="22-300"/>
+	<tag k="addr:city" v="Krasnystaw"/>
+	<tag k="addr:street" v="PCK"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-755145924" lat="51.5491351" lon="23.5516091" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe we Włodawie"/>
+	<tag k="name" v="ZUS Biuro Terenowe we Włodawie"/>
+	<tag k="addr:postcode" v="22-200"/>
+	<tag k="addr:city" v="Włodawa"/>
+	<tag k="addr:street" v="Reymonta"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-509325711" lat="53.1249555" lon="17.9889642" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Bydgoszczy"/>
+	<tag k="name" v="ZUS Oddział w Bydgoszczy"/>
+	<tag k="addr:postcode" v="85-224"/>
+	<tag k="addr:city" v="Bydgoszcz"/>
+	<tag k="addr:street" v="Świętej Trójcy"/>
+	<tag k="addr:housenumber" v="33"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-734546135" lat="52.7960055" lon="18.2543938" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Inowrocławiu"/>
+	<tag k="name" v="ZUS Inspektorat w Inowrocławiu"/>
+	<tag k="addr:postcode" v="88-100"/>
+	<tag k="addr:city" v="Inowrocław"/>
+	<tag k="addr:street" v="Solankowa"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-720954811" lat="53.1382903" lon="17.5848514" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Nakle nad Notecią"/>
+	<tag k="name" v="ZUS Inspektorat w Nakle nad Notecią"/>
+	<tag k="addr:postcode" v="89-100"/>
+	<tag k="addr:city" v="Nakło nad Notecią"/>
+	<tag k="addr:street" v="Bohaterów"/>
+	<tag k="addr:housenumber" v="12a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-543043684" lat="53.407799" lon="18.4362713" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Świeciu"/>
+	<tag k="name" v="ZUS Inspektorat w Świeciu"/>
+	<tag k="addr:postcode" v="86-105"/>
+	<tag k="addr:city" v="Świecie"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="87A"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1063858250" lat="53.5850723" lon="17.8601158" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Tucholi"/>
+	<tag k="name" v="ZUS Inspektorat w Tucholi"/>
+	<tag k="addr:postcode" v="89-500"/>
+	<tag k="addr:city" v="Tuchola"/>
+	<tag k="addr:street" v="Dworcowa"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-787503049" lat="52.84783" lon="17.73287" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Żninie"/>
+	<tag k="name" v="ZUS Inspektorat w Żninie"/>
+	<tag k="addr:postcode" v="88-400"/>
+	<tag k="addr:city" v="Żnin"/>
+	<tag k="addr:street" v="700-lecia"/>
+	<tag k="addr:housenumber" v="37"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-70902954" lat="53.4559816" lon="17.5388259" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sępólnie Krajeńskim"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Sępólnie Krajeńskim"/>
+	<tag k="addr:postcode" v="89-400"/>
+	<tag k="addr:city" v="Sępólno Krajeńskie"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-169721757" lat="50.2914379" lon="18.9494323" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Chorzowie"/>
+	<tag k="name" v="ZUS Oddział w Chorzowie"/>
+	<tag k="addr:postcode" v="41-500"/>
+	<tag k="addr:city" v="Chorzów"/>
+	<tag k="addr:street" v="Dąbrowskiego"/>
+	<tag k="addr:housenumber" v="45"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-927482537" lat="50.2598987" lon="19.0215852" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Katowicach"/>
+	<tag k="name" v="ZUS Inspektorat w Katowicach"/>
+	<tag k="addr:postcode" v="40-018"/>
+	<tag k="addr:city" v="Katowice"/>
+	<tag k="addr:street" v="Gen. J. L. Sowińskiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-373224970" lat="50.2443545" lon="19.1406164" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Mysłowicach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Mysłowicach"/>
+	<tag k="addr:postcode" v="41-400"/>
+	<tag k="addr:city" v="Mysłowice"/>
+	<tag k="addr:street" v="Kacza"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-512807185" lat="50.2888347" lon="18.8745504" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rudzie Śląskiej"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Rudzie Śląskiej"/>
+	<tag k="addr:postcode" v="41-709"/>
+	<tag k="addr:city" v="Ruda Śląska"/>
+	<tag k="addr:street" v="Niedurnego"/>
+	<tag k="addr:housenumber" v="75"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-39038795" lat="50.142404" lon="19.3973109" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Chrzanowie"/>
+	<tag k="name" v="ZUS Oddział w Chrzanowie"/>
+	<tag k="addr:postcode" v="32-500"/>
+	<tag k="addr:city" v="Chrzanów"/>
+	<tag k="addr:street" v="Oświęcimska"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-603625186" lat="50.269694" lon="19.5751618" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Olkuszu"/>
+	<tag k="name" v="ZUS Inspektorat w Olkuszu"/>
+	<tag k="addr:postcode" v="32-300"/>
+	<tag k="addr:city" v="Olkusz"/>
+	<tag k="addr:street" v="Al. 1000-lecia"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-913376514" lat="50.0394222" lon="19.2278459" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Oświęcimiu"/>
+	<tag k="name" v="ZUS Inspektorat w Oświęcimiu"/>
+	<tag k="addr:postcode" v="32-600"/>
+	<tag k="addr:city" v="Oświęcim"/>
+	<tag k="addr:street" v="Chopina"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-926669295" lat="49.7426857" lon="19.6005261" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Suchej Beskidzkiej"/>
+	<tag k="name" v="ZUS Inspektorat w Suchej Beskidzkiej"/>
+	<tag k="addr:postcode" v="34-200"/>
+	<tag k="addr:city" v="Sucha Beskidzka"/>
+	<tag k="addr:street" v="Rynek"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-687671922" lat="49.8853304" lon="19.4933852" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wadowicach"/>
+	<tag k="name" v="ZUS Inspektorat w Wadowicach"/>
+	<tag k="addr:postcode" v="34-100"/>
+	<tag k="addr:city" v="Wadowice"/>
+	<tag k="addr:street" v="Teatralna"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-772409917" lat="50.8183494" lon="19.1120179" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Częstochowie"/>
+	<tag k="name" v="ZUS Oddział w Częstochowie"/>
+	<tag k="addr:postcode" v="42-218"/>
+	<tag k="addr:city" v="Częstochowa"/>
+	<tag k="addr:street" v="Dąbrowskiego"/>
+	<tag k="addr:housenumber" v="43/45"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-584115476" lat="50.9056523" lon="18.9393174" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kłobucku"/>
+	<tag k="name" v="ZUS Inspektorat w Kłobucku"/>
+	<tag k="addr:postcode" v="42-100"/>
+	<tag k="addr:city" v="Kłobuck"/>
+	<tag k="addr:street" v="Targowa 3"/>
+	<tag k="addr:housenumber" v="a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-598729584" lat="50.6811799" lon="18.6759919" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lublińcu"/>
+	<tag k="name" v="ZUS Inspektorat w Lublińcu"/>
+	<tag k="addr:postcode" v="42-700"/>
+	<tag k="addr:city" v="Lubliniec"/>
+	<tag k="addr:street" v="Oleska"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-68832214" lat="50.5768465" lon="19.3424068" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Myszkowie"/>
+	<tag k="name" v="ZUS Inspektorat w Myszkowie"/>
+	<tag k="addr:postcode" v="42-300"/>
+	<tag k="addr:city" v="Myszków"/>
+	<tag k="addr:street" v="Sikorskiego"/>
+	<tag k="addr:housenumber" v="57"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-309723928" lat="50.77287" lon="19.67674" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Koniecpolu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Koniecpolu"/>
+	<tag k="addr:postcode" v="42-230"/>
+	<tag k="addr:city" v="Koniecpol"/>
+	<tag k="addr:street" v="Rynek"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-112198600" lat="54.1646723" lon="19.3998033" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Elblągu"/>
+	<tag k="name" v="ZUS Oddział w Elblągu"/>
+	<tag k="addr:postcode" v="82-300"/>
+	<tag k="addr:city" v="Elbląg"/>
+	<tag k="addr:street" v="Teatralna"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-864600950" lat="53.584892" lon="19.5573472" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Iławie"/>
+	<tag k="name" v="ZUS Inspektorat w Iławie"/>
+	<tag k="addr:postcode" v="14-202"/>
+	<tag k="addr:city" v="Iława"/>
+	<tag k="addr:street" v="Wiejska"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-853508759" lat="53.6880251" lon="19.9691597" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Ostródzie"/>
+	<tag k="name" v="ZUS Inspektorat w Ostródzie"/>
+	<tag k="addr:postcode" v="14-100"/>
+	<tag k="addr:city" v="Ostróda"/>
+	<tag k="addr:street" v="Czarnieckiego"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1031039289" lat="54.3858822" lon="19.8158026" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Braniewie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Braniewie"/>
+	<tag k="addr:postcode" v="14-500"/>
+	<tag k="addr:city" v="Braniewo"/>
+	<tag k="addr:street" v="Morska"/>
+	<tag k="addr:housenumber" v="30D"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-407865160" lat="54.348894" lon="18.6539861" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Gdańsku"/>
+	<tag k="name" v="ZUS Oddział w Gdańsku"/>
+	<tag k="addr:postcode" v="80-748"/>
+	<tag k="addr:city" v="Gdańsk"/>
+	<tag k="addr:street" v="Chmielna"/>
+	<tag k="addr:housenumber" v="27/33"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-863605912" lat="54.3817696" lon="18.6055111" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Gdańsk-Wrzeszcz"/>
+	<tag k="name" v="ZUS Inspektorat Gdańsk-Wrzeszcz"/>
+	<tag k="addr:postcode" v="80-210"/>
+	<tag k="addr:city" v="Gdańsk-Wrzeszcz"/>
+	<tag k="addr:street" v="Tuwima"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-886068603" lat="54.5205392" lon="18.538287" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Gdyni"/>
+	<tag k="name" v="ZUS Inspektorat w Gdyni"/>
+	<tag k="addr:postcode" v="81-364"/>
+	<tag k="addr:city" v="Gdynia"/>
+	<tag k="addr:street" v="Władysława IV"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-615208415" lat="54.3356491" lon="18.198225" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kartuzach"/>
+	<tag k="name" v="ZUS Inspektorat w Kartuzach"/>
+	<tag k="addr:postcode" v="83-300"/>
+	<tag k="addr:city" v="Kartuzy"/>
+	<tag k="addr:street" v="Floriana Ceynowy"/>
+	<tag k="addr:housenumber" v="5A"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-33281496" lat="54.1239465" lon="17.9820781" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kościerzynie"/>
+	<tag k="name" v="ZUS Inspektorat w Kościerzynie"/>
+	<tag k="addr:postcode" v="83-400"/>
+	<tag k="addr:city" v="Kościerzyna"/>
+	<tag k="addr:street" v="3 Maja 9"/>
+	<tag k="addr:housenumber" v="b"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-175144390" lat="53.7322501" lon="18.9280447" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kwidzynie"/>
+	<tag k="name" v="ZUS Inspektorat w Kwidzynie"/>
+	<tag k="addr:postcode" v="82-500"/>
+	<tag k="addr:city" v="Kwidzyn"/>
+	<tag k="addr:street" v="Piłsudskiego 29"/>
+	<tag k="addr:housenumber" v="a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-295021524" lat="54.0363768" lon="19.0395949" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Malborku"/>
+	<tag k="name" v="ZUS Inspektorat w Malborku"/>
+	<tag k="addr:postcode" v="82-200"/>
+	<tag k="addr:city" v="Malbork"/>
+	<tag k="addr:street" v="Dworcowa"/>
+	<tag k="addr:housenumber" v="1B"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-912921407" lat="54.2605833" lon="18.6401411" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Pruszczu Gdańskim"/>
+	<tag k="name" v="ZUS Inspektorat w Pruszczu Gdańskim"/>
+	<tag k="addr:postcode" v="83-000"/>
+	<tag k="addr:city" v="Pruszcz Gdański"/>
+	<tag k="addr:street" v="Wita Stwosza"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-183338806" lat="54.7148824" lon="18.4086265" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Pucku"/>
+	<tag k="name" v="ZUS Inspektorat w Pucku"/>
+	<tag k="addr:postcode" v="84-100"/>
+	<tag k="addr:city" v="Puck"/>
+	<tag k="addr:street" v="E. Orzeszkowej"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-349238083" lat="53.9669259" lon="18.5203849" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Starogardzie Gdańskim"/>
+	<tag k="name" v="ZUS Inspektorat w Starogardzie Gdańskim"/>
+	<tag k="addr:postcode" v="83-200"/>
+	<tag k="addr:city" v="Starogard Gdański"/>
+	<tag k="addr:street" v="Piłsudskiego"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-871144257" lat="53.9189382" lon="19.0336191" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sztumie"/>
+	<tag k="name" v="ZUS Inspektorat w Sztumie"/>
+	<tag k="addr:postcode" v="82-400"/>
+	<tag k="addr:city" v="Sztum"/>
+	<tag k="addr:street" v="Mickiewicza"/>
+	<tag k="addr:housenumber" v="34"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-257511338" lat="54.0919526" lon="18.7629655" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Tczewie"/>
+	<tag k="name" v="ZUS Inspektorat w Tczewie"/>
+	<tag k="addr:postcode" v="83-110"/>
+	<tag k="addr:city" v="Tczew"/>
+	<tag k="addr:street" v="Jagiellońska"/>
+	<tag k="addr:housenumber" v="55"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-729412683" lat="54.6028883" lon="18.2350286" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wejherowie"/>
+	<tag k="name" v="ZUS Inspektorat w Wejherowie"/>
+	<tag k="addr:postcode" v="84-200"/>
+	<tag k="addr:city" v="Wejherowo"/>
+	<tag k="addr:street" v="Sobieskiego"/>
+	<tag k="addr:housenumber" v="294"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-100940814" lat="54.4436823" lon="18.5592338" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sopocie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Sopocie"/>
+	<tag k="addr:postcode" v="81-805"/>
+	<tag k="addr:city" v="Sopot"/>
+	<tag k="addr:street" v="Al. Niepodległości"/>
+	<tag k="addr:housenumber" v="796"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-245007018" lat="52.7293404" lon="15.2282297" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Gorzowie Wielkopolskim"/>
+	<tag k="name" v="ZUS Oddział w Gorzowie Wielkopolskim"/>
+	<tag k="addr:postcode" v="66-400"/>
+	<tag k="addr:city" v="Gorzów Wielkopolski"/>
+	<tag k="addr:street" v="Sikorskiego"/>
+	<tag k="addr:housenumber" v="42"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1002699026" lat="52.347994" lon="14.5607999" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Słubicach"/>
+	<tag k="name" v="ZUS Inspektorat w Słubicach"/>
+	<tag k="addr:postcode" v="69-100"/>
+	<tag k="addr:city" v="Słubice"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-751297588" lat="52.4359338" lon="15.1176447" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sulęcinie"/>
+	<tag k="name" v="ZUS Inspektorat w Sulęcinie"/>
+	<tag k="addr:postcode" v="69-200"/>
+	<tag k="addr:city" v="Sulęcin"/>
+	<tag k="addr:street" v="Witosa"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-222492229" lat="52.4523183" lon="15.5843273" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Międzyrzeczu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Międzyrzeczu"/>
+	<tag k="addr:postcode" v="66-300"/>
+	<tag k="addr:city" v="Międzyrzecz"/>
+	<tag k="addr:street" v="Przemyslowa"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-661032529" lat="52.8752279" lon="15.5322899" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Strzelcach Krajeńskich"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Strzelcach Krajeńskich"/>
+	<tag k="addr:postcode" v="66-500"/>
+	<tag k="addr:city" v="Strzelce Krajeńskie"/>
+	<tag k="addr:street" v="Al. Wolności"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-714235761" lat="49.7479624" lon="21.4745102" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Jaśle"/>
+	<tag k="name" v="ZUS Oddział w Jaśle"/>
+	<tag k="addr:postcode" v="38-200"/>
+	<tag k="addr:city" v="Jasło"/>
+	<tag k="addr:street" v="Rynek 18"/>
+	<tag k="addr:housenumber" v="b"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-804680534" lat="49.7060448" lon="22.0260312" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Brzozowie"/>
+	<tag k="name" v="ZUS Inspektorat w Brzozowie"/>
+	<tag k="addr:postcode" v="36-200"/>
+	<tag k="addr:city" v="Brzozów"/>
+	<tag k="addr:street" v="Witosa"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-62249620" lat="50.0577157" lon="21.4004923" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Dębicy"/>
+	<tag k="name" v="ZUS Inspektorat w Dębicy"/>
+	<tag k="addr:postcode" v="39-200"/>
+	<tag k="addr:city" v="Dębica"/>
+	<tag k="addr:street" v="Piłsudskiego"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-916131143" lat="49.6792104" lon="21.7763794" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Krośnie"/>
+	<tag k="name" v="ZUS Inspektorat w Krośnie"/>
+	<tag k="addr:postcode" v="38-400"/>
+	<tag k="addr:city" v="Krosno"/>
+	<tag k="addr:street" v="Bieszczadzka"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-8340518" lat="49.5527888" lon="22.2024129" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sanoku"/>
+	<tag k="name" v="ZUS Inspektorat w Sanoku"/>
+	<tag k="addr:postcode" v="38-500"/>
+	<tag k="addr:city" v="Sanok"/>
+	<tag k="addr:street" v="Konarskiego"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-2212373" lat="50.872876" lon="20.6282355" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Kielcach"/>
+	<tag k="name" v="ZUS Oddział w Kielcach"/>
+	<tag k="addr:postcode" v="25-510"/>
+	<tag k="addr:city" v="Kielce"/>
+	<tag k="addr:street" v="Piotrkowska"/>
+	<tag k="addr:housenumber" v="27"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-699102960" lat="50.4702382" lon="20.7252161" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Busku-Zdroju"/>
+	<tag k="name" v="ZUS Inspektorat w Busku-Zdroju"/>
+	<tag k="addr:postcode" v="28-100"/>
+	<tag k="addr:city" v="Busko-Zdrój"/>
+	<tag k="addr:street" v="Partyzantów"/>
+	<tag k="addr:housenumber" v="33"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-612891092" lat="51.18595" lon="20.42413" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Końskich"/>
+	<tag k="name" v="ZUS Inspektorat w Końskich"/>
+	<tag k="addr:postcode" v="26-200"/>
+	<tag k="addr:city" v="Końskie"/>
+	<tag k="addr:street" v="Partyzantów"/>
+	<tag k="addr:housenumber" v="50"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1040367786" lat="50.8028372" lon="21.431309" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Opatowie"/>
+	<tag k="name" v="ZUS Inspektorat w Opatowie"/>
+	<tag k="addr:postcode" v="27-500"/>
+	<tag k="addr:city" v="Opatów"/>
+	<tag k="addr:street" v="Sempołowskiej"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-979893458" lat="50.9456055" lon="21.3832238" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Ostrowcu Świetokrzyskim"/>
+	<tag k="name" v="ZUS Inspektorat w Ostrowcu Świetokrzyskim"/>
+	<tag k="addr:postcode" v="27-400"/>
+	<tag k="addr:city" v="Ostrowiec Świetokrzyski"/>
+	<tag k="addr:street" v="Rosłońskiego"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-37243036" lat="51.120858" lon="20.88251" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Skarżysku Kamiennej"/>
+	<tag k="name" v="ZUS Inspektorat w Skarżysku Kamiennej"/>
+	<tag k="addr:postcode" v="26-110"/>
+	<tag k="addr:city" v="Skarżysko Kamienna"/>
+	<tag k="addr:street" v="Kossaka"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-234119048" lat="51.058616" lon="21.0662815" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Starachowicach"/>
+	<tag k="name" v="ZUS Inspektorat w Starachowicach"/>
+	<tag k="addr:postcode" v="27-200"/>
+	<tag k="addr:city" v="Starachowice"/>
+	<tag k="addr:street" v="Radomska"/>
+	<tag k="addr:housenumber" v="31A"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-498024737" lat="50.6369556" lon="20.2705945" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Jędrzejowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Jędrzejowie"/>
+	<tag k="addr:postcode" v="28-300"/>
+	<tag k="addr:city" v="Jędrzejów"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-949410842" lat="50.5234045" lon="20.5191203" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pińczowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Pińczowie"/>
+	<tag k="addr:postcode" v="28-400"/>
+	<tag k="addr:city" v="Pińczów"/>
+	<tag k="addr:street" v="3-go Maja"/>
+	<tag k="addr:housenumber" v="40"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-550180635" lat="50.6858542" lon="21.7352076" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sandomierzu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Sandomierzu"/>
+	<tag k="addr:postcode" v="27-600"/>
+	<tag k="addr:city" v="Sandomierz"/>
+	<tag k="addr:street" v="Juliusza Słowackiego"/>
+	<tag k="addr:housenumber" v="37C/1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-809395601" lat="50.565308" lon="21.1658509" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Staszowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Staszowie"/>
+	<tag k="addr:postcode" v="28-200"/>
+	<tag k="addr:city" v="Staszów"/>
+	<tag k="addr:street" v="Długa"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-139000317" lat="50.8466667" lon="19.9783333" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe we Włoszczowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe we Włoszczowie"/>
+	<tag k="addr:postcode" v="29-100"/>
+	<tag k="addr:city" v="Włoszczowa"/>
+	<tag k="addr:street" v="Jana Brożka"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-145341998" lat="54.197787" lon="16.1930653" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Koszalinie"/>
+	<tag k="name" v="ZUS Oddział w Koszalinie"/>
+	<tag k="addr:postcode" v="75-434"/>
+	<tag k="addr:city" v="Koszalin"/>
+	<tag k="addr:street" v="Juliana Fałata"/>
+	<tag k="addr:housenumber" v="30"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-879844437" lat="54.0054011" lon="15.9815253" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Białogardzie"/>
+	<tag k="name" v="ZUS Inspektorat w Białogardzie"/>
+	<tag k="addr:postcode" v="78-200"/>
+	<tag k="addr:city" v="Białogard"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="56"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-744461189" lat="53.530543" lon="15.8070891" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Drawsku Pomorskim"/>
+	<tag k="name" v="ZUS Inspektorat w Drawsku Pomorskim"/>
+	<tag k="addr:postcode" v="78-500"/>
+	<tag k="addr:city" v="Drawsko Pomorskie"/>
+	<tag k="addr:street" v="Sikorskiego"/>
+	<tag k="addr:housenumber" v="30"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1057219826" lat="54.1771755" lon="15.5717402" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kołobrzegu"/>
+	<tag k="name" v="ZUS Inspektorat w Kołobrzegu"/>
+	<tag k="addr:postcode" v="78-100"/>
+	<tag k="addr:city" v="Kołobrzeg"/>
+	<tag k="addr:street" v="Łopuskiego"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1012777768" lat="53.7089743" lon="16.6933117" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Szczecinku"/>
+	<tag k="name" v="ZUS Inspektorat w Szczecinku"/>
+	<tag k="addr:postcode" v="78-400"/>
+	<tag k="addr:city" v="Szczecinek"/>
+	<tag k="addr:street" v="Pl. Wolności"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-404705588" lat="53.772496" lon="15.7716716" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Świdwinie"/>
+	<tag k="name" v="ZUS Inspektorat w Świdwinie"/>
+	<tag k="addr:postcode" v="78-300"/>
+	<tag k="addr:city" v="Świdwin"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-662230931" lat="53.2747887" lon="16.4709088" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wałczu"/>
+	<tag k="name" v="ZUS Inspektorat w Wałczu"/>
+	<tag k="addr:postcode" v="78-600"/>
+	<tag k="addr:city" v="Wałcz"/>
+	<tag k="addr:street" v="Dąbrowskiego"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-233887997" lat="50.0718616" lon="19.9394684" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Krakowie"/>
+	<tag k="name" v="ZUS Oddział w Krakowie"/>
+	<tag k="addr:postcode" v="31-080"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Pędzichów"/>
+	<tag k="addr:housenumber" v="27"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-368156971" lat="50.0755271" lon="19.9286636" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Krowodrza"/>
+	<tag k="name" v="ZUS Inspektorat Kraków - Krowodrza"/>
+	<tag k="addr:postcode" v="30-015"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Świętokrzyska"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-81331138" lat="50.0130554" lon="19.9286071" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Łagiewniki"/>
+	<tag k="name" v="ZUS Inspektorat Kraków - Łagiewniki"/>
+	<tag k="addr:postcode" v="30-418"/>
+	<tag k="addr:city" v="Kraków - Łagiewniki"/>
+	<tag k="addr:street" v="Zakopiańska"/>
+	<tag k="addr:housenumber" v="33"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-183899054" lat="50.0782032" lon="20.0312135" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Nowa Huta"/>
+	<tag k="name" v="ZUS Inspektorat Kraków - Nowa Huta"/>
+	<tag k="addr:postcode" v="31-946"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="os. Teatralne"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-623690982" lat="50.0130554" lon="19.9286071" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Podgórze"/>
+	<tag k="name" v="ZUS Inspektorat Kraków - Podgórze"/>
+	<tag k="addr:postcode" v="30-418"/>
+	<tag k="addr:city" v="Kraków"/>
+	<tag k="addr:street" v="Zakopiańska"/>
+	<tag k="addr:housenumber" v="33"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-603714264" lat="50.3586327" lon="20.0259755" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Miechowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Miechowie"/>
+	<tag k="addr:postcode" v="32-200"/>
+	<tag k="addr:city" v="Miechów"/>
+	<tag k="addr:street" v="Podzamcze"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-375308054" lat="49.8326684" lon="19.9550789" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Myślenicach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Myślenicach"/>
+	<tag k="addr:postcode" v="32-400"/>
+	<tag k="addr:city" v="Myślenice"/>
+	<tag k="addr:street" v="Drogowców"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-666406195" lat="50.1912645" lon="20.2942814" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Proszowicach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Proszowicach"/>
+	<tag k="addr:postcode" v="32-100"/>
+	<tag k="addr:city" v="Proszowice"/>
+	<tag k="addr:street" v="Reja"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-206144666" lat="51.2140928" lon="16.1696549" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Legnicy"/>
+	<tag k="name" v="ZUS Oddział w Legnicy"/>
+	<tag k="addr:postcode" v="59-220"/>
+	<tag k="addr:city" v="Legnica"/>
+	<tag k="addr:street" v="Wł. Grabskiego"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-216365805" lat="51.26205" lon="15.5560168" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Bolesławcu"/>
+	<tag k="name" v="ZUS Inspektorat w Bolesławcu"/>
+	<tag k="addr:postcode" v="59-700"/>
+	<tag k="addr:city" v="Bolesławiec"/>
+	<tag k="addr:street" v="Kwiatowa"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-529847718" lat="51.6603627" lon="16.0773729" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Głogowie"/>
+	<tag k="name" v="ZUS Inspektorat w Głogowie"/>
+	<tag k="addr:postcode" v="67-200"/>
+	<tag k="addr:city" v="Głogów"/>
+	<tag k="addr:street" v="Morcinka"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-286250236" lat="51.0588307" lon="16.1852817" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Jaworze"/>
+	<tag k="name" v="ZUS Inspektorat w Jaworze"/>
+	<tag k="addr:postcode" v="59-400"/>
+	<tag k="addr:city" v="Jawor"/>
+	<tag k="addr:street" v="Gagarina"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-856434171" lat="51.4003898" lon="16.2088337" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lubinie"/>
+	<tag k="name" v="ZUS Inspektorat w Lubinie"/>
+	<tag k="addr:postcode" v="59-300"/>
+	<tag k="addr:city" v="Lubin"/>
+	<tag k="addr:street" v="Drzymały"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-93361896" lat="51.1228442" lon="15.9139338" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Złotoryi"/>
+	<tag k="name" v="ZUS Inspektorat w Złotoryi"/>
+	<tag k="addr:postcode" v="59-500"/>
+	<tag k="addr:city" v="Złotoryja"/>
+	<tag k="addr:street" v="Basztowa"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1009638098" lat="51.6661573" lon="16.5502502" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Górze"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Górze"/>
+	<tag k="addr:postcode" v="56-200"/>
+	<tag k="addr:city" v="Góra"/>
+	<tag k="addr:street" v="Wrocławska"/>
+	<tag k="addr:housenumber" v="54"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-397989697" lat="51.1091773" lon="15.5946505" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Lwówku Śląskim"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Lwówku Śląskim"/>
+	<tag k="addr:postcode" v="59-600"/>
+	<tag k="addr:city" v="Lwówek Śląski"/>
+	<tag k="addr:street" v="10-tej Dywizji"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-802824489" lat="51.50274" lon="16.06789" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Polkowicach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Polkowicach"/>
+	<tag k="addr:postcode" v="59-100"/>
+	<tag k="addr:city" v="Polkowice"/>
+	<tag k="addr:street" v="Górna"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-922131949" lat="51.250559" lon="22.5701022" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Lublinie"/>
+	<tag k="name" v="ZUS Oddział w Lublinie"/>
+	<tag k="addr:postcode" v="20-601"/>
+	<tag k="addr:city" v="Lublin"/>
+	<tag k="addr:street" v="T. Zana"/>
+	<tag k="addr:housenumber" v="36/38c"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-746112589" lat="52.0378935" lon="23.1180758" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Białej Podlaskiej"/>
+	<tag k="name" v="ZUS Inspektorat w Białej Podlaskiej"/>
+	<tag k="addr:postcode" v="21-500"/>
+	<tag k="addr:city" v="Biała Podlaska"/>
+	<tag k="addr:street" v="Sadowa"/>
+	<tag k="addr:housenumber" v="23"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-314797933" lat="50.9249236" lon="22.229206" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kraśniku"/>
+	<tag k="name" v="ZUS Inspektorat w Kraśniku"/>
+	<tag k="addr:postcode" v="23-204"/>
+	<tag k="addr:city" v="Kraśnik"/>
+	<tag k="addr:street" v="Ks. J. Popiełuszki"/>
+	<tag k="addr:housenumber" v="3a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-903744193" lat="51.46536" lon="22.60455" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lubartowie"/>
+	<tag k="name" v="ZUS Inspektorat w Lubartowie"/>
+	<tag k="addr:postcode" v="21-100"/>
+	<tag k="addr:city" v="Lubartów"/>
+	<tag k="addr:street" v="Lipowa"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-155215711" lat="51.93008" lon="22.3790669" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Łukowie"/>
+	<tag k="name" v="ZUS Inspektorat w Łukowie"/>
+	<tag k="addr:postcode" v="21-400"/>
+	<tag k="addr:city" v="Łuków"/>
+	<tag k="addr:street" v="Kardynała S. Wyszyńskiego"/>
+	<tag k="addr:housenumber" v="56"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-851188479" lat="51.4145668" lon="21.9835443" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Puławach"/>
+	<tag k="name" v="ZUS Inspektorat w Puławach"/>
+	<tag k="addr:postcode" v="24-100"/>
+	<tag k="addr:city" v="Puławy"/>
+	<tag k="addr:street" v="Lubelska 20"/>
+	<tag k="addr:housenumber" v="b"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-407673118" lat="51.7853669" lon="22.6177628" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Radzyniu Podlaskim"/>
+	<tag k="name" v="ZUS Inspektorat w Radzyniu Podlaskim"/>
+	<tag k="addr:postcode" v="21-300"/>
+	<tag k="addr:city" v="Radzyń Podlaski"/>
+	<tag k="addr:street" v="Armii Krajowej"/>
+	<tag k="addr:housenumber" v="22-32"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-679662664" lat="51.2945224" lon="22.8933299" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Łęcznej"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Łęcznej"/>
+	<tag k="addr:postcode" v="21-010"/>
+	<tag k="addr:city" v="Łęczna"/>
+	<tag k="addr:street" v="Obrońców Pokoju"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1001789871" lat="51.1477047" lon="21.9709995" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Opolu Lubelskim"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Opolu Lubelskim"/>
+	<tag k="addr:postcode" v="24-300"/>
+	<tag k="addr:city" v="Opole Lubelskie"/>
+	<tag k="addr:street" v="Józefa Piłsudskiego"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-672700580" lat="51.6408456" lon="22.8993144" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Parczewie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Parczewie"/>
+	<tag k="addr:postcode" v="21-200"/>
+	<tag k="addr:city" v="Parczew"/>
+	<tag k="addr:street" v="Pl. Wolności"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-84446972" lat="51.6259617" lon="21.9328876" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rykach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Rykach"/>
+	<tag k="addr:postcode" v="08-500"/>
+	<tag k="addr:city" v="Ryki"/>
+	<tag k="addr:street" v="J. Słowackiego"/>
+	<tag k="addr:housenumber" v="5A"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-436783756" lat="51.761946" lon="19.4568017" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - I Oddział w Łodzi"/>
+	<tag k="name" v="ZUS I Oddział w Łodzi"/>
+	<tag k="addr:postcode" v="90-431"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Zamenhofa"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-815200270" lat="51.794021" lon="19.4054231" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - II Inspektorat w Łodzi"/>
+	<tag k="name" v="ZUS II Inspektorat w Łodzi"/>
+	<tag k="addr:postcode" v="91-120"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Lipiec Reymontowskich"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-295834128" lat="52.2252512" lon="19.380707" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kutnie"/>
+	<tag k="name" v="ZUS Inspektorat w Kutnie"/>
+	<tag k="addr:postcode" v="99-301"/>
+	<tag k="addr:city" v="Kutno"/>
+	<tag k="addr:street" v="Jagiełły"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-898961531" lat="52.1040433" lon="19.9460834" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Łowiczu"/>
+	<tag k="name" v="ZUS Inspektorat w Łowiczu"/>
+	<tag k="addr:postcode" v="99-400"/>
+	<tag k="addr:city" v="Łowicz"/>
+	<tag k="addr:street" v="Kaliska"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-378818981" lat="51.8545638" lon="19.4071505" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Zgierzu"/>
+	<tag k="name" v="ZUS Inspektorat w Zgierzu"/>
+	<tag k="addr:postcode" v="95-100"/>
+	<tag k="addr:city" v="Zgierz"/>
+	<tag k="addr:street" v="3 Maja"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-580630900" lat="51.8015882" lon="19.7314862" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Brzezinach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Brzezinach"/>
+	<tag k="addr:postcode" v="95-060"/>
+	<tag k="addr:city" v="Brzeziny"/>
+	<tag k="addr:street" v="Łódzka"/>
+	<tag k="addr:housenumber" v="19"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-982723870" lat="52.0589483" lon="19.1888327" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Łęczycy"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Łęczycy"/>
+	<tag k="addr:postcode" v="99-100"/>
+	<tag k="addr:city" v="Łęczyca"/>
+	<tag k="addr:street" v="Zachodnia"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-851969085" lat="51.6011424" lon="18.9449228" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - II Oddział w Łodzi"/>
+	<tag k="name" v="ZUS II Oddział w Łodzi"/>
+	<tag k="addr:postcode" v="98-220"/>
+	<tag k="addr:city" v="Zduńska Wola"/>
+	<tag k="addr:street" v="Kilińskiego"/>
+	<tag k="addr:housenumber" v="7/11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-839804728" lat="51.7940979" lon="19.4054561" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Łodzi"/>
+	<tag k="name" v="ZUS Inspektorat w Łodzi"/>
+	<tag k="addr:postcode" v="91-120"/>
+	<tag k="addr:city" v="Łódź"/>
+	<tag k="addr:street" v="Lipiec Reymontowskich"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-424365751" lat="51.6609423" lon="19.352316" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Pabianicach"/>
+	<tag k="name" v="ZUS Inspektorat w Pabianicach"/>
+	<tag k="addr:postcode" v="95-200"/>
+	<tag k="addr:city" v="Pabianice"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="31"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-512601540" lat="51.5927622" lon="18.730317" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sieradzu"/>
+	<tag k="name" v="ZUS Inspektorat w Sieradzu"/>
+	<tag k="addr:postcode" v="98-200"/>
+	<tag k="addr:city" v="Sieradz"/>
+	<tag k="addr:street" v="Piłsudskiego"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-153417274" lat="51.2161488" lon="18.5687898" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wieluniu"/>
+	<tag k="name" v="ZUS Inspektorat w Wieluniu"/>
+	<tag k="addr:postcode" v="98-300"/>
+	<tag k="addr:city" v="Wieluń"/>
+	<tag k="addr:street" v="3 Maja"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-237226370" lat="51.1471605" lon="18.9982791" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pajęcznie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Pajęcznie"/>
+	<tag k="addr:postcode" v="98-330"/>
+	<tag k="addr:city" v="Pajęczno"/>
+	<tag k="addr:street" v="Wiśniowa"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-103342389" lat="51.8966343" lon="18.9610064" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Poddębicach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Poddębicach"/>
+	<tag k="addr:postcode" v="99-200"/>
+	<tag k="addr:city" v="Poddębice"/>
+	<tag k="addr:street" v="Łęczycka"/>
+	<tag k="addr:housenumber" v="17/19"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-796592113" lat="51.2962938" lon="18.1643363" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Wieruszowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Wieruszowie"/>
+	<tag k="addr:postcode" v="98-400"/>
+	<tag k="addr:city" v="Wieruszów"/>
+	<tag k="addr:street" v="Bursztynowa"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-749217156" lat="49.6071459" lon="20.6963616" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Nowym Sączu"/>
+	<tag k="name" v="ZUS Oddział w Nowym Sączu"/>
+	<tag k="addr:postcode" v="33-300"/>
+	<tag k="addr:city" v="Nowy Sącz"/>
+	<tag k="addr:street" v="Sienkiewicza"/>
+	<tag k="addr:housenumber" v="77"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-805709392" lat="49.6610251" lon="21.1555573" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Gorlicach"/>
+	<tag k="name" v="ZUS Inspektorat w Gorlicach"/>
+	<tag k="addr:postcode" v="38-300"/>
+	<tag k="addr:city" v="Gorlice"/>
+	<tag k="addr:street" v="Jagiełły"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-218160585" lat="49.7019281" lon="20.4159314" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Limanowej"/>
+	<tag k="name" v="ZUS Inspektorat w Limanowej"/>
+	<tag k="addr:postcode" v="34-600"/>
+	<tag k="addr:city" v="Limanowa"/>
+	<tag k="addr:street" v="Józefa Marka"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-259212850" lat="49.479518" lon="20.0295094" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Nowym Targu"/>
+	<tag k="name" v="ZUS Inspektorat w Nowym Targu"/>
+	<tag k="addr:postcode" v="34-400"/>
+	<tag k="addr:city" v="Nowy Targ"/>
+	<tag k="addr:street" v="Królowej Jadwigi"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-753553010" lat="49.300878" lon="19.959058" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Zakopanem"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Zakopanem"/>
+	<tag k="addr:postcode" v="34-500"/>
+	<tag k="addr:city" v="Zakopane"/>
+	<tag k="addr:street" v="Gimnazjalna"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-129280342" lat="53.7807283" lon="20.4819814" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Olsztynie"/>
+	<tag k="name" v="ZUS Oddział w Olsztynie"/>
+	<tag k="addr:postcode" v="10-959"/>
+	<tag k="addr:city" v="Olsztyn"/>
+	<tag k="addr:street" v="Pl. Konsulatu Polskiego"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-735460973" lat="54.2496586" lon="20.8157673" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Bartoszycach"/>
+	<tag k="name" v="ZUS Inspektorat w Bartoszycach"/>
+	<tag k="addr:postcode" v="11-200"/>
+	<tag k="addr:city" v="Bartoszyce"/>
+	<tag k="addr:street" v="Bohaterów Warszawy"/>
+	<tag k="addr:housenumber" v="2a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-609175913" lat="53.2342532" lon="20.1773764" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Działdowie"/>
+	<tag k="name" v="ZUS Inspektorat w Działdowie"/>
+	<tag k="addr:postcode" v="13-200"/>
+	<tag k="addr:city" v="Działdowo"/>
+	<tag k="addr:street" v="Waryńskiego"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-531535452" lat="53.8248849" lon="22.3443422" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Ełku"/>
+	<tag k="name" v="ZUS Inspektorat w Ełku"/>
+	<tag k="addr:postcode" v="19-300"/>
+	<tag k="addr:city" v="Ełk"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="73"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-652283411" lat="54.041545" lon="21.7867034" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Giżycku"/>
+	<tag k="name" v="ZUS Inspektorat w Giżycku"/>
+	<tag k="addr:postcode" v="11-500"/>
+	<tag k="addr:city" v="Giżycko"/>
+	<tag k="addr:street" v="Królowej Jadwigi"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-492665113" lat="54.0816353" lon="21.3721309" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kętrzynie"/>
+	<tag k="name" v="ZUS Inspektorat w Kętrzynie"/>
+	<tag k="addr:postcode" v="11-400"/>
+	<tag k="addr:city" v="Kętrzyn"/>
+	<tag k="addr:street" v="Reja"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-867529151" lat="54.1284231" lon="20.572442" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lidzbarku Warmińskim"/>
+	<tag k="name" v="ZUS Inspektorat w Lidzbarku Warmińskim"/>
+	<tag k="addr:postcode" v="11-100"/>
+	<tag k="addr:city" v="Lidzbark Warmiński"/>
+	<tag k="addr:street" v="Legionów"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-984003493" lat="53.5645167" lon="20.9883274" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Szczytnie"/>
+	<tag k="name" v="ZUS Inspektorat w Szczytnie"/>
+	<tag k="addr:postcode" v="12-100"/>
+	<tag k="addr:city" v="Szczytno"/>
+	<tag k="addr:street" v="Barczewskiego"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-251162899" lat="54.3073373" lon="22.2993944" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gołdapi"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Gołdapi"/>
+	<tag k="addr:postcode" v="19-500"/>
+	<tag k="addr:city" v="Gołdap"/>
+	<tag k="addr:street" v="Matejki"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-965318907" lat="53.8746776" lon="21.3033292" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Mrągowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Mrągowie"/>
+	<tag k="addr:postcode" v="11-700"/>
+	<tag k="addr:city" v="Mrągowo"/>
+	<tag k="addr:street" v="Królewiecka"/>
+	<tag k="addr:housenumber" v="43"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-737127205" lat="53.3511145" lon="20.4284586" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Nidzicy"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Nidzicy"/>
+	<tag k="addr:postcode" v="13-100"/>
+	<tag k="addr:city" v="Nidzica"/>
+	<tag k="addr:street" v="Sienkiewicza"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-39849855" lat="53.6225669" lon="21.8182352" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Piszu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Piszu"/>
+	<tag k="addr:postcode" v="12-200"/>
+	<tag k="addr:city" v="Pisz"/>
+	<tag k="addr:street" v="Czerniewskiego"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-698625408" lat="50.6723271" lon="17.9121399" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Opolu"/>
+	<tag k="name" v="ZUS Oddział w Opolu"/>
+	<tag k="addr:postcode" v="45-701"/>
+	<tag k="addr:city" v="Opole"/>
+	<tag k="addr:street" v="Wrocławska"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="opening_hours" v="Mo-We 8:00-15:30; Th 08:00-17:00; Fr 8:00-14:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-735077046" lat="50.8446831" lon="17.4749543" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Brzegu"/>
+	<tag k="name" v="ZUS Inspektorat w Brzegu"/>
+	<tag k="addr:postcode" v="49-305"/>
+	<tag k="addr:city" v="Brzeg"/>
+	<tag k="addr:street" v="Starobrzeska"/>
+	<tag k="addr:housenumber" v="28c"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-318187048" lat="50.2017207" lon="17.8208107" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Głubczycach"/>
+	<tag k="name" v="ZUS Inspektorat w Głubczycach"/>
+	<tag k="addr:postcode" v="48-100"/>
+	<tag k="addr:city" v="Głubczyce"/>
+	<tag k="addr:street" v="Chrobrego"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-232286380" lat="50.3455252" lon="18.2131174" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kędzierzynie-Koźlu"/>
+	<tag k="name" v="ZUS Inspektorat w Kędzierzynie-Koźlu"/>
+	<tag k="addr:postcode" v="47-220"/>
+	<tag k="addr:city" v="Kędzierzyn-Koźle"/>
+	<tag k="addr:street" v="al. Jana Pawła II"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-410116280" lat="50.9734687" lon="18.2224094" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kluczborku"/>
+	<tag k="name" v="ZUS Inspektorat w Kluczborku"/>
+	<tag k="addr:postcode" v="46-200"/>
+	<tag k="addr:city" v="Kluczbork"/>
+	<tag k="addr:street" v="Katowicka"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-489461049" lat="50.4758537" lon="17.3297445" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Nysie"/>
+	<tag k="name" v="ZUS Inspektorat w Nysie"/>
+	<tag k="addr:postcode" v="48-300"/>
+	<tag k="addr:city" v="Nysa"/>
+	<tag k="addr:street" v="Armii Krajowej"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1010840591" lat="50.8772074" lon="18.4167826" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Oleśnie"/>
+	<tag k="name" v="ZUS Inspektorat w Oleśnie"/>
+	<tag k="addr:postcode" v="46-300"/>
+	<tag k="addr:city" v="Olesno"/>
+	<tag k="addr:street" v="Słowackiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-17708657" lat="50.325648" lon="17.5901051" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Prudniku"/>
+	<tag k="name" v="ZUS Inspektorat w Prudniku"/>
+	<tag k="addr:postcode" v="48-200"/>
+	<tag k="addr:city" v="Prudnik"/>
+	<tag k="addr:street" v="Powstańców Śląskich"/>
+	<tag k="addr:housenumber" v="7a/7b"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-434066248" lat="50.5109033" lon="18.3004547" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Strzelcach Opolskich"/>
+	<tag k="name" v="ZUS Inspektorat w Strzelcach Opolskich"/>
+	<tag k="addr:postcode" v="47-100"/>
+	<tag k="addr:city" v="Strzelce Opolskie"/>
+	<tag k="addr:street" v="K. Miarki"/>
+	<tag k="addr:housenumber" v="2a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-258055089" lat="51.0743908" lon="17.717021" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Namysłowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Namysłowie"/>
+	<tag k="addr:postcode" v="46-100"/>
+	<tag k="addr:city" v="Namysłów"/>
+	<tag k="addr:street" v="Rynek"/>
+	<tag k="addr:housenumber" v="Ratusz"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-916915629" lat="51.6449313" lon="17.8180046" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Ostrowie Wielkopolskim"/>
+	<tag k="name" v="ZUS Oddział w Ostrowie Wielkopolskim"/>
+	<tag k="addr:postcode" v="63-400"/>
+	<tag k="addr:city" v="Ostrów Wielkopolski"/>
+	<tag k="addr:street" v="Wysocka"/>
+	<tag k="addr:housenumber" v="1b"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-246756392" lat="51.9673102" lon="17.5004035" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Jarocinie"/>
+	<tag k="name" v="ZUS Inspektorat w Jarocinie"/>
+	<tag k="addr:postcode" v="63-200"/>
+	<tag k="addr:city" v="Jarocin"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="16a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-446719079" lat="51.7452388" lon="18.0759559" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kaliszu"/>
+	<tag k="name" v="ZUS Inspektorat w Kaliszu"/>
+	<tag k="addr:postcode" v="62-800"/>
+	<tag k="addr:city" v="Kalisz"/>
+	<tag k="addr:street" v="Konopnickiej"/>
+	<tag k="addr:housenumber" v="31"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-957739719" lat="51.2860055" lon="17.9932331" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kępnie"/>
+	<tag k="name" v="ZUS Inspektorat w Kępnie"/>
+	<tag k="addr:postcode" v="63-600"/>
+	<tag k="addr:city" v="Kępno"/>
+	<tag k="addr:street" v="Solidarności"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-143989796" lat="52.0811078" lon="16.6263649" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kościanie"/>
+	<tag k="name" v="ZUS Inspektorat w Kościanie"/>
+	<tag k="addr:postcode" v="64-000"/>
+	<tag k="addr:city" v="Kościan"/>
+	<tag k="addr:street" v="Kaźmierczaka"/>
+	<tag k="addr:housenumber" v="31"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-295690949" lat="51.8466882" lon="16.5698326" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lesznie"/>
+	<tag k="name" v="ZUS Inspektorat w Lesznie"/>
+	<tag k="addr:postcode" v="64-100"/>
+	<tag k="addr:city" v="Leszno"/>
+	<tag k="addr:street" v="Al. Krasińskiego"/>
+	<tag k="addr:housenumber" v="36"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-583499931" lat="51.6085185" lon="16.8501983" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Rawiczu"/>
+	<tag k="name" v="ZUS Inspektorat w Rawiczu"/>
+	<tag k="addr:postcode" v="63-900"/>
+	<tag k="addr:city" v="Rawicz"/>
+	<tag k="addr:street" v="Mikołajewicza"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-271439004" lat="52.1182953" lon="16.1104131" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wolsztynie"/>
+	<tag k="name" v="ZUS Inspektorat w Wolsztynie"/>
+	<tag k="addr:postcode" v="64-200"/>
+	<tag k="addr:city" v="Wolsztyn"/>
+	<tag k="addr:street" v="Poznańska"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-217681482" lat="51.874968" lon="17.0127603" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gostyniu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Gostyniu"/>
+	<tag k="addr:postcode" v="63-800"/>
+	<tag k="addr:city" v="Gostyń"/>
+	<tag k="addr:street" v="Nowe Wrota"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-152250999" lat="51.699406" lon="17.4410934" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Krotoszynie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Krotoszynie"/>
+	<tag k="addr:postcode" v="63-700"/>
+	<tag k="addr:city" v="Krotoszyn"/>
+	<tag k="addr:street" v="Kobierska"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-792727462" lat="51.417491" lon="17.9330928" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Ostrzeszowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Ostrzeszowie"/>
+	<tag k="addr:postcode" v="63-500"/>
+	<tag k="addr:city" v="Ostrzeszów"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-282351545" lat="51.8933638" lon="17.7844277" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pleszewie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Pleszewie"/>
+	<tag k="addr:postcode" v="63-300"/>
+	<tag k="addr:city" v="Pleszew"/>
+	<tag k="addr:street" v="Ogrodowa"/>
+	<tag k="addr:housenumber" v="3a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-748504015" lat="53.1498559" lon="16.7252338" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Pile"/>
+	<tag k="name" v="ZUS Oddział w Pile"/>
+	<tag k="addr:postcode" v="64-920"/>
+	<tag k="addr:city" v="Piła"/>
+	<tag k="addr:street" v="Dr. Drygasa"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-500038414" lat="52.9937622" lon="16.9105947" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Chodzieży"/>
+	<tag k="name" v="ZUS Inspektorat w Chodzieży"/>
+	<tag k="addr:postcode" v="64-800"/>
+	<tag k="addr:city" v="Chodzież"/>
+	<tag k="addr:street" v="Dworcowa"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-677247363" lat="52.8980202" lon="16.5562956" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Czarnkowie"/>
+	<tag k="name" v="ZUS Inspektorat w Czarnkowie"/>
+	<tag k="addr:postcode" v="64-700"/>
+	<tag k="addr:city" v="Czarnków"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="87"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-773551019" lat="52.8106727" lon="17.2106339" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wągrowcu"/>
+	<tag k="name" v="ZUS Inspektorat w Wągrowcu"/>
+	<tag k="addr:postcode" v="62-100"/>
+	<tag k="addr:city" v="Wągrowiec"/>
+	<tag k="addr:street" v="Przemysłowa"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-342214556" lat="53.36191" lon="17.0496033" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Złotowie"/>
+	<tag k="name" v="ZUS Inspektorat w Złotowie"/>
+	<tag k="addr:postcode" v="77-400"/>
+	<tag k="addr:city" v="Złotów"/>
+	<tag k="addr:street" v="Al. Piasta"/>
+	<tag k="addr:housenumber" v="37"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-992811659" lat="52.5465155" lon="19.7049138" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Płocku"/>
+	<tag k="name" v="ZUS Oddział w Płocku"/>
+	<tag k="addr:postcode" v="09-402"/>
+	<tag k="addr:city" v="Płock"/>
+	<tag k="addr:street" v="Al. Stanisława Jachowicza"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-950739981" lat="52.8728138" lon="20.6240169" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Ciechanowie"/>
+	<tag k="name" v="ZUS Inspektorat w Ciechanowie"/>
+	<tag k="addr:postcode" v="06-400"/>
+	<tag k="addr:city" v="Ciechanów"/>
+	<tag k="addr:street" v="Rzeczkowska"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-167129873" lat="52.4383481" lon="19.4703606" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Gostyninie"/>
+	<tag k="name" v="ZUS Inspektorat w Gostyninie"/>
+	<tag k="addr:postcode" v="09-500"/>
+	<tag k="addr:city" v="Gostynin"/>
+	<tag k="addr:street" v="Płocka 37"/>
+	<tag k="addr:housenumber" v="a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-832567182" lat="52.8671149" lon="21.0963284" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Makowie Mazowieckim"/>
+	<tag k="name" v="ZUS Inspektorat w Makowie Mazowieckim"/>
+	<tag k="addr:postcode" v="06-200"/>
+	<tag k="addr:city" v="Maków Mazowiecki"/>
+	<tag k="addr:street" v="Kopernika 6"/>
+	<tag k="addr:housenumber" v="a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-260603813" lat="53.1227618" lon="20.3891716" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Mławie"/>
+	<tag k="name" v="ZUS Inspektorat w Mławie"/>
+	<tag k="addr:postcode" v="06-500"/>
+	<tag k="addr:city" v="Mława"/>
+	<tag k="addr:street" v="Padlewskiego"/>
+	<tag k="addr:housenumber" v="29/31"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-616592330" lat="53.0783971" lon="21.5700663" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Ostrołęce"/>
+	<tag k="name" v="ZUS Inspektorat w Ostrołęce"/>
+	<tag k="addr:postcode" v="07-410"/>
+	<tag k="addr:city" v="Ostrołęka"/>
+	<tag k="addr:street" v="dr A. Kuklińskiego"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1040933983" lat="52.8026036" lon="21.8955487" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Ostrowi Mazowieckiej"/>
+	<tag k="name" v="ZUS Inspektorat w Ostrowi Mazowieckiej"/>
+	<tag k="addr:postcode" v="07-300"/>
+	<tag k="addr:city" v="Ostrów Mazowiecka"/>
+	<tag k="addr:street" v="Dubois"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-227723662" lat="52.6223404" lon="20.3761295" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Płońsku"/>
+	<tag k="name" v="ZUS Inspektorat w Płońsku"/>
+	<tag k="addr:postcode" v="09-100"/>
+	<tag k="addr:city" v="Płońsk"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-903494912" lat="52.7031478" lon="21.0857136" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Pułtusku"/>
+	<tag k="name" v="ZUS Inspektorat w Pułtusku"/>
+	<tag k="addr:postcode" v="06-100"/>
+	<tag k="addr:city" v="Pułtusk"/>
+	<tag k="addr:street" v="Daszyńskiego"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-334310671" lat="52.8529055" lon="19.6675433" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sierpcu"/>
+	<tag k="name" v="ZUS Inspektorat w Sierpcu"/>
+	<tag k="addr:postcode" v="09-200"/>
+	<tag k="addr:city" v="Sierpc"/>
+	<tag k="addr:street" v="gen. L. Okulickiego"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-745202680" lat="52.593615" lon="21.4534671" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wyszkowie"/>
+	<tag k="name" v="ZUS Inspektorat w Wyszkowie"/>
+	<tag k="addr:postcode" v="07-200"/>
+	<tag k="addr:city" v="Wyszków"/>
+	<tag k="addr:street" v="Sowińskiego"/>
+	<tag k="addr:housenumber" v="83"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-841222247" lat="53.0171025" lon="20.8838589" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Przasnyszu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Przasnyszu"/>
+	<tag k="addr:postcode" v="06-300"/>
+	<tag k="addr:city" v="Przasnysz"/>
+	<tag k="addr:street" v="Leszno"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-647510735" lat="53.0687778" lon="19.916351" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Żurominie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Żurominie"/>
+	<tag k="addr:postcode" v="09-300"/>
+	<tag k="addr:city" v="Żuromin"/>
+	<tag k="addr:street" v="Szpitalna"/>
+	<tag k="addr:housenumber" v="89/93"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-229177377" lat="52.4108616" lon="16.910557" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - I Oddział w Poznaniu"/>
+	<tag k="name" v="ZUS I Oddział w Poznaniu"/>
+	<tag k="addr:postcode" v="60-908"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="Dąbrowskiego"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-619310529" lat="52.2297301" lon="16.3628759" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Grodzisku Wielkopolskim"/>
+	<tag k="name" v="ZUS Inspektorat w Grodzisku Wielkopolskim"/>
+	<tag k="addr:postcode" v="62-065"/>
+	<tag k="addr:city" v="Grodzisk Wielkopolski"/>
+	<tag k="addr:street" v="Żwirowa"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-317566029" lat="52.5999963" lon="15.8933616" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Międzychodzie"/>
+	<tag k="name" v="ZUS Inspektorat w Międzychodzie"/>
+	<tag k="addr:postcode" v="64-400"/>
+	<tag k="addr:city" v="Międzychód"/>
+	<tag k="addr:street" v="Słowackiego"/>
+	<tag k="addr:housenumber" v="7"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-551662186" lat="52.3099379" lon="16.1288263" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Nowym Tomyślu"/>
+	<tag k="name" v="ZUS Inspektorat w Nowym Tomyślu"/>
+	<tag k="addr:postcode" v="64-300"/>
+	<tag k="addr:city" v="Nowy Tomyśl"/>
+	<tag k="addr:street" v="Kolejowa"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-357720569" lat="52.3864501" lon="16.9105453" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Poznaniu"/>
+	<tag k="name" v="ZUS Inspektorat w Poznaniu"/>
+	<tag k="addr:postcode" v="61-512"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="Fabryczna"/>
+	<tag k="addr:housenumber" v="27/28"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-199550505" lat="52.6120328" lon="16.5831241" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Szamotułach"/>
+	<tag k="name" v="ZUS Inspektorat w Szamotułach"/>
+	<tag k="addr:postcode" v="64-500"/>
+	<tag k="addr:city" v="Szamotuły"/>
+	<tag k="addr:street" v="B. Chrobrego"/>
+	<tag k="addr:housenumber" v="17"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-606859641" lat="52.3711595" lon="16.9350416" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - II Oddział w Poznaniu"/>
+	<tag k="name" v="ZUS II Oddział w Poznaniu"/>
+	<tag k="addr:postcode" v="61-361"/>
+	<tag k="addr:city" v="Poznań"/>
+	<tag k="addr:street" v="Starołęcka"/>
+	<tag k="addr:housenumber" v="31"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-369968943" lat="52.5348624" lon="17.6022743" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Gnieźnie"/>
+	<tag k="name" v="ZUS Inspektorat w Gnieźnie"/>
+	<tag k="addr:postcode" v="62-200"/>
+	<tag k="addr:city" v="Gniezno"/>
+	<tag k="addr:street" v="Sienkiewicza"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-873707942" lat="52.2019866" lon="18.6359912" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kole"/>
+	<tag k="name" v="ZUS Inspektorat w Kole"/>
+	<tag k="addr:postcode" v="62-600"/>
+	<tag k="addr:city" v="Koło"/>
+	<tag k="addr:street" v="B. Prusa"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-339442408" lat="52.2458498" lon="18.2673876" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Koninie"/>
+	<tag k="name" v="ZUS Inspektorat w Koninie"/>
+	<tag k="addr:postcode" v="62-510"/>
+	<tag k="addr:city" v="Konin"/>
+	<tag k="addr:street" v="Św. Maksymiliana Kolbego"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-345375513" lat="52.6400996" lon="16.8091492" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Obornikach"/>
+	<tag k="name" v="ZUS Inspektorat w Obornikach"/>
+	<tag k="addr:postcode" v="64-600"/>
+	<tag k="addr:city" v="Oborniki Wielkopolskie"/>
+	<tag k="addr:street" v="Armii Poznań"/>
+	<tag k="addr:housenumber" v="27"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-656051290" lat="52.0868032" lon="17.0177288" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Śremie"/>
+	<tag k="name" v="ZUS Inspektorat w Śremie"/>
+	<tag k="addr:postcode" v="63-100"/>
+	<tag k="addr:city" v="Śrem"/>
+	<tag k="addr:street" v="Szeroka"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-662899247" lat="52.228572" lon="17.273877" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Środzie Wielkopolskiej"/>
+	<tag k="name" v="ZUS Inspektorat w Środzie Wielkopolskiej"/>
+	<tag k="addr:postcode" v="63-000"/>
+	<tag k="addr:city" v="Środa Wielkopolska"/>
+	<tag k="addr:street" v="Szpitalna"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1048466788" lat="52.0163609" lon="18.5097176" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Turku"/>
+	<tag k="name" v="ZUS Inspektorat w Turku"/>
+	<tag k="addr:postcode" v="62-700"/>
+	<tag k="addr:city" v="Turek"/>
+	<tag k="addr:street" v="Armii Krajowej"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-241723487" lat="52.3200852" lon="17.5592143" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat we Wrześni"/>
+	<tag k="name" v="ZUS Inspektorat we Wrześni"/>
+	<tag k="addr:postcode" v="62-300"/>
+	<tag k="addr:city" v="Września"/>
+	<tag k="addr:street" v="Wrocławska"/>
+	<tag k="addr:housenumber" v="42"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-711987313" lat="52.2894768" lon="17.8744573" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Słupcy"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Słupcy"/>
+	<tag k="addr:postcode" v="62-400"/>
+	<tag k="addr:city" v="Słupca"/>
+	<tag k="addr:street" v="Ratajczaka"/>
+	<tag k="addr:housenumber" v="2E"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-889643849" lat="51.3988437" lon="21.165026" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Radomiu"/>
+	<tag k="name" v="ZUS Oddział w Radomiu"/>
+	<tag k="addr:postcode" v="26-600"/>
+	<tag k="addr:city" v="Radom"/>
+	<tag k="addr:street" v="Czachowskiego"/>
+	<tag k="addr:housenumber" v="21a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-493073223" lat="51.8730416" lon="20.8531974" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Grójcu"/>
+	<tag k="name" v="ZUS Inspektorat w Grójcu"/>
+	<tag k="addr:postcode" v="05-600"/>
+	<tag k="addr:city" v="Grójec"/>
+	<tag k="addr:street" v="J. Matejki"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-262200798" lat="51.5837217" lon="21.5488969" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kozienicach"/>
+	<tag k="name" v="ZUS Inspektorat w Kozienicach"/>
+	<tag k="addr:postcode" v="26-900"/>
+	<tag k="addr:city" v="Kozienice"/>
+	<tag k="addr:street" v="Radomska"/>
+	<tag k="addr:housenumber" v="43"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-144368873" lat="51.227965" lon="20.8521443" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Szydłowcu"/>
+	<tag k="name" v="ZUS Inspektorat w Szydłowcu"/>
+	<tag k="addr:postcode" v="26-500"/>
+	<tag k="addr:city" v="Szydłowiec"/>
+	<tag k="addr:street" v="Sowińskiego"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-284561540" lat="51.3590152" lon="21.5785374" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Zwoleniu"/>
+	<tag k="name" v="ZUS Inspektorat w Zwoleniu"/>
+	<tag k="addr:postcode" v="26-700"/>
+	<tag k="addr:city" v="Zwoleń"/>
+	<tag k="addr:street" v="Bogusza"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-615695687" lat="51.16103" lon="21.6481215" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Lipsku"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Lipsku"/>
+	<tag k="addr:postcode" v="27-300"/>
+	<tag k="addr:city" v="Lipsko"/>
+	<tag k="addr:street" v="Partyzantów"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-119286765" lat="51.4728207" lon="21.4449157" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pionkach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Pionkach"/>
+	<tag k="addr:postcode" v="26-670"/>
+	<tag k="addr:city" v="Pionki"/>
+	<tag k="addr:street" v="Aleja Jana Pawła II"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-144422451" lat="51.3604812" lon="20.6425098" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Przysusze"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Przysusze"/>
+	<tag k="addr:postcode" v="26-400"/>
+	<tag k="addr:city" v="Przysucha"/>
+	<tag k="addr:street" v="Radomska"/>
+	<tag k="addr:housenumber" v="30"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-271731305" lat="50.089377" lon="18.5410925" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Rybniku"/>
+	<tag k="name" v="ZUS Oddział w Rybniku"/>
+	<tag k="addr:postcode" v="44-200"/>
+	<tag k="addr:city" v="Rybnik"/>
+	<tag k="addr:street" v="Reymonta"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-962038865" lat="49.9762267" lon="18.9452502" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Pszczynie"/>
+	<tag k="name" v="ZUS Inspektorat w Pszczynie"/>
+	<tag k="addr:postcode" v="43-200"/>
+	<tag k="addr:city" v="Pszczyna"/>
+	<tag k="addr:street" v="Kopernika"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-31527283" lat="50.0725401" lon="18.2202229" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Raciborzu"/>
+	<tag k="name" v="ZUS Inspektorat w Raciborzu"/>
+	<tag k="addr:postcode" v="47-400"/>
+	<tag k="addr:city" v="Racibórz"/>
+	<tag k="addr:street" v="Łąkowa"/>
+	<tag k="addr:housenumber" v="28"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-124745874" lat="50.1083017" lon="19.0042446" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Tychach"/>
+	<tag k="name" v="ZUS Inspektorat w Tychach"/>
+	<tag k="addr:postcode" v="43-100"/>
+	<tag k="addr:city" v="Tychy"/>
+	<tag k="addr:street" v="de Gaulle'a"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1049334074" lat="50.006198" lon="18.4746506" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wodzisławiu Śląskim"/>
+	<tag k="name" v="ZUS Inspektorat w Wodzisławiu Śląskim"/>
+	<tag k="addr:postcode" v="44-300"/>
+	<tag k="addr:city" v="Wodzisław Śląski"/>
+	<tag k="addr:street" v="Witosa"/>
+	<tag k="addr:housenumber" v="30"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-850144599" lat="50.0400425" lon="22.011051" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Rzeszowie"/>
+	<tag k="name" v="ZUS Oddział w Rzeszowie"/>
+	<tag k="addr:postcode" v="35-075"/>
+	<tag k="addr:city" v="Rzeszów"/>
+	<tag k="addr:street" v="Al. Piłsudskiego"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-577012855" lat="50.0141849" lon="22.6789382" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Jarosławiu"/>
+	<tag k="name" v="ZUS Inspektorat w Jarosławiu"/>
+	<tag k="addr:postcode" v="37-500"/>
+	<tag k="addr:city" v="Jarosław"/>
+	<tag k="addr:street" v="Słowackiego"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-115120355" lat="50.2557639" lon="22.4223035" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Leżajsku"/>
+	<tag k="name" v="ZUS Inspektorat w Leżajsku"/>
+	<tag k="addr:postcode" v="37-300"/>
+	<tag k="addr:city" v="Leżajsk"/>
+	<tag k="addr:street" v="Mickiewicza"/>
+	<tag k="addr:housenumber" v="24"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-786021619" lat="50.2952929" lon="21.4375813" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Mielcu"/>
+	<tag k="name" v="ZUS Inspektorat w Mielcu"/>
+	<tag k="addr:postcode" v="39-300"/>
+	<tag k="addr:city" v="Mielec"/>
+	<tag k="addr:street" v="Sikorskiego"/>
+	<tag k="addr:housenumber" v="4"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-76496755" lat="49.7948471" lon="22.7754908" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Przemyślu"/>
+	<tag k="name" v="ZUS Inspektorat w Przemyślu"/>
+	<tag k="addr:postcode" v="37-700"/>
+	<tag k="addr:city" v="Przemyśl"/>
+	<tag k="addr:street" v="Brodzińskiego"/>
+	<tag k="addr:housenumber" v="6"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-502263074" lat="50.0636009" lon="22.500836" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Przeworsku"/>
+	<tag k="name" v="ZUS Inspektorat w Przeworsku"/>
+	<tag k="addr:postcode" v="37-200"/>
+	<tag k="addr:city" v="Przeworsk"/>
+	<tag k="addr:street" v="Dworcowa"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-723040824" lat="50.5623219" lon="22.061035" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Stalowej Woli"/>
+	<tag k="name" v="ZUS Inspektorat w Stalowej Woli"/>
+	<tag k="addr:postcode" v="37-450"/>
+	<tag k="addr:city" v="Stalowa Wola"/>
+	<tag k="addr:street" v="Ks. J. Popiełuszki"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-965810161" lat="50.5713554" lon="21.6974981" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Tarnobrzegu"/>
+	<tag k="name" v="ZUS Inspektorat w Tarnobrzegu"/>
+	<tag k="addr:postcode" v="39-400"/>
+	<tag k="addr:city" v="Tarnobrzeg"/>
+	<tag k="addr:street" v="Sienkiewicza"/>
+	<tag k="addr:housenumber" v="145d"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-202656362" lat="50.1709633" lon="23.123746" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Lubaczowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Lubaczowie"/>
+	<tag k="addr:postcode" v="37-600"/>
+	<tag k="addr:city" v="Lubaczów"/>
+	<tag k="addr:street" v="Mickiewicza"/>
+	<tag k="addr:housenumber" v="168"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-169600326" lat="52.1706992" lon="22.2757534" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Siedlcach"/>
+	<tag k="name" v="ZUS Oddział w Siedlcach"/>
+	<tag k="addr:postcode" v="08-110"/>
+	<tag k="addr:city" v="Siedlce"/>
+	<tag k="addr:street" v="Browarna"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-156436091" lat="51.9001097" lon="21.6128711" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Garwolinie"/>
+	<tag k="name" v="ZUS Inspektorat w Garwolinie"/>
+	<tag k="addr:postcode" v="08-400"/>
+	<tag k="addr:city" v="Garwolin"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="38a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-427108252" lat="52.1829514" lon="21.5564994" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Mińsku Mazowieckim"/>
+	<tag k="name" v="ZUS Inspektorat w Mińsku Mazowieckim"/>
+	<tag k="addr:postcode" v="05-300"/>
+	<tag k="addr:city" v="Mińsk Mazowiecki"/>
+	<tag k="addr:street" v="Warszawska"/>
+	<tag k="addr:housenumber" v="84"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-540660478" lat="52.4021169" lon="22.241671" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sokołowie Podlaskim"/>
+	<tag k="name" v="ZUS Inspektorat w Sokołowie Podlaskim"/>
+	<tag k="addr:postcode" v="08-300"/>
+	<tag k="addr:city" v="Sokołów Podlaski"/>
+	<tag k="addr:street" v="Piłsudskiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-168980797" lat="52.2125513" lon="22.717647" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Łosicach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Łosicach"/>
+	<tag k="addr:postcode" v="08-200"/>
+	<tag k="addr:city" v="Łosice"/>
+	<tag k="addr:street" v="Kilińskiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-635928893" lat="52.4015633" lon="22.0151547" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Węgrowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Węgrowie"/>
+	<tag k="addr:postcode" v="07-100"/>
+	<tag k="addr:city" v="Węgrów"/>
+	<tag k="addr:street" v="Wieniawskiego"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-54273043" lat="54.4637816" lon="17.0283073" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Słupsku"/>
+	<tag k="name" v="ZUS Oddział w Słupsku"/>
+	<tag k="addr:postcode" v="76-200"/>
+	<tag k="addr:city" v="Słupsk"/>
+	<tag k="addr:street" v="Pl. Zwycięstwa"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-275388135" lat="54.1687469" lon="17.4980465" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Bytowie"/>
+	<tag k="name" v="ZUS Inspektorat w Bytowie"/>
+	<tag k="addr:postcode" v="77-100"/>
+	<tag k="addr:city" v="Bytów"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-475798197" lat="53.6873225" lon="17.5736538" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Chojnicach"/>
+	<tag k="name" v="ZUS Inspektorat w Chojnicach"/>
+	<tag k="addr:postcode" v="89-600"/>
+	<tag k="addr:city" v="Chojnice"/>
+	<tag k="addr:street" v="Łużycka"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-768401704" lat="53.6725908" lon="17.3574584" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Człuchowie"/>
+	<tag k="name" v="ZUS Inspektorat w Człuchowie"/>
+	<tag k="addr:postcode" v="77-300"/>
+	<tag k="addr:city" v="Człuchów"/>
+	<tag k="addr:street" v="Jerzego z Dąbrowy"/>
+	<tag k="addr:housenumber" v="3a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-667272803" lat="54.5391501" lon="17.7472272" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lęborku"/>
+	<tag k="name" v="ZUS Inspektorat w Lęborku"/>
+	<tag k="addr:postcode" v="84-300"/>
+	<tag k="addr:city" v="Lębork"/>
+	<tag k="addr:street" v="B. Krzywoustego"/>
+	<tag k="addr:housenumber" v="15"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-132820768" lat="54.0028508" lon="16.9815917" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Miastku"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Miastku"/>
+	<tag k="addr:postcode" v="77-200"/>
+	<tag k="addr:city" v="Miastko"/>
+	<tag k="addr:street" v="Królowej Jadwigi"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-414037454" lat="50.2721916" lon="19.1423619" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Sosnowcu"/>
+	<tag k="name" v="ZUS Oddział w Sosnowcu"/>
+	<tag k="addr:postcode" v="41-200"/>
+	<tag k="addr:city" v="Sosnowiec"/>
+	<tag k="addr:street" v="Partyzantów"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-147984048" lat="50.3210828" lon="19.1862334" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Dąbrowie Górniczej"/>
+	<tag k="name" v="ZUS Inspektorat w Dąbrowie Górniczej"/>
+	<tag k="addr:postcode" v="41-300"/>
+	<tag k="addr:city" v="Dąbrowa Górnicza"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="48"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-870070103" lat="50.2209597" lon="19.249822" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Jaworznie"/>
+	<tag k="name" v="ZUS Inspektorat w Jaworznie"/>
+	<tag k="addr:postcode" v="43-600"/>
+	<tag k="addr:city" v="Jaworzno"/>
+	<tag k="addr:street" v="Grunwaldzka"/>
+	<tag k="addr:housenumber" v="274"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-971783987" lat="50.491489" lon="19.4248026" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Zawierciu"/>
+	<tag k="name" v="ZUS Inspektorat w Zawierciu"/>
+	<tag k="addr:postcode" v="42-400"/>
+	<tag k="addr:city" v="Zawiercie"/>
+	<tag k="addr:street" v="Blanowska"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-300282481" lat="53.4320392" lon="14.5575394" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Szczecinie"/>
+	<tag k="name" v="ZUS Oddział w Szczecinie"/>
+	<tag k="addr:postcode" v="70-530"/>
+	<tag k="addr:city" v="Szczecin"/>
+	<tag k="addr:street" v="Matejki"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-388829174" lat="53.1647356" lon="15.4257718" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Choszcznie"/>
+	<tag k="name" v="ZUS Inspektorat w Choszcznie"/>
+	<tag k="addr:postcode" v="73-200"/>
+	<tag k="addr:city" v="Choszczno"/>
+	<tag k="addr:street" v="Jagiełły"/>
+	<tag k="addr:housenumber" v="28"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1049098039" lat="53.9164164" lon="15.2052088" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Gryficach"/>
+	<tag k="name" v="ZUS Inspektorat w Gryficach"/>
+	<tag k="addr:postcode" v="72-300"/>
+	<tag k="addr:city" v="Gryfice"/>
+	<tag k="addr:street" v="Dąbskiego"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-339894433" lat="53.6368755" lon="15.6204373" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Łobzie"/>
+	<tag k="name" v="ZUS Inspektorat w Łobzie"/>
+	<tag k="addr:postcode" v="73-150"/>
+	<tag k="addr:city" v="Łobez"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="26"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-933868414" lat="52.9274537" lon="14.8722305" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Myśliborzu"/>
+	<tag k="name" v="ZUS Inspektorat w Myśliborzu"/>
+	<tag k="addr:postcode" v="74-300"/>
+	<tag k="addr:city" v="Myślibórz"/>
+	<tag k="addr:street" v="Witolda Pileckiego"/>
+	<tag k="addr:housenumber" v="29"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-927916519" lat="53.1355688" lon="14.8923927" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Pyrzycach"/>
+	<tag k="name" v="ZUS Inspektorat w Pyrzycach"/>
+	<tag k="addr:postcode" v="74-200"/>
+	<tag k="addr:city" v="Pyrzyce"/>
+	<tag k="addr:street" v="Sportowa"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-695931802" lat="53.3483798" lon="15.0154604" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Stargardzie"/>
+	<tag k="name" v="ZUS Inspektorat w Stargardzie"/>
+	<tag k="addr:postcode" v="73-110"/>
+	<tag k="addr:city" v="Stargard"/>
+	<tag k="addr:street" v="Składowa"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-752703647" lat="53.9104883" lon="14.2450362" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Świnoujściu"/>
+	<tag k="name" v="ZUS Inspektorat w Świnoujściu"/>
+	<tag k="addr:postcode" v="72-600"/>
+	<tag k="addr:city" v="Świnoujście"/>
+	<tag k="addr:street" v="Piastowska"/>
+	<tag k="addr:housenumber" v="63"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-315591096" lat="50.0092366" lon="20.9714634" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Tarnowie"/>
+	<tag k="name" v="ZUS Oddział w Tarnowie"/>
+	<tag k="addr:postcode" v="33-100"/>
+	<tag k="addr:city" v="Tarnów"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="32"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-827091805" lat="49.9652187" lon="20.4237983" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Bochni"/>
+	<tag k="name" v="ZUS Inspektorat w Bochni"/>
+	<tag k="addr:postcode" v="32-700"/>
+	<tag k="addr:city" v="Bochnia"/>
+	<tag k="addr:street" v="Kazimierza Wielkiego"/>
+	<tag k="addr:housenumber" v="48"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-194734916" lat="51.5300121" lon="20.0174434" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Tomaszowie Mazowieckim"/>
+	<tag k="name" v="ZUS Oddział w Tomaszowie Mazowieckim"/>
+	<tag k="addr:postcode" v="97-200"/>
+	<tag k="addr:city" v="Tomaszów Mazowiecki"/>
+	<tag k="addr:street" v="Prezydenta Ignacego Mościckiego"/>
+	<tag k="addr:housenumber" v="40/42"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-980038324" lat="51.3555708" lon="19.368831" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Bełchatowie"/>
+	<tag k="name" v="ZUS Inspektorat w Bełchatowie"/>
+	<tag k="addr:postcode" v="97-400"/>
+	<tag k="addr:city" v="Bełchatów"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="69"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-143996811" lat="51.3777087" lon="20.2879076" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Opocznie"/>
+	<tag k="name" v="ZUS Inspektorat w Opocznie"/>
+	<tag k="addr:postcode" v="26-300"/>
+	<tag k="addr:city" v="Opoczno"/>
+	<tag k="addr:street" v="Moniuszki"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-888161535" lat="51.4129816" lon="19.676854" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Piotrkowie Trybunalskim"/>
+	<tag k="name" v="ZUS Inspektorat w Piotrkowie Trybunalskim"/>
+	<tag k="addr:postcode" v="97-300"/>
+	<tag k="addr:city" v="Piotrków Trybunalski"/>
+	<tag k="addr:street" v="Armii Krajowej"/>
+	<tag k="addr:housenumber" v="9"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-269118624" lat="51.0595294" lon="19.4552585" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Radomsku"/>
+	<tag k="name" v="ZUS Inspektorat w Radomsku"/>
+	<tag k="addr:postcode" v="97-500"/>
+	<tag k="addr:city" v="Radomsko"/>
+	<tag k="addr:street" v="Piastowska"/>
+	<tag k="addr:housenumber" v="24a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-691744433" lat="51.9541109" lon="20.1523502" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Skierniewicach"/>
+	<tag k="name" v="ZUS Inspektorat w Skierniewicach"/>
+	<tag k="addr:postcode" v="96-100"/>
+	<tag k="addr:city" v="Skierniewice"/>
+	<tag k="addr:street" v="Al. Niepodległości"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-272661447" lat="51.7580765" lon="20.250714" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rawie Mazowieckiej"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Rawie Mazowieckiej"/>
+	<tag k="addr:postcode" v="96-200"/>
+	<tag k="addr:city" v="Rawa Mazowiecka"/>
+	<tag k="addr:street" v="Solidarności"/>
+	<tag k="addr:housenumber" v="1a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-338436484" lat="53.0116635" lon="18.5885865" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Toruniu"/>
+	<tag k="name" v="ZUS Oddział w Toruniu"/>
+	<tag k="addr:postcode" v="87-100"/>
+	<tag k="addr:city" v="Toruń"/>
+	<tag k="addr:street" v="Mickiewicza"/>
+	<tag k="addr:housenumber" v="33/39"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-472496820" lat="52.8752846" lon="18.6956081" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Aleksandrowie Kujawskim"/>
+	<tag k="name" v="ZUS Inspektorat w Aleksandrowie Kujawskim"/>
+	<tag k="addr:postcode" v="87-700"/>
+	<tag k="addr:city" v="Aleksandrów Kujawski"/>
+	<tag k="addr:street" v="Słowackiego"/>
+	<tag k="addr:housenumber" v="6a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-198116750" lat="53.2573757" lon="19.402967" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Brodnicy"/>
+	<tag k="name" v="ZUS Inspektorat w Brodnicy"/>
+	<tag k="addr:postcode" v="87-300"/>
+	<tag k="addr:city" v="Brodnica"/>
+	<tag k="addr:street" v="Mały Rynek"/>
+	<tag k="addr:housenumber" v="5"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-860478707" lat="53.496079" lon="18.7546937" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Grudziądzu"/>
+	<tag k="name" v="ZUS Inspektorat w Grudziądzu"/>
+	<tag k="addr:postcode" v="86-300"/>
+	<tag k="addr:city" v="Grudziądz"/>
+	<tag k="addr:street" v="Wybickiego"/>
+	<tag k="addr:housenumber" v="39"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-885243150" lat="52.8415081" lon="19.1768704" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lipnie"/>
+	<tag k="name" v="ZUS Inspektorat w Lipnie"/>
+	<tag k="addr:postcode" v="87-600"/>
+	<tag k="addr:city" v="Lipno"/>
+	<tag k="addr:street" v="Mickiewicza"/>
+	<tag k="addr:housenumber" v="43"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-169737218" lat="52.6549042" lon="19.0678332" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat we Włocławku"/>
+	<tag k="name" v="ZUS Inspektorat we Włocławku"/>
+	<tag k="addr:postcode" v="87-800"/>
+	<tag k="addr:city" v="Włocławek"/>
+	<tag k="addr:street" v="Pl. Wolności"/>
+	<tag k="addr:housenumber" v="18/19"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-381652538" lat="53.1138924" lon="19.0544501" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Golubiu-Dobrzyniu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Golubiu-Dobrzyniu"/>
+	<tag k="addr:postcode" v="87-400"/>
+	<tag k="addr:city" v="Golub-Dobrzyń"/>
+	<tag k="addr:street" v="1000-lecia"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-791869078" lat="53.06586" lon="19.41111" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rypinie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Rypinie"/>
+	<tag k="addr:postcode" v="87-500"/>
+	<tag k="addr:city" v="Rypin"/>
+	<tag k="addr:street" v="Mławska"/>
+	<tag k="addr:housenumber" v="12"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-368137852" lat="50.7659657" lon="16.2744603" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Wałbrzychu"/>
+	<tag k="name" v="ZUS Oddział w Wałbrzychu"/>
+	<tag k="addr:postcode" v="58-390"/>
+	<tag k="addr:city" v="Wałbrzych"/>
+	<tag k="addr:street" v="Kasztanowa"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-94330482" lat="50.7220173" lon="16.6480941" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Dzierżoniowie"/>
+	<tag k="name" v="ZUS Inspektorat w Dzierżoniowie"/>
+	<tag k="addr:postcode" v="58-200"/>
+	<tag k="addr:city" v="Dzierżoniów"/>
+	<tag k="addr:street" v="gen. Władysława Andersa"/>
+	<tag k="addr:housenumber" v="6a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-367330118" lat="50.9212117" lon="15.7587611" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Jeleniej Górze"/>
+	<tag k="name" v="ZUS Inspektorat w Jeleniej Górze"/>
+	<tag k="addr:postcode" v="58-506"/>
+	<tag k="addr:city" v="Jelenia Góra"/>
+	<tag k="addr:street" v="Sygietyńskiego"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-850581664" lat="50.7814975" lon="16.0324355" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kamiennej Górze"/>
+	<tag k="name" v="ZUS Inspektorat w Kamiennej Górze"/>
+	<tag k="addr:postcode" v="58-400"/>
+	<tag k="addr:city" v="Kamienna Góra"/>
+	<tag k="addr:street" v="Al. Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-1038553506" lat="50.4436208" lon="16.6571274" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Kłodzku"/>
+	<tag k="name" v="ZUS Inspektorat w Kłodzku"/>
+	<tag k="addr:postcode" v="57-300"/>
+	<tag k="addr:city" v="Kłodzko"/>
+	<tag k="addr:street" v="Pl. B. Chrobrego"/>
+	<tag k="addr:housenumber" v="21"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-21192182" lat="51.121061" lon="15.269648" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Lubaniu"/>
+	<tag k="name" v="ZUS Inspektorat w Lubaniu"/>
+	<tag k="addr:postcode" v="59-800"/>
+	<tag k="addr:city" v="Lubań"/>
+	<tag k="addr:street" v="Łokietka"/>
+	<tag k="addr:housenumber" v="13"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-801996555" lat="50.8485092" lon="16.4953869" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Świdnicy"/>
+	<tag k="name" v="ZUS Inspektorat w Świdnicy"/>
+	<tag k="addr:postcode" v="58-100"/>
+	<tag k="addr:city" v="Świdnica"/>
+	<tag k="addr:street" v="Saperów"/>
+	<tag k="addr:housenumber" v="29"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-628050363" lat="50.5953021" lon="16.8184737" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Ząbkowicach Śląskich"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Ząbkowicach Śląskich"/>
+	<tag k="addr:postcode" v="57-200"/>
+	<tag k="addr:city" v="Ząbkowice Śląskie"/>
+	<tag k="addr:street" v="Os. XX-lecia"/>
+	<tag k="addr:housenumber" v="52"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-45038679" lat="51.1564523" lon="15.0009458" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Zgorzelcu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Zgorzelcu"/>
+	<tag k="addr:postcode" v="59-900"/>
+	<tag k="addr:city" v="Zgorzelec"/>
+	<tag k="addr:street" v="Prusa"/>
+	<tag k="addr:housenumber" v="3"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-102814966" lat="52.2459187" lon="21.0111471" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - I Oddział w Warszawie"/>
+	<tag k="name" v="ZUS I Oddział w Warszawie"/>
+	<tag k="addr:postcode" v="00-917"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Senatorska"/>
+	<tag k="addr:housenumber" v="6/8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-405296892" lat="52.2116061" lon="20.9693953" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Ochota"/>
+	<tag k="name" v="ZUS Inspektorat Warszawa-Ochota"/>
+	<tag k="addr:postcode" v="02-374"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="E. Orzeszkowej"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-265030627" lat="52.2297953" lon="20.957835" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Wola"/>
+	<tag k="name" v="ZUS Inspektorat Warszawa-Wola"/>
+	<tag k="addr:postcode" v="01-493"/>
+	<tag k="addr:city" v="Warszawa-Wola"/>
+	<tag k="addr:street" v="Wrocławska"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-444445331" lat="52.2915865" lon="20.9265333" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Żoliborz"/>
+	<tag k="name" v="ZUS Inspektorat Warszawa-Żoliborz"/>
+	<tag k="addr:postcode" v="01-949"/>
+	<tag k="addr:city" v="Warszawa-Żoliborz"/>
+	<tag k="addr:street" v="Kasprowicza"/>
+	<tag k="addr:housenumber" v="151"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-620767361" lat="52.2534983" lon="21.0730475" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - II Oddział w Warszawie"/>
+	<tag k="name" v="ZUS II Oddział w Warszawie"/>
+	<tag k="addr:postcode" v="03-829"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Podskarbińska"/>
+	<tag k="addr:housenumber" v="25"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-784448395" lat="52.395845" lon="20.9341757" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Legionowie"/>
+	<tag k="name" v="ZUS Inspektorat w Legionowie"/>
+	<tag k="addr:postcode" v="05-120"/>
+	<tag k="addr:city" v="Legionowo"/>
+	<tag k="addr:street" v="Słowackiego"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-981901835" lat="52.4292894" lon="20.7102013" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Nowym Dworze Mazowieckim"/>
+	<tag k="name" v="ZUS Inspektorat w Nowym Dworze Mazowieckim"/>
+	<tag k="addr:postcode" v="05-100"/>
+	<tag k="addr:city" v="Nowy Dwór Mazowiecki"/>
+	<tag k="addr:street" v="Modlińska"/>
+	<tag k="addr:housenumber" v="10"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-256270677" lat="52.1004099" lon="21.2736308" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Otwocku"/>
+	<tag k="name" v="ZUS Inspektorat w Otwocku"/>
+	<tag k="addr:postcode" v="05-400"/>
+	<tag k="addr:city" v="Otwock"/>
+	<tag k="addr:street" v="Poniatowskiego"/>
+	<tag k="addr:housenumber" v="17"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-664950977" lat="52.3476674" lon="21.2553565" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Wołominie"/>
+	<tag k="name" v="ZUS Inspektorat w Wołominie"/>
+	<tag k="addr:postcode" v="05-200"/>
+	<tag k="addr:city" v="Wołomin"/>
+	<tag k="addr:street" v="Reja"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-843371765" lat="52.2641724" lon="21.0373679" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Praga Północ"/>
+	<tag k="name" v="ZUS Inspektorat Warszawa-Praga Północ"/>
+	<tag k="addr:postcode" v="03-446"/>
+	<tag k="addr:city" v="Warszawa-Praga Północ"/>
+	<tag k="addr:street" v="11-go Listopada"/>
+	<tag k="addr:housenumber" v="15a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-368609968" lat="52.1997558" lon="21.0512075" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - III Oddział w Warszawie"/>
+	<tag k="name" v="ZUS III Oddział w Warszawie"/>
+	<tag k="addr:postcode" v="00-701"/>
+	<tag k="addr:city" v="Warszawa"/>
+	<tag k="addr:street" v="Czerniakowska"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-866916262" lat="52.0825268" lon="21.024065" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Piasecznie"/>
+	<tag k="name" v="ZUS Inspektorat w Piasecznie"/>
+	<tag k="addr:postcode" v="05-500"/>
+	<tag k="addr:city" v="Piaseczno"/>
+	<tag k="addr:street" v="Puławska"/>
+	<tag k="addr:housenumber" v="34B"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-49620378" lat="52.1638" lon="20.79449" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Pruszkowie"/>
+	<tag k="name" v="ZUS Inspektorat w Pruszkowie"/>
+	<tag k="addr:postcode" v="05-800"/>
+	<tag k="addr:city" v="Pruszków"/>
+	<tag k="addr:street" v="Ołówkowa"/>
+	<tag k="addr:housenumber" v="38"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-560046342" lat="52.2280778" lon="20.2408787" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Sochaczewie"/>
+	<tag k="name" v="ZUS Inspektorat w Sochaczewie"/>
+	<tag k="addr:postcode" v="96-500"/>
+	<tag k="addr:city" v="Sochaczew"/>
+	<tag k="addr:street" v="Reymonta"/>
+	<tag k="addr:housenumber" v="20"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-589241592" lat="52.0513302" lon="20.4424964" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Żyrardowie"/>
+	<tag k="name" v="ZUS Inspektorat w Żyrardowie"/>
+	<tag k="addr:postcode" v="96-300"/>
+	<tag k="addr:city" v="Żyrardów"/>
+	<tag k="addr:street" v="Bankowa"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-369561739" lat="52.1017658" lon="20.6270899" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Grodzisku Mazowieckim"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Grodzisku Mazowieckim"/>
+	<tag k="addr:postcode" v="05-825"/>
+	<tag k="addr:city" v="Grodzisk Mazowiecki"/>
+	<tag k="addr:street" v="Pańska"/>
+	<tag k="addr:housenumber" v="17"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-909488469" lat="52.134159" lon="21.069801" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe Warszawa-Ursynów"/>
+	<tag k="name" v="ZUS Biuro Terenowe Warszawa-Ursynów"/>
+	<tag k="addr:postcode" v="02-796"/>
+	<tag k="addr:city" v="Warszawa-Ursynów"/>
+	<tag k="addr:street" v="Dembego"/>
+	<tag k="addr:housenumber" v="23B"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-521093913" lat="51.0912528" lon="17.0127503" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział we Wrocławiu"/>
+	<tag k="name" v="ZUS Oddział we Wrocławiu"/>
+	<tag k="addr:postcode" v="50-930"/>
+	<tag k="addr:city" v="Wrocław"/>
+	<tag k="addr:street" v="Pretficza"/>
+	<tag k="addr:housenumber" v="11"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-179310921" lat="51.2092348" lon="17.3889303" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Oleśnicy"/>
+	<tag k="name" v="ZUS Inspektorat w Oleśnicy"/>
+	<tag k="addr:postcode" v="56-400"/>
+	<tag k="addr:city" v="Oleśnica"/>
+	<tag k="addr:street" v="Lwowska"/>
+	<tag k="addr:housenumber" v="34-38"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-392593203" lat="50.9377795" lon="17.3012768" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Oławie"/>
+	<tag k="name" v="ZUS Inspektorat w Oławie"/>
+	<tag k="addr:postcode" v="55-200"/>
+	<tag k="addr:city" v="Oława"/>
+	<tag k="addr:street" v="Kasprowicza"/>
+	<tag k="addr:housenumber" v="34"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-820934389" lat="51.3101072" lon="17.0611311" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Trzebnicy"/>
+	<tag k="name" v="ZUS Inspektorat w Trzebnicy"/>
+	<tag k="addr:postcode" v="55-100"/>
+	<tag k="addr:city" v="Trzebnica"/>
+	<tag k="addr:street" v="Wojska Polskiego"/>
+	<tag k="addr:housenumber" v="1b"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-286128765" lat="51.5236647" lon="17.2772147" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Miliczu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Miliczu"/>
+	<tag k="addr:postcode" v="56-300"/>
+	<tag k="addr:city" v="Milicz"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="22"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-622216232" lat="50.7819874" lon="17.0617515" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Strzelinie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Strzelinie"/>
+	<tag k="addr:postcode" v="57-100"/>
+	<tag k="addr:city" v="Strzelin"/>
+	<tag k="addr:street" v="Dzierżoniowska"/>
+	<tag k="addr:housenumber" v="14"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-20705416" lat="51.3081427" lon="17.7186453" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sycowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Sycowie"/>
+	<tag k="addr:postcode" v="56-500"/>
+	<tag k="addr:city" v="Syców"/>
+	<tag k="addr:street" v="Wałowa"/>
+	<tag k="addr:housenumber" v="16"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-949040553" lat="51.1717577" lon="16.5878137" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe W Środzie Śląskiej"/>
+	<tag k="name" v="ZUS Biuro Terenowe W Środzie Śląskiej"/>
+	<tag k="addr:postcode" v="55-300"/>
+	<tag k="addr:city" v="Środa Śląska"/>
+	<tag k="addr:street" v="Kolejowa"/>
+	<tag k="addr:housenumber" v="28"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-702222022" lat="51.3364713" lon="16.65935" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Wołowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Wołowie"/>
+	<tag k="addr:postcode" v="56-100"/>
+	<tag k="addr:city" v="Wołów"/>
+	<tag k="addr:street" v="Objazdowa"/>
+	<tag k="addr:housenumber" v="5a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-862360059" lat="50.3038179" lon="18.7825025" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Zabrzu"/>
+	<tag k="name" v="ZUS Oddział w Zabrzu"/>
+	<tag k="addr:postcode" v="41-800"/>
+	<tag k="addr:city" v="Zabrze"/>
+	<tag k="addr:street" v="Szczęść Boże"/>
+	<tag k="addr:housenumber" v="18"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-267496360" lat="50.4433051" lon="18.8560533" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Tarnowskich Górach"/>
+	<tag k="name" v="ZUS Inspektorat w Tarnowskich Górach"/>
+	<tag k="addr:postcode" v="42-600"/>
+	<tag k="addr:city" v="Tarnowskie Góry"/>
+	<tag k="addr:street" v="Górnicza"/>
+	<tag k="addr:housenumber" v="4-8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-80172084" lat="50.3430235" lon="18.9152842" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Bytomiu"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Bytomiu"/>
+	<tag k="addr:postcode" v="41-902"/>
+	<tag k="addr:city" v="Bytom"/>
+	<tag k="addr:street" v="K. Miarki"/>
+	<tag k="addr:housenumber" v="8"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-66020886" lat="50.2833177" lon="18.679516" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gliwicach"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Gliwicach"/>
+	<tag k="addr:postcode" v="44-100"/>
+	<tag k="addr:city" v="Gliwice"/>
+	<tag k="addr:street" v="Pszczyńska"/>
+	<tag k="addr:housenumber" v="44A"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-556996916" lat="51.9421191" lon="15.5039302" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Oddział w Zielonej Górze"/>
+	<tag k="name" v="ZUS Oddział w Zielonej Górze"/>
+	<tag k="addr:postcode" v="65-426"/>
+	<tag k="addr:city" v="Zielona Góra"/>
+	<tag k="addr:street" v="Kupiecka"/>
+	<tag k="addr:housenumber" v="65"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-135559605" lat="52.054852" lon="15.095241" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Krośnie Odrzańskim"/>
+	<tag k="name" v="ZUS Inspektorat w Krośnie Odrzańskim"/>
+	<tag k="addr:postcode" v="66-600"/>
+	<tag k="addr:city" v="Krosno Odrzańskie"/>
+	<tag k="addr:street" v="Słubicka"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-880792806" lat="51.8086603" lon="15.706663" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Nowej Soli"/>
+	<tag k="name" v="ZUS Inspektorat w Nowej Soli"/>
+	<tag k="addr:postcode" v="67-100"/>
+	<tag k="addr:city" v="Nowa Sól"/>
+	<tag k="addr:street" v="Kościuszki"/>
+	<tag k="addr:housenumber" v="29"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-45173003" lat="52.2453581" lon="15.5244616" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Świebodzinie"/>
+	<tag k="name" v="ZUS Inspektorat w Świebodzinie"/>
+	<tag k="addr:postcode" v="66-200"/>
+	<tag k="addr:city" v="Świebodzin"/>
+	<tag k="addr:street" v="Sikorskiego"/>
+	<tag k="addr:housenumber" v="42"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-837273213" lat="51.6390198" lon="15.1331527" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Inspektorat w Żarach"/>
+	<tag k="name" v="ZUS Inspektorat w Żarach"/>
+	<tag k="addr:postcode" v="68-200"/>
+	<tag k="addr:city" v="Żary"/>
+	<tag k="addr:street" v="Lotników 1"/>
+	<tag k="addr:housenumber" v="a"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-932215461" lat="51.9498209" lon="14.7294017" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gubinie"/>
+	<tag k="name" v="ZUS Biuro Terenowe w Gubinie"/>
+	<tag k="addr:postcode" v="66-620"/>
+	<tag k="addr:city" v="Gubin"/>
+	<tag k="addr:street" v="Słowackiego"/>
+	<tag k="addr:housenumber" v="2"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node>
+<node id="-977533687" lat="51.8059082" lon="16.3176025" version="1" timestamp="2025-12-17T22:05:25.916722Z" action="modify"   >
+	<tag k="official_name" v="Zakład Ubezpieczeń Społecznych - Biuro Terenowe we Wschowie"/>
+	<tag k="name" v="ZUS Biuro Terenowe we Wschowie"/>
+	<tag k="addr:postcode" v="67-400"/>
+	<tag k="addr:city" v="Wschowa"/>
+	<tag k="addr:street" v="Pocztowa"/>
+	<tag k="addr:housenumber" v="1"/>
+	<tag k="opening_hours" v="Mo 8:00-17:00; Tu-Fr 8:00-15:00"/>
+	<tag k="office" v="government"/>
+	<tag k="source:office" v="Baza punktów obsługi klientów ZUS na dzień 12.12.2025"/>
+</node></osm>

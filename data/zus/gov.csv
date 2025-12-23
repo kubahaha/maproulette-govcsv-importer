@@ -1,0 +1,316 @@
+nazwa,adres_1,adres_2,poniedzialek,wtorek,sroda,czwartek,piatek,nadrzedna
+ZUS Oddział w Białymstoku,15-404 Białystok,ul. Młynowa 29,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Augustowie,16-300 Augustów,ul. Hoża 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Bielsku Podlaskim,17-100 Bielsk Podlaski,ul. Widowska 10A,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Hajnówce,17-200 Hajnówka,ul. Armii Krajowej 16,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Łomży,18-400 Łomża,ul. Szosa Zambrowska 29,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Siemiatyczach,17-300 Siemiatycze,ul. Ogrodowa 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Sokółce,16-100 Sokółka,ul. Gen. Wł. Sikorskiego 38c,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Suwałkach,16-400 Suwałki,ul. 1 Maja 33,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Wysokiem Mazowieckiem,18-200 Wysokie Mazowieckie,ul. Mystkowska 43,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Inspektorat w Zambrowie,18-300 Zambrów,ul. Fabryczna 3a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Biuro Terenowe w Kolnie,18-500 Kolno,ul. Wojska Polskiego 67,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Białymstoku
+ZUS Oddział w Bielsku-Białej,43-350 Bielsko-Biała,ul. Krasińskiego 34-36,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Cieszynie,43-400 Cieszyn,ul. Bielska 29,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bielsku-Białej
+ZUS Inspektorat w Żywcu,34-300 Żywiec,ul. Piernikarska 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bielsku-Białej
+ZUS Oddział w Biłgoraju,23-400 Biłgoraj,ul. Kościuszki 103,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Chełmie,22-100 Chełm,ul. Aleja Żołnierzy I Armii Wojska Polskiego 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Biłgoraju
+ZUS Inspektorat w Hrubieszowie,22-500 Hrubieszów,ul. 3-go Maja 8a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Biłgoraju
+ZUS Inspektorat w Tomaszowie Lubelskim,22-600 Tomaszów Lubelski,ul. Jana Pawła II 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Biłgoraju
+ZUS Inspektorat w Zamościu,22-400 Zamość,ul. Kiepury 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Biłgoraju
+ZUS Biuro Terenowe w Janowie Lubelskim,23-300 Janów Lubelski,ul. Zamoyskiego 52,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Biłgoraju
+ZUS Biuro Terenowe w Krasnymstawie,22-300 Krasnystaw,ul. PCK 13,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Biłgoraju
+ZUS Biuro Terenowe we Włodawie,22-200 Włodawa,ul. Reymonta 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Biłgoraju
+ZUS Oddział w Bydgoszczy,85-224 Bydgoszcz,ul. Świętej Trójcy 33,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Inowrocławiu,88-100 Inowrocław,ul. Solankowa 15,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bydgoszczy
+ZUS Inspektorat w Nakle nad Notecią,89-100 Nakło nad Notecią,ul. Bohaterów 12a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bydgoszczy
+ZUS Inspektorat w Świeciu,86-105 Świecie,ul. Wojska Polskiego 87A,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bydgoszczy
+ZUS Inspektorat w Tucholi,89-500 Tuchola,ul. Dworcowa 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bydgoszczy
+ZUS Inspektorat w Żninie,88-400 Żnin,ul. 700-lecia 37,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bydgoszczy
+ZUS Biuro Terenowe w Sępólnie Krajeńskim,89-400 Sępólno Krajeńskie,ul. Kościuszki 16,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Bydgoszczy
+ZUS Oddział w Chorzowie,41-500 Chorzów,ul. Dąbrowskiego 45,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Katowicach,40-018 Katowice,ul. Gen. J. L. Sowińskiego 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Chorzowie
+ZUS Biuro Terenowe w Mysłowicach,41-400 Mysłowice,ul. Kacza 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Chorzowie
+ZUS Biuro Terenowe w Rudzie Śląskiej,41-709 Ruda Śląska,ul. Niedurnego 75,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Chorzowie
+ZUS Oddział w Chrzanowie,32-500 Chrzanów,ul. Oświęcimska 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Olkuszu,32-300 Olkusz,Al. 1000-lecia 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Chrzanowie
+ZUS Inspektorat w Oświęcimiu,32-600 Oświęcim,ul. Chopina 13,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Chrzanowie
+ZUS Inspektorat w Suchej Beskidzkiej,34-200 Sucha Beskidzka,ul. Rynek 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Chrzanowie
+ZUS Inspektorat w Wadowicach,34-100 Wadowice,ul. Teatralna 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Chrzanowie
+ZUS Oddział w Częstochowie,42-218 Częstochowa,ul. Dąbrowskiego 43/45,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Kłobucku,42-100 Kłobuck,ul. Targowa 3 a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Częstochowie
+ZUS Inspektorat w Lublińcu,42-700 Lubliniec,ul. Oleska 26,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Częstochowie
+ZUS Inspektorat w Myszkowie,42-300 Myszków,ul. Sikorskiego 57,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Częstochowie
+ZUS Biuro Terenowe w Koniecpolu,42-230 Koniecpol,ul. Rynek 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Częstochowie
+ZUS Oddział w Elblągu,82-300 Elbląg,ul. Teatralna 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Iławie,14-202 Iława,ul. Wiejska 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Elblągu
+ZUS Inspektorat w Ostródzie,14-100 Ostróda,ul. Czarnieckiego 50,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Elblągu
+ZUS Biuro Terenowe w Braniewie,14-500 Braniewo,ul. Morska 30D,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Elblągu
+ZUS Oddział w Gdańsku,80-748 Gdańsk,ul. Chmielna 27/33,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat Gdańsk-Wrzeszcz,80-210 Gdańsk-Wrzeszcz,ul. Tuwima 9,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Gdyni,81-364 Gdynia,ul. Władysława IV 24,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Kartuzach,83-300 Kartuzy,ul. Floriana Ceynowy 5A,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Kościerzynie,83-400 Kościerzyna,ul. 3 Maja 9 b,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Kwidzynie,82-500 Kwidzyn,ul. Piłsudskiego 29 a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Malborku,82-200 Malbork,ul. Dworcowa 1B,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Pruszczu Gdańskim,83-000 Pruszcz Gdański,ul. Wita Stwosza 7,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Pucku,84-100 Puck,ul. E. Orzeszkowej 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Starogardzie Gdańskim,83-200 Starogard Gdański,ul. Piłsudskiego 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Sztumie,82-400 Sztum,ul. Mickiewicza 34,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Tczewie,83-110 Tczew,ul. Jagiellońska 55,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Inspektorat w Wejherowie,84-200 Wejherowo,ul. Sobieskiego 294,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Biuro Terenowe w Sopocie,81-805 Sopot,Al. Niepodległości 796,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gdańsku
+ZUS Oddział w Gorzowie Wielkopolskim,66-400 Gorzów Wielkopolski,ul. Sikorskiego 42,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Słubicach,69-100 Słubice,ul. Kościuszki 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gorzowie Wielkopolskim
+ZUS Inspektorat w Sulęcinie,69-200 Sulęcin,ul. Witosa 21,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gorzowie Wielkopolskim
+ZUS Biuro Terenowe w Międzyrzeczu,66-300 Międzyrzecz,ul. Przemyslowa 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gorzowie Wielkopolskim
+ZUS Biuro Terenowe w Strzelcach Krajeńskich,66-500 Strzelce Krajeńskie,Al. Wolności 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Gorzowie Wielkopolskim
+ZUS Oddział w Jaśle,38-200 Jasło,ul. Rynek 18 b,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Brzozowie,36-200 Brzozów,ul. Witosa 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Jaśle
+ZUS Inspektorat w Dębicy,39-200 Dębica,ul. Piłsudskiego 15,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Jaśle
+ZUS Inspektorat w Krośnie,38-400 Krosno,ul. Bieszczadzka 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Jaśle
+ZUS Inspektorat w Sanoku,38-500 Sanok,ul. Konarskiego 20,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Jaśle
+ZUS Oddział w Kielcach,25-510 Kielce,ul. Piotrkowska 27,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Busku-Zdroju,28-100 Busko-Zdrój,ul. Partyzantów 33,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Inspektorat w Końskich,26-200 Końskie,ul. Partyzantów 50,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Inspektorat w Opatowie,27-500 Opatów,ul. Sempołowskiej 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Inspektorat w Ostrowcu Świetokrzyskim,27-400 Ostrowiec Świetokrzyski,ul. Rosłońskiego 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Inspektorat w Skarżysku Kamiennej,26-110 Skarżysko Kamienna,ul. Kossaka 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Inspektorat w Starachowicach,27-200 Starachowice,ul. Radomska 31A,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Biuro Terenowe w Jędrzejowie,28-300 Jędrzejów,ul. Przemysłowa 7,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Biuro Terenowe w Pińczowie,28-400 Pińczów,ul. 3-go Maja 40,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Biuro Terenowe w Sandomierzu,27-600 Sandomierz,ul. Juliusza Słowackiego 37C/1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Biuro Terenowe w Staszowie,28-200 Staszów,ul. Długa 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Biuro Terenowe we Włoszczowie,29-100 Włoszczowa,ul. Jana Brożka 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Kielcach
+ZUS Oddział w Koszalinie,75-434 Koszalin,ul. Juliana Fałata 30,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Białogardzie,78-200 Białogard,ul. Wojska Polskiego 56,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Koszalinie
+ZUS Inspektorat w Drawsku Pomorskim,78-500 Drawsko Pomorskie,ul. Sikorskiego 30,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Koszalinie
+ZUS Inspektorat w Kołobrzegu,78-100 Kołobrzeg,ul. Łopuskiego 21,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Koszalinie
+ZUS Inspektorat w Szczecinku,78-400 Szczecinek,Pl. Wolności 18,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Koszalinie
+ZUS Inspektorat w Świdwinie,78-300 Świdwin,ul. Wojska Polskiego 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Koszalinie
+ZUS Inspektorat w Wałczu,78-600 Wałcz,ul. Dąbrowskiego 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Koszalinie
+ZUS Oddział w Krakowie,31-080 Kraków,ul. Pędzichów 27,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat Kraków - Krowodrza,30-015 Kraków,ul. Świętokrzyska 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Krakowie
+ZUS Inspektorat Kraków - Łagiewniki,30-418 Kraków - Łagiewniki,ul. Zakopiańska 33,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Krakowie
+ZUS Inspektorat Kraków - Nowa Huta,31-946 Kraków,os. Teatralne 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Krakowie
+ZUS Inspektorat Kraków - Podgórze,30-418 Kraków,ul. Zakopiańska 33,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Krakowie
+ZUS Biuro Terenowe w Miechowie,32-200 Miechów,ul. Podzamcze 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Krakowie
+ZUS Biuro Terenowe w Myślenicach,32-400 Myślenice,ul. Drogowców 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Krakowie
+ZUS Biuro Terenowe w Proszowicach,32-100 Proszowice,ul. Reja 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Krakowie
+ZUS Oddział w Legnicy,59-220 Legnica,ul. Wł. Grabskiego 26,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Bolesławcu,59-700 Bolesławiec,ul. Kwiatowa 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Inspektorat w Głogowie,67-200 Głogów,ul. Morcinka 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Inspektorat w Jaworze,59-400 Jawor,ul. Gagarina 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Inspektorat w Lubinie,59-300 Lubin,ul. Drzymały 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Inspektorat w Złotoryi,59-500 Złotoryja,ul. Basztowa 9,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Biuro Terenowe w Górze,56-200 Góra,ul. Wrocławska 54,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Biuro Terenowe w Lwówku Śląskim,59-600 Lwówek Śląski,ul. 10-tej Dywizji 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Biuro Terenowe w Polkowicach,59-100 Polkowice,ul. Górna 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Legnicy
+ZUS Oddział w Lublinie,20-601 Lublin,ul. T. Zana 36/38c,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Białej Podlaskiej,21-500 Biała Podlaska,ul. Sadowa 23,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Inspektorat w Kraśniku,23-204 Kraśnik,ul. Ks. J. Popiełuszki 3a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Inspektorat w Lubartowie,21-100 Lubartów,ul. Lipowa 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Inspektorat w Łukowie,21-400 Łuków,ul. Kardynała S. Wyszyńskiego 56,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Inspektorat w Puławach,24-100 Puławy,ul. Lubelska 20 b,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Inspektorat w Radzyniu Podlaskim,21-300 Radzyń Podlaski,ul. Armii Krajowej 22-32,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Biuro Terenowe w Łęcznej,21-010 Łęczna,ul. Obrońców Pokoju 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Biuro Terenowe w Opolu Lubelskim,24-300 Opole Lubelskie,ul. Józefa Piłsudskiego 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Biuro Terenowe w Parczewie,21-200 Parczew,Pl. Wolności 7,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS Biuro Terenowe w Rykach,08-500 Ryki,ul. J. Słowackiego 5A,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Lublinie
+ZUS I Oddział w Łodzi,90-431 Łódź,ul. Zamenhofa 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS II Inspektorat w Łodzi,91-120 Łódź,ul. Lipiec Reymontowskich 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Łodzi
+ZUS Inspektorat w Kutnie,99-301 Kutno,ul. Jagiełły 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Łodzi
+ZUS Inspektorat w Łowiczu,99-400 Łowicz,ul. Kaliska 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Łodzi
+ZUS Inspektorat w Zgierzu,95-100 Zgierz,ul. 3 Maja 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Łodzi
+ZUS Biuro Terenowe w Brzezinach,95-060 Brzeziny,ul. Łódzka 19,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Łodzi
+ZUS Biuro Terenowe w Łęczycy,99-100 Łęczyca,ul. Zachodnia 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Łodzi
+ZUS II Oddział w Łodzi,98-220 Zduńska Wola,ul. Kilińskiego 7/11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Łodzi,91-120 Łódź,ul. Lipiec Reymontowskich 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Łodzi
+ZUS Inspektorat w Pabianicach,95-200 Pabianice,ul. Kościuszki 31,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Łodzi
+ZUS Inspektorat w Sieradzu,98-200 Sieradz,ul. Piłsudskiego 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Łodzi
+ZUS Inspektorat w Wieluniu,98-300 Wieluń,ul. 3 Maja 7,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Łodzi
+ZUS Biuro Terenowe w Pajęcznie,98-330 Pajęczno,ul. Wiśniowa 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Łodzi
+ZUS Biuro Terenowe w Poddębicach,99-200 Poddębice,ul. Łęczycka 17/19,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Łodzi
+ZUS Biuro Terenowe w Wieruszowie,98-400 Wieruszów,ul. Bursztynowa 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Łodzi
+ZUS Oddział w Nowym Sączu,33-300 Nowy Sącz,ul. Sienkiewicza 77,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Gorlicach,38-300 Gorlice,ul. Jagiełły 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Nowym Sączu
+ZUS Inspektorat w Limanowej,34-600 Limanowa,ul. Józefa Marka 21,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Nowym Sączu
+ZUS Inspektorat w Nowym Targu,34-400 Nowy Targ,ul. Królowej Jadwigi 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Nowym Sączu
+ZUS Biuro Terenowe w Zakopanem,34-500 Zakopane,ul. Gimnazjalna 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Nowym Sączu
+ZUS Oddział w Olsztynie,10-959 Olsztyn,Pl. Konsulatu Polskiego 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Bartoszycach,11-200 Bartoszyce,ul. Bohaterów Warszawy 2a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Inspektorat w Działdowie,13-200 Działdowo,ul. Waryńskiego 13,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Inspektorat w Ełku,19-300 Ełk,ul. Wojska Polskiego 73,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Inspektorat w Giżycku,11-500 Giżycko,ul. Królowej Jadwigi 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Inspektorat w Kętrzynie,11-400 Kętrzyn,ul. Reja 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Inspektorat w Lidzbarku Warmińskim,11-100 Lidzbark Warmiński,ul. Legionów 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Inspektorat w Szczytnie,12-100 Szczytno,ul. Barczewskiego 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Biuro Terenowe w Gołdapi,19-500 Gołdap,ul. Matejki 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Biuro Terenowe w Mrągowie,11-700 Mrągowo,ul. Królewiecka 43,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Biuro Terenowe w Nidzicy,13-100 Nidzica,ul. Sienkiewicza 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Biuro Terenowe w Piszu,12-200 Pisz,ul. Czerniewskiego 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Olsztynie
+ZUS Oddział w Opolu,45-701 Opole,ul. Wrocławska 24,8.00-15.30,8.00-15.30,8.00-15.30,8.00-17.00,8.00-14.00,
+ZUS Inspektorat w Brzegu,49-305 Brzeg,ul. Starobrzeska 28c,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Inspektorat w Głubczycach,48-100 Głubczyce,ul. Chrobrego 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Inspektorat w Kędzierzynie-Koźlu,47-220 Kędzierzyn-Koźle,al. Jana Pawła II 26,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Inspektorat w Kluczborku,46-200 Kluczbork,ul. Katowicka 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Inspektorat w Nysie,48-300 Nysa,ul. Armii Krajowej 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Inspektorat w Oleśnie,46-300 Olesno,ul. Słowackiego 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Inspektorat w Prudniku,48-200 Prudnik,ul. Powstańców Śląskich 7a/7b,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Inspektorat w Strzelcach Opolskich,47-100 Strzelce Opolskie,ul. K. Miarki 2a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Biuro Terenowe w Namysłowie,46-100 Namysłów,Rynek Ratusz,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Opolu
+ZUS Oddział w Ostrowie Wielkopolskim,63-400 Ostrów Wielkopolski,ul. Wysocka 1b,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Jarocinie,63-200 Jarocin,ul. Kościuszki 16a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Inspektorat w Kaliszu,62-800 Kalisz,ul. Konopnickiej 31,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Inspektorat w Kępnie,63-600 Kępno,ul. Solidarności 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Inspektorat w Kościanie,64-000 Kościan,ul. Kaźmierczaka 31,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Inspektorat w Lesznie,64-100 Leszno,Al. Krasińskiego 36,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Inspektorat w Rawiczu,63-900 Rawicz,ul. Mikołajewicza 18,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Inspektorat w Wolsztynie,64-200 Wolsztyn,ul. Poznańska 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Biuro Terenowe w Gostyniu,63-800 Gostyń,ul. Nowe Wrota 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Biuro Terenowe w Krotoszynie,63-700 Krotoszyn,ul. Kobierska 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Biuro Terenowe w Ostrzeszowie,63-500 Ostrzeszów,ul. Przemysłowa 7,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Biuro Terenowe w Pleszewie,63-300 Pleszew,ul. Ogrodowa 3a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Ostrowie Wielkopolskim
+ZUS Oddział w Pile,64-920 Piła,ul. Dr. Drygasa 7,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Chodzieży,64-800 Chodzież,ul. Dworcowa 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Pile
+ZUS Inspektorat w Czarnkowie,64-700 Czarnków,ul. Kościuszki 87,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Pile
+ZUS Inspektorat w Wągrowcu,62-100 Wągrowiec,ul. Przemysłowa 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Pile
+ZUS Inspektorat w Złotowie,77-400 Złotów,Al. Piasta 37,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Pile
+ZUS Oddział w Płocku,09-402 Płock,Al. Stanisława Jachowicza 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Ciechanowie,06-400 Ciechanów,ul. Rzeczkowska 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Gostyninie,09-500 Gostynin,ul. Płocka 37 a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Makowie Mazowieckim,06-200 Maków Mazowiecki,ul. Kopernika 6 a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Mławie,06-500 Mława,ul. Padlewskiego 29/31,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Ostrołęce,07-410 Ostrołęka,ul. dr A. Kuklińskiego 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Ostrowi Mazowieckiej,07-300 Ostrów Mazowiecka,ul. Dubois 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Płońsku,09-100 Płońsk,ul. Warszawska 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Pułtusku,06-100 Pułtusk,ul. Daszyńskiego 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Sierpcu,09-200 Sierpc,ul. gen. L. Okulickiego 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Inspektorat w Wyszkowie,07-200 Wyszków,ul. Sowińskiego 83,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Biuro Terenowe w Przasnyszu,06-300 Przasnysz,ul. Leszno 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS Biuro Terenowe w Żurominie,09-300 Żuromin,ul. Szpitalna 89/93,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Płocku
+ZUS I Oddział w Poznaniu,60-908 Poznań,ul. Dąbrowskiego 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Grodzisku Wielkopolskim,62-065 Grodzisk Wielkopolski,ul. Żwirowa 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Poznaniu
+ZUS Inspektorat w Międzychodzie,64-400 Międzychód,ul. Słowackiego 7,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Poznaniu
+ZUS Inspektorat w Nowym Tomyślu,64-300 Nowy Tomyśl,ul. Kolejowa 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Poznaniu
+ZUS Inspektorat w Poznaniu,61-512 Poznań,ul. Fabryczna 27/28,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Poznaniu
+ZUS Inspektorat w Szamotułach,64-500 Szamotuły,ul. B. Chrobrego 17,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Poznaniu
+ZUS II Oddział w Poznaniu,61-361 Poznań,ul. Starołęcka 31,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Gnieźnie,62-200 Gniezno,ul. Sienkiewicza 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Inspektorat w Kole,62-600 Koło,ul. B. Prusa 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Inspektorat w Koninie,62-510 Konin,ul. Św. Maksymiliana Kolbego 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Inspektorat w Obornikach,64-600 Oborniki Wielkopolskie ,ul. Armii Poznań 27,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Inspektorat w Śremie,63-100 Śrem,ul. Szeroka 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Inspektorat w Środzie Wielkopolskiej,63-000 Środa Wielkopolska,ul. Szpitalna 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Inspektorat w Turku,62-700 Turek,ul. Armii Krajowej 18,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Inspektorat we Wrześni,62-300 Września,ul. Wrocławska 42,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Biuro Terenowe w Słupcy,62-400 Słupca,ul. Ratajczaka 2E,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Poznaniu
+ZUS Oddział w Radomiu,26-600 Radom,ul. Czachowskiego 21a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Grójcu,05-600 Grójec,ul. J. Matejki 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Radomiu
+ZUS Inspektorat w Kozienicach,26-900 Kozienice,ul. Radomska 43,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Radomiu
+ZUS Inspektorat w Szydłowcu,26-500 Szydłowiec,ul. Sowińskiego 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Radomiu
+ZUS Inspektorat w Zwoleniu,26-700 Zwoleń,ul. Bogusza 20,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Radomiu
+ZUS Biuro Terenowe w Lipsku,27-300 Lipsko,ul. Partyzantów 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Radomiu
+ZUS Biuro Terenowe w Pionkach,26-670 Pionki,Aleja Jana Pawła II 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Radomiu
+ZUS Biuro Terenowe w Przysusze,26-400 Przysucha,ul. Radomska 30,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Radomiu
+ZUS Oddział w Rybniku,44-200 Rybnik,ul. Reymonta 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Pszczynie,43-200 Pszczyna,ul. Kopernika 22,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rybniku
+ZUS Inspektorat w Raciborzu,47-400 Racibórz,ul. Łąkowa 28,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rybniku
+ZUS Inspektorat w Tychach,43-100 Tychy,ul. de Gaulle'a 16,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rybniku
+ZUS Inspektorat w Wodzisławiu Śląskim,44-300 Wodzisław Śląski,ul. Witosa 30,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rybniku
+ZUS Oddział w Rzeszowie,35-075 Rzeszów,Al. Piłsudskiego 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Jarosławiu,37-500 Jarosław,ul. Słowackiego 21,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Inspektorat w Leżajsku,37-300 Leżajsk,ul. Mickiewicza 24,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Inspektorat w Mielcu,39-300 Mielec,ul. Sikorskiego 4,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Inspektorat w Przemyślu,37-700 Przemyśl,ul. Brodzińskiego 6,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Inspektorat w Przeworsku,37-200 Przeworsk,ul. Dworcowa 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Inspektorat w Stalowej Woli,37-450 Stalowa Wola,ul. Ks. J. Popiełuszki 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Inspektorat w Tarnobrzegu,39-400 Tarnobrzeg,ul. Sienkiewicza 145d,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Biuro Terenowe w Lubaczowie,37-600 Lubaczów,ul. Mickiewicza 168,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Rzeszowie
+ZUS Oddział w Siedlcach,08-110 Siedlce,ul. Browarna 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Garwolinie,08-400 Garwolin,ul. Kościuszki 38a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Siedlcach
+ZUS Inspektorat w Mińsku Mazowieckim,05-300 Mińsk Mazowiecki,ul. Warszawska 84,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Siedlcach
+ZUS Inspektorat w Sokołowie Podlaskim,08-300 Sokołów Podlaski,ul. Piłsudskiego 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Siedlcach
+ZUS Biuro Terenowe w Łosicach,08-200 Łosice,ul. Kilińskiego 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Siedlcach
+ZUS Biuro Terenowe w Węgrowie,07-100 Węgrów,ul. Wieniawskiego 15,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Siedlcach
+ZUS Oddział w Słupsku,76-200 Słupsk,Pl. Zwycięstwa 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Bytowie,77-100 Bytów,ul. Kościuszki 16,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Słupsku
+ZUS Inspektorat w Chojnicach,89-600 Chojnice,ul. Łużycka 20,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Słupsku
+ZUS Inspektorat w Człuchowie,77-300 Człuchów,ul. Jerzego z Dąbrowy 3a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Słupsku
+ZUS Inspektorat w Lęborku,84-300 Lębork,ul. B. Krzywoustego 15,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Słupsku
+ZUS Biuro Terenowe w Miastku,77-200 Miastko,ul. Królowej Jadwigi 13,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Słupsku
+ZUS Oddział w Sosnowcu,41-200 Sosnowiec,ul. Partyzantów 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Dąbrowie Górniczej,41-300 Dąbrowa Górnicza,ul. Kościuszki 48,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Sosnowcu
+ZUS Inspektorat w Jaworznie,43-600 Jaworzno,ul. Grunwaldzka 274,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Sosnowcu
+ZUS Inspektorat w Zawierciu,42-400 Zawiercie,ul. Blanowska 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Sosnowcu
+ZUS Oddział w Szczecinie,70-530 Szczecin,ul. Matejki 22,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Choszcznie,73-200 Choszczno,ul. Jagiełły 28,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Szczecinie
+ZUS Inspektorat w Gryficach,72-300 Gryfice,ul. Dąbskiego 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Szczecinie
+ZUS Inspektorat w Łobzie,73-150 Łobez,ul. Kościuszki 26,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Szczecinie
+ZUS Inspektorat w Myśliborzu,74-300 Myślibórz,ul. Witolda Pileckiego 29,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Szczecinie
+ZUS Inspektorat w Pyrzycach,74-200 Pyrzyce,ul. Sportowa 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Szczecinie
+ZUS Inspektorat w Stargardzie,73-110 Stargard,ul. Składowa 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Szczecinie
+ZUS Inspektorat w Świnoujściu,72-600 Świnoujście,ul. Piastowska 63,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Szczecinie
+ZUS Oddział w Tarnowie,33-100 Tarnów,ul. Kościuszki 32,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Bochni,32-700 Bochnia,ul. Kazimierza Wielkiego 48,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Tarnowie
+ZUS Oddział w Tomaszowie Mazowieckim,97-200 Tomaszów Mazowiecki,ul. Prezydenta Ignacego Mościckiego 40/42,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Bełchatowie,97-400 Bełchatów,ul. Wojska Polskiego 69,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Tomaszowie Mazowieckim
+ZUS Inspektorat w Opocznie,26-300 Opoczno,ul. Moniuszki 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Tomaszowie Mazowieckim
+ZUS Inspektorat w Piotrkowie Trybunalskim,97-300 Piotrków Trybunalski,ul. Armii Krajowej 9,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Tomaszowie Mazowieckim
+ZUS Inspektorat w Radomsku,97-500 Radomsko,ul. Piastowska 24a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Tomaszowie Mazowieckim
+ZUS Inspektorat w Skierniewicach,96-100 Skierniewice,Al. Niepodległości 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Tomaszowie Mazowieckim
+ZUS Biuro Terenowe w Rawie Mazowieckiej,96-200 Rawa Mazowiecka,ul. Solidarności 1a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Tomaszowie Mazowieckim
+ZUS Oddział w Toruniu,87-100 Toruń,ul. Mickiewicza 33/39,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Aleksandrowie Kujawskim,87-700 Aleksandrów Kujawski,ul. Słowackiego 6a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Toruniu
+ZUS Inspektorat w Brodnicy,87-300 Brodnica,ul. Mały Rynek 5,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Toruniu
+ZUS Inspektorat w Grudziądzu,86-300 Grudziądz,ul. Wybickiego 39,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Toruniu
+ZUS Inspektorat w Lipnie,87-600 Lipno,ul. Mickiewicza 43,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Toruniu
+ZUS Inspektorat we Włocławku,87-800 Włocławek,Pl. Wolności 18/19,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Toruniu
+ZUS Biuro Terenowe w Golubiu-Dobrzyniu,87-400 Golub-Dobrzyń,ul. 1000-lecia 25,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Toruniu
+ZUS Biuro Terenowe w Rypinie,87-500 Rypin,ul. Mławska 12,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Toruniu
+ZUS Oddział w Wałbrzychu,58-390 Wałbrzych,ul. Kasztanowa 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Dzierżoniowie,58-200 Dzierżoniów,gen. Władysława Andersa 6a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS Inspektorat w Jeleniej Górze,58-506 Jelenia Góra,ul. Sygietyńskiego 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS Inspektorat w Kamiennej Górze,58-400 Kamienna Góra,Al. Wojska Polskiego 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS Inspektorat w Kłodzku,57-300 Kłodzko,Pl. B. Chrobrego 21,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS Inspektorat w Lubaniu,59-800 Lubań,ul. Łokietka 13,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS Inspektorat w Świdnicy,58-100 Świdnica,ul. Saperów 29,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS Biuro Terenowe w Ząbkowicach Śląskich,57-200 Ząbkowice Śląskie,Os. XX-lecia 52,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS Biuro Terenowe w Zgorzelcu,59-900 Zgorzelec,ul. Prusa 3,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Wałbrzychu
+ZUS I Oddział w Warszawie,00-917 Warszawa,ul. Senatorska 6/8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat Warszawa-Ochota,02-374 Warszawa,ul. E. Orzeszkowej 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Warszawie
+ZUS Inspektorat Warszawa-Wola,01-493 Warszawa-Wola,ul. Wrocławska 20,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Warszawie
+ZUS Inspektorat Warszawa-Żoliborz,01-949 Warszawa-Żoliborz,ul. Kasprowicza 151,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS I Oddział w Warszawie
+ZUS II Oddział w Warszawie,03-829 Warszawa,ul. Podskarbińska 25,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Legionowie,05-120 Legionowo,ul. Słowackiego 20,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Warszawie
+ZUS Inspektorat w Nowym Dworze Mazowieckim ,05-100 Nowy Dwór Mazowiecki,ul. Modlińska 10,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Warszawie
+ZUS Inspektorat w Otwocku,05-400 Otwock,ul. Poniatowskiego 17,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Warszawie
+ZUS Inspektorat w Wołominie,05-200 Wołomin,ul. Reja 20,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Warszawie
+ZUS Inspektorat Warszawa-Praga Północ,03-446 Warszawa-Praga Północ,ul. 11-go Listopada 15a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS II Oddział w Warszawie
+ZUS III Oddział w Warszawie,00-701 Warszawa,ul. Czerniakowska 16,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Piasecznie,05-500 Piaseczno,ul. Puławska 34B,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS III Oddział w Warszawie
+ZUS Inspektorat w Pruszkowie,05-800 Pruszków,ul. Ołówkowa 38,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS III Oddział w Warszawie
+ZUS Inspektorat w Sochaczewie,96-500 Sochaczew,ul. Reymonta 20,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS III Oddział w Warszawie
+ZUS Inspektorat w Żyrardowie,96-300 Żyrardów,ul. Bankowa 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS III Oddział w Warszawie
+ZUS Biuro Terenowe w Grodzisku Mazowieckim ,05-825 Grodzisk Mazowiecki,ul. Pańska 17,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS III Oddział w Warszawie
+ZUS Biuro Terenowe Warszawa-Ursynów,02-796 Warszawa-Ursynów,ul. Dembego 23B,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS III Oddział w Warszawie
+ZUS Oddział we Wrocławiu,50-930 Wrocław,ul. Pretficza 11,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Oleśnicy,56-400 Oleśnica,ul. Lwowska 34-38,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Inspektorat w Oławie,55-200 Oława,ul. Kasprowicza 34,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Inspektorat w Trzebnicy,55-100 Trzebnica,ul. Wojska Polskiego 1b,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Biuro Terenowe w Miliczu,56-300 Milicz,ul. Kościuszki 22,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Biuro Terenowe w Strzelinie,57-100 Strzelin,ul. Dzierżoniowska 14,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Biuro Terenowe w Sycowie,56-500 Syców,ul. Wałowa 16,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Biuro Terenowe W Środzie Śląskiej,55-300 Środa Śląska,ul. Kolejowa 28,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Biuro Terenowe w Wołowie,56-100 Wołów,ul. Objazdowa 5a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział we Wrocławiu
+ZUS Oddział w Zabrzu,41-800 Zabrze,ul. Szczęść Boże 18,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Tarnowskich Górach,42-600 Tarnowskie Góry,ul. Górnicza 4-8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zabrzu
+ZUS Biuro Terenowe w Bytomiu,41-902 Bytom,ul. K. Miarki 8,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zabrzu
+ZUS Biuro Terenowe w Gliwicach,44-100 Gliwice,ul. Pszczyńska 44A,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zabrzu
+ZUS Oddział w Zielonej Górze,65-426 Zielona Góra,ul. Kupiecka 65,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,
+ZUS Inspektorat w Krośnie Odrzańskim,66-600 Krosno Odrzańskie,ul. Słubicka 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zielonej Górze
+ZUS Inspektorat w Nowej Soli,67-100 Nowa Sól,ul. Kościuszki 29,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zielonej Górze
+ZUS Inspektorat w Świebodzinie,66-200 Świebodzin,ul. Sikorskiego 42,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zielonej Górze
+ZUS Inspektorat w Żarach,68-200 Żary,ul. Lotników 1 a,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zielonej Górze
+ZUS Biuro Terenowe w Gubinie,66-620 Gubin,ul. Słowackiego 2,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zielonej Górze
+ZUS Biuro Terenowe we Wschowie,67-400 Wschowa,ul. Pocztowa 1,8.00-17.00,8.00-15.00,8.00-15.00,8.00-15.00,8.00-15.00,ZUS Oddział w Zielonej Górze

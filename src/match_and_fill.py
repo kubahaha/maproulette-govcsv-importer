@@ -10,13 +10,13 @@ from src.utils import FIELDS
 console = Console()
 
 
-def match(gov, osm, name, engine='nominatim'):
-    to_change, to_add = [], []
+def match(gov, osm, name, engine) -> tuple[list, list]:
     config = importlib.import_module(f'data.{name}.conf')
+    to_change, to_add = [], []
 
     for rule in config.matching:
-        counter = 0
         console.log(f'Validating against rule {rule}')
+        counter = 0
         if isinstance(rule, list):
             def check(x):
                 return all([x.has_tag(tag) for tag in rule])

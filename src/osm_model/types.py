@@ -2,8 +2,8 @@ import random
 from datetime import datetime
 
 from src.utils import download_latlon
-from src.engines.Nominatim import Nominatim
-from src.engines.Komoot import Komoot
+from src.engines.nominatim import Nominatim
+from src.engines.komoot import Komoot
 
 
 class OsmObject:

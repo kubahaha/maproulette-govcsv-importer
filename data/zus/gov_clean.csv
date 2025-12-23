@@ -1,0 +1,316 @@
+government,official_name,name,addr:postcode,addr:city,addr:street,addr:housenumber,opening_hours
+,Zakład Ubezpieczeń Społecznych - Oddział w Białymstoku,ZUS Oddział w Białymstoku,15-404,Białystok,Młynowa,29,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Augustowie,ZUS Inspektorat w Augustowie,16-300,Augustów,Hoża,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Bielsku Podlaskim,ZUS Inspektorat w Bielsku Podlaskim,17-100,Bielsk Podlaski,Widowska,10A,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Hajnówce,ZUS Inspektorat w Hajnówce,17-200,Hajnówka,Armii Krajowej,16,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Łomży,ZUS Inspektorat w Łomży,18-400,Łomża,Szosa Zambrowska,29,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Siemiatyczach,ZUS Inspektorat w Siemiatyczach,17-300,Siemiatycze,Ogrodowa,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sokółce,ZUS Inspektorat w Sokółce,16-100,Sokółka,Gen. Wł. Sikorskiego,38c,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Suwałkach,ZUS Inspektorat w Suwałkach,16-400,Suwałki,1 Maja,33,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wysokiem Mazowieckiem,ZUS Inspektorat w Wysokiem Mazowieckiem,18-200,Wysokie Mazowieckie,Mystkowska,43,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Zambrowie,ZUS Inspektorat w Zambrowie,18-300,Zambrów,Fabryczna,3a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Kolnie,ZUS Biuro Terenowe w Kolnie,18-500,Kolno,Wojska Polskiego,67,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Bielsku-Białej,ZUS Oddział w Bielsku-Białej,43-350,Bielsko-Biała,Krasińskiego,34-36,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Cieszynie,ZUS Inspektorat w Cieszynie,43-400,Cieszyn,Bielska,29,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Żywcu,ZUS Inspektorat w Żywcu,34-300,Żywiec,Piernikarska,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Biłgoraju,ZUS Oddział w Biłgoraju,23-400,Biłgoraj,Kościuszki,103,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Chełmie,ZUS Inspektorat w Chełmie,22-100,Chełm,Aleja Żołnierzy I Armii Wojska Polskiego,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Hrubieszowie,ZUS Inspektorat w Hrubieszowie,22-500,Hrubieszów,3-go Maja,8a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Tomaszowie Lubelskim,ZUS Inspektorat w Tomaszowie Lubelskim,22-600,Tomaszów Lubelski,Jana Pawła II,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Zamościu,ZUS Inspektorat w Zamościu,22-400,Zamość,Kiepury,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Janowie Lubelskim,ZUS Biuro Terenowe w Janowie Lubelskim,23-300,Janów Lubelski,Zamoyskiego,52,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Krasnymstawie,ZUS Biuro Terenowe w Krasnymstawie,22-300,Krasnystaw,PCK,13,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe we Włodawie,ZUS Biuro Terenowe we Włodawie,22-200,Włodawa,Reymonta,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Bydgoszczy,ZUS Oddział w Bydgoszczy,85-224,Bydgoszcz,Świętej Trójcy,33,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Inowrocławiu,ZUS Inspektorat w Inowrocławiu,88-100,Inowrocław,Solankowa,15,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Nakle nad Notecią,ZUS Inspektorat w Nakle nad Notecią,89-100,Nakło nad Notecią,Bohaterów,12a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Świeciu,ZUS Inspektorat w Świeciu,86-105,Świecie,Wojska Polskiego,87A,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Tucholi,ZUS Inspektorat w Tucholi,89-500,Tuchola,Dworcowa,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Żninie,ZUS Inspektorat w Żninie,88-400,Żnin,700-lecia,37,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sępólnie Krajeńskim,ZUS Biuro Terenowe w Sępólnie Krajeńskim,89-400,Sępólno Krajeńskie,Kościuszki,16,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Chorzowie,ZUS Oddział w Chorzowie,41-500,Chorzów,Dąbrowskiego,45,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Katowicach,ZUS Inspektorat w Katowicach,40-018,Katowice,Gen. J. L. Sowińskiego,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Mysłowicach,ZUS Biuro Terenowe w Mysłowicach,41-400,Mysłowice,Kacza,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rudzie Śląskiej,ZUS Biuro Terenowe w Rudzie Śląskiej,41-709,Ruda Śląska,Niedurnego,75,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Chrzanowie,ZUS Oddział w Chrzanowie,32-500,Chrzanów,Oświęcimska,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Olkuszu,ZUS Inspektorat w Olkuszu,32-300,Olkusz,Al. 1000-lecia,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Oświęcimiu,ZUS Inspektorat w Oświęcimiu,32-600,Oświęcim,Chopina,13,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Suchej Beskidzkiej,ZUS Inspektorat w Suchej Beskidzkiej,34-200,Sucha Beskidzka,Rynek,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wadowicach,ZUS Inspektorat w Wadowicach,34-100,Wadowice,Teatralna,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Częstochowie,ZUS Oddział w Częstochowie,42-218,Częstochowa,Dąbrowskiego,43/45,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kłobucku,ZUS Inspektorat w Kłobucku,42-100,Kłobuck,Targowa 3,a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lublińcu,ZUS Inspektorat w Lublińcu,42-700,Lubliniec,Oleska,26,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Myszkowie,ZUS Inspektorat w Myszkowie,42-300,Myszków,Sikorskiego,57,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Koniecpolu,ZUS Biuro Terenowe w Koniecpolu,42-230,Koniecpol,Rynek,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Elblągu,ZUS Oddział w Elblągu,82-300,Elbląg,Teatralna,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Iławie,ZUS Inspektorat w Iławie,14-202,Iława,Wiejska,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Ostródzie,ZUS Inspektorat w Ostródzie,14-100,Ostróda,Czarnieckiego,50,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Braniewie,ZUS Biuro Terenowe w Braniewie,14-500,Braniewo,Morska,30D,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Gdańsku,ZUS Oddział w Gdańsku,80-748,Gdańsk,Chmielna,27/33,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Gdańsk-Wrzeszcz,ZUS Inspektorat Gdańsk-Wrzeszcz,80-210,Gdańsk-Wrzeszcz,Tuwima,9,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Gdyni,ZUS Inspektorat w Gdyni,81-364,Gdynia,Władysława IV,24,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kartuzach,ZUS Inspektorat w Kartuzach,83-300,Kartuzy,Floriana Ceynowy,5A,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kościerzynie,ZUS Inspektorat w Kościerzynie,83-400,Kościerzyna,3 Maja 9,b,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kwidzynie,ZUS Inspektorat w Kwidzynie,82-500,Kwidzyn,Piłsudskiego 29,a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Malborku,ZUS Inspektorat w Malborku,82-200,Malbork,Dworcowa,1B,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Pruszczu Gdańskim,ZUS Inspektorat w Pruszczu Gdańskim,83-000,Pruszcz Gdański,Wita Stwosza,7,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Pucku,ZUS Inspektorat w Pucku,84-100,Puck,E. Orzeszkowej,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Starogardzie Gdańskim,ZUS Inspektorat w Starogardzie Gdańskim,83-200,Starogard Gdański,Piłsudskiego,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sztumie,ZUS Inspektorat w Sztumie,82-400,Sztum,Mickiewicza,34,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Tczewie,ZUS Inspektorat w Tczewie,83-110,Tczew,Jagiellońska,55,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wejherowie,ZUS Inspektorat w Wejherowie,84-200,Wejherowo,Sobieskiego,294,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sopocie,ZUS Biuro Terenowe w Sopocie,81-805,Sopot,Al. Niepodległości,796,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Gorzowie Wielkopolskim,ZUS Oddział w Gorzowie Wielkopolskim,66-400,Gorzów Wielkopolski,Sikorskiego,42,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Słubicach,ZUS Inspektorat w Słubicach,69-100,Słubice,Kościuszki,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sulęcinie,ZUS Inspektorat w Sulęcinie,69-200,Sulęcin,Witosa,21,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Międzyrzeczu,ZUS Biuro Terenowe w Międzyrzeczu,66-300,Międzyrzecz,Przemyslowa,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Strzelcach Krajeńskich,ZUS Biuro Terenowe w Strzelcach Krajeńskich,66-500,Strzelce Krajeńskie,Al. Wolności,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Jaśle,ZUS Oddział w Jaśle,38-200,Jasło,Rynek 18,b,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Brzozowie,ZUS Inspektorat w Brzozowie,36-200,Brzozów,Witosa,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Dębicy,ZUS Inspektorat w Dębicy,39-200,Dębica,Piłsudskiego,15,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Krośnie,ZUS Inspektorat w Krośnie,38-400,Krosno,Bieszczadzka,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sanoku,ZUS Inspektorat w Sanoku,38-500,Sanok,Konarskiego,20,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Kielcach,ZUS Oddział w Kielcach,25-510,Kielce,Piotrkowska,27,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Busku-Zdroju,ZUS Inspektorat w Busku-Zdroju,28-100,Busko-Zdrój,Partyzantów,33,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Końskich,ZUS Inspektorat w Końskich,26-200,Końskie,Partyzantów,50,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Opatowie,ZUS Inspektorat w Opatowie,27-500,Opatów,Sempołowskiej,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Ostrowcu Świetokrzyskim,ZUS Inspektorat w Ostrowcu Świetokrzyskim,27-400,Ostrowiec Świetokrzyski,Rosłońskiego,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Skarżysku Kamiennej,ZUS Inspektorat w Skarżysku Kamiennej,26-110,Skarżysko Kamienna,Kossaka,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Starachowicach,ZUS Inspektorat w Starachowicach,27-200,Starachowice,Radomska,31A,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Jędrzejowie,ZUS Biuro Terenowe w Jędrzejowie,28-300,Jędrzejów,Przemysłowa,7,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pińczowie,ZUS Biuro Terenowe w Pińczowie,28-400,Pińczów,3-go Maja,40,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sandomierzu,ZUS Biuro Terenowe w Sandomierzu,27-600,Sandomierz,Juliusza Słowackiego,37C/1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Staszowie,ZUS Biuro Terenowe w Staszowie,28-200,Staszów,Długa,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe we Włoszczowie,ZUS Biuro Terenowe we Włoszczowie,29-100,Włoszczowa,Jana Brożka,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Koszalinie,ZUS Oddział w Koszalinie,75-434,Koszalin,Juliana Fałata,30,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Białogardzie,ZUS Inspektorat w Białogardzie,78-200,Białogard,Wojska Polskiego,56,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Drawsku Pomorskim,ZUS Inspektorat w Drawsku Pomorskim,78-500,Drawsko Pomorskie,Sikorskiego,30,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kołobrzegu,ZUS Inspektorat w Kołobrzegu,78-100,Kołobrzeg,Łopuskiego,21,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Szczecinku,ZUS Inspektorat w Szczecinku,78-400,Szczecinek,Pl. Wolności,18,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Świdwinie,ZUS Inspektorat w Świdwinie,78-300,Świdwin,Wojska Polskiego,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wałczu,ZUS Inspektorat w Wałczu,78-600,Wałcz,Dąbrowskiego,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Krakowie,ZUS Oddział w Krakowie,31-080,Kraków,Pędzichów,27,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Krowodrza,ZUS Inspektorat Kraków - Krowodrza,30-015,Kraków,Świętokrzyska,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Łagiewniki,ZUS Inspektorat Kraków - Łagiewniki,30-418,Kraków - Łagiewniki,Zakopiańska,33,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Nowa Huta,ZUS Inspektorat Kraków - Nowa Huta,31-946,Kraków,os. Teatralne,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Kraków - Podgórze,ZUS Inspektorat Kraków - Podgórze,30-418,Kraków,Zakopiańska,33,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Miechowie,ZUS Biuro Terenowe w Miechowie,32-200,Miechów,Podzamcze,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Myślenicach,ZUS Biuro Terenowe w Myślenicach,32-400,Myślenice,Drogowców,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Proszowicach,ZUS Biuro Terenowe w Proszowicach,32-100,Proszowice,Reja,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Legnicy,ZUS Oddział w Legnicy,59-220,Legnica,Wł. Grabskiego,26,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Bolesławcu,ZUS Inspektorat w Bolesławcu,59-700,Bolesławiec,Kwiatowa,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Głogowie,ZUS Inspektorat w Głogowie,67-200,Głogów,Morcinka,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Jaworze,ZUS Inspektorat w Jaworze,59-400,Jawor,Gagarina,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lubinie,ZUS Inspektorat w Lubinie,59-300,Lubin,Drzymały,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Złotoryi,ZUS Inspektorat w Złotoryi,59-500,Złotoryja,Basztowa,9,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Górze,ZUS Biuro Terenowe w Górze,56-200,Góra,Wrocławska,54,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Lwówku Śląskim,ZUS Biuro Terenowe w Lwówku Śląskim,59-600,Lwówek Śląski,10-tej Dywizji,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Polkowicach,ZUS Biuro Terenowe w Polkowicach,59-100,Polkowice,Górna,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Lublinie,ZUS Oddział w Lublinie,20-601,Lublin,T. Zana,36/38c,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Białej Podlaskiej,ZUS Inspektorat w Białej Podlaskiej,21-500,Biała Podlaska,Sadowa,23,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kraśniku,ZUS Inspektorat w Kraśniku,23-204,Kraśnik,Ks. J. Popiełuszki,3a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lubartowie,ZUS Inspektorat w Lubartowie,21-100,Lubartów,Lipowa,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Łukowie,ZUS Inspektorat w Łukowie,21-400,Łuków,Kardynała S. Wyszyńskiego,56,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Puławach,ZUS Inspektorat w Puławach,24-100,Puławy,Lubelska 20,b,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Radzyniu Podlaskim,ZUS Inspektorat w Radzyniu Podlaskim,21-300,Radzyń Podlaski,Armii Krajowej,22-32,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Łęcznej,ZUS Biuro Terenowe w Łęcznej,21-010,Łęczna,Obrońców Pokoju,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Opolu Lubelskim,ZUS Biuro Terenowe w Opolu Lubelskim,24-300,Opole Lubelskie,Józefa Piłsudskiego,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Parczewie,ZUS Biuro Terenowe w Parczewie,21-200,Parczew,Pl. Wolności,7,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rykach,ZUS Biuro Terenowe w Rykach,08-500,Ryki,J. Słowackiego,5A,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - I Oddział w Łodzi,ZUS I Oddział w Łodzi,90-431,Łódź,Zamenhofa,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - II Inspektorat w Łodzi,ZUS II Inspektorat w Łodzi,91-120,Łódź,Lipiec Reymontowskich,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kutnie,ZUS Inspektorat w Kutnie,99-301,Kutno,Jagiełły,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Łowiczu,ZUS Inspektorat w Łowiczu,99-400,Łowicz,Kaliska,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Zgierzu,ZUS Inspektorat w Zgierzu,95-100,Zgierz,3 Maja,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Brzezinach,ZUS Biuro Terenowe w Brzezinach,95-060,Brzeziny,Łódzka,19,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Łęczycy,ZUS Biuro Terenowe w Łęczycy,99-100,Łęczyca,Zachodnia,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - II Oddział w Łodzi,ZUS II Oddział w Łodzi,98-220,Zduńska Wola,Kilińskiego,7/11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Łodzi,ZUS Inspektorat w Łodzi,91-120,Łódź,Lipiec Reymontowskich,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Pabianicach,ZUS Inspektorat w Pabianicach,95-200,Pabianice,Kościuszki,31,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sieradzu,ZUS Inspektorat w Sieradzu,98-200,Sieradz,Piłsudskiego,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wieluniu,ZUS Inspektorat w Wieluniu,98-300,Wieluń,3 Maja,7,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pajęcznie,ZUS Biuro Terenowe w Pajęcznie,98-330,Pajęczno,Wiśniowa,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Poddębicach,ZUS Biuro Terenowe w Poddębicach,99-200,Poddębice,Łęczycka,17/19,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Wieruszowie,ZUS Biuro Terenowe w Wieruszowie,98-400,Wieruszów,Bursztynowa,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Nowym Sączu,ZUS Oddział w Nowym Sączu,33-300,Nowy Sącz,Sienkiewicza,77,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Gorlicach,ZUS Inspektorat w Gorlicach,38-300,Gorlice,Jagiełły,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Limanowej,ZUS Inspektorat w Limanowej,34-600,Limanowa,Józefa Marka,21,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Nowym Targu,ZUS Inspektorat w Nowym Targu,34-400,Nowy Targ,Królowej Jadwigi,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Zakopanem,ZUS Biuro Terenowe w Zakopanem,34-500,Zakopane,Gimnazjalna,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Olsztynie,ZUS Oddział w Olsztynie,10-959,Olsztyn,Pl. Konsulatu Polskiego,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Bartoszycach,ZUS Inspektorat w Bartoszycach,11-200,Bartoszyce,Bohaterów Warszawy,2a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Działdowie,ZUS Inspektorat w Działdowie,13-200,Działdowo,Waryńskiego,13,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Ełku,ZUS Inspektorat w Ełku,19-300,Ełk,Wojska Polskiego,73,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Giżycku,ZUS Inspektorat w Giżycku,11-500,Giżycko,Królowej Jadwigi,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kętrzynie,ZUS Inspektorat w Kętrzynie,11-400,Kętrzyn,Reja,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lidzbarku Warmińskim,ZUS Inspektorat w Lidzbarku Warmińskim,11-100,Lidzbark Warmiński,Legionów,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Szczytnie,ZUS Inspektorat w Szczytnie,12-100,Szczytno,Barczewskiego,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gołdapi,ZUS Biuro Terenowe w Gołdapi,19-500,Gołdap,Matejki,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Mrągowie,ZUS Biuro Terenowe w Mrągowie,11-700,Mrągowo,Królewiecka,43,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Nidzicy,ZUS Biuro Terenowe w Nidzicy,13-100,Nidzica,Sienkiewicza,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Piszu,ZUS Biuro Terenowe w Piszu,12-200,Pisz,Czerniewskiego,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Opolu,ZUS Oddział w Opolu,45-701,Opole,Wrocławska,24,Mo-We 8:00-15:30; Th 08:00-17:00; Fr 8:00-14:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Brzegu,ZUS Inspektorat w Brzegu,49-305,Brzeg,Starobrzeska,28c,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Głubczycach,ZUS Inspektorat w Głubczycach,48-100,Głubczyce,Chrobrego,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kędzierzynie-Koźlu,ZUS Inspektorat w Kędzierzynie-Koźlu,47-220,Kędzierzyn-Koźle,al. Jana Pawła II,26,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kluczborku,ZUS Inspektorat w Kluczborku,46-200,Kluczbork,Katowicka,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Nysie,ZUS Inspektorat w Nysie,48-300,Nysa,Armii Krajowej,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Oleśnie,ZUS Inspektorat w Oleśnie,46-300,Olesno,Słowackiego,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Prudniku,ZUS Inspektorat w Prudniku,48-200,Prudnik,Powstańców Śląskich,7a/7b,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Strzelcach Opolskich,ZUS Inspektorat w Strzelcach Opolskich,47-100,Strzelce Opolskie,K. Miarki,2a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Namysłowie,ZUS Biuro Terenowe w Namysłowie,46-100,Namysłów,Rynek,Ratusz,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Ostrowie Wielkopolskim,ZUS Oddział w Ostrowie Wielkopolskim,63-400,Ostrów Wielkopolski,Wysocka,1b,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Jarocinie,ZUS Inspektorat w Jarocinie,63-200,Jarocin,Kościuszki,16a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kaliszu,ZUS Inspektorat w Kaliszu,62-800,Kalisz,Konopnickiej,31,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kępnie,ZUS Inspektorat w Kępnie,63-600,Kępno,Solidarności,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kościanie,ZUS Inspektorat w Kościanie,64-000,Kościan,Kaźmierczaka,31,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lesznie,ZUS Inspektorat w Lesznie,64-100,Leszno,Al. Krasińskiego,36,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Rawiczu,ZUS Inspektorat w Rawiczu,63-900,Rawicz,Mikołajewicza,18,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wolsztynie,ZUS Inspektorat w Wolsztynie,64-200,Wolsztyn,Poznańska,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gostyniu,ZUS Biuro Terenowe w Gostyniu,63-800,Gostyń,Nowe Wrota,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Krotoszynie,ZUS Biuro Terenowe w Krotoszynie,63-700,Krotoszyn,Kobierska,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Ostrzeszowie,ZUS Biuro Terenowe w Ostrzeszowie,63-500,Ostrzeszów,Przemysłowa,7,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pleszewie,ZUS Biuro Terenowe w Pleszewie,63-300,Pleszew,Ogrodowa,3a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Pile,ZUS Oddział w Pile,64-920,Piła,Dr. Drygasa,7,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Chodzieży,ZUS Inspektorat w Chodzieży,64-800,Chodzież,Dworcowa,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Czarnkowie,ZUS Inspektorat w Czarnkowie,64-700,Czarnków,Kościuszki,87,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wągrowcu,ZUS Inspektorat w Wągrowcu,62-100,Wągrowiec,Przemysłowa,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Złotowie,ZUS Inspektorat w Złotowie,77-400,Złotów,Al. Piasta,37,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Płocku,ZUS Oddział w Płocku,09-402,Płock,Al. Stanisława Jachowicza,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Ciechanowie,ZUS Inspektorat w Ciechanowie,06-400,Ciechanów,Rzeczkowska,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Gostyninie,ZUS Inspektorat w Gostyninie,09-500,Gostynin,Płocka 37,a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Makowie Mazowieckim,ZUS Inspektorat w Makowie Mazowieckim,06-200,Maków Mazowiecki,Kopernika 6,a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Mławie,ZUS Inspektorat w Mławie,06-500,Mława,Padlewskiego,29/31,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Ostrołęce,ZUS Inspektorat w Ostrołęce,07-410,Ostrołęka,dr A. Kuklińskiego,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Ostrowi Mazowieckiej,ZUS Inspektorat w Ostrowi Mazowieckiej,07-300,Ostrów Mazowiecka,Dubois,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Płońsku,ZUS Inspektorat w Płońsku,09-100,Płońsk,Warszawska,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Pułtusku,ZUS Inspektorat w Pułtusku,06-100,Pułtusk,Daszyńskiego,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sierpcu,ZUS Inspektorat w Sierpcu,09-200,Sierpc,gen. L. Okulickiego,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wyszkowie,ZUS Inspektorat w Wyszkowie,07-200,Wyszków,Sowińskiego,83,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Przasnyszu,ZUS Biuro Terenowe w Przasnyszu,06-300,Przasnysz,Leszno,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Żurominie,ZUS Biuro Terenowe w Żurominie,09-300,Żuromin,Szpitalna,89/93,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - I Oddział w Poznaniu,ZUS I Oddział w Poznaniu,60-908,Poznań,Dąbrowskiego,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Grodzisku Wielkopolskim,ZUS Inspektorat w Grodzisku Wielkopolskim,62-065,Grodzisk Wielkopolski,Żwirowa,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Międzychodzie,ZUS Inspektorat w Międzychodzie,64-400,Międzychód,Słowackiego,7,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Nowym Tomyślu,ZUS Inspektorat w Nowym Tomyślu,64-300,Nowy Tomyśl,Kolejowa,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Poznaniu,ZUS Inspektorat w Poznaniu,61-512,Poznań,Fabryczna,27/28,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Szamotułach,ZUS Inspektorat w Szamotułach,64-500,Szamotuły,B. Chrobrego,17,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - II Oddział w Poznaniu,ZUS II Oddział w Poznaniu,61-361,Poznań,Starołęcka,31,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Gnieźnie,ZUS Inspektorat w Gnieźnie,62-200,Gniezno,Sienkiewicza,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kole,ZUS Inspektorat w Kole,62-600,Koło,B. Prusa,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Koninie,ZUS Inspektorat w Koninie,62-510,Konin,Św. Maksymiliana Kolbego,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Obornikach,ZUS Inspektorat w Obornikach,64-600,Oborniki Wielkopolskie,Armii Poznań,27,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Śremie,ZUS Inspektorat w Śremie,63-100,Śrem,Szeroka,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Środzie Wielkopolskiej,ZUS Inspektorat w Środzie Wielkopolskiej,63-000,Środa Wielkopolska,Szpitalna,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Turku,ZUS Inspektorat w Turku,62-700,Turek,Armii Krajowej,18,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat we Wrześni,ZUS Inspektorat we Wrześni,62-300,Września,Wrocławska,42,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Słupcy,ZUS Biuro Terenowe w Słupcy,62-400,Słupca,Ratajczaka,2E,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Radomiu,ZUS Oddział w Radomiu,26-600,Radom,Czachowskiego,21a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Grójcu,ZUS Inspektorat w Grójcu,05-600,Grójec,J. Matejki,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kozienicach,ZUS Inspektorat w Kozienicach,26-900,Kozienice,Radomska,43,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Szydłowcu,ZUS Inspektorat w Szydłowcu,26-500,Szydłowiec,Sowińskiego,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Zwoleniu,ZUS Inspektorat w Zwoleniu,26-700,Zwoleń,Bogusza,20,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Lipsku,ZUS Biuro Terenowe w Lipsku,27-300,Lipsko,Partyzantów,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Pionkach,ZUS Biuro Terenowe w Pionkach,26-670,Pionki,Aleja Jana Pawła II,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Przysusze,ZUS Biuro Terenowe w Przysusze,26-400,Przysucha,Radomska,30,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Rybniku,ZUS Oddział w Rybniku,44-200,Rybnik,Reymonta,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Pszczynie,ZUS Inspektorat w Pszczynie,43-200,Pszczyna,Kopernika,22,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Raciborzu,ZUS Inspektorat w Raciborzu,47-400,Racibórz,Łąkowa,28,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Tychach,ZUS Inspektorat w Tychach,43-100,Tychy,de Gaulle'a,16,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wodzisławiu Śląskim,ZUS Inspektorat w Wodzisławiu Śląskim,44-300,Wodzisław Śląski,Witosa,30,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Rzeszowie,ZUS Oddział w Rzeszowie,35-075,Rzeszów,Al. Piłsudskiego,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Jarosławiu,ZUS Inspektorat w Jarosławiu,37-500,Jarosław,Słowackiego,21,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Leżajsku,ZUS Inspektorat w Leżajsku,37-300,Leżajsk,Mickiewicza,24,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Mielcu,ZUS Inspektorat w Mielcu,39-300,Mielec,Sikorskiego,4,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Przemyślu,ZUS Inspektorat w Przemyślu,37-700,Przemyśl,Brodzińskiego,6,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Przeworsku,ZUS Inspektorat w Przeworsku,37-200,Przeworsk,Dworcowa,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Stalowej Woli,ZUS Inspektorat w Stalowej Woli,37-450,Stalowa Wola,Ks. J. Popiełuszki,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Tarnobrzegu,ZUS Inspektorat w Tarnobrzegu,39-400,Tarnobrzeg,Sienkiewicza,145d,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Lubaczowie,ZUS Biuro Terenowe w Lubaczowie,37-600,Lubaczów,Mickiewicza,168,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Siedlcach,ZUS Oddział w Siedlcach,08-110,Siedlce,Browarna,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Garwolinie,ZUS Inspektorat w Garwolinie,08-400,Garwolin,Kościuszki,38a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Mińsku Mazowieckim,ZUS Inspektorat w Mińsku Mazowieckim,05-300,Mińsk Mazowiecki,Warszawska,84,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sokołowie Podlaskim,ZUS Inspektorat w Sokołowie Podlaskim,08-300,Sokołów Podlaski,Piłsudskiego,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Łosicach,ZUS Biuro Terenowe w Łosicach,08-200,Łosice,Kilińskiego,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Węgrowie,ZUS Biuro Terenowe w Węgrowie,07-100,Węgrów,Wieniawskiego,15,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Słupsku,ZUS Oddział w Słupsku,76-200,Słupsk,Pl. Zwycięstwa,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Bytowie,ZUS Inspektorat w Bytowie,77-100,Bytów,Kościuszki,16,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Chojnicach,ZUS Inspektorat w Chojnicach,89-600,Chojnice,Łużycka,20,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Człuchowie,ZUS Inspektorat w Człuchowie,77-300,Człuchów,Jerzego z Dąbrowy,3a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lęborku,ZUS Inspektorat w Lęborku,84-300,Lębork,B. Krzywoustego,15,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Miastku,ZUS Biuro Terenowe w Miastku,77-200,Miastko,Królowej Jadwigi,13,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Sosnowcu,ZUS Oddział w Sosnowcu,41-200,Sosnowiec,Partyzantów,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Dąbrowie Górniczej,ZUS Inspektorat w Dąbrowie Górniczej,41-300,Dąbrowa Górnicza,Kościuszki,48,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Jaworznie,ZUS Inspektorat w Jaworznie,43-600,Jaworzno,Grunwaldzka,274,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Zawierciu,ZUS Inspektorat w Zawierciu,42-400,Zawiercie,Blanowska,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Szczecinie,ZUS Oddział w Szczecinie,70-530,Szczecin,Matejki,22,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Choszcznie,ZUS Inspektorat w Choszcznie,73-200,Choszczno,Jagiełły,28,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Gryficach,ZUS Inspektorat w Gryficach,72-300,Gryfice,Dąbskiego,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Łobzie,ZUS Inspektorat w Łobzie,73-150,Łobez,Kościuszki,26,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Myśliborzu,ZUS Inspektorat w Myśliborzu,74-300,Myślibórz,Witolda Pileckiego,29,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Pyrzycach,ZUS Inspektorat w Pyrzycach,74-200,Pyrzyce,Sportowa,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Stargardzie,ZUS Inspektorat w Stargardzie,73-110,Stargard,Składowa,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Świnoujściu,ZUS Inspektorat w Świnoujściu,72-600,Świnoujście,Piastowska,63,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Tarnowie,ZUS Oddział w Tarnowie,33-100,Tarnów,Kościuszki,32,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Bochni,ZUS Inspektorat w Bochni,32-700,Bochnia,Kazimierza Wielkiego,48,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Tomaszowie Mazowieckim,ZUS Oddział w Tomaszowie Mazowieckim,97-200,Tomaszów Mazowiecki,Prezydenta Ignacego Mościckiego,40/42,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Bełchatowie,ZUS Inspektorat w Bełchatowie,97-400,Bełchatów,Wojska Polskiego,69,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Opocznie,ZUS Inspektorat w Opocznie,26-300,Opoczno,Moniuszki,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Piotrkowie Trybunalskim,ZUS Inspektorat w Piotrkowie Trybunalskim,97-300,Piotrków Trybunalski,Armii Krajowej,9,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Radomsku,ZUS Inspektorat w Radomsku,97-500,Radomsko,Piastowska,24a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Skierniewicach,ZUS Inspektorat w Skierniewicach,96-100,Skierniewice,Al. Niepodległości,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rawie Mazowieckiej,ZUS Biuro Terenowe w Rawie Mazowieckiej,96-200,Rawa Mazowiecka,Solidarności,1a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Toruniu,ZUS Oddział w Toruniu,87-100,Toruń,Mickiewicza,33/39,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Aleksandrowie Kujawskim,ZUS Inspektorat w Aleksandrowie Kujawskim,87-700,Aleksandrów Kujawski,Słowackiego,6a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Brodnicy,ZUS Inspektorat w Brodnicy,87-300,Brodnica,Mały Rynek,5,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Grudziądzu,ZUS Inspektorat w Grudziądzu,86-300,Grudziądz,Wybickiego,39,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lipnie,ZUS Inspektorat w Lipnie,87-600,Lipno,Mickiewicza,43,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat we Włocławku,ZUS Inspektorat we Włocławku,87-800,Włocławek,Pl. Wolności,18/19,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Golubiu-Dobrzyniu,ZUS Biuro Terenowe w Golubiu-Dobrzyniu,87-400,Golub-Dobrzyń,1000-lecia,25,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Rypinie,ZUS Biuro Terenowe w Rypinie,87-500,Rypin,Mławska,12,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Wałbrzychu,ZUS Oddział w Wałbrzychu,58-390,Wałbrzych,Kasztanowa,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Dzierżoniowie,ZUS Inspektorat w Dzierżoniowie,58-200,Dzierżoniów,gen. Władysława Andersa,6a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Jeleniej Górze,ZUS Inspektorat w Jeleniej Górze,58-506,Jelenia Góra,Sygietyńskiego,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kamiennej Górze,ZUS Inspektorat w Kamiennej Górze,58-400,Kamienna Góra,Al. Wojska Polskiego,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Kłodzku,ZUS Inspektorat w Kłodzku,57-300,Kłodzko,Pl. B. Chrobrego,21,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Lubaniu,ZUS Inspektorat w Lubaniu,59-800,Lubań,Łokietka,13,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Świdnicy,ZUS Inspektorat w Świdnicy,58-100,Świdnica,Saperów,29,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Ząbkowicach Śląskich,ZUS Biuro Terenowe w Ząbkowicach Śląskich,57-200,Ząbkowice Śląskie,Os. XX-lecia,52,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Zgorzelcu,ZUS Biuro Terenowe w Zgorzelcu,59-900,Zgorzelec,Prusa,3,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - I Oddział w Warszawie,ZUS I Oddział w Warszawie,00-917,Warszawa,Senatorska,6/8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Ochota,ZUS Inspektorat Warszawa-Ochota,02-374,Warszawa,E. Orzeszkowej,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Wola,ZUS Inspektorat Warszawa-Wola,01-493,Warszawa-Wola,Wrocławska,20,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Żoliborz,ZUS Inspektorat Warszawa-Żoliborz,01-949,Warszawa-Żoliborz,Kasprowicza,151,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - II Oddział w Warszawie,ZUS II Oddział w Warszawie,03-829,Warszawa,Podskarbińska,25,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Legionowie,ZUS Inspektorat w Legionowie,05-120,Legionowo,Słowackiego,20,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Nowym Dworze Mazowieckim,ZUS Inspektorat w Nowym Dworze Mazowieckim,05-100,Nowy Dwór Mazowiecki,Modlińska,10,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Otwocku,ZUS Inspektorat w Otwocku,05-400,Otwock,Poniatowskiego,17,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Wołominie,ZUS Inspektorat w Wołominie,05-200,Wołomin,Reja,20,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat Warszawa-Praga Północ,ZUS Inspektorat Warszawa-Praga Północ,03-446,Warszawa-Praga Północ,11-go Listopada,15a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - III Oddział w Warszawie,ZUS III Oddział w Warszawie,00-701,Warszawa,Czerniakowska,16,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Piasecznie,ZUS Inspektorat w Piasecznie,05-500,Piaseczno,Puławska,34B,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Pruszkowie,ZUS Inspektorat w Pruszkowie,05-800,Pruszków,Ołówkowa,38,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Sochaczewie,ZUS Inspektorat w Sochaczewie,96-500,Sochaczew,Reymonta,20,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Żyrardowie,ZUS Inspektorat w Żyrardowie,96-300,Żyrardów,Bankowa,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Grodzisku Mazowieckim,ZUS Biuro Terenowe w Grodzisku Mazowieckim,05-825,Grodzisk Mazowiecki,Pańska,17,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe Warszawa-Ursynów,ZUS Biuro Terenowe Warszawa-Ursynów,02-796,Warszawa-Ursynów,Dembego,23B,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział we Wrocławiu,ZUS Oddział we Wrocławiu,50-930,Wrocław,Pretficza,11,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Oleśnicy,ZUS Inspektorat w Oleśnicy,56-400,Oleśnica,Lwowska,34-38,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Oławie,ZUS Inspektorat w Oławie,55-200,Oława,Kasprowicza,34,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Trzebnicy,ZUS Inspektorat w Trzebnicy,55-100,Trzebnica,Wojska Polskiego,1b,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Miliczu,ZUS Biuro Terenowe w Miliczu,56-300,Milicz,Kościuszki,22,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Strzelinie,ZUS Biuro Terenowe w Strzelinie,57-100,Strzelin,Dzierżoniowska,14,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Sycowie,ZUS Biuro Terenowe w Sycowie,56-500,Syców,Wałowa,16,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe W Środzie Śląskiej,ZUS Biuro Terenowe W Środzie Śląskiej,55-300,Środa Śląska,Kolejowa,28,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Wołowie,ZUS Biuro Terenowe w Wołowie,56-100,Wołów,Objazdowa,5a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Zabrzu,ZUS Oddział w Zabrzu,41-800,Zabrze,Szczęść Boże,18,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Tarnowskich Górach,ZUS Inspektorat w Tarnowskich Górach,42-600,Tarnowskie Góry,Górnicza,4-8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Bytomiu,ZUS Biuro Terenowe w Bytomiu,41-902,Bytom,K. Miarki,8,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gliwicach,ZUS Biuro Terenowe w Gliwicach,44-100,Gliwice,Pszczyńska,44A,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Oddział w Zielonej Górze,ZUS Oddział w Zielonej Górze,65-426,Zielona Góra,Kupiecka,65,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Krośnie Odrzańskim,ZUS Inspektorat w Krośnie Odrzańskim,66-600,Krosno Odrzańskie,Słubicka,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Nowej Soli,ZUS Inspektorat w Nowej Soli,67-100,Nowa Sól,Kościuszki,29,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Świebodzinie,ZUS Inspektorat w Świebodzinie,66-200,Świebodzin,Sikorskiego,42,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Inspektorat w Żarach,ZUS Inspektorat w Żarach,68-200,Żary,Lotników 1,a,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe w Gubinie,ZUS Biuro Terenowe w Gubinie,66-620,Gubin,Słowackiego,2,Mo 8:00-17:00; Tu-Fr 8:00-15:00
+,Zakład Ubezpieczeń Społecznych - Biuro Terenowe we Wschowie,ZUS Biuro Terenowe we Wschowie,67-400,Wschowa,Pocztowa,1,Mo 8:00-17:00; Tu-Fr 8:00-15:00

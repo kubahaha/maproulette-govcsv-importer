@@ -1,0 +1,7 @@
+[out:json][timeout:999];
+area(id:162547781) -> .searchArea;
+nw[amenity=cinema](area.searchArea);
+
+out meta;
+>;
+out meta;

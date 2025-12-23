@@ -1,16 +1,18 @@
 import csv
-from .types import OsmNode, OsmWay
 import json
 import copy
+from typing import Union
+
+from .types import OsmNode, OsmWay
 
 
-def read_file(path, mode="osm"):
-    f_in = open(path, 'r')
+def read_file(path: str, mode: str = "osm") -> list[Union[OsmNode, OsmWay]]:
+    f_in = open(path, 'r', encoding='utf-8')
     objects = []
 
     if mode == 'osm':
         child_nodes_mapping = {}
-        osm = json.load(open(path, 'r'))
+        osm = json.load(open(path, 'r', encoding='utf-8'))
         for elem in osm.get('elements', []):
             elem_type = elem.get('type')
             if elem_type == 'way':

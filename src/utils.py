@@ -1,6 +1,6 @@
 import re
 from itertools import accumulate
-from src.engines.Nominatim import Nominatim
+from src.engines.nominatim import Nominatim
 
 import requests
 
@@ -130,6 +130,7 @@ def force_https(url, add_missing=True, rewrite=False):
 
 def download_latlon(tags, engine=Nominatim):
     found = False
+    engine = engine()
 
     if tags.get("official_name"):
         found = engine.query(tags["official_name"])
