@@ -13,10 +13,10 @@ prepare = {
         'addr:street': 'ULICA',
         'addr:housenumber': 'NR DOMU',
         'email': 'ADRES E-MAIL URZĘDU',
-        'fax': lambda x: strip_number(x.get('NR FAXU        wraz z nr kierunkowym'), format='2232'),
+        'fax': lambda x: strip_number(x.get('NR FAXU        wraz z nr kierunkowym'), str_format='2232'),
         'name': lambda x: x.get('NAZWA URZĘDU').split(' w ')[0].strip().split(' we ')[0].strip(),
         'official_name': lambda x: x.get('NAZWA URZĘDU').strip(),
-        'phone': lambda x: strip_number(x.get('NR TELEFONU wraz z nr kierunkowym'), format='2232'),
+        'phone': lambda x: strip_number(x.get('NR TELEFONU wraz z nr kierunkowym'), str_format='2232'),
         'website': 'ADRES WWW URZĘDU'
     }
 }

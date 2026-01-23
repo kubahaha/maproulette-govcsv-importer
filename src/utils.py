@@ -1,23 +1,26 @@
 import re
 from itertools import accumulate
-from src.engines.nominatim import Nominatim
 
 import requests
 
+from src.engines.nominatim import Nominatim
+from src.osm_model.tags import OSM_TECH_TAGS, ADDR, ADDR_CITY, ADDR_DOOR, ADDR_HOUSENUMBER, ADDR_PLACE, ADDR_POSTCODE, ADDR_STREET
+
+
 FIELDS = {
-    'addr': ['addr:postcode', 'addr:city', 'addr:place', 'addr:street', 'addr:housenumber', 'addr:door'],
-    'tech': ['@lat', '@lon', '@id']
+    'addr': ADDR,
+    'tech': OSM_TECH_TAGS
 }
 
 
-def strip_number(phone, format='2232'):
+def strip_number(phone, str_str_format='2232'):
     clear = phone.replace('-', '').replace('+48', '').replace('(', '').replace(')', '').replace(' ', '')
     prefix = re.search(r'^(00)?(48)(\d+)', clear, flags=re.MULTILINE)
     if prefix:
         clear = prefix.group(3)
-    if len(clear) != sum(int(x) for x in format if x.isdigit()):
+    if len(clear) != sum(int(x) for x in str_format if x.isdigit()):
         return ""
-    lenghts = list(accumulate([0] + list(int(x) for x in format)))
+    lenghts = [accumulate([0] + [int(x) for x in str_format])]
     out = '+48'
     for i, k in zip(lenghts[0:], lenghts[1:]):
         out += f' {clear[i:k]}'
@@ -26,11 +29,11 @@ def strip_number(phone, format='2232'):
 
 
 def get_operator_type(name, operator_name):
-    public_match = re.search('(urz(ą|a)d)|(miast(o|a))|(gmin(a|y)|(m\. st\.))', operator_name, re.IGNORECASE)
+    public_match = re.search(r'(urz[aą]d)|(miast[oa])|(gmin[ay]|(m\. st\.))', operator_name, re.IGNORECASE)
     if public_match:
         return 'public'
 
-    private_match = re.search('(niepubliczn)|(sp\.* *z\.* *o\.* *o)|(s\. *c\.)|(spó|oł|lka)|(prywatny)', name, re.IGNORECASE)
+    private_match = re.search(r'(niepubliczn)|(sp\.* *z\.* *o\.* *o)|(s\. *c\.)|(sp[óo][łl]ka)|(prywatny)', name, re.IGNORECASE)
     if private_match:
         return 'private'
     return ''
@@ -58,12 +61,12 @@ def parse_address(addrstring, pattern=r"^(?:(?P<CITY__2>[\w\d ęółśążźćń
                 break
 
     return {
-        'addr:housenumber': addr.get('HOUSENUMBER', None),
-        'addr:door': addr.get('DOOR', None),
-        'addr:street': addr.get('STREET', None),
-        'addr:city': addr.get('CITY', None),
-        'addr:place': addr.get('PLACE', None),
-        'addr:postcode': addr.get('POSTCODE', None)
+        ADDR_HOUSENUMBER: addr.get('HOUSENUMBER', None),
+        ADDR_DOOR: addr.get('DOOR', None),
+        ADDR_STREET: addr.get('STREET', None),
+        ADDR_CITY: addr.get('CITY', None),
+        ADDR_PLACE: addr.get('PLACE', None),
+        ADDR_POSTCODE: addr.get('POSTCODE', None)
     }
 
 
@@ -93,58 +96,59 @@ def getaddr(addrstring, city=False, place=False, street=False, housenumber=False
 
         if match:
             street_name = match.group(6) or match.group(1)
-            result.update({'addr:street': street_name.strip()})
+            result.update({ADDR_STREET: street_name.strip()})
             addrstring = re.sub(reg, r'\1', addrstring)
 
     if place and not city:
         # reg = re.compile(r'((os(\.|iedle)*)(.+))', re.IGNORECASE)
         # match = reg.match(addrstring)
         if len(addrstring.strip()) > 0:
-            result.update({'addr:place': addrstring.strip()})
+            result.update({ADDR_PLACE: addrstring.strip()})
 
-    if result.get('addr:street') and result.get('addr:place'):
-        del result['addr:place']
-    elif result.get('addr:place') and result.get('addr:street'):
-        del result['addr:street']
+    if result.get(ADDR_STREET) and result.get(ADDR_PLACE):
+        del result[ADDR_PLACE]
+    elif result.get(ADDR_PLACE) and result.get(ADDR_STREET):
+        del result[ADDR_STREET]
 
     if not result.keys():
         if street and not place and not city and housenumber:
-            result.update({'addr:street': addrstring})
+            result.update({ADDR_STREET: addrstring})
         else:
             raise Exception('wtf?', org_addrstring)
     return result
 
 
 def force_https(url, add_missing=True, rewrite=False):
-    if url.startswith('https://'):
+    https_prefix = 'https://'
+    if url.startswith(https_prefix):
         return url
-    elif url.startswith('http://'):
+
+    if url.startswith('http://'):
         if rewrite:
-            return url.replace('http://', 'https://')
-    else:
-        if add_missing:
-            return 'https://' + url
+            return url.replace('http://', https_prefix)
+    elif add_missing:
+        return https_prefix + url
 
     return url
 
 
-def download_latlon(tags, engine=Nominatim):
-    found = False
-    engine = engine()
+# def download_latlon(tags, engine=Nominatim):
+#     found = False
+#     engine = engine()
 
-    if tags.get("official_name"):
-        found = engine.query(tags["official_name"])
+#     if tags.get("official_name"):
+#         found = engine.query(tags["official_name"])
 
-    if not found and (tags.get("addr:city") or tags.get("addr:place")) and tags.get("addr:street") and tags.get("addr:housenumber"):
-        found = engine.query(f'{tags.get("addr:street", tags.get("addr:place", ""))} {tags.get("addr:housenumber", "")} {tags.get("addr:city", "")} {tags.get("addr:postcode", "")}')
+#     if not found and (tags.get("addr:city") or tags.get("addr:place")) and tags.get("addr:street") and tags.get("addr:housenumber"):
+#         found = engine.query(f'{tags.get("addr:street", tags.get("addr:place", ""))} {tags.get("addr:housenumber", "")} {tags.get("addr:city", "")} {tags.get("addr:postcode", "")}')
 
-    if not found and (tags.get("addr:city") or tags.get("addr:place")) and tags.get("name") and tags.get("addr:housenumber"):
-        found = engine.query(f'{tags.get("addr:name", "")}, {tags.get("addr:city", tags.get("addr:place", ""))}, {tags.get("addr:postcode", "")}')
+#     if not found and (tags.get("addr:city") or tags.get("addr:place")) and tags.get("name") and tags.get("addr:housenumber"):
+#         found = engine.query(f'{tags.get("addr:name", "")}, {tags.get("addr:city", tags.get("addr:place", ""))}, {tags.get("addr:postcode", "")}')
 
-    if found:
-        return engine.result_2_latlon(found)
-    print(f'Warning: location not found\n{tags}')
-    return {}
+#     if found:
+#         return engine.result_2_latlon(found)
+#     print(f'Warning: location not found\n{tags}')
+#     return {}
 
 
 def get_opening_hours(openstr):
@@ -163,11 +167,11 @@ def get_opening_hours(openstr):
 
 
 def get_operator(name, operator_name):
-    public_match = re.search('(urz(ą|a)d)|(miast(o|a))|(gmin(a|y)|(m\. st\.))', operator_name, re.IGNORECASE)
+    public_match = re.search(r'(urz[ąa])d)|(miast[oa])|(gmin[ay]|(m\. st\.))', operator_name, re.IGNORECASE)
     if public_match:
         return 'public'
 
-    private_match = re.search('(niepubliczn)|(sp\.* *z\.* *o\.* *o)|(s\. *c\.)|(spó|oł|lka)|(prywatny)', name, re.IGNORECASE)
+    private_match = re.search(r'(niepubliczn)|(sp\.* *z\.* *o\.* *o)|(s\. *c\.)|(sp[óo][łl]ka)|(prywatny)', name, re.IGNORECASE)
     if private_match:
         return 'private'
     return ''
@@ -175,7 +179,7 @@ def get_operator(name, operator_name):
 
 def miejscownik(mianownik):
     try:
-        res = requests.get(f'http://nlp.actaforte.pl:8080/Nomina/Miejscowosci?nazwa={mianownik}')
+        res = requests.get(f'http://nlp.actaforte.pl:8080/Nomina/Miejscowosci?nazwa={mianownik}', timeout=15)
         msc = re.search(r'Miejscownik [a-zA-ZęółśążźćńĘÓŁŚĄŻŹĆŃ \(\)]+:</td><td><div><b>([a-zA-Z \-ęółśążźćńĘÓŁŚĄŻŹĆŃ]+)', res.text).group(1)
     except Exception:
         return False

@@ -2,74 +2,25 @@ import importlib.util
 import copy
 
 from rich.console import Console
+from rich.progress import Progress
 
-from src.compare import compare, distance
+from src.match_rules import AbstractMatcher, LocationMatcher, TagsListMatcher
 from src.utils import FIELDS
+from src.osm_model.types import OsmObject
 
 
-console = Console()
+def _select_matcher(rule, engine, download_latlon: bool = True) -> AbstractMatcher:
+    if isinstance(rule, list):
+        return TagsListMatcher(rule)
 
+    if isinstance(rule, str) and rule.split(':')[0] == 'location':
+        dist = int(rule.split(':')[1])
+        return LocationMatcher(dist, engine=engine, download_latlon=download_latlon)
 
-def match(gov, osm, name, engine) -> tuple[list, list]:
-    config = importlib.import_module(f'data.{name}.conf')
-    to_change, to_add = [], []
+    raise NotImplementedError()
 
-    for rule in config.matching:
-        console.log(f'Validating against rule {rule}')
-        counter = 0
-        if isinstance(rule, list):
-            def check(x):
-                return all([x.has_tag(tag) for tag in rule])
-
-            def comp(x, y):
-                return all([compare(x.get_tag(tag), y.get_tag(tag)) for tag in rule])
-        elif isinstance(rule, str):
-            if rule.split(':')[0] == 'location':
-                dist = int(rule.split(':')[1])
-
-                def check(x):
-                    if not x.has_loc() and config.rules.get('download_latlon'):
-                        x.download_lat_lon(engine=engine)
-
-                    return x.has_loc()
-
-                def comp(x, y):
-                    return distance(x.loc, y.loc) <= dist
-            elif rule.split(':')[0] == 'teryt':
-                def check(_):
-                    return True
-
-                def comp(x, y):
-                    pass
-            else:
-                raise NotImplementedError()
-
-        for govitem in gov:
-            matchgov, matchosm = [], []
-
-            if govitem.is_found():
-                continue
-            if not check(govitem):
-                continue
-
-            for osmitem in osm:
-                if osmitem.is_found():
-                    continue
-                if not check(osmitem):
-                    continue
-
-                if comp(govitem, osmitem):
-                    matchgov.append(govitem)
-                    matchosm.append(osmitem)
-
-            if len(matchgov) == 1 == len(matchosm):
-                matchosm[0].found()
-                matchgov[0].found()
-                to_change.append(fill(name, matchosm[0], matchgov[0]))
-                counter += 1
-
-        console.log(f'Matched {counter} POIs')
-
+def _add_new(gov: list[OsmObject], name: str, tags_source: dict) -> list[OsmObject]:
+    to_add = []
     for govitem in gov:
         if not govitem.is_found():
             govitem.modify = True
@@ -78,11 +29,60 @@ def match(gov, osm, name, engine) -> tuple[list, list]:
             ready_tags = delete_add_tags_conf(ready.tags, name)
             ready_tags = replace_tags_conf(ready_tags, name)
 
-            ready_tags.update(config.tags_source)
+            ready_tags.update(tags_source)
             ready.tags = ready_tags
 
             to_add.append(ready)
+    return to_add
 
+def _find_matches(govitem, osm, matcher: AbstractMatcher):
+    matchgov, matchosm = [], []
+
+    for osmitem in osm:
+        if osmitem.is_found() or not matcher.check(osmitem):
+            continue
+
+        if matcher.compare(govitem, osmitem):
+            matchgov.append(govitem)
+            matchosm.append(osmitem)
+
+    return matchgov, matchosm
+
+def _process_gov_items(gov, osm, matcher, name, to_change, console: Console):
+    counter = 0
+
+    with Progress() as progress:
+        task = progress.add_task("Matching gov data", total=len(gov))
+
+        for govitem in gov:
+            progress.update(task, description=f"Processing: {govitem.tags.get('name', govitem.tags.get('short_name', govitem.tags.get('official_name', govitem.id)))}")
+            progress.advance(task)
+
+            if govitem.is_found() or not matcher.check(govitem):
+                continue
+
+            matchgov, matchosm = _find_matches(govitem, osm, matcher)
+
+            if len(matchgov) == 1 == len(matchosm):
+                matchosm[0].found()
+                matchgov[0].found()
+                to_change.append(fill(name, matchosm[0], matchgov[0]))
+                counter += 1
+
+    return counter
+
+def match(gov: list[OsmObject], osm: list[OsmObject], name, engine, console: Console) -> tuple[list, list]:
+    config = importlib.import_module(f'data.{name}.conf')
+    to_change, to_add = [], []
+
+    for rule in config.matching:
+        console.log(f'Validating against rule {rule}')
+        matcher = _select_matcher(rule, engine, config.rules.get('download_latlon', True))
+
+        counter = _process_gov_items(gov, osm, matcher, name, to_change, console)
+        console.log(f'Matched {counter} POIs')
+
+    to_add = _add_new(gov, name, config.tags_source)
     return to_change, to_add
 
 

@@ -11,10 +11,10 @@ prepare = {
         'addr:postcode': 'Kod pocztowy',
         'addr:street': lambda x: getaddr(x.get('Adres', ''), street=True, housenumber=True).get('addr:street', ''),
         'email': 'Służbowy adres e-mail',
-        'fax': lambda x: strip_number(x.get('FAX'), format='2322'),
+        'fax': lambda x: strip_number(x.get('FAX'), str_format='2322'),
         'name': lambda x: make_name(x.get('Nazwa')),
         'official_name': lambda x: make_official_name(x.get('Nazwa')),
-        'phone': lambda x: strip_number(x.get('Centrala'), format='2322'),
+        'phone': lambda x: strip_number(x.get('Centrala'), str_format='2322'),
         'short_name': 'Nazwa',
         'website': 'Służbowa strona WWW'
     }

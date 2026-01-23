@@ -1,22 +1,20 @@
 import random
 from datetime import datetime
 
-from src.utils import download_latlon
-from src.engines.nominatim import Nominatim
-from src.engines.komoot import Komoot
-
 
 class OsmObject:
-    def __init__(self, id=None, version=1, timestamp=datetime.utcnow().isoformat() + 'Z', changeset=None, uid=None, user=None, tags={}):
+    def __init__(self, id=None, version=1, timestamp=datetime.utcnow().isoformat() + 'Z', changeset=None, uid=None, user=None, tags=None):
         self.id = id or -random.getrandbits(30)
         self._version = version
         self._timestamp = timestamp
         self._changeset = changeset
         self._uid = uid
         self._user = user
-        self._tags = tags
+        self._tags = tags or {}
         self._found = False
         self._modify = False
+        self._lat = None
+        self._lon = None
 
     @property
     def tags(self):
@@ -61,12 +59,7 @@ class OsmObject:
         return self._found
 
     def download_lat_lon(self, engine):
-        if engine == 'nominatim':
-            run_engine = Nominatim
-        if engine == 'komoot':
-            run_engine = Komoot
-
-        latlon = download_latlon(self._tags, engine=run_engine)
+        latlon = engine.download_latlon(self._tags)
 
         lat, lon = float(latlon.get('lat')) if latlon.get('lat') else False, float(latlon.get('lon')) if latlon.get('lon') else False
         self._lat = lat

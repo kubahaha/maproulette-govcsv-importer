@@ -38,7 +38,7 @@ prepare = {
         'addr:place': lambda it: parse_address(it.get('Adres')).get('addr:place'),
         'addr:street': lambda it: parse_address(it.get('Adres')).get('addr:street'),
         'addr:housenumber': lambda it: parse_address(it.get('Adres')).get('addr:housenumber'),
-        'phone': lambda x: strip_number(x.get('telefon', '').split(';')[0], format='2322'),
+        'phone': lambda x: strip_number(x.get('telefon', '').split(';')[0], str_format='2322'),
         'start_date': lambda x: start_date(x.get('decyzja', ''))
     }
 }

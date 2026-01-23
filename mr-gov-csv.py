@@ -48,7 +48,7 @@ def main():
     osm = read_file(f'data/{args.name}/data.osm', 'osm')
     console.log(f'Loaded {len(osm)} elements')
 
-    to_change, to_add = match(gov, osm, args.name, engine)
+    to_change, to_add = match(gov, osm, args.name, engine, console)
     console.log(f'To add: {len(to_add)} elements, To update: {len(to_change)} elements.')
 
     save(f'data/{args.name}/to_add.osm', "\n".join([ta.print() for ta in to_add]))

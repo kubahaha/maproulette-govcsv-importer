@@ -13,8 +13,8 @@ prepare = {
         'addr:place': lambda it: it.get('MIASTO') if not it.get('ULICA') else '',
         'addr:street': 'ULICA',
         'addr:housenumber': 'NR BUDYNKU / LOKALU',
-        'phone': lambda x: strip_number(x.get('NR TELEFONU   wraz z nr kierunkowym'), format='2322'),
-        'fax': lambda x: strip_number(x.get('NR FAXU'), format='2322'),
+        'phone': lambda x: strip_number(x.get('NR TELEFONU   wraz z nr kierunkowym'), str_format='2322'),
+        'fax': lambda x: strip_number(x.get('NR FAXU'), str_format='2322'),
         'email': 'ADRES E-MAIL URZĘDU',
         'website': 'ADRESY STRON BIP JEDNOSTEK KAS'
     }

@@ -14,7 +14,7 @@ prepare = {
         'operator': lambda x: x.get('Podmiot prowadzący - nazwa', '').replace('"', '').capitalize().strip() if x.get('Podmiot prowadzący - nazwa', '').replace('"', '').isupper() else x.get('Podmiot prowadzący - nazwa', '').replace('"', '').strip().replace('m.st. Warszawa - ZESPÓŁ ŻŁOBKÓW M. ST. WARSZAWY', 'Zespół Żłobków Miasta Stołecznego Warszawy'),
         'operator:type': lambda x: get_operator(x.get('Nazwa', ''), x.get('Podmiot prowadzący - nazwa', '')),
         'operator:website': 'Adres WWW podmiotu prowadzącego żłobek/klub',
-        'phone': lambda x: strip_number(x.get('Telefon żłobka/klubu'), format='333'),
+        'phone': lambda x: strip_number(x.get('Telefon żłobka/klubu'), str_format='333'),
         'website': lambda x: force_https(x.get('Adress WWW żłobka/klubu')),
         'wheelchair': lambda x: 'yes' if x.get('Czy żłobek/klub jest dostosowany do potrzeb dzieci niepełnosprawnych lub wymagających szczególnej opieki?', '') == 'TAK' else 'no'
     }

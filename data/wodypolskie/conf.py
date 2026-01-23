@@ -10,7 +10,7 @@ prepare = {
         "__lon": "X",
         'name': "Name",
         'addr:postcode': 'kod',
-        'phone': lambda x: strip_number(x.get('telefon'), format='2322'),
+        'phone': lambda x: strip_number(x.get('telefon'), str_format='2322'),
         'email': 'email',
         'short_name': lambda x: make_short_name(x.get('Name'))
     }
