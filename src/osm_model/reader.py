@@ -3,10 +3,13 @@ import json
 import copy
 from typing import Union
 
-from .types import OsmNode, OsmWay
+from rich.console import Console
+
+from .osm_types import OsmNode, OsmWay, OsmObject
 
 
-def read_file(path: str, mode: str = "osm") -> list[Union[OsmNode, OsmWay]]:
+def read_file(path: str, console: Console, mode: str = "osm") -> list[OsmObject]:
+    console.log(f'Loading {mode.upper()} data...')
     f_in = open(path, 'r', encoding='utf-8')
     objects = []
 
@@ -55,26 +58,20 @@ def read_file(path: str, mode: str = "osm") -> list[Union[OsmNode, OsmWay]]:
                             break
                 else:
                     objects.append(obj)
-        # for elem in objects:
-        #     if isinstance(elem, OsmWay):
-        #         # TODO: sort children
-        #         # sort_children(elem, order)
-        #         children = copy.deepcopy(elem.child_nodes)
-        #         children.append(children[0])
-        #         elem.child_nodes = children
 
     elif mode == "csv":
         r_in = csv.DictReader(f_in)
         tags = [field for field in r_in.fieldnames if field[0:2] != '__']
-        # properties = [field for field in r_in.fieldnames if field not in tags]
 
         for row in r_in:
             lat = float(row.get('__lat').replace(',', '.')) if row.get('__lat') else False
             lon = float(row.get('__lon').replace(',', '.')) if row.get('__lon') else False
+            id = int(row.get('__id')) if row.get('__id') else None
 
-            obj = OsmNode(lat, lon, tags={k: row.get(k) for k in tags if row.get(k)})
+            obj = OsmNode(lat, lon, id=id, tags={k: row.get(k) for k in tags if row.get(k)})
             objects.append(obj)
     else:
         raise NotImplementedError()
 
+    console.log(f'Loaded {len(objects)} elements')
     return objects

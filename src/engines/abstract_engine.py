@@ -48,6 +48,11 @@ class AbstractEngine(abc.ABC):
     def result_2_latlon(self, result: dict) -> dict:
         pass
 
+    @abc.abstractmethod
+    def query_elements(self, ids: list[str]) -> dict:
+        """Query multiple elements by their IDs."""
+        pass
+
     def download_latlon(self, tags):
         found = False
 

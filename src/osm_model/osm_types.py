@@ -1,9 +1,12 @@
+import abc
 import random
 from datetime import datetime
 
+from src.engines.abstract_engine import AbstractEngine
+
 
 class OsmObject:
-    def __init__(self, id=None, version=1, timestamp=datetime.utcnow().isoformat() + 'Z', changeset=None, uid=None, user=None, tags=None):
+    def __init__(self, id: int = None, version: int = 1, timestamp=datetime.utcnow().isoformat() + 'Z', changeset=None, uid=None, user=None, tags=None):
         self.id = id or -random.getrandbits(30)
         self._version = version
         self._timestamp = timestamp
@@ -40,6 +43,10 @@ class OsmObject:
     def id(self, value):
         self._id = value
 
+    @abc.abstractmethod
+    def get_uid(self):
+        raise NotImplementedError()
+
     def get_tag(self, tag):
         return self._tags.get(tag, False)
 
@@ -58,13 +65,13 @@ class OsmObject:
     def is_found(self):
         return self._found
 
-    def download_lat_lon(self, engine):
+    def download_lat_lon(self, engine: AbstractEngine) -> tuple[float, float]:
         latlon = engine.download_latlon(self._tags)
 
         lat, lon = float(latlon.get('lat')) if latlon.get('lat') else False, float(latlon.get('lon')) if latlon.get('lon') else False
         self._lat = lat
         self._lon = lon
-        return {'lat': lat, 'lon': lon}
+        return (lat, lon)
 
 
 class OsmNode(OsmObject):
@@ -79,6 +86,9 @@ class OsmNode(OsmObject):
     @property
     def loc(self):
         return (self._lat, self._lon)
+
+    def get_uid(self):
+        return f'N{self._id}'
 
     @loc.setter
     def loc(self, value):
@@ -115,6 +125,9 @@ class OsmWay(OsmObject):
 
     def has_loc(self):
         return all(node.has_loc() for node in self._child_nodes)
+    
+    def get_uid(self):
+        return f'W{self._id}'
 
     @property
     def loc(self):

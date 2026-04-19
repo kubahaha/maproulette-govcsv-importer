@@ -1,6 +1,7 @@
 import csv
 import importlib
 import os
+import random
 import re
 
 import requests
@@ -16,7 +17,7 @@ def prepare_gov_data(name: str, console: Console):
 
         tags = config.prepare['tags']
         r_in = csv.DictReader(f_in, delimiter=config.prepare.get('separator', ','), quotechar=config.prepare.get('quote', '"'))
-        r_out = csv.DictWriter(f_out, fieldnames=tags.keys())
+        r_out = csv.DictWriter(f_out, fieldnames=list(tags.keys()) + ["__id"])
         r_out.writeheader()
 
         for row in track(r_in, description='Preparing gov data'):
@@ -25,7 +26,8 @@ def prepare_gov_data(name: str, console: Console):
 
             if config.prepare.get('accept', lambda x: False)(row):
                 continue
-            new_row = {}
+            new_row = {"__id": -random.getrandbits(30)}
+
             for key, value in tags.items():
                 new_row[key] = _prepare_row(value, row)
 

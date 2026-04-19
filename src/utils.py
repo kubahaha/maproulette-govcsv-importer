@@ -4,14 +4,14 @@ from itertools import accumulate
 import requests
 
 from src.engines.nominatim import Nominatim
-from src.osm_model.tags import OSM_TECH_TAGS, ADDR, ADDR_CITY, ADDR_DOOR, ADDR_HOUSENUMBER, ADDR_PLACE, ADDR_POSTCODE, ADDR_STREET
+from src.osm_model.osm_tags import OSM_TECH_TAGS, ADDR, ADDR_CITY, ADDR_DOOR, ADDR_HOUSENUMBER, ADDR_PLACE, ADDR_POSTCODE, ADDR_STREET
 
 
 FIELDS = {
     'addr': ADDR,
     'tech': OSM_TECH_TAGS
 }
-
+WORKDIR = 'data/{name}/tmp'
 
 def strip_number(phone, str_str_format='2232'):
     clear = phone.replace('-', '').replace('+48', '').replace('(', '').replace(')', '').replace(' ', '')

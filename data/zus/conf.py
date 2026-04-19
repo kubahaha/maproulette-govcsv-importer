@@ -15,15 +15,16 @@ prepare = {
     }
 }
 
-matching = [
-    ['official_name'],
-    ['name'],
-    ['addr:housenumber', 'addr:street', 'addr:city'],
-    ['addr:street', 'addr:city'],
-    "location:300",
-    ['addr:city', 'addr:postcode'],
-    ['addr:city'],
-]
+match_by = {
+    "names": True,
+    "address": {
+        "single_in_city": True,
+    },
+    "location": 300,
+    "tags": [
+        ["ref", "source"]
+    ]
+}
 
 tags_to_delete = {
     'amenity': '*'

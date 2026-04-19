@@ -1,5 +1,7 @@
 import logging
 
+from src.converters import nominatim_addr
+
 from .abstract_engine import AbstractEngine
 logger = logging.getLogger(__name__)
 
@@ -30,3 +32,17 @@ class Nominatim(AbstractEngine):
             'lat': result['lat'],
             'lon': result['lon']
         }
+
+    def query_elements(self, ids: list[str]) -> dict:
+        """Query multiple elements by their type + IDs."""
+        url = 'https://nominatim.openstreetmap.org/lookup'
+        try:
+            data = self._rate_limited_request(url, params={'osm_ids': ",".join(ids), 'addressdetails': 1, 'format': 'jsonv2'})
+        except Exception:
+            logger.exception("Error querying Nominatim for elements: %s", ids)
+            raise
+
+        results = {}
+        for item in data:
+            results[item['osm_id']] = nominatim_addr(item)
+        return results
