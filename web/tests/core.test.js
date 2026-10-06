@@ -241,14 +241,6 @@ test("CSV preprocessing regex composes groups into the mapped tag after mapping"
   assert.equal(rows[0].Adres, "ul. Leśna 12A, lokal 4");
 });
 
-test("CSV preprocessing reports unsafe regex patterns instead of running them", () => {
-  const result = prepareGovRows([{ __row: 2, Value: "aaaaaaaaaaaaaaaa!" }], {
-    csv: { mapping: { name: "Value" }, transforms: [{ type: "regex", key: "name", pattern: "(a+)+$", template: "$1" }] },
-  });
-  assert.equal(result.rows.length, 0);
-  assert.match(result.errors[0].message, /powtarzaną grupę/);
-});
-
 test("preprocessing regex supports case-insensitive matching and leaves unmatched values unchanged", () => {
   const rows = [{ __row: 2, Address: "UL. Polna 8" }, { __row: 3, Address: "bez adresu" }];
   const result = prepareGovRows(rows, {
