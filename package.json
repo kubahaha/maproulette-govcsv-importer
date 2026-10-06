@@ -1,5 +1,15 @@
 {
+  "type": "module",
   "dependencies": {
     "@maproulette/mr-cli": "^0.0.5"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "test": "node --test web/tests/*.test.js"
+  },
+  "devDependencies": {
+    "jszip": "^3.10.1",
+    "vite": "^6.4.1"
   }
 }
