@@ -44,3 +44,8 @@ Eksport zawiera `to_change.osm`, `to_add.osm` oraz `gov_no_coord.csv`. Raport CS
 5. Dla niedopasowanych GOV pobrać lokalizacje
 6. Dopasowanie po lokalizacji do niedopasowanych OSM (współrzędne)
 7. Jeżeli w dopasowanych nie ma adresu to sprawdź czy należy dodawać (zapytaj nominatima o adres dopasowanego ID)
+
+```sh
+mr cooperative change --out ./mr_new.geojson ./to_add.osm
+mr cooperative tag --out ./mr_tagfix.geojson ./to_change.osm
+```

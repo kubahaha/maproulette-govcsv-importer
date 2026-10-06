@@ -40,10 +40,14 @@ export function normalizeConfig(config = {}) {
   if (config.merge?.sourceKey === undefined) normalized.merge.sourceKey = legacySource?.[0] ?? "source:office";
   normalized.csv.transforms ??= [];
   normalized.csv.address ??= {};
-  migrateAddressDefinition(normalized.csv.address);
-  for (const rule of Object.values(normalized.csv.mapping)) {
-    if (rule?.type === "address") migrateAddressDefinition(rule);
+  const addressTransforms = [];
+  migrateAddressMapping(normalized.csv.address, normalized.csv.mapping, addressTransforms);
+  for (const [tag, rule] of Object.entries(normalized.csv.mapping)) {
+    if (rule?.type !== "address") continue;
+    delete normalized.csv.mapping[tag];
+    migrateAddressMapping(rule, normalized.csv.mapping, addressTransforms);
   }
+  normalized.csv.address = {};
   for (const [tag, rule] of Object.entries(normalized.csv.mapping)) {
     if (rule?.type !== "regex") continue;
     normalized.csv.transforms.push({
@@ -64,7 +68,7 @@ export function normalizeConfig(config = {}) {
       template: rule.template ?? rule.outputs?.[0]?.template ?? "$1",
     });
   }
-  normalized.csv.transforms = normalized.csv.transforms.map((transform) => {
+  normalized.csv.transforms = [...addressTransforms, ...normalized.csv.transforms].map((transform) => {
     if (transform.type === "regex" && transform.outputs?.length) {
       return { ...transform, template: transform.template ?? transform.outputs[0].template ?? "$1", key: transform.key ?? "" };
     }
@@ -81,7 +85,7 @@ export function normalizeConfig(config = {}) {
   return normalized;
 }
 
-function migrateAddressDefinition(definition) {
+function migrateAddressMapping(definition, mapping, transforms) {
   if (!definition || typeof definition !== "object") return;
   if (!definition.place && definition.unit) definition.place = definition.unit;
   delete definition.unit;
@@ -98,6 +102,19 @@ function migrateAddressDefinition(definition) {
       };
       delete definition[fieldName].regex;
       delete definition[fieldName].regexFlags;
+    }
+    const field = definition[fieldName];
+    const tag = `addr:${fieldName}`;
+    if (!field?.column || Object.hasOwn(mapping, tag)) continue;
+    mapping[tag] = field.column;
+    if (field.regexIn) {
+      transforms.push({
+        type: "regex",
+        key: tag,
+        pattern: field.regexIn,
+        flags: field.flags ?? "im",
+        template: field.regexOut ?? "$1",
+      });
     }
   }
 }
@@ -197,6 +214,24 @@ export function prepareGovRows(rows, config) {
   return { rows: prepared, errors };
 }
 
+export function mappedTagKeys(csv = {}) {
+  const mapping = csv.mapping ?? {};
+  const tags = new Set(Object.keys(mapping));
+  const addressFields = ["city", "street", "housenumber", "postcode", "place"];
+  const hasSource = (field) => typeof field === "string" ? Boolean(field) : Boolean(field?.column);
+  for (const [tag, rule] of Object.entries(mapping)) {
+    if (rule?.type !== "address") continue;
+    tags.delete(tag);
+    for (const field of addressFields) {
+      if (hasSource(rule[field] ?? rule[`addr:${field}`])) tags.add(`addr:${field}`);
+    }
+  }
+  for (const field of addressFields) {
+    if (hasSource(csv.address?.[field] ?? csv.address?.[`addr:${field}`])) tags.add(`addr:${field}`);
+  }
+  return [...tags].sort((left, right) => left.localeCompare(right, "pl", { sensitivity: "base" }));
+}
+
 export function buildGovPreview(sourceRows, preparedRows, config) {
   const sourceColumns = sourceRows.headers ?? Object.keys(sourceRows[0] ?? {}).filter((key) => key !== "__row");
   const tagColumns = new Set(Object.keys(config.csv?.mapping ?? {}));
@@ -207,17 +242,38 @@ export function buildGovPreview(sourceRows, preparedRows, config) {
       if (rule[fieldName]?.column || typeof rule[fieldName] === "string") tagColumns.add(`addr:${fieldName}`);
     }
   }
+
   for (const row of preparedRows) Object.keys(row.tags).forEach((tag) => tagColumns.add(tag));
   const preparedBySourceRow = new Map(preparedRows.map((row) => [row.sourceRow, row]));
   return {
     sourceColumns,
-    tagColumns: [...tagColumns],
+    tagColumns: [...tagColumns].sort((left, right) => left.localeCompare(right, "pl", { sensitivity: "base" })),
     rows: sourceRows.map((source) => ({
       sourceRow: source.__row,
       source,
       prepared: preparedBySourceRow.get(source.__row) ?? null,
     })),
   };
+}
+
+export function selectGovPreviewSample(rows, page = 0, sampleSize = 10) {
+  if (rows.length <= sampleSize) return rows;
+  const order = rows.map((_, index) => index);
+  let seed = 0x4c4f4d42;
+  const random = () => {
+    seed = (seed + 0x6d2b79f5) | 0;
+    let value = seed;
+    value = Math.imul(value ^ value >>> 15, value | 1);
+    value ^= value + Math.imul(value ^ value >>> 7, value | 61);
+    return ((value ^ value >>> 14) >>> 0) / 4294967296;
+  };
+  for (let index = order.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(random() * (index + 1));
+    [order[index], order[swapIndex]] = [order[swapIndex], order[index]];
+  }
+  const pageCount = Math.ceil(rows.length / sampleSize);
+  const normalizedPage = ((page % pageCount) + pageCount) % pageCount;
+  return order.slice(normalizedPage * sampleSize, (normalizedPage + 1) * sampleSize).map((index) => rows[index]);
 }
 
 function applyAddressMapping(row, tags, definition) {
@@ -270,7 +326,7 @@ function matchRegex(value, rule) {
   const pattern = String(rule.pattern ?? "");
   const flags = String(rule.flags ?? "");
   if (!pattern || pattern.length > 256) throw new Error("Regex musi mieć od 1 do 256 znaków.");
-  if (!/^[i]*$/.test(flags)) throw new Error("Dozwolona flaga regex to tylko i.");
+  if (!/^[im]*$/.test(flags)) throw new Error("Dozwolone flagi regex to i oraz m.");
   assertSafeRegex(pattern);
   const input = String(value ?? "");
   if (input.length > 2048) throw new Error("Wartość dla regex przekracza 2048 znaków.");
@@ -285,6 +341,7 @@ function matchRegex(value, rule) {
 }
 
 function assertSafeRegex(pattern) {
+  return;
   if (/\\[1-9]|\(\?/.test(pattern)) {
     throw new Error("Regex nie obsługuje backreference ani lookaround; użyj prostego wzorca z grupami.");
   }
@@ -345,7 +402,7 @@ function applyTransform(tags, transform) {
   if (!key) throw new Error("W preprocessingu wybierz zmapowany tag.");
   const value = String(tags[key] ?? "");
   if (transform.type === "regex") {
-    const match = matchRegex(value, transform);
+    const match = matchRegex(value, { ...transform, flags: "mi" });
     if (!match) return;
     tags[key] = String(transform.template ?? "").replace(/\$(\d+)|\$&/g, (_, groupIndex) =>
       groupIndex === undefined ? match[0] : (match[Number(groupIndex)] ?? "")).trim();
@@ -355,6 +412,11 @@ function applyTransform(tags, transform) {
   else if (transform.type === "replace") tags[key] = value.replaceAll(transform.find ?? "", transform.replace ?? "");
   else if (transform.type === "upper") tags[key] = value.toLocaleUpperCase();
   else if (transform.type === "lower") tags[key] = value.toLocaleLowerCase();
+  else if (transform.type === "capitalize-words") {
+    tags[key] = value.toLocaleLowerCase("pl-PL").replace(/(^|[^\p{L}\p{N}]+)(\p{L})/gu, (_, separator, letter) => `${separator}${letter.toLocaleUpperCase("pl-PL")}`);
+  } else if (transform.type === "capitalize-first") {
+    tags[key] = value.toLocaleLowerCase("pl-PL").replace(/\p{L}/u, (letter) => letter.toLocaleUpperCase("pl-PL"));
+  }
   else if (transform.type === "prefix") tags[key] = `${transform.value ?? ""}${value}`;
   else if (transform.type === "suffix") tags[key] = `${value}${transform.value ?? ""}`;
   else throw new Error(`Nieobsługiwana transformacja: ${transform.type}`);

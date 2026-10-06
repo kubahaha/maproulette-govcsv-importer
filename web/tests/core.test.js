@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import {
-  DEFAULT_CONFIG, normalizeConfig, parseCsv, prepareGovRows, buildGovPreview, parseOverpass, normalize, distanceMeters,
+  DEFAULT_CONFIG, normalizeConfig, parseCsv, prepareGovRows, mappedTagKeys, buildGovPreview, selectGovPreviewSample, parseOverpass, normalize, distanceMeters,
   matchRecords, mergeTags, osmXml, govNoCoordCsv, nominatimQueryForRow, nominatimDebugUrl,
   geocodeMissingCoordinates, geocodeUnmatchedAfterStages,
 } from "../src/core.js";
@@ -19,10 +19,13 @@ test("default Overpass endpoint uses the configured CORS Worker", () => {
 
 test("legacy address unit mapping migrates to addr:place and regex defaults to im", () => {
   const config = normalizeConfig({ csv: { mapping: { address: { type: "address", unit: "Miejsce", city: { column: "Miasto", regex: "^.{6}(.+)$" } } } } });
-  assert.equal(config.csv.mapping.address.place.column, "Miejsce");
-  assert.equal(config.csv.mapping.address.city.regexIn, "^.{6}(.+)$");
-  assert.equal(config.csv.mapping.address.city.flags, "im");
-  assert.equal(config.csv.mapping.address.unit, undefined);
+  assert.equal(config.csv.mapping["addr:place"], "Miejsce");
+  assert.equal(config.csv.mapping["addr:city"], "Miasto");
+  assert.equal(config.csv.mapping.address, undefined);
+  assert.ok(config.csv.transforms.some((transform) => transform.key === "addr:city" && transform.pattern === "^.{6}(.+)$" && transform.flags === "im"));
+  const prepared = prepareGovRows([{ __row: 2, Miasto: "90-001 Łódź", Miejsce: "Centrum" }], config);
+  assert.equal(prepared.rows[0].tags["addr:city"], "Łódź");
+  assert.equal(prepared.rows[0].tags["addr:place"], "Centrum");
 });
 
 test("CSV preparation applies safe mapping, filters, transforms and stable IDs", () => {
@@ -84,6 +87,28 @@ test("address mapping keeps populated addr tags when its row key is itself addr:
   });
   assert.equal(result.rows[0].tags["addr:city"], "Łódź");
   assert.equal(result.rows[0].tags["addr:place"], "Centrum");
+});
+
+test("preprocessing target keys expand address mappings and sort OSM keys", () => {
+  const tags = mappedTagKeys({ mapping: {
+    website: "URL",
+    address: { type: "address", city: { column: "Miasto" }, housenumber: { column: "Numer" } },
+    name: "Nazwa",
+  } });
+  assert.deepEqual(tags, ["addr:city", "addr:housenumber", "name", "website"]);
+  assert.ok(!tags.includes("address"));
+});
+
+test("GOV preview sampling is repeatable, pages are disjoint, and page indexes wrap", () => {
+  const rows = Array.from({ length: 23 }, (_, index) => ({ id: index }));
+  const first = selectGovPreviewSample(rows, 0);
+  const second = selectGovPreviewSample(rows, 1);
+  assert.deepEqual(first, selectGovPreviewSample(rows, 0));
+  assert.equal(first.length, 10);
+  assert.equal(second.length, 10);
+  assert.ok(second.every((row) => !first.includes(row)));
+  assert.deepEqual(selectGovPreviewSample(rows, 3), selectGovPreviewSample(rows, 0));
+  assert.deepEqual(selectGovPreviewSample(rows.slice(0, 8), 9), rows.slice(0, 8));
 });
 
 test("GOV preview includes all CSV columns and prepared address/tag values", () => {
@@ -196,6 +221,13 @@ test("space cleanup trims edges and collapses repeated whitespace in place", () 
   assert.equal(rows[0].Name, "  Aa  bb\t cc  ");
 });
 
+test("replace transform preserves and replaces literal spaces", () => {
+  const result = prepareGovRows([{ __row: 2, Name: "Jana  Pawła II" }], {
+    csv: { mapping: { name: "Name" }, transforms: [{ type: "replace", key: "name", find: " ", replace: "_" }] },
+  });
+  assert.equal(result.rows[0].tags.name, "Jana__Pawła_II");
+});
+
 test("CSV preprocessing regex composes groups into the mapped tag after mapping", () => {
   const rows = parseCsv('Nazwa,Adres\nPunkt,"ul. Leśna 12A, lokal 4"');
   const result = prepareGovRows(rows, {
@@ -225,6 +257,16 @@ test("preprocessing regex supports case-insensitive matching and leaves unmatche
   assert.equal(result.rows[0].tags.street, "Polna");
   assert.equal(result.rows[1].tags.street, "bez adresu");
   assert.equal(rows[0].Address, "UL. Polna 8");
+});
+
+test("preprocessing regex always uses case-insensitive multiline flags", () => {
+  const result = prepareGovRows([{ __row: 2, Address: "not an address\nUL. Polna 8" }], {
+    csv: { mapping: { street: "Address" }, transforms: [{
+      type: "regex", key: "street", pattern: "^ul\\.\\s+(Polna\\s+8)$", flags: "g", template: "$1",
+    }] },
+  });
+  assert.equal(result.errors.length, 0);
+  assert.equal(result.rows[0].tags.street, "Polna 8");
 });
 
 test("Overpass parser preserves node and closed way geometry", () => {

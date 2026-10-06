@@ -1,5 +1,5 @@
 import {
-  DEFAULT_CONFIG, normalizeConfig, parseCsv, prepareGovRows, buildGovPreview, parseOverpass, matchRecords,
+  DEFAULT_CONFIG, normalizeConfig, parseCsv, prepareGovRows, mappedTagKeys, buildGovPreview, selectGovPreviewSample, parseOverpass, matchRecords,
   mergeTags, osmXml, govNoCoordCsv, nominatimQueryForRow, nominatimDebugUrl, geocodeUnmatchedAfterStages,
 } from "./core.js";
 import { createSessionZip, readSessionZip } from "./session.js";
@@ -9,7 +9,7 @@ import "./style.css";
 const app = document.querySelector("#app");
 const clone = (value) => structuredClone(value);
 const state = {
-  config: clone(DEFAULT_CONFIG), csvText: "", osmText: "", govRows: [], osmRows: [],
+  config: clone(DEFAULT_CONFIG), csvText: "", osmText: "", govRows: [], osmRows: [], govPreviewPage: 0,
   results: null, manual: {}, page: "csv", status: "Gotowy do pracy", busy: false,
   csvFileName: "", osmFileName: "", csvErrors: [], abortController: null,
 };
@@ -101,41 +101,21 @@ function pageHeading(eyebrow, title, detail) {
 }
 
 function renderCsvPage() {
-  const headers = state.csvText ? safeHeaders() : [];
+  const headers = state.csvText ? safeHeaders().sort((left, right) => left.localeCompare(right, "pl", { sensitivity: "base" })) : [];
   const mapping = state.config.csv.mapping;
   const suggestions = ["name", "addr:street", "addr:housenumber", "addr:city", "addr:place", "addr:postcode", "email", "phone", "website", "__lat", "__lon"];
-  const tags = Object.keys(mapping);
-  const fieldRows = (tags.length ? tags : suggestions).map((tag) => {
+  const compareOsmKeys = (left, right) => left.localeCompare(right, "pl", { sensitivity: "base" });
+  const mappingKeys = Object.keys(mapping).sort(compareOsmKeys);
+  const tags = mappedTagKeys(state.config.csv);
+  const fieldRows = (mappingKeys.length ? mappingKeys : suggestions.sort(compareOsmKeys)).map((tag) => {
     const rule = mapping[tag] ?? "";
     const isConcat = rule?.type === "concat";
-    const isAddress = rule?.type === "address";
     const sourceColumns = isConcat ? rule.columns ?? [] : typeof rule === "string" ? [rule] : [];
-    const addressField = (fieldName) => {
-      const config = isAddress ? normalizeAddressField(rule?.[fieldName]) : normalizeAddressField("");
-      const selectedColumn = config.column;
-      const selectedRegexIn = config.regexIn;
-      const selectedRegexOut = config.regexOut;
-      return `
-        <label class="address-field">
-          <span class="address-tag-key">${addressTagKey(fieldName)}</span>
-          <select data-address-source="${fieldName}" data-map-address="${escapeHtml(tag)}" aria-label="Kolumna dla addr:${fieldName}">
-            <option value="">--</option>
-            ${headers.map((header) => `<option value="${escapeHtml(header)}" ${selectedColumn === header ? "selected" : ""}>${escapeHtml(header)}</option>`).join("")}
-          </select>
-          <input data-address-regex-in="${fieldName}" data-map-address="${escapeHtml(tag)}" value="${escapeHtml(selectedRegexIn)}" placeholder="regex in" aria-label="Regex wejściowy dla ${addressTagKey(fieldName)}" />
-          <input data-address-regex-out="${fieldName}" data-map-address="${escapeHtml(tag)}" value="${escapeHtml(selectedRegexOut)}" placeholder="$1" aria-label="Regex wyjściowy dla ${addressTagKey(fieldName)}" title="Regex flags: i, m" />
-          <span class="address-regex-flags" title="Regex flags: i oraz m">im</span>
-        </label>`;
-    };
-    const tagDisplay = isAddress
-      ? `<div class="address-tag-preview">${["city", "street", "housenumber", "postcode", "place"].map((fieldName) => `<small>${addressTagKey(fieldName)}</small>`).join("")}</div>`
-      : `<input class="tag-name-input" data-map-tag="${escapeHtml(tag)}" value="${escapeHtml(tag)}" aria-label="Klucz tagu OSM"/>`;
+    const tagDisplay = `<input class="tag-name-input" data-map-tag="${escapeHtml(tag)}" value="${escapeHtml(tag)}" aria-label="Klucz tagu OSM"/>`;
     const sourceControl = isConcat
       ? `<div class="mapping-source-group"><select multiple data-map-source="${escapeHtml(tag)}" aria-label="Kolumny CSV do sklejenia">${headers.map((header) => `<option value="${escapeHtml(header)}" ${sourceColumns.includes(header) ? "selected" : ""}>${escapeHtml(header)}</option>`).join("")}</select><label class="separator-control">Separator<input data-map-separator="${escapeHtml(tag)}" value="${escapeHtml(rule.separator ?? " ")}" aria-label="Separator sklejanych kolumn"/></label></div>`
-      : isAddress
-        ? `<div class="mapping-source-group address-mapping-group">${["city", "street", "housenumber", "postcode", "place"].map((fieldName) => addressField(fieldName)).join("")}</div>`
-        : `<select data-map-source="${escapeHtml(tag)}" aria-label="Kolumna CSV"><option value="">Nie mapuj</option>${headers.map((header) => `<option value="${escapeHtml(header)}" ${sourceColumns[0] === header ? "selected" : ""}>${escapeHtml(header)}</option>`).join("")}</select>`;
-    return `<div class="mapping-row">${tagDisplay}${sourceControl}<select data-map-mode="${escapeHtml(tag)}" aria-label="Sposób mapowania"><option value="column" ${!isConcat && !isAddress ? "selected" : ""}>Kolumna</option><option value="concat" ${isConcat ? "selected" : ""}>Sklej kolumny</option><option value="address" ${isAddress ? "selected" : ""}>Adres</option></select><button class="tiny-button" data-action="remove-map" data-key="${escapeHtml(tag)}" title="Usuń mapowanie" aria-label="Usuń mapowanie">×</button></div>`;
+      : `<select data-map-source="${escapeHtml(tag)}" aria-label="Kolumna CSV"><option value="">Nie mapuj</option>${headers.map((header) => `<option value="${escapeHtml(header)}" ${sourceColumns[0] === header ? "selected" : ""}>${escapeHtml(header)}</option>`).join("")}</select>`;
+    return `<div class="mapping-row">${tagDisplay}${sourceControl}<div class="mapping-mode-controls"><select data-map-mode="${escapeHtml(tag)}" aria-label="Sposób mapowania"><option value="column" ${!isConcat ? "selected" : ""}>Kolumna</option><option value="concat" ${isConcat ? "selected" : ""}>Sklej kolumny</option></select><button class="tiny-button" data-action="remove-map" data-key="${escapeHtml(tag)}" title="Usuń mapowanie" aria-label="Usuń mapowanie">×</button></div></div>`;
   }).join("");
   const filters = (state.config.csv.filters ?? []).map((filter, index) => `<div class="filter-chip"><span>${escapeHtml(filter.column)} ${escapeHtml(filter.operator)} ${escapeHtml(filter.value ?? "")}</span><button class="tiny-button" data-action="remove-filter" data-index="${index}" title="Usuń filtr">×</button></div>`).join("");
   const transforms = (state.config.csv.transforms ?? []).map((transform, index) => renderTransform(transform, index, tags)).join("");
@@ -144,13 +124,13 @@ function renderCsvPage() {
       <div class="content-column">
         <section class="section-block">
           <div class="section-title"><div><span class="section-index">A</span><h2>Plik źródłowy</h2></div><span class="section-meta">CSV · UTF-8</span></div>
-          <label class="drop-zone" for="csv-input"><span class="upload-icon">↑</span><strong>${state.csvFileName ? escapeHtml(state.csvFileName) : "Wybierz plik CSV"}</strong><small>${state.csvFileName ? `${state.govRows.length} wierszy przygotowanych` : "Przeciągnij plik albo kliknij, aby przeglądać"}</small><input id="csv-input" type="file" accept=".csv,text/csv" hidden /></label>
+          <div class="csv-file-row"><label class="drop-zone" for="csv-input"><span class="upload-icon">↑</span><strong>${state.csvFileName ? escapeHtml(state.csvFileName) : "Wybierz plik CSV"}</strong><small>${state.csvFileName ? `${state.govRows.length} wierszy przygotowanych` : "Przeciągnij plik albo kliknij, aby przeglądać"}</small><input id="csv-input" type="file" accept=".csv,text/csv" hidden /></label>${state.csvText ? '<button class="button button-secondary remove-gov-button" data-action="remove-gov">Usuń plik GOV</button>' : ""}</div>
           <div class="inline-controls"><label>Separator<select id="csv-delimiter">${[[";", "Średnik ;"], [",", "Przecinek ,"], ["\\t", "Tabulator"]].map(([value, label]) => `<option value="${value}" ${state.config.csv.delimiter === (value === "\\t" ? "\t" : value) ? "selected" : ""}>${label}</option>`).join("")}</select></label><label>Znak cytowania<input id="csv-quote" maxlength="1" value="${escapeHtml(state.config.csv.quote)}" /></label><button class="button button-secondary" data-action="prepare-csv" ${state.csvText ? "" : "disabled"}>Przygotuj podgląd</button></div>
         </section>
         <section class="section-block mapping-block">
           <div class="section-title"><div><span class="section-index">B</span><h2>Mapowanie kolumn</h2></div><button class="text-button" data-action="add-map" ${headers.length ? "" : "disabled"}>＋ Dodaj tag</button></div>
           <p class="section-hint">Jednemu tagowi możesz przypisać pojedynczą kolumnę albo skleić kilka kolumn w jedną wartość.</p>
-          <div class="mapping-header"><span>TAG OSM</span><span>KOLUMNA LUB KOLUMNY CSV</span><span>TRYB</span><span></span></div>
+          <div class="mapping-header"><span>TAG OSM</span><span>KOLUMNA CSV</span><span>TRYB / USUŃ</span></div>
           <div class="mapping-list">${fieldRows}</div>
           ${filters ? `<div class="filter-chip-list">${filters}</div>` : ""}
           ${headers.length ? `<div class="filter-toolbar"><div><strong>Filtr wierszy</strong><small>Pomiń rekordy niespełniające warunku</small></div><select id="filter-column"><option value="">Kolumna</option>${headers.map((header) => `<option>${escapeHtml(header)}</option>`).join("")}</select><select id="filter-operator"><option value="equals">równa się</option><option value="not-equals">nie równa się</option><option value="contains">zawiera</option><option value="not-empty">niepusta</option></select><input id="filter-value" placeholder="wartość"/><button class="tiny-button" data-action="add-filter" title="Dodaj filtr">+</button></div>` : ""}
@@ -171,21 +151,6 @@ function safeHeaders() {
   catch { return Object.keys(state.govRows[0] ?? {}).filter((key) => key !== "__row"); }
 }
 
-function addressTagKey(fieldName) {
-  return `addr:${fieldName}`;
-}
-
-function normalizeAddressField(field) {
-  if (typeof field === "string") return { column: field, regexIn: "", regexOut: "$1", flags: "im" };
-  const config = field ?? {};
-  return {
-    column: config.column ?? "",
-    regexIn: config.regexIn ?? config.regex ?? "",
-    regexOut: config.regexOut ?? "$1",
-    flags: config.flags ?? config.regexFlags ?? "im",
-  };
-}
-
 function renderGovPreview() {
   if (!state.csvText) return `<div class="empty-preview"><span>CSV</span><p>Podgląd pojawi się po wczytaniu pliku.</p></div>`;
   try {
@@ -195,12 +160,15 @@ function renderGovPreview() {
     const sourceRowsHtml = preview.rows.slice(0, maxRows).map(({ sourceRow, source }) =>
       `<tr><th class="row-number">${sourceRow}</th>${preview.sourceColumns.map((column) => `<td>${escapeHtml(source[column] ?? "") || '<span class="muted">—</span>'}</td>`).join("")}</tr>`
     ).join("");
-    const outputRows = preview.rows.filter((row) => row.prepared).slice(0, maxRows);
+    const preparedRows = preview.rows.filter((row) => row.prepared);
+    const sampleSize = 10;
+    const outputRows = selectGovPreviewSample(preparedRows, state.govPreviewPage, sampleSize);
     const outputRowsHtml = outputRows.map(({ sourceRow, prepared }) =>
       `<tr><th class="row-number">${sourceRow}</th>${preview.tagColumns.map((tag) => `<td class="output-cell">${escapeHtml(prepared.tags[tag] ?? "") || '<span class="muted">—</span>'}</td>`).join("")}</tr>`
     ).join("");
+    const pageCount = Math.max(1, Math.ceil(preparedRows.length / sampleSize));
     const sourceTable = `<section class="gov-preview-block"><div class="gov-preview-heading"><strong>Dane źródłowe</strong><span>${sourceRows.length.toLocaleString("pl-PL")} wierszy · ${preview.sourceColumns.length} kolumn</span></div><div class="table-wrap preview-table"><table><thead><tr><th>WIERSZ</th>${preview.sourceColumns.map((column) => `<th>${escapeHtml(column)}</th>`).join("")}</tr></thead><tbody>${sourceRowsHtml}</tbody></table></div>${preview.rows.length > maxRows ? `<small class="table-caption">Pokazano ${maxRows} z ${preview.rows.length} wierszy; przewiń poziomo po kolumnach.</small>` : ""}</section>`;
-    const outputTable = `<section class="gov-preview-block"><div class="gov-preview-heading"><strong>Po mapowaniu i preprocessingu</strong><span>${state.govRows.length.toLocaleString("pl-PL")} wierszy · ${preview.tagColumns.length} tagów</span></div>${preview.tagColumns.length ? `<div class="table-wrap preview-table"><table><thead><tr><th>WIERSZ</th>${preview.tagColumns.map((tag) => `<th>${escapeHtml(tag)}</th>`).join("")}</tr></thead><tbody>${outputRowsHtml}</tbody></table></div>${state.govRows.length > maxRows ? `<small class="table-caption">Pokazano ${maxRows} z ${state.govRows.length} wierszy; przewiń poziomo po kolumnach.</small>` : ""}` : '<div class="empty-rule">Ustaw mapowanie kolumn, aby zobaczyć tagi wynikowe.</div>'}</section>`;
+    const outputTable = `<section class="gov-preview-block"><div class="gov-preview-heading"><strong>Po mapowaniu i preprocessingu</strong><div class="gov-preview-tools"><span>${preparedRows.length.toLocaleString("pl-PL")} wierszy · ${preview.tagColumns.length} tagów · Próbka ${state.govPreviewPage % pageCount + 1}/${pageCount}</span><button class="icon-button preview-refresh" data-action="refresh-gov-preview" title="Pokaż inną próbkę 10 wierszy" aria-label="Pokaż inną próbkę 10 wierszy" ${pageCount < 2 ? "disabled" : ""}>↻</button></div></div>${preview.tagColumns.length ? `<div class="table-wrap preview-table"><table><thead><tr><th>WIERSZ</th>${preview.tagColumns.map((tag) => `<th>${escapeHtml(tag)}</th>`).join("")}</tr></thead><tbody>${outputRowsHtml}</tbody></table></div>${preparedRows.length > sampleSize ? `<small class="table-caption">Pokazano ${outputRows.length} z ${preparedRows.length} przygotowanych wierszy; ↻ przechodzi do kolejnej próbki.</small>` : ""}` : '<div class="empty-rule">Ustaw mapowanie kolumn, aby zobaczyć tagi wynikowe.</div>'}</section>`;
     return `<div class="gov-preview-stack">${sourceTable}${outputTable}</div>`;
   } catch (error) {
     return `<div class="empty-preview"><span>CSV</span><p>${escapeHtml(error.message)}</p></div>`;
@@ -213,15 +181,24 @@ function renderErrors() {
 }
 
 function renderTransform(transform, index, tags) {
-  const value = transform.type === "replace" ? `${transform.find ?? ""} → ${transform.replace ?? ""}` : transform.value ?? "";
+  const order = `<span class="transform-order" aria-label="Kolejność: ${index + 1}">${String(index + 1).padStart(2, "0")}</span>`;
+  const controls = `<div class="transform-actions"><button class="tiny-button" data-action="move-transform" data-index="${index}" data-delta="-1" ${index === 0 ? "disabled" : ""} title="Przesuń wyżej" aria-label="Przesuń operację ${index + 1} wyżej">↑</button><button class="tiny-button" data-action="move-transform" data-index="${index}" data-delta="1" ${index === state.config.csv.transforms.length - 1 ? "disabled" : ""} title="Przesuń niżej" aria-label="Przesuń operację ${index + 1} niżej">↓</button><button class="tiny-button" data-action="remove-transform" data-index="${index}" title="Usuń preprocessing" aria-label="Usuń operację ${index + 1}">×</button></div>`;
   const target = `<select data-transform-key="${index}" aria-label="Tag do preprocessingu"><option value="">Wybierz tag</option>${tags.map((tag) => `<option value="${escapeHtml(tag)}" ${transform.key === tag ? "selected" : ""}>${escapeHtml(tag)}</option>`).join("")}</select>`;
-  if (transform.type === "regex") return `<div class="transform-entry"><div class="transform-row"><select data-transform-type="${index}">${transformOptions(transform.type)}</select>${target}<input data-regex-pattern="${index}" value="${escapeHtml(transform.pattern ?? "")}" placeholder="Wzorzec regex" maxlength="256"/><button class="tiny-button" data-action="remove-transform" data-index="${index}" title="Usuń preprocessing">×</button></div><div class="regex-inline-fields"><label>Flaga<select data-regex-flags="${index}" aria-label="Flagi regex"><option value="" ${transform.flags ? "" : "selected"}>Brak</option><option value="i" ${transform.flags === "i" ? "selected" : ""}>Ignoruj wielkość liter</option></select></label><input data-regex-template="${index}" value="${escapeHtml(transform.template ?? "$1")}" placeholder="Szablon wyniku: $1 $2" aria-label="Szablon wyniku regex"/><small>Wynik zastąpi wartość wskazanego tagu.</small></div></div>`;
-  if (transform.type === "trim") return `<div class="transform-row"><select data-transform-type="${index}">${transformOptions(transform.type)}</select>${target}<small class="transform-hint">Przytnij brzegi i zredukuj wielokrotne spacje.</small><button class="tiny-button" data-action="remove-transform" data-index="${index}" title="Usuń transformację">×</button></div>`;
-  return `<div class="transform-row"><select data-transform-type="${index}">${transformOptions(transform.type)}</select>${target}<input data-transform-value="${index}" value="${escapeHtml(value)}" placeholder="wartość"/><button class="tiny-button" data-action="remove-transform" data-index="${index}" title="Usuń transformację">×</button></div>`;
+  if (transform.type === "regex") return `<div class="transform-row is-regex">${order}<select data-transform-type="${index}">${transformOptions(transform.type)}</select>${target}<input data-regex-pattern="${index}" value="${escapeHtml(transform.pattern ?? "")}" placeholder="Wzorzec regex" maxlength="256" aria-label="Wzorzec regex"/><input data-regex-template="${index}" value="${escapeHtml(transform.template ?? "$1")}" placeholder="Szablon $1 $2" aria-label="Szablon wyniku regex"/>${controls}</div>`;
+  if (transform.type === "replace") return `<div class="transform-row is-replace">${order}<select data-transform-type="${index}">${transformOptions(transform.type)}</select>${target}<div class="replace-fields"><input data-transform-find="${index}" value="${escapeHtml(transform.find ?? "")}" placeholder="Szukaj; spacje są zachowane" aria-label="Szukaj tekstu"/><input data-transform-replace="${index}" value="${escapeHtml(transform.replace ?? "")}" placeholder="Zamień na; spacje są zachowane" aria-label="Tekst zastępujący"/></div>${controls}</div>`;
+  const transformHints = {
+    trim: "Przytnij brzegi i zredukuj wielokrotne spacje.",
+    upper: "Zamień wszystkie litery na wielkie.",
+    lower: "Zamień wszystkie litery na małe.",
+    "capitalize-words": "Każde Słowo Zacznie Się Wielką Literą.",
+    "capitalize-first": "Tylko pierwsza litera tekstu będzie wielka.",
+  };
+  if (transformHints[transform.type]) return `<div class="transform-row">${order}<select data-transform-type="${index}">${transformOptions(transform.type)}</select>${target}${controls}</div>`;
+  return `<div class="transform-row">${order}<select data-transform-type="${index}">${transformOptions(transform.type)}</select>${target}<input data-transform-value="${index}" value="${escapeHtml(transform.value ?? "")}" placeholder="wartość"/>${controls}</div>`;
 }
 
 function transformOptions(selected) {
-  return `<option value="trim" ${selected === "trim" ? "selected" : ""}>Usuń zbędne spacje</option><option value="upper" ${selected === "upper" ? "selected" : ""}>Wielkie litery</option><option value="lower" ${selected === "lower" ? "selected" : ""}>Małe litery</option><option value="replace" ${selected === "replace" ? "selected" : ""}>Zastąp tekst</option><option value="prefix" ${selected === "prefix" ? "selected" : ""}>Dodaj prefiks</option><option value="suffix" ${selected === "suffix" ? "selected" : ""}>Dodaj sufiks</option><option value="regex" ${selected === "regex" ? "selected" : ""}>Regex · grupy</option>`;
+  return `<option value="trim" ${selected === "trim" ? "selected" : ""}>Usuń zbędne spacje</option><option value="upper" ${selected === "upper" ? "selected" : ""}>Wielkie litery</option><option value="lower" ${selected === "lower" ? "selected" : ""}>Małe litery</option><option value="capitalize-words" ${selected === "capitalize-words" ? "selected" : ""}>Każde Słowo Z Dużej Litery</option><option value="capitalize-first" ${selected === "capitalize-first" ? "selected" : ""}>Pierwsze słowo z dużej litery</option><option value="replace" ${selected === "replace" ? "selected" : ""}>Zastąp tekst</option><option value="prefix" ${selected === "prefix" ? "selected" : ""}>Dodaj prefiks</option><option value="suffix" ${selected === "suffix" ? "selected" : ""}>Dodaj sufiks</option><option value="regex" ${selected === "regex" ? "selected" : ""}>Regex · grupy</option>`;
 }
 
 function renderOsmPage() {
@@ -375,12 +352,24 @@ function renderExportPage() {
     <div class="page-footer"><button class="button button-secondary" data-page="review">← Wróć do kontroli</button><span class="step-caption">GOTOWE DO POBRANIA</span><span></span></div>`;
 }
 
+function wireGovPreviewRefresh() {
+  app.querySelector('[data-action="refresh-gov-preview"]')?.addEventListener("click", () => {
+    state.govPreviewPage += 1;
+    const preview = app.querySelector("[data-gov-preview]");
+    if (preview) {
+      preview.innerHTML = renderGovPreview();
+      wireGovPreviewRefresh();
+    }
+  });
+}
+
 function wireEvents() {
   app.querySelectorAll("[data-page]").forEach((element) => element.addEventListener("click", (event) => {
     state.page = event.currentTarget.dataset.page;
     render();
   }));
   app.querySelectorAll("[data-action]").forEach((element) => element.addEventListener("click", handleAction));
+  wireGovPreviewRefresh();
   app.querySelector("#project-name")?.addEventListener("input", (event) => {
     state.config.name = event.target.value;
     persist();
@@ -407,47 +396,11 @@ function wireEvents() {
     const current = state.config.csv.mapping[key];
     if (select.value === "concat") {
       state.config.csv.mapping[key] = { type: "concat", columns: typeof current === "string" && current ? [current] : current?.columns ?? [], separator: current?.separator ?? " " };
-    } else if (select.value === "address") {
-      state.config.csv.mapping[key] = {
-        type: "address",
-        city: normalizeAddressField(current?.city),
-        street: normalizeAddressField(current?.street),
-        housenumber: normalizeAddressField(current?.housenumber),
-        postcode: normalizeAddressField(current?.postcode),
-        place: normalizeAddressField(current?.place),
-      };
     } else {
       const sources = current?.type === "concat" ? current.columns : [];
       state.config.csv.mapping[key] = sources[0] ?? "";
     }
     prepareCsv();
-  }));
-  app.querySelectorAll("[data-address-source]").forEach((select) => select.addEventListener("change", () => {
-    const key = select.dataset.mapAddress;
-    const current = state.config.csv.mapping[key];
-    if (!current || current.type !== "address") return;
-    const normalized = normalizeAddressField(current[select.dataset.addressSource]);
-    normalized.column = select.value || "";
-    current[select.dataset.addressSource] = normalized;
-    prepareCsv();
-  }));
-  app.querySelectorAll("[data-address-regex-in]").forEach((input) => input.addEventListener("input", () => {
-    const key = input.dataset.mapAddress;
-    const current = state.config.csv.mapping[key];
-    if (!current || current.type !== "address") return;
-    const normalized = normalizeAddressField(current[input.dataset.addressRegexIn]);
-    normalized.regexIn = input.value.trim();
-    current[input.dataset.addressRegexIn] = normalized;
-    scheduleGovPreviewRefresh();
-  }));
-  app.querySelectorAll("[data-address-regex-out]").forEach((input) => input.addEventListener("input", () => {
-    const key = input.dataset.mapAddress;
-    const current = state.config.csv.mapping[key];
-    if (!current || current.type !== "address") return;
-    const normalized = normalizeAddressField(current[input.dataset.addressRegexOut]);
-    normalized.regexOut = input.value.trim();
-    current[input.dataset.addressRegexOut] = normalized;
-    scheduleGovPreviewRefresh();
   }));
   app.querySelectorAll("[data-map-separator]").forEach((input) => input.addEventListener("change", () => {
     const rule = state.config.csv.mapping[input.dataset.mapSeparator];
@@ -464,8 +417,8 @@ function wireEvents() {
     state.config.csv.transforms = state.config.csv.transforms.map((transform) => transform.key === oldKey ? { ...transform, key: newKey } : transform);
     prepareCsv();
   }));
-  app.querySelectorAll("[data-transform-type], [data-transform-key], [data-regex-flags]").forEach((input) => input.addEventListener("change", handleTransformChange));
-  app.querySelectorAll("[data-transform-value], [data-regex-pattern], [data-regex-template]").forEach((input) => input.addEventListener("input", (event) => handleTransformChange(event, true)));
+  app.querySelectorAll("[data-transform-type], [data-transform-key]").forEach((input) => input.addEventListener("change", handleTransformChange));
+  app.querySelectorAll("[data-transform-value], [data-transform-find], [data-transform-replace], [data-regex-pattern], [data-regex-template]").forEach((input) => input.addEventListener("input", (event) => handleTransformChange(event, true)));
   app.querySelectorAll("[data-stage-enabled]").forEach((input) => input.addEventListener("change", () => {
     state.config.matching.stages[Number(input.dataset.stageEnabled)].enabled = input.checked;
     persist(); render();
@@ -529,9 +482,11 @@ async function handleAction(event) {
   else if (action === "remove-map") { delete state.config.csv.mapping[button.dataset.key]; persist(); render(); }
   else if (action === "add-filter") addFilter();
   else if (action === "remove-filter") { state.config.csv.filters.splice(Number(button.dataset.index), 1); prepareCsv(); }
+  else if (action === "remove-gov") removeGovData();
   else if (action === "remove-osm") removeOsmData();
   else if (action === "add-transform") addTransform();
   else if (action === "remove-transform") { state.config.csv.transforms.splice(Number(button.dataset.index), 1); prepareCsv(); }
+  else if (action === "move-transform") moveTransform(Number(button.dataset.index), Number(button.dataset.delta));
   else if (action === "fetch-overpass") await fetchOverpass();
   else if (action === "cancel-request") state.abortController?.abort();
   else if (action === "move-stage") moveStage(Number(button.dataset.index), Number(button.dataset.delta));
@@ -566,13 +521,13 @@ function handleOperationChange(event) {
 }
 
 function handleTransformChange(event, previewOnly = false) {
-  const index = Number(event.target.dataset.transformType ?? event.target.dataset.transformKey ?? event.target.dataset.transformValue ?? event.target.dataset.regexPattern ?? event.target.dataset.regexFlags ?? event.target.dataset.regexTemplate);
+  const index = Number(event.target.dataset.transformType ?? event.target.dataset.transformKey ?? event.target.dataset.transformValue ?? event.target.dataset.transformFind ?? event.target.dataset.transformReplace ?? event.target.dataset.regexPattern ?? event.target.dataset.regexTemplate);
   const transform = state.config.csv.transforms[index];
   if (!transform) return;
   if (event.target.dataset.transformType !== undefined) {
     const nextType = event.target.value;
     if (nextType === "regex") {
-      Object.assign(transform, { type: "regex", key: transform.key || Object.keys(state.config.csv.mapping)[0] || "", pattern: "", flags: "", template: "$1" });
+      Object.assign(transform, { type: "regex", key: transform.key || Object.keys(state.config.csv.mapping)[0] || "", pattern: "", flags: "mi", template: "$1" });
       delete transform.find;
       delete transform.replace;
       delete transform.value;
@@ -590,17 +545,12 @@ function handleTransformChange(event, previewOnly = false) {
   }
   if (event.target.dataset.transformKey !== undefined) transform.key = event.target.value;
   if (event.target.dataset.regexPattern !== undefined) transform.pattern = event.target.value;
-  if (event.target.dataset.regexFlags !== undefined) transform.flags = event.target.value;
   if (event.target.dataset.regexTemplate !== undefined) transform.template = event.target.value;
   if (event.target.dataset.transformValue !== undefined) {
-    if (transform.type === "replace") {
-      const [find, ...replace] = event.target.value.split("→");
-      transform.find = find.trim();
-      transform.replace = replace.join("→").trim();
-    } else {
-      transform.value = event.target.value;
-    }
+    transform.value = event.target.value;
   }
+  if (event.target.dataset.transformFind !== undefined) transform.find = event.target.value;
+  if (event.target.dataset.transformReplace !== undefined) transform.replace = event.target.value;
   if (previewOnly) scheduleGovPreviewRefresh();
   else prepareCsv();
 }
@@ -623,9 +573,18 @@ function addFilter() {
 }
 
 function addTransform() {
-  const key = Object.keys(state.config.csv.mapping)[0] ?? "";
+  const key = mappedTagKeys(state.config.csv)[0] ?? "";
   state.config.csv.transforms.push({ type: "trim", key });
   persist(); render();
+}
+
+function moveTransform(index, delta) {
+  const transforms = state.config.csv.transforms;
+  const next = index + delta;
+  if (next < 0 || next >= transforms.length) return;
+  const [transform] = transforms.splice(index, 1);
+  transforms.splice(next, 0, transform);
+  prepareCsv();
 }
 
 function addOperation(type) {
@@ -676,6 +635,7 @@ function prepareCsv() {
     const prepared = prepareGovRows(records, state.config);
     state.govRows = prepared.rows;
     state.csvErrors = prepared.errors;
+    state.govPreviewPage = 0;
     state.results = null;
     persist(); render();
     notify(`Przygotowano ${state.govRows.length} rekordów GOV.`);
@@ -690,10 +650,14 @@ function scheduleGovPreviewRefresh() {
       const prepared = prepareGovRows(sourceRows, state.config);
       state.govRows = prepared.rows;
       state.csvErrors = prepared.errors;
+      state.govPreviewPage = 0;
       state.results = null;
       const preview = document.querySelector("[data-gov-preview]");
       const errors = document.querySelector("[data-gov-errors]");
-      if (preview) preview.innerHTML = renderGovPreview();
+      if (preview) {
+        preview.innerHTML = renderGovPreview();
+        wireGovPreviewRefresh();
+      }
       if (errors) errors.innerHTML = renderErrors();
       clearTimeout(previewSaveTimer);
       previewSaveTimer = setTimeout(() => persist(), 500);
@@ -714,6 +678,18 @@ async function handleOsmFile(event) {
     persist(); render();
     notify(`Wczytano ${state.osmRows.length} obiektów OSM.`);
   } catch (error) { notify(`Błędny plik OSM: ${error.message}`, true); }
+}
+
+function removeGovData() {
+  state.csvText = "";
+  state.csvFileName = "";
+  state.govRows = [];
+  state.csvErrors = [];
+  state.results = null;
+  state.manual = {};
+  persist();
+  render();
+  notify("Usunięto plik GOV i wyczyszczono wyniki dopasowania.");
 }
 
 function removeOsmData() {
